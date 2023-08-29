@@ -7,14 +7,14 @@ First, add as submodule:
 cd myTexProject
 
 
-git submodule add git@github.com:rfabbri/bib-fabbri.git bib  # or HTTPS if you prefer
+git submodule add git@github.com:rfabbri/bibs-fabbri.git bib  # or HTTPS if you prefer
 
 # Locally I do: 
 
-git submodule add ~/lib/doc/bib/bib-fabbri-repo bib  # or HTTPS if you prefer
+git submodule add ~/lib/doc/bib/bibs-fabbri-repo bib  # or HTTPS if you prefer
 
 
-git commit -am 'Add bib-fabbri module'
+git commit -am 'Add bibs-fabbri module'
 
 git push origin master
 
