@@ -1,0 +1,52 @@
+\begin{thebibliography}{1}
+
+\bibitem{Kimia:etal:NATO:Book}
+Benjamin~B. Kimia, Allen~R. Tannenbaum, and Steven~W. Zucker.
+\newblock Exploring the shape manifold: The role of conservation laws.
+\newblock In Ying-Lie O, Alexander Toet, David Foster, Henk~J.A.M. Heijmans,
+  and Peter Meer, editors, {\em Shape In Picture: Mathematical Description of
+  Shape in Grey-level Images}, pages 601--620. Springer-Verlag, September 1992.
+
+\bibitem{Zucker:etal:From}
+Steven~W. Zucker, Allan Dobbins, Lee Iverson, Benjamin~B. Kimia, and Allen~R.
+  Tannenbaum.
+\newblock From curve detection to shape description.
+\newblock In A.~Basu and X.~Li, editors, {\em Computer Vision: Systems, Theory,
+  and Applications}, pages 25--39. World Scientific, 1993.
+
+\bibitem{Kimia:etal:Optimal:Control}
+Benjamin~B. Kimia, Allen~R. Tannenbaum, and Steven~W. Zucker.
+\newblock On optimal control methods in computer vision and image processing.
+\newblock In Bart~M. ter Haar~Romeny, editor, {\em Geometry-Driven Diffusion in
+  Computer Vision}, pages 307--338. Kluwer, September 1994.
+
+\bibitem{Tek:Kimia:ISMM98}
+Huseyin Tek and Benjamin~B. Kimia.
+\newblock Curve evolution, wave propagation, and mathematical morphology.
+\newblock In Henk~J.A.M. Heijmans and Jos~B.T.M. Roerdink, editors, {\em
+  Mathematical Morphology and its Applications to Image and Signal Processing},
+  volume~12 of {\em Computational Imaging and Vision}, pages 115--126. Kluwer
+  Academic, Amsterdam, The Netherlands, June 1998.
+
+\bibitem{Kimia:POCV:Book:99}
+Benjamin~B. Kimia, Ilana Frankel, and Ana-Maria Popescu.
+\newblock Euler spiral for shape completion.
+\newblock In Sudeep Sarkar and Kim~L. Boyer, editors, {\em Recent Advances in
+  Perceptual Organization for Artifical Vision Systems}, pages 289--309. Kluwer
+  Academic Publishers, 1999.
+
+\bibitem{Kimia:Spine:1999}
+Elizabeth Bullit and Benjamin~B. Kimia.
+\newblock Segmentation and registration requirements.
+\newblock In Kevin Cleary, editor, {\em Technical Requirements for Image Guided
+  Spine Procedures Workshop Report}. Georgetown University Medical Center,
+  April 1999.
+
+\bibitem{Kimia:etal:IBM:Book}
+Benjamin~B. Kimia.
+\newblock Content-based retrieval of images based on shape.
+\newblock In Vittorio Castelli and Larry Bergman, editors, {\em Image
+  Databases, Search and Retrieval of Digital Imagery}, pages 345--372. Wiley
+  Interscience, 2002.
+
+\end{thebibliography}

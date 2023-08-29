@@ -1,0 +1,451 @@
+\begin{thebibliography}{10}
+
+\bibitem{Abeyratne:etal:ultrasound}
+U.~Abeyratne, A.~Petropulu, and J.~Reid.
+\newblock Higher order spectra based deconvolution of ultrasound images.
+\newblock {\em IEEE}, 42(6):1064--1075, November 1995.
+
+\bibitem{Andreasen:etal:voxel:antemortem}
+N.~Andreasen, T.~Cizadlo, G.~Harris, V.~Swayze, D.~O'Leary, G.~Cohen,
+  J.~ehrhardt, and W.~Yuh.
+\newblock Voxel processing techniques for the antemortem study of neuroanatomy
+  and neuropathology using magnetic resonance imaging.
+\newblock {\em Journal of Neuropsychiatry}, 5(2):121--130, 1993.
+
+\bibitem{Andreasen:etal:processing:brain:structure}
+N.~Andreasen, G.~Cohen, G.~Harris, T.~Cizadlo, J.~Parkkinen, K.~R3ezai, and
+  V.~Swayze.
+\newblock Image processing for the study of brain structure and function:
+  promblems and programs.
+\newblock {\em Journal of Neuropsychiatry}, 4(2):125--133, 1992.
+
+\bibitem{Andreasen:etal:brainmap}
+N.~Andreasen, G.~Harris, T.~Cizadlo, S.~Arndt, D.~O'Leary, V.~Swayze, and
+  M.~Flaum.
+\newblock Techniques for measuring sulca/gyral patterns in the brain as
+  visualized through magnetic resonance scanning: Brainplot and brainmap.
+\newblock {\em Proc. Natl. Acad. Sci. USA}, 90:93--97, January 1994.
+
+\bibitem{Aston:etal:extraction}
+E.~Aston, E.~Berg, K.~Parker, J.~Weisberg, C.~Chen, and L.~Ketonen.
+\newblock Segmentation and features extraction techniques, with applications to
+  biomedical images.
+\newblock {\em IEEE}, pages 726--730, 1994.
+
+\bibitem{Aston:etal:bayesian}
+E.~Aston and K.~Parker.
+\newblock Multiple resolution bayesian segmentation of ultrasound images.
+\newblock {\em SPIE}, 2359:38--49, March 1994.
+
+\bibitem{Axel:etal:intensity}
+L.~Axel, J.~Constantini, and J.~Listerud.
+\newblock Intensity correction in surface-coil \uppercase{MR} imaging.
+\newblock {\em AJR}, 148:418--420, February 1987.
+
+\bibitem{Ayache:etal:tracking}
+N.~Ayache, I.~Cohen, and I.~Herlin.
+\newblock Medical image tracking.
+\newblock pages 284--369.
+
+\bibitem{Aylward:etal:spatially}
+S.~Aylward, J.~Coggins, T.~Cizadlo, and N.~Andreasen.
+\newblock Spatially invariant classification of tissues in \uppercase{MR}
+  images.
+\newblock {\em SPIE}, 2359:352--361.
+
+\bibitem{Brandt:etal:functional:magnetic}
+S.~Brand, T.~Davis, H.~Obrig, B.~Meyer, J.~Belliveau, B.~Rosen, and
+  A.~Villringer.
+\newblock Functional magnetic resonance imaging shows localized brain
+  activation during serial transcranial stimulation in man.
+\newblock {\em NeuroReport}, 7:734--736, 1996.
+
+\bibitem{Brinkley:ultrasonic}
+J.~Brinkley.
+\newblock Knowledge-driven ultrasonic three-dimensional organ modeling.
+\newblock {\em IEEE}, 7(4):431--441, July 1985.
+
+\bibitem{Brinkley:anatomic:shape}
+J.~Brinkley.
+\newblock A flexible, generic model for anatomic shape: application to
+  interactive two-dimensional medical image segmentation and matching.
+\newblock {\em Computers and Biomedical Research}, 26:121--142, 1993.
+
+\bibitem{Heath:etal:automatic:liver}
+Cao, D.~Heath, B.~Kuszyk, and E.~Fishman.
+\newblock Automatic liver segmentation technique of three-dimensional
+  visualization of \uppercase{CT} data.
+\newblock {\em Radiology}, pages 359--364, November 1996.
+
+\bibitem{Cham:etal:geometric}
+T.~Cham and R.~Cipolla.
+\newblock Geometric saliency of curve correspondences and grouping of symmetric
+  contours.
+\newblock {\em Proc. 4th Europena Conf. on Computer Vision, Lecture Notes in
+  computer Science}, pages 383--398, 1996.
+
+\bibitem{Cheng:etal:characterization}
+K.~Cheng.
+\newblock In vivo tissue characterization of human brain by chisquares
+  parameter maps: multiparmater proton t2-relaxation analysis.
+\newblock {\em Magnetic Resonance Imaging}, 12(7):1099--1109, 1994.
+
+\bibitem{Christensen:Deformable:Neuroanatomy}
+G.~E. Christensen, R.~D. Rabbitt, and M.~I. Miller.
+\newblock 3d brain mapping using a deformable neuroanatomy.
+\newblock {\em Physics in Medicine and Biology}, 39:608--618, 1994.
+
+\bibitem{Cizadlo:etal:multiple:injection}
+T.~Cizadlo, N.~Andreasen, G.~Zeien, R.~Rajarethinam, G.~Harris, D.~O'Leary,
+  V.~Swayze, S.~Arndt, R.~Heichwa, J.~Ehrhardt, and W.~Yuh.
+\newblock Image registration issue in the analysis of mutiple-injection 15o h20
+  pet studies: Brainfit.
+\newblock {\em SPIE}, 2168:234--235, August 1994.
+
+\bibitem{Collins:etal:talairach:space}
+D.~Collins, P.~Neelin, T.~Peters, and A.~Evans.
+\newblock Automatic 3d intersubject registration of \uppercase{MR} volumetric
+  data in standardized talairach space.
+\newblock {\em Journal of Computer Assisted Tomography}, 18(2):192--205,
+  March/April 1994.
+
+\bibitem{Dempster:etal:algorithm}
+A.~Dempster, N.~Laird, and D.~Rubin.
+\newblock Maximum likelihood from incomplete data via the em algorithm.
+\newblock pages 1--29, December 1976.
+
+\bibitem{Detmer:etal:endocardial}
+P.~Detmer, G.~Bashein, and R.~Martin.
+\newblock Matched filter identification of lef-ventricular endocardial borders
+  in transesophageal echocardiograms.
+\newblock {\em IEEE}, pages 396--404, 1990.
+
+\bibitem{Ettinger:etal:sclerosis}
+G.~Ettinger, W.~G.~T. Lozano-Perez, W.~W. III, S.~White, and R.~Kikinis.
+\newblock Automatic registration for multiple-sclerosis change detection.
+\newblock {\em IEEE}, pages 297--305, 1994.
+
+\bibitem{Faber:etal:ventricular}
+T.~Faber, E.~Stokely, R.~Peshock, and J.~Corbett.
+\newblock A model-based four-dimensional left ventricular suface detector.
+\newblock {\em IEEE}, 10(3):321--329, September 1992.
+
+\bibitem{Fletcher:etal:brain:tissue}
+L.~Fletcher, J.~Barsotti, and J.~Hornak.
+\newblock A multispectral analysis of brain tissues.
+\newblock {\em MRM}, 29:623--630, 1993.
+
+\bibitem{Friston:etal:functional:time:series}
+K.~Friston, P.~Jezzard, and R.~Turner.
+\newblock Analysis of functional \uppercase{MRI} time-series.
+\newblock {\em Human Brain Mapping}, 1:152--171, 1994.
+
+\bibitem{Gerig:etal:dual:echo}
+G.~Gerig, J.~Martin, R.~Kikinis, O.~Kubler, M.~Shenton, and F.~Jolesz.
+\newblock Automating segmentation of dual-echo \uppercase{MR} head data.
+\newblock {\em IEEE}, pages 175--185, 1994.
+
+\bibitem{Gohagan:etal:multispectral}
+J.~Gohagan, E.~Spitznagel, W.~Murphy, M.~Vannier, W.~Dixson, D.~Gersell,
+  S.~R.~W. Totty, J.~Destouet, D.~Rickman, T.~Spraggins, and R.~Butterfield.
+\newblock Multispectral analysis of \uppercase{MR} images of the breast.
+\newblock {\em Radiology}, 163(3):703--707, June 1987.
+
+\bibitem{Griffin:etal:gradient}
+L.~Griffin, A.~Colchester, and G.~Robinson.
+\newblock Scale and segmentation of grey-level images using maximum gradient
+  paths.
+\newblock {\em VBC}, 1994.
+
+\bibitem{Grimson:etal:visualization}
+W.~Grimson, G.~Ettinger, S.~White, P.~Gleason, T.~Lozano-Perez, W.~W. III, and
+  R.~Kikinis.
+\newblock Evaluating and validating an automated registration system for
+  enhanced reality visualization in surgery.
+\newblock {\em Proceedings of the First International Conference on Computer
+  Vision, Virtual Reality, and Robotics in Medicine}, April 1995.
+
+\bibitem{Grzeszczuk:etal:brownian}
+R.~Grzeszczuk and D.~Levin.
+\newblock ``brownian strings'': segmenting images with stochastically
+  deformalble contours.
+\newblock {\em SPIE}, 2359:72--88.
+
+\bibitem{Handschumacher:etal:integrated}
+M.~Handshumacher, J.~Lethor, S.~Siu, D.~Mele, J.~Rivera, M.~Picard, A.~Weyman,
+  and R.~Levine.
+\newblock A new integrated system for three-dimensional echocardiographic
+  reconstruction: development and validation for ventricular volume with
+  application in human subjects.
+\newblock {\em JACC}, 21(3):743--753, March 1993.
+
+\bibitem{Holden:etal:segmentation}
+M.~Holden, E.~Steen, and A.~Lundervold.
+\newblock Segmentation and visualization of brain lesions in multispectral
+  magnetic resonance images.
+\newblock {\em Computerized Medical Imaging and Graphics}, 19(2):171--183,
+  1995.
+
+\bibitem{Humphreys:etal:Freezing:Lesions}
+P.~Humphreys, G.~D. Rosen, D.~M. Press, G.~F. Sherman, and A.~M. Galaburda.
+\newblock Freezing lesions of the developing rat brain: A model for
+  cerebrocortical microgyria.
+\newblock {\em Journal of Neuropathology and Experimental Neurology},
+  50(2):145--160, 1991.
+
+\bibitem{Hunter:etal:measurement}
+G.~Hunter, L.~Hamberg, R.~Wesskoff, E.~Halpern, and T.~Brady.
+\newblock Measurement of stroke volume and cardiac output within a single
+  breath hold with echo-planar \uppercase{MR} imaging.
+\newblock {\em JMRI}, 4(1):51--58, January/February 1994.
+
+\bibitem{Wells:etal:intensity:correction}
+W.~W. III, W.~Grimson, R.~Kikinis, and F.~Jolesz.
+\newblock Statistical intensity correction and segmentation of \uppercase{MRI}
+  data.
+\newblock {\em SPIE}, 2359:13--25, March 1994.
+
+\bibitem{Joshi:etal:Brain:Mapping}
+S.~C. Joshi, M.~I. Miller, G.~E. Christensen, A.~Banerjee, T.~Coogan, and
+  U.~Grenander.
+\newblock Hierarchial brain mapping via a generalized dirichlet solution for
+  mapping brain manifolds.
+
+\bibitem{Joshi:etal:Cortical}
+S.~C. Joshi, J.~Wang, and M.~I. Miller.
+\newblock On the differential geometry of the cortical surface.
+
+\bibitem{Junke:etal:resonance}
+M.~Jungke, W.~V. Seelen, G.~Bielke, S.~Meindl, G.~Krone, M.~Grigat, P.~Higer,
+  and P.~Pfannenstiel.
+\newblock Information processing in nuclear magnetic resonance imaging.
+\newblock {\em Magnetic Resonance Imaging}, 6(6):683--693, 1988.
+
+\bibitem{Kamber:etal:dual:echo}
+M.~Kamber, D.~Collins, R.~Shinghal, G.~Francis, and A.~Evans.
+\newblock Model-based 3d segmentation of mutiple-sclerosis lesions in dual-echo
+  \uppercase{MRI} data.
+\newblock {\em SPIE}, 1808:590--600, 1992.
+
+\bibitem{Kelly:stereotactic:neurosurgery}
+P.~Kelly.
+\newblock Quantitative virtual reality enhances stereotactic neurosurgery.
+\newblock {\em Bulletin of the American College of Surgeons}, pages 14--20,
+  November 1995.
+
+\bibitem{Kikinis:etal:reconstructions}
+R.~Kikinis, H.~Cline, D.~Altobelli, M.~Halle, W.~Lorensen, and F.~Jolesz.
+\newblock Interactive visualization and manipulation of 3d reconstructions for
+  the planning of surgical procedures.
+\newblock {\em SPIE}, 1808:559--563, 1992.
+
+\bibitem{Kooy:etal:fusion}
+H.~Kooy, M.~van Herk, P.~Barnes, E.~Alexander, S.~Dunbar, N.~Tarbell,
+  R.~Mulkern, E.~Holupka, and J.~Loeffler.
+\newblock Image fusion for sterotactic radiotherapy and radiosurgery treatment
+  planning.
+\newblock {\em I.J. Radiation Oncology}, 28(5):1229--1234, 1995.
+
+\bibitem{Lavallee:IGOR}
+S.~Lavallee.
+\newblock \uppercase{IGOR}: Image guided operating robot.
+\newblock {\em IEEE}, pages 876--881, 1991.
+
+\bibitem{Lavallee:etal:stereotactic}
+S.~Lavallee, J.~Troccaz, L.~Gaborit, P.~Cinquin, A.~Benabid, and D.~Hoffmann.
+\newblock Image guided operating robot: a clinical application in stereotactic
+  neurosurgery.
+\newblock {\em IEEE}, pages 618--624, 1992.
+
+\bibitem{Levine:mitral:valve}
+R.~Levine.
+\newblock Mitral valve prolapse: clinical impact of new diagnostic criteria and
+  insights from three-dimensional echocardiography.
+\newblock {\em Journal of Cardiology}, 24(38):3--14, 1994.
+
+\bibitem{Levine:etal:annular}
+R.~Levine, M.~Triulzi, P.~Harrigan, and A.~Weyman.
+\newblock The relationship of mitral annular shpae to the diagnosis of mitral
+  valve prolapse.
+\newblock {\em Circulation}, 75(4):756--767, April 1987.
+
+\bibitem{Lim:etal:cerebrospinal}
+K.~Lim and A.~Pfefferbaum.
+\newblock Segmentation of \uppercase{MR} brain images into cerebrospinal fluid
+  spaces, white and gray matter.
+\newblock {\em Journal of Computer Assisted Tomography}, 13(4):588--593,
+  July/August 1989.
+
+\bibitem{Nowinski:etal:neuroimaging}
+W.~Lowinski.
+\newblock A dual probalistic classifier for three-dimensional neuroimaging from
+  \uppercase{MRI} data5.
+\newblock {\em SPIE}, 2359:373--385, March 1994.
+
+\bibitem{MacDonald:etal:surface}
+D.~MacDonald, D.~Avis, and A.~Evans.
+\newblock Multiple surface identification and matching in magnetic resonance
+  images.
+\newblock {\em VBC}, 1994.
+
+\bibitem{Martin:etal:shape:analysis}
+J.~Martin, A.~Pentland, and R.~Kikinis.
+\newblock Shape analysis of brain structures using physical and experimental
+  modes.
+\newblock {\em IEEE}, pages 752--755, 1994.
+
+\bibitem{Momenan:etal:staining}
+R.~Momenan, R.~Wagner, B.~Garra, M.~Loew, and M.~Insana.
+\newblock Image staining and differential diagnosis of ultrasound scans based
+  on the mahalanobis distance.
+\newblock {\em IEEE}, 13(1):1994, March 1994.
+
+\bibitem{Nastar:etal:vibration}
+C.~Nastar and N.~Ayache.
+\newblock Classification of nonrigid motion in 3d images using physics-based
+  vibration analysis.
+\newblock {\em IEEE}, pages 61--69, 1994.
+
+\bibitem{Ozkan:etal:neural}
+M.~Ozkan, B.~Dawant, and R.~Maciunas.
+\newblock Neural-network-based segmentation of multi-modal medical images: a
+  comparative and prospective study.
+\newblock {\em IEEE}, 12(3):534--544, September 1994.
+
+\bibitem{Peters:etal:integration}
+T.~Peters, C.~Henri, P.~Munger, A.~Takahashi, A.~Evans, B.~Davey, and
+  A.~Olivier.
+\newblock Integration of stereoscopic \uppercase{DSA} and 3d \uppercase{MRI}
+  for image-guided neurosurgery.
+\newblock {\em Computerized Medical Imaging and Graphics}, 18(4):289--299,
+  1994.
+
+\bibitem{Poon:etal:contour}
+C.~Poon, M.~Braun, R.~Fahrig, A.~Ginige, and A.~Dorrell.
+\newblock Segmentation of medical images using an active contour model
+  incorporatin region-based image features.
+\newblock {\em SPIE}, 2359:90--95.
+
+\bibitem{Roberts:bloch:equations}
+J.~Roberts.
+\newblock The bloch equations. how to have fun calculating what happens in nmr
+  experiments with a personal computer.
+\newblock {\em Concepts in Magnetic Resonance}, 3:27--45, 1991.
+
+\bibitem{Romeny:etal:Dimension:Subtraction}
+B.~Romeny, F.~Bastin, J.~Steenbeek, and K.~Zuiderveld.
+\newblock Three dimension \uppercase{CT} subtraction angiography.
+\newblock {\em SPIE}, 2359:262--271.
+
+\bibitem{Schueler:etal:fundamentals}
+C.~Schueler, H.~Lee, and G.~Wade.
+\newblock Fundamentals of digital ultrasonic imaging.
+\newblock {\em IEEE}, 31(4):195--217, July 1994.
+
+\bibitem{Skorton:etal:echocardiography}
+D.~Skorton, S.~Collins, E.~Garcia, E.~Geiser, W.~Hillard, W.~Koppes, D.~Linder,
+  and G.~Schwartz.
+\newblock Digital signal and image processing in echocardiography.
+\newblock {\em American Heart Journal}, pages 1266--1283, December 1995.
+
+\bibitem{Staib:etal:fourier}
+L.~Staib and J.~Duncan.
+\newblock Deformable fourier modles for suface finding in 3d images.
+\newblock {\em SPIE}, 1808:90--104, 1992.
+
+\bibitem{Staib:etal:intermodality}
+L.~Staib and X.~Lei.
+\newblock Intermodality 3d medical image registration with global search.
+\newblock {\em IEEE}, pages 225--234, 1994.
+
+\bibitem{Steen:etal:proton}
+R.~Steen, S.~Gronemeyer, P.~Kingsley, W.~Reddick, J.~Langston, and J.~Taylor.
+\newblock Precise and accurate measurement of proton t1 in human brain in vivo:
+  validation and preliminary clinical application.
+\newblock {\em JMRI}, 4(5):681--691, September/October 1994.
+
+\bibitem{Stokking:etal:visualization}
+R.~Stokking, K.~Zuiderveld, H.~Hulshoff, and M.~Viergever.
+\newblock \uppercase{SPECT}/\uppercase{MRI} visualization for frontal lobe
+  damaged regions.
+\newblock {\em SPIE}, 2359.
+
+\bibitem{Taxt:etal:multispectral}
+T.~Taxt and A.~Lundervold.
+\newblock Multispectral analysis of the brain using magnetic resonance imaging.
+\newblock {\em IEEE}, 13(3):470--481, September 1994.
+
+\bibitem{Elsen:etal:image:matching}
+P.~van~den Elsen, E.~Pol, and M.~Viergever.
+\newblock Medical image matching--a review with classification.
+\newblock {\em IEEE Engineering in Medicine and Biology}, pages 26--39, March
+  1993.
+
+\bibitem{Vannier:etal:magnetic}
+M.~Vannier, R.~Butterfield, D.~Jordan, W.~Murphy, R.~Levitt, and M.~Gado.
+\newblock Multispectral analysis of magnetic resonance images.
+\newblock {\em Radiology}, 154(1):221--224, January 1985.
+
+\bibitem{Vannier:etal:multispectral:tissue}
+M.~Vannier, C.~Speidel, and D.~Rickman.
+\newblock Magnetic resonance imaging multispectral tissue classification.
+\newblock {\em NIPS}, 3:148--154, August 1988.
+
+\bibitem{Weng:etal:cardiac}
+J.~Weng, A.~Singh, and M.~Chiu.
+\newblock Learning-based ventricle detection from cardiac \uppercase{MR} . and
+  \uppercase{CT} images.
+\newblock {\em IEEE}, pages 23--32, 1994.
+
+\bibitem{Wester:gender:distribution}
+K.~Wester.
+\newblock Gender distribution and sidedness of middle fossa arachnoid cysts: a
+  review of cases diagnosed with computed imaging.
+\newblock {\em Neurosurgery}, 31(5):940--944, November 1992.
+
+\bibitem{Wicks:etal:lesions}
+D.~Wicks, P.~Tofts, D.~Miller, G.~du~Boulay, A.~Feinsten, R.~Sacares,
+  I.~Harvey, R.~Brenner, and W.~McDonald.
+\newblock Volume measurement of mutliple sclerosis lesions with magnetic
+  resonance images.
+\newblock {\em Neuroradiology}, 34:475--479, 1992.
+
+\bibitem{Xiong:etal:clustered:pixels}
+J.~Xiong, J.~Gao, J.~Lancaster, and P.~Fox.
+\newblock Clustered pixels analysis for functional \uppercase{MRI} activation
+  studies of the human brain.
+\newblock {\em Human Brain Mapping}, 3:287--301, 1995.
+
+\bibitem{Yamashita:etal:histopathologic}
+Y.~Yamashita, Z.~Fan, H.~Yamaoto, and T.~Matsukawa.
+\newblock Spin-echo and dynamic gadolinium-enhanced flash \uppercase{MR}
+  imaging of hepatocellular carcinoma: correlation with histopathologic
+  findings.
+\newblock {\em JMRI}, 1(212):83--90, January/February 1994.
+
+\bibitem{Young:etal:reconstruction}
+A.~Young, D.~Kraitchman, and L.~Axel.
+\newblock Deformalble models for tagged \uppercase{MR} images: reconstruction
+  of two- and three-dimensional heart wall motion.
+\newblock {\em IEEE}, pages 317--323, 1994.
+
+\bibitem{Yuan:etal:pulse:sequence}
+C.~Yuan, U.~Schmield, E.~Weinberger, W.~Krueck, and S.~Rand.
+\newblock Three-dimensional fast spin-echo imaging: pulse sequence and in vivo
+  image evaluation.
+\newblock {\em JMRI}, 6(3):894--899, November/December 1993.
+
+\bibitem{Yvert:etal:geometries}
+B.~Yvert, O.~Bertrand, J.~Echallier, and J.~Pernier.
+\newblock Improved forward eeg calculations using local mesh refinement of
+  realistic head geometries.
+\newblock {\em Electroencephalography and clinical Neurophysiology}, pages
+  381--392, 1995.
+
+\bibitem{Zidjenbos:etal:morphometric}
+A.~Zigdenbos, B.~Dawant, R.~Margolin, and A.~Palmer.
+\newblock Morphometric aalysis of white matter lesions in \uppercase{MR}
+  images: method and validation.
+\newblock {\em IEEE}, 13(4):716--724, December 1994.
+
+\end{thebibliography}

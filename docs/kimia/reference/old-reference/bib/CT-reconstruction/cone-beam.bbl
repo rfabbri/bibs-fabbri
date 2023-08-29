@@ -1,0 +1,822 @@
+\begin{thebibliography}{100}
+
+\bibitem{Anastasio:etal:PMB:2004}
+M.~Anastasio, D.~Shi, F.~D. Carlo, and X.~Pan.
+\newblock {Analytic image reconstruction in local phase-contrast tomography}.
+\newblock {\em Physics in Medicine and Biology}, 49:121--144, 2004.
+
+\bibitem{Anastasio:etal:Med-Phys:2003}
+M.~Anastasio, D.~Shi, X.~Pan, C.~Pelizzari, and P.~Munro.
+\newblock {A preliminary investigation of local tomography for megavoltage CT
+  imaging}.
+\newblock {\em Medical Physics}, 30(11):2969--2980, 2003.
+
+\bibitem{Axelsson:Danielsson:PMB:1994}
+C.~Axelsson and P.-E. Danielsson.
+\newblock {Three-dimensional reconstruction from cone-beam data in $O(N^3logN)$
+  time}.
+\newblock {\em Physics in Medicine and Biology}, 39:477--491, 1994.
+
+\bibitem{Azevedo:etal:IRRNM:2001}
+S.~Azevedo, P.~Rizo, and P.~Grangeat.
+\newblock {Region-of-interest cone beam computed tomography}.
+\newblock {\em Proceedings of the International Meeting on Fully
+  Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine},
+  pages 381--385, 1995.
+
+\bibitem{Badazhkov:PRIA:2001}
+D.~V. Badazhkov.
+\newblock {A Comparison of Some Algorithms of Three-Dimensional Tomographic
+  Reconstruction in Problems where the X-Ray Source Moves along a Helical
+  Trajectory}.
+\newblock {\em Pattern Recognition and Image Analysis}, 11(2):3787--3818, 2001.
+
+\bibitem{Battle:etal:SPIE:1999}
+X.~Battle, Y.~Bizais, C.~L. Rest, and A.~Turzo.
+\newblock {Tomographic reconstruction using free-form deformation models}.
+\newblock {\em Proc. of SPIE}, 3661:356--366, 1999.
+
+\bibitem{Battle:etal:SPIE:1997}
+X.~Battle, G.~Cunningham, and K.~Hanson.
+\newblock {3D Tomographic Reconstruction Using Geometrical Models}.
+\newblock {\em Proc. of SPIE}, 3034:346--357, 1997.
+
+\bibitem{Battle:etal:IEEE-TMI:2000}
+X.~Battle, C.~L. Rest, A.~Turzo, and Y.~Bizais.
+\newblock {Three-Dimensional Attenuation Map Reconstruction Using Geometrical
+  Models and Free-Form Deformations}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 19(5):404--411, 2000.
+
+\bibitem{Berenstein:Walnut:75-Years-of-Radon-Trans:1994}
+C.~Berenstein and D.~Walnut.
+\newblock {Local inversion of the Radon transform in even dimensions using
+  wavelets}.
+\newblock {\em Proceedings of the Conference: 75 Years of the Radon Transform},
+  pages 38--58, 1994.
+
+\bibitem{Berenstein:Contemp-Math:2001}
+C.~A. Berenstein.
+\newblock {Local tomography and related problems}.
+\newblock {\em Contemporary Mathematics}, 278:3--14, 2001.
+
+\bibitem{Bontus:etal:Med-Phys:2003}
+C.~Bontus, T.~Kohler, and R.~Proksa.
+\newblock {A quasiexact reconstruction algorithm for helical CT using a 3-Pi
+  acquisition}.
+\newblock {\em Medical Physics}, 30(9):2493--2502, 2003.
+
+\bibitem{Braundet:etal:IEEE-SBI:2002}
+J.-P. Braundet, F.~Peyrin, J.-M. Dinten, and M.~Barlaud.
+\newblock {3D tomographic reonstruction of binary images from cone beam
+  projections: A fast level set approach}.
+\newblock {\em IEEE Symposium on Biomedical Imaging}, pages 677--680, 2002.
+
+\bibitem{Bronnikov:JOSAA:2000}
+A.~V. Bronnikov.
+\newblock {Cone-beam reconstruction by backprojection and filtering}.
+\newblock {\em Optical Society of America A}, 17(11):1993--2000, 2000.
+
+\bibitem{Caquineau:Amans:ICASSP:1990}
+C.~D. Caquineau and J.-L. Amans.
+\newblock {A Processor Architecture for the Image and Volume Reconstruction}.
+\newblock {\em International Conference on Acoustics, Speech, and Signal
+  Processing 1990 M1.3}, pages 1849--1852, 1990.
+
+\bibitem{Chang:Herman:SIAM-JAM:1980}
+T.~Chang and G.~T. Herman.
+\newblock {A Scientific Study of Filter Selection for a Fan-Beam Convolution
+  Reconstruction Algorithm}.
+\newblock {\em SIAM Journal of Applied Mathematics}, 39(1):83--105, 1980.
+
+\bibitem{Chen:Med-Phys:2003b}
+G.-H. Chen.
+\newblock {A new framework of image reconstrcution from fan beam projections}.
+\newblock {\em Medical Physics}, 30(6):1151--1161, 2003.
+
+\bibitem{Chen:Med-Phys:2003a}
+G.-H. Chen.
+\newblock {An alternative derivation of Katsevich's cone-beam reconstruction
+  formula}.
+\newblock {\em Medical Physics}, 30(12):3217--3226, 2003.
+
+\bibitem{Chen:etal:SPIE:2000}
+L.~Chen, D.~J. Heuscher, and Y.~Liang.
+\newblock {Oblique surface reconstruction to approximate cone-beam helical data
+  in multi-slice CT}.
+\newblock {\em Proceedings of SPIE}, 4123:279--284, 2000.
+
+\bibitem{Chityala:etal:SPIE:2004}
+R.~Chityala, K.~Hoffmann, D.~Bednarek, and S.~Rudin.
+\newblock {Region of Interest (ROI) Computed Tomography}.
+\newblock {\em Proceedings of SPIE: Physics of Medical Imaging}, 5368:534--541,
+  2004.
+
+\bibitem{Cho:1993}
+Z.-H. Cho, J.~P. Jones, and M.~Singh.
+\newblock {\em {Foundations of Medical Imaging}}.
+\newblock Wiley-Interscience, 1993.
+
+\bibitem{Clack:Defrise:SPIE:1994}
+R.~Clack and M.~Defrise.
+\newblock {Overview of reconstruction algorithms for exact cone-beam
+  tomography}.
+\newblock {\em Proceedings of SPIE: Mathematical Methods in Medical Imaging
+  III}, 2299:230--241, July 1994.
+
+\bibitem{Crawford:Med-Phys:1990}
+C.~Crawford.
+\newblock {Computed tomography scanning with simultaneous patient translation}.
+\newblock {\em Medical Physics}, 17(6):967--982, 1990.
+
+\bibitem{Defrise:Clack:TMI:1994}
+M.~Defrise and R.~Clack.
+\newblock {A cone-beam reconstruction algorithm using shift-variant filtering
+  and cone-beam backprojection}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 13:186--195, 1994.
+
+\bibitem{Defrise:Clack:PMB:1995}
+M.~Defrise and R.~Clack.
+\newblock {Filtered backprojection reconstruction of combined parallel beam and
+  cone beam SPECT data}.
+\newblock {\em Physics in Medicine and Biology}, 40:1517--1537, 1995.
+
+\bibitem{Defrise:etal:PMB:2000}
+M.~Defrise, F.~Noo, and H.~Kudo.
+\newblock {A solution to the long-object problem in helical cone-beam
+  tomography}.
+\newblock {\em Physics in Medicine and Biology}, 45:623--643, 2000.
+
+\bibitem{Defrise:etal:IP:2003}
+M.~Defrise, F.~Noo, and H.~Kudo.
+\newblock {Improved two-dimensional rebinning of helical cone-beam computerized
+  tomography data using John's Equation}.
+\newblock {\em Inverse Problems}, 19(6):S41--S54, 2003.
+
+\bibitem{Delaney:Bresler:ICIP:1994}
+A.~Delaney and Y.~Bresler.
+\newblock {Multiresolution Tomographic Reconstruction Using Wavelets}.
+\newblock {\em Proceedings of the IEEE International Conference on Image
+  Processing}, pages 830--834, 1994.
+
+\bibitem{Denton:etal:TNS:1979}
+R.~V. Denton, B.~Friedlander, and A.~J. Rockmore.
+\newblock {Direct Three-Dimensional Image Reconstruction from Divergent Rays}.
+\newblock {\em IEEE Transactions on Nuclear Science}, 26:4695--4703, 1979.
+
+\bibitem{DeStefano:Olson:ISTFTSA:1992}
+J.~DeStefano and T.~Olson.
+\newblock {Wavelet localization of the Radon transform}.
+\newblock {\em IEEE-SP Int. Symp. Time-Frequency and Time-Scale Analysis},
+  1992.
+
+\bibitem{Faridani:etal:SIAM-JAM:1997}
+A.~Faridani, D.~Finch, E.~Ritman, and K.~Smith.
+\newblock {Local Tomography II}.
+\newblock {\em SIAM Journal of Applied Mathematics}, 57(4):1095--1127, 1997.
+
+\bibitem{Faridani:etal:SIAM-JAM:1992}
+A.~Faridani, E.~Ritman, and K.~Smith.
+\newblock {Local Tomography}.
+\newblock {\em SIAM Journal of Applied Mathematics}, 52(2):459--484, 1992.
+
+\bibitem{Faridani:etal:SIAMAM:1992}
+A.~Faridani, E.~L. Ritman, and K.~T. Smith.
+\newblock {Local Tomography}.
+\newblock {\em Society for Industrial and Applied Mathematics Journal of
+  Applied Mathematics}, 52(2):459--484, April 1992.
+
+\bibitem{Farr:1997}
+R.~F. Farr and P.~J. Allisy-Roberts.
+\newblock {\em {Physics for Medical Imaging}}.
+\newblock W. B. Saunders, 1997.
+
+\bibitem{Feldkamp:etal:JOSAA:1984}
+L.~Feldkamp, L.~Davis, and J.~Kress.
+\newblock {Practical cone-beam algorithm}.
+\newblock {\em Optical Society of America A}, 1(6):612--619, 1984.
+
+\bibitem{Finch:SIAMAM:1985}
+D.~V. Finch.
+\newblock {Cone Beam Reconstruction with Sources on a Curve}.
+\newblock {\em Society for Industrial and Applied Mathematics Journal of
+  Applied Mathematics}, 45(4):665--673, 1985.
+
+\bibitem{Gelfand:Goncharov:SOVMD:1991}
+I.~M. Gelfand and A.~B. Goncharov.
+\newblock {Recovery of a compactly supported function starting from its
+  integrals over lines intersecting a given set of points in space}.
+\newblock {\em Soviet Math. Dokl.}, 34(2):373--376, 1987.
+
+\bibitem{Grangeat:MMT:1991}
+P.~Grangeat.
+\newblock {Mathematical Framework of Cone Beam 3D Reconstruction via the First
+  Derivative of the Radon Transform}.
+\newblock {\em Mathematical Methods in Tomography: Proceedings of a conference
+  held in Oberwolfach, Germany}, pages 66--97, 1991.
+
+\bibitem{Grangeat:etal:SHTI:1997}
+P.~Grangeat, P.~Sire, R.~Guillemaud, and L.~Valeria.
+\newblock {Indirect Cone-Beam Three-Dimensional Image Reconstruction}.
+\newblock {\em Studies in Health Technology and Informatics}, pages 29--52,
+  1997.
+
+\bibitem{Hamaker:etal:RMC:1980}
+C.~Hamaker, K.~T. Smith, D.~C. Solmon, and S.~L. Wagner.
+\newblock {The Divergent Beam X-Ray Transform}.
+\newblock {\em Rocky Mountain Journal of Mathematics}, 10:253--283, 1980.
+
+\bibitem{Herman:1980}
+G.~T. Herman.
+\newblock {\em {Image Reconstruction From Projections: The Fundamentals of
+  Computerized Tomography}}.
+\newblock Academic Press, 1980.
+
+\bibitem{Herman:Naparstek:SIAM-JAM:1977}
+G.~T. Herman and A.~Naparstek.
+\newblock {Fast Image Reconstruction Based on a Radon Inversion Formula
+  Appropriate for Rapidly Collected Data}.
+\newblock {\em SIAM Journal of Applied Mathematics}, 33(3):511--533, 1977.
+
+\bibitem{Holschneider:IP:1991}
+M.~Holschneider.
+\newblock {Inverse Radon transforms through inverse wavelet transforms}.
+\newblock {\em Inverse Problems}, 7:853--861, 1991.
+
+\bibitem{Horbelt:etal:SPIE:2002}
+S.~Horbelt, M.~Liebling, and M.~Unser.
+\newblock {Filter design for filtered back-projection guided by the
+  interpolation model}.
+\newblock {\em Proceedings of SPIE}, 4684:806--813, 2002.
+
+\bibitem{Horn:PIEEE:1978}
+B.~K.~P. Horn.
+\newblock {Density Reconstruction Using Arbitrary Ray-Sampling Schemes}.
+\newblock {\em Proceedings of the IEEE}, 66(5):551--562, 1978.
+
+\bibitem{Horn:PIEEE:1979}
+B.~K.~P. Horn.
+\newblock {Fan-Beam Reconstruction Methods}.
+\newblock {\em Proceedings of the IEEE}, 67(12):1616--1623, 1979.
+
+\bibitem{Joseph:TMI:1982}
+P.~M. Joseph.
+\newblock {An Improved Algorithm for Reprojecting Rays Through Pixel Images}.
+\newblock {\em IEEE Transactions on Medical Imaging MI-1.3}, pages 192--196,
+  1982.
+
+\bibitem{Kachelriess:etal:Med-Phys:2000}
+M.~Kachelriess, S.~Schaller, and W.~Kalender.
+\newblock {Advanced single-slice rebinning in cone-beam spiral CT}.
+\newblock {\em Medical Physics}, 27(4):754--772, 2000.
+
+\bibitem{Kaiser:Streater:Math-Phys:1992}
+G.~Kaiser and R.~Streater.
+\newblock {Windowed Radon Transforms, Analytic Signals and the Wave Equation}.
+\newblock {\em Mathematical Physics}, pages 399--441, 1992.
+
+\bibitem{Kalender:2000}
+W.~A. Kalender.
+\newblock {\em {Computed Tomography: Fundamentals, System Technology, Image
+  Quality, Applications}}.
+\newblock Wiley-VCH, 2000.
+
+\bibitem{Katsevich:SIAM-JAM:1999}
+A.~Katsevich.
+\newblock {Cone Beam Local Tomography}.
+\newblock {\em SIAM Journal of Applied Mathematics}, 59(6):2224--2246, 1999.
+
+\bibitem{Katsevich:AAM:2001}
+A.~Katsevich.
+\newblock {Improved exact FBP algorithm for spiral CT}.
+\newblock {\em Advanced Applied Mathematics}, 2001.
+
+\bibitem{Katsevich:PMB:2002}
+A.~Katsevich.
+\newblock {Analysis of an exact inversion algorithm for spiral cone-beam CT}.
+\newblock {\em Physics in Medicine and Biology}, 47:2583--2597, 2002.
+
+\bibitem{Katsevich:JFAA:2002}
+A.~Katsevich.
+\newblock {Microlocal Analysis of an FBP Algorithm for Truncated Spiral Cone
+  Beam Data}.
+\newblock {\em The Journal of Fourier Analysis and Applications},
+  8(5):407--425, 2002.
+
+\bibitem{Katsevich:SIAMAM:2002}
+A.~Katsevich.
+\newblock {Theoretically Exact Filtered Backprojection-Type Inversion Algorithm
+  for Spiral CT}.
+\newblock {\em Society for Industrial and Applied Mathematics Journal of
+  Applied Mathematics}, 62(6):2012--2026, 2002.
+
+\bibitem{Katsevich:IJMMS:2003}
+A.~Katsevich.
+\newblock {A General Scheme for Constructing Inversion Algorithms for Cone Beam
+  CT}.
+\newblock {\em Int, J. Math. Math. Sci.}, 21:1305--1321, 2003.
+
+\bibitem{Katsevich:AAM:2004}
+A.~Katsevich.
+\newblock {An improved exact filtered backprojection algorithm for spiral
+  computed tomography}.
+\newblock {\em Advances in Applied Mathematics}, 32:681--697, 2004.
+
+\bibitem{Katsevich:PMB:2004a}
+A.~Katsevich.
+\newblock {Image reconstruction for the circle and line trajectory}.
+\newblock {\em Physics in Medicine and Biology}, 49:5059--5072, 2004.
+
+\bibitem{Katsevich:PMB:2004b}
+A.~Katsevich.
+\newblock {On two versions of a $3\pi$ algorithm for spiral CT}.
+\newblock {\em Physics in Medicine and Biology}, 49:2129--2143, 2004.
+
+\bibitem{Katsevich:etal:PMB:2004}
+A.~Katsevich, S.~Basu, and J.~Hsieh.
+\newblock {Exact filtered backprojection reconstruction for dynamic pitch
+  helical cone beam computed tomography}.
+\newblock {\em Physics in Medicine and Biology}, 49:3089--3103, 2004.
+
+\bibitem{Katsevich:Lauritsch:Book}
+A.~Katsevich and G.~Lauritsch.
+\newblock {\em {Filtered Backprojection Algorithms for Spiral Cone Beam CT}},
+  chapter~10, pages 255--288.
+\newblock Springer, 2004.
+
+\bibitem{Katsevich:etal:SPIE:2003}
+A.~Katsevich, G.~Lauritsch, H.~Bruder, T.~Flohr, and K.~Stierstorfer.
+\newblock {Evaluation and empirical analysis of an exact FBP algorithm for
+  spiral cone-beam CT}.
+\newblock {\em Proceedings of SPIE}, 5032:663--674, 2003.
+
+\bibitem{Katsevich:Ramm:SIAMAM:1996}
+A.~I. Katsevich and A.~G. Ramm.
+\newblock {Pseudolocal Tomography}.
+\newblock {\em Society for Industrial and Applied Mathematics Journal of
+  Applied Mathematics}, 56(1):167--191, February 1996.
+
+\bibitem{Kirillov:SOVMD:1961}
+A.~A. Kirillov.
+\newblock {On a problem of I. M. Gelfand}.
+\newblock {\em Soviet Math. Dokl.}, 2:268--269, 1961.
+
+\bibitem{Kohler:etal:IEEE-NSSC:2002}
+T.~Kohler, C.~Bontus, K.~Brown, D.~Heuscher, M.~Grass, G.~Shechter, and
+  R.~Proksa.
+\newblock {Evaluation of helical cone-beam CT reconstruction algorithms}.
+\newblock In {\em 2002 IEEE Nuclear Science Symposium Conference Record}, pages
+  1217--1220, 2002.
+
+\bibitem{Kuchment:etal:IP:1995}
+P.~Kuchment, K.~Lancester, and L.~Mogilevskaya.
+\newblock {On local tomography}.
+\newblock {\em Inverse Problems}, 11:571--589, 1995.
+
+\bibitem{Kudo:etal:IEEE-NSSC:1998}
+H.~Kudo, N.~Miyagi, and T.~Saito.
+\newblock {A New Approach to Exact Cone-Beam Reconstruction without Radon
+  Transform}.
+\newblock In {\em 1998 IEEE Nuclear Science Symposium Conference Record}, pages
+  1636--1643, 1998.
+
+\bibitem{Kudo:etal:PMB:1998}
+H.~Kudo, F.~Noo, and M.~Defrise.
+\newblock {Cone-beam filtered-backprojection algorithm for truncated helical
+  data}.
+\newblock {\em Physics in Medicine and Biology}, 43:2885--2909, 1998.
+
+\bibitem{Kudo:etal:TMI:2000}
+H.~Kudo, F.~Noo, and M.~Defrise.
+\newblock {Quasi-Exact Filtered Backprojection Algorithm for Long-Object
+  Problem in Helical Cone-Beam Tomography}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 19(9):902--921, 2000.
+
+\bibitem{Kudo:etal:3D:2003}
+H.~Kudo, T.~Rodet, F.~Noo, and M.~Defrise.
+\newblock {Exact and approximate algorithms for helical cone-beam CT}.
+\newblock In {\em Proceedings of 2003 International Meeting on Fully 3-D Image
+  Reconstruction in Radiology and Nuclear Medicine}, 2003.
+
+\bibitem{Kudo:Saito:TMI:1994}
+H.~Kudo and T.~Saito.
+\newblock {Derivation and implementation of a cone-beam reconstruction
+  algorithm for nonplanar orbits}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 13:196--211, 1994.
+
+\bibitem{Kudo:Saito:IEEE-NSSMIC:1995}
+H.~Kudo and T.~Saito.
+\newblock {An extended completeness condition for exact cone-beam
+  reconstruction and its application}.
+\newblock In {\em IEEE Conference Record 1994 Nuclear Science Symp. and Medical
+  Imaging Conf.}, pages 1710--1714, 1995.
+
+\bibitem{Kudo:Saito:PMB:1998}
+H.~Kudo and T.~Saito.
+\newblock {Fast and stable cone-beam filtered backprojection method for
+  non-planar orbits}.
+\newblock {\em Physics in Medicine and Biology}, 43:747--760, 1998.
+
+\bibitem{Lauritsch:etal:SPIE:2000}
+G.~Lauritsch, K.~C. Tam, K.~Sourbelle, and S.~Schaller.
+\newblock {Oblique surface reconstruction to approximate cone-beam helical data
+  in multi-slice CT}.
+\newblock {\em Proceedings of SPIE}, 4123:279--284, 2000.
+
+\bibitem{Maass:SIAM-JAM:1992}
+P.~Maass.
+\newblock {The Interior Radon Transform}.
+\newblock {\em SIAM Journal of Applied Mathematics}, 52(3):710--724, 1992.
+
+\bibitem{Marr:etal:MACT:1981}
+R.~B. Marr, C.-N. Chen, and P.~C. Lauterbur.
+\newblock {On Two Approaches to 3D Reconstruction in NMR Zeugmatography}.
+\newblock {\em Mathematical Aspects of Computerized Tomography Proceedings},
+  pages 225--240, 1981.
+
+\bibitem{Marxen:etal:Med-Phys:2004}
+M.~Marxen, M.~M. Thornton, C.~B. Chiarot, G.~Klement, J.~Koprivnikar, J.~G.
+  Sled, and R.~M. Henkelman.
+\newblock {MicroCT scanner performance and considerations for vascular specimen
+  imaging}.
+\newblock {\em Medical Physics}, 31(2):305--313, 2004.
+
+\bibitem{Mueller:PhD:1998}
+K.~Mueller.
+\newblock {\em {Fast and accurate three-dimensional reconstrcution from
+  cone-beam projection data using algebraic methods}}.
+\newblock PhD thesis, Ohio State University, 1998.
+
+\bibitem{Natterer:2001}
+F.~Natterer.
+\newblock {\em {The Mathematics of Computerized Tomography}}.
+\newblock Soc for Industrial and Applied Math, 2001.
+
+\bibitem{Natterer:Wubbeling:2001}
+F.~Natterer and F.~Wubbeling.
+\newblock {\em {Mathematical Methods in Image Reconstruction}}.
+\newblock Soc for Industrial and Applied Math, 2001.
+
+\bibitem{Noo:etal:PMB:2002}
+F.~Noo, M.~Defrise, R.~Clackdoyle, and H.~Kudo.
+\newblock {Image reconstruction from fan-beam projections on less than a short
+  scan}.
+\newblock {\em Physics in Medicine and Biology}, 47:2525--2546, 2002.
+
+\bibitem{Noo:etal:PMB:2003}
+F.~Noo, J.~Pack, and D.~Heuscher.
+\newblock {Exact helical reconstruction using native cone-beam geometries}.
+\newblock {\em Physics in Medicine and Biology}, 48:3787--3818, 2003.
+
+\bibitem{Olson:DeStefano:IEEE-TSP:1994}
+T.~Olson and J.~DeStefano.
+\newblock {Wavelet Localization of the Radon Transform}.
+\newblock {\em IEEE Transactions on Signal Processing}, 42(7):2055--2067, 1994.
+
+\bibitem{Orlov:SOVPC:1975a}
+S.~S. Orlov.
+\newblock {Theory of three dimensional reconstruction I. Conditions for a
+  complete set of projections}.
+\newblock {\em Soviet Physics, Crystallography}, 20(3):312--314, 1975.
+
+\bibitem{Orlov:SOVPC:1975b}
+S.~S. Orlov.
+\newblock {Theory of three dimensional reconstruction II. The Recovery
+  Operator}.
+\newblock {\em Soviet Physics, Crystallography}, 20(4):701--709, 1975.
+
+\bibitem{Pack:Noo:IP:2005}
+J.~Pack and F.~Noo.
+\newblock {Cone-beam reconstruction using 1D filtering along the projection of
+  M-lines}.
+\newblock {\em Inverse Problems}, 21:1105--1120, 2005.
+
+\bibitem{Pack:etal:IEEE-TMI:2005}
+J.~D. Pack, F.~Noo, and R.~Clackdoyle.
+\newblock {Cone-Beam Reconstruction Using the Backprojection of Locally
+  Filtered Projections}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 24(1):70--85, 2005.
+
+\bibitem{Pack:etal:PMB:1994}
+J.~D. Pack, F.~Noo, and H.~Kudo.
+\newblock {Investigation of saddle trajectories for cardiac CT imaging in
+  cone-beam geometry}.
+\newblock {\em Physics in Medicine and Biology}, 11:2317--2336, 2004.
+
+\bibitem{Proksa:etal:IEEE-TMI:2000}
+R.~Proksa, T.~Kohler, M.~Grass, and J.~Timmer.
+\newblock {The n-PI-Method for Helical Cone-Beam CT}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 19(9):848--863, 2000.
+
+\bibitem{Quinto:Contemp-Math:2001}
+E.~T. Quinto.
+\newblock {Radon Transforms, Differential Equations, and Microlocal Analysis}.
+\newblock {\em Contemporary Mathematics}, 278:57--68, 2001.
+
+\bibitem{Ramachandran:Lakshminarayanan:PNAS:1971}
+G.~N. Ramachandran and A.~V. Lakshminarayanan.
+\newblock {Three-Dimensional Reconstruction from Radiographs and Electron
+  Micrographs: Application of Convolutions Instead of Fourier Transforms}.
+\newblock {\em Proceedings of the National Academy of Sciences of USA},
+  68(9):2236--2240, 1971.
+
+\bibitem{Rizo:etal:JOSAA:1991}
+P.~Rizo, P.~Grangeat, P.~Sire, P.~Lemasson, and P.~Melennec.
+\newblock {Comparison of two three-dimensional X-ray cone-beam-reconstruction
+  algorithms with circular source trajectories}.
+\newblock {\em Optical Society of America A}, 8(10):1639--1648, 1991.
+
+\bibitem{Schaller:etal:TMI:2000b}
+S.~Schaller, T.~Flohr, K.~Klingenbeck, J.~Krause, T.~Fuchs, and W.~A. Kalender.
+\newblock {Spiral Interpolation Algorithm for Multislice Spiral CT - Part I:
+  Theory}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 19(9):822--834, 2000.
+
+\bibitem{Schaller:etal:TMI:1998}
+S.~Schaller, T.~Flohr, and P.~Steffen.
+\newblock {An Efficient Fourier Method for 3D Radon Inversion in Exact
+  Cone-Beam CT Reconstruction}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 17(2):244--250, 1998.
+
+\bibitem{Schaller:etal:TMI:2000a}
+S.~Schaller, F.~Sauer, K.~C. Tam, G.~Lauritsch, and T.~Flohr.
+\newblock {Exact Radon Rebinning Algorithm for the Long Object Problem in
+  Helical Cone-Beam CT}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 19(5):361--375, 2000.
+
+\bibitem{Seeram:1994}
+E.~Seeram.
+\newblock {\em {Computed Tomography: Physical Principles, Clinical Applications
+  and Quality Control}}.
+\newblock W. B. Saiunders Company, 1994.
+
+\bibitem{Sijbers:Postnov:PMB:2004}
+J.~Sijbers and A.~Postnov.
+\newblock {Reduction of ring artefacts in high resolution micro-CT
+  reconstructions}.
+\newblock {\em Physics in Medicine and Biology}, 49:N247--N253, 2004.
+
+\bibitem{Silver:PMB:1998}
+M.~D. Silver.
+\newblock {High-helical-pitch, cone-beam computed tomography}.
+\newblock {\em Physics in Medicine and Biology}, 43:847--855, 1998.
+
+\bibitem{Smith:TMI:1985}
+B.~D. Smith.
+\newblock {Image reconstruction from cone-beam projections: necessary and
+  sufficient conditions and reconstruction methods}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 4:14--28, 1985.
+
+\bibitem{Smith:Chen:TMI:1992}
+B.~D. Smith and J.~X. Chen.
+\newblock {Implementation, investigation, and improvement of a novel cone-beam
+  reconstruction method}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 11:260--266, 1992.
+
+\bibitem{Smith:SAM:1982}
+K.~T. Smith.
+\newblock {Reconstruction Formulas in Computed Tomography}.
+\newblock {\em Proceedings of Symposia in Applied Mathmematics}, 27:7--23,
+  1982.
+
+\bibitem{Smith:Keinert:AO:1985}
+K.~T. Smith and F.~Keinert.
+\newblock {Mathematical foundations of computed tomography}.
+\newblock {\em Applied Optics}, 24(23):3950--3957, 1985.
+
+\bibitem{Sourbelle:etal:3D:2001}
+K.~Sourbelle, H.~Kudo, G.~Lauritsch, K.~Tam, M.~Defrise, and F.~Noo.
+\newblock {Performance Evaluation of Exact Cone-Beam Algorithms for the
+  Long-Object Problem in Spiral Computed Tomography}.
+\newblock In {\em Proceedings of 2001 International Meeting on Fully 3-D Image
+  Reconstruction in Radiology and Nuclear Medicine}, 2001.
+
+\bibitem{Stierstorfer:etal:PMB:2004}
+K.~Stierstorfer, A.~Rauscher, J.~Boese, H.~Bruder, S.~Schaller, and T.~Flohr.
+\newblock {Weighted FBP-a simple approximate 3D FBP algorithm for multislice
+  spiral CT with good dose usage for arbitrary pitch}.
+\newblock {\em Physics in Medicine and Biology}, 49:2209--2218, 2004.
+
+\bibitem{Taguchi:Aradete:Med-Phys:1998}
+K.~Taguchi and H.~Aradete.
+\newblock {Algorithm for image reconstruction in multi-slice helical CT}.
+\newblock {\em Medical Physics}, 25(4):550--561, 1998.
+
+\bibitem{Tam:SPIE:2000}
+K.~C. Tam.
+\newblock {Exact local regions-of-interest reconstruction in spiral cone-beam
+  filtered-backprojection CT: theory}.
+\newblock {\em Proceeding of SPIE}, 3979:506--519, 2000.
+
+\bibitem{Tam:etal:PMB:2002}
+K.~C. Tam, G.~Lauritsch, and K.~Sourbelle.
+\newblock {Filtering point spread function in backprojection cone-beam CT and
+  its applications in long object imaging}.
+\newblock {\em Physics in Medicine and Biology}, 47:2685--2703, 2002.
+
+\bibitem{Tam:etal:PMB:1998}
+K.~C. Tam, S.~Samarasekera, and F.~Sauer.
+\newblock {Exact cone beam CT with a spiral scan}.
+\newblock {\em Physics in Medicine and Biology}, 43:1015--1024, 1998.
+
+\bibitem{Thirion:IEEE-TMI:1992}
+J.-P. Thirion.
+\newblock {Segmentation of Tomographic Data Without Image Reconstruction}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 11(1):102--110, 1992.
+
+\bibitem{Turbell:Thesis:2001}
+H.~Turbell.
+\newblock {\em {Cone-Beam Reconstruction Using Filtered Backprojection}}.
+\newblock PhD thesis, Linkoping Universitet(Sweden), February 2001.
+
+\bibitem{Turbell:Danielsson:IJIST:2000}
+H.~Turbell and P.~E. Danielsson.
+\newblock {Helical Cone-Beam Tomography}.
+\newblock {\em International Journal of Imaging Systems and Technology},
+  11:91--100, 2000.
+
+\bibitem{Tuy:SIAMAM:1983}
+H.~K. Tuy.
+\newblock {An Inversion Formula for Cone-Beam Reconstruction}.
+\newblock {\em Society for Industrial and Applied Mathematics Journal of
+  Applied Mathematics}, 43(3):546--552, 1983.
+
+\bibitem{Vainberg:etal:SOVJNDT:1985}
+E.~I. Vainberg, I.~A. Kazak, and M.~L. Faingoiz.
+\newblock {X-ray computerized back projection tomography with filtration by
+  double differentiation. Procedure and information features}.
+\newblock {\em Soviet Journal of Nondestructive Testing}, 21:106--113, 1985.
+
+\bibitem{Vainberg:etal:SOVJNDT:1981}
+E.~I. Vainberg, I.~A. Kazak, and V.~P. Kurozaev.
+\newblock {Reconstruction of the internal three-dimensional structure of
+  objects based on real-time integral projections}.
+\newblock {\em Soviet Journal of Nondestructive Testing}, 17:415--423, 1981.
+
+\bibitem{Vainshtein:Orlov:SOVPC:1972}
+B.~K. Vainshtein and S.~S. Orlov.
+\newblock {Theory of the recovery of functions from their projections}.
+\newblock {\em Soviet Physics, Crystallography}, 17(2):213--216, 1972.
+
+\bibitem{Walnut:PSMA:1992}
+D.~Walnut.
+\newblock {Applications of Gabor and Wavelet Expansions to the Radon
+  Transform}.
+\newblock {\em Probabilistic and Stochastic Methods in Analysis with
+  Applications}, pages 187--205, 1992.
+
+\bibitem{Wang:etal:Scanning:1995}
+G.~Wang, T.~Lin, and P.~Cheng.
+\newblock {Error Analysis on a Generalized Feldkamp's Cone-Beam Computed
+  Tomography Algorithm}.
+\newblock {\em Scanning}, 17:361--370, 1995.
+
+\bibitem{Wang:etal:TMI:1993}
+G.~Wang, T.-H. Lin, P.~chin Cheng, and D.~M. Shinozaki.
+\newblock {A General Cone-Beam Reconstruction Algorithm}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 12(3):486--496, 1993.
+
+\bibitem{Wang:etal:Scanning:1996}
+G.~Wang, D.~L. Snyder, and M.~W. Vanner.
+\newblock {Local Computed Tomography via Iterative Deblurring}.
+\newblock {\em Scanning}, 18:582--588, 1996.
+
+\bibitem{Wang:etal:Microsc-Microanal:1999}
+G.~Wang, M.~Vannier, and P.~Cheng.
+\newblock {Iterative X-ray Cone-Beam Tomography for Metal Artifact Reduction
+  and Local Region Reconstruction}.
+\newblock {\em Microsc. Microanal.}, 5:58--65, 1999.
+
+\bibitem{Wang:etal:Acad-Radiol:2005}
+G.~Wang, S.~Zhao, H.~Yu, C.~Miller, P.~Abbas, B.~Gantz, S.~Lee, and
+  J.~Rubinstein.
+\newblock {Design, Analysis and Simulation for Development of the First
+  Clinical Micro-CT Scanner}.
+\newblock {\em Acad. Radiol.}, 12:511--525, 2005.
+
+\bibitem{Weng:etal:TNS:1993}
+Y.~Weng, G.~L. Zeng, and G.~T. Gullberg.
+\newblock {A Reconstruction Algorithm for Helical Cone-Beam SPECT}.
+\newblock {\em IEEE Transactions on Nuclear Science}, 40:1092--1101, 1993.
+
+\bibitem{Whitaker:Elangovan:MIA:2002}
+R.~T. Whitaker and V.~Elangovan.
+\newblock {A direct approach to estimating surfaces in tomographic data}.
+\newblock {\em Medical Image Analysis}, 6:235--249, 2002.
+
+\bibitem{Yang:Horn:ECCV:2004}
+X.~Yang and B.~K.~P. Horn.
+\newblock {Cone-Beam Image Reconstruction by Moving Frames}.
+\newblock In {\em ECCV Workshops CVAMIA and MMBIA}, pages 35--47. Springer,
+  2004.
+
+\bibitem{Ye:Wang:Med-Phys:2005}
+Y.~Ye and G.~Wang.
+\newblock {Filtered backprojection formula for exact image reconstruction from
+  cone-beam data along a general scanning curve}.
+\newblock {\em Medical Physics}, 32(1):42--48, 2005.
+
+\bibitem{Ye:etal:SPIE:2004}
+Y.~Ye, S.~Zhao, H.~Yu, and G.~Wang.
+\newblock {Exact image reconstruction for cone-beam scanning along nonstandard
+  spirals and other curves}.
+\newblock {\em Proc. of SPIE}, 5535:293--300, 2004.
+
+\bibitem{Ye:etal:IEEE-TMI:2005}
+Y.~Ye, S.~Zhao, H.~Yu, and G.~Wang.
+\newblock {A General Exact Reconstruction for Cone-Beam CT via
+  Backprojection-Filtration}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 24(9):1190--1198, 2005.
+
+\bibitem{Yu:Fessler:IEEE-TMI:2002}
+D.~F. Yu and J.~A. Fessler.
+\newblock {Edge-Preserving Tomographic Reconstruction with Nonlocal
+  Regularization}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 21(2):159--173, 2002.
+
+\bibitem{Yu:etal:SPIE:2004}
+H.~Yu, Y.~Ye, and G.~Wang.
+\newblock {Katsevich-Type Algorithms for Variable Radius Spiral Cone-Beam CT}.
+\newblock {\em Proceedings of SPIE: Developments in X-Ray Tomography IV},
+  5535:550--557, 2004.
+
+\bibitem{Yu:etal:Med-Phys:2005}
+H.~Yu, S.~Zhao, Y.~Ye, and G.~Wang.
+\newblock {Exact BPF and FBP algorithms for nonstandard saddle curves}.
+\newblock {\em Medical Physics}, 32(11):3305--3312, 2005.
+
+\bibitem{Zeng:etal:PMB:1994}
+G.~L. Zeng, R.~Clark, and G.~T. Gullberg.
+\newblock {Implementation of Tuy's cone-beam inversion formula}.
+\newblock {\em Physics in Medicine and Biology}, 39:493--507, 1994.
+
+\bibitem{Zeng:Gullberg:PMB:1992}
+G.~L. Zeng and G.~T. Gullberg.
+\newblock {A cone-beam tomography algorithm for orthogonal circle-and-line
+  orbit}.
+\newblock {\em Physics in Medicine and Biology}, 37(3):563--577, 1992.
+
+\bibitem{Zhang:etal:PMB:2005}
+J.~Zhang, D.~Shi, M.~Anastasio, J.~Sillanpaa, and J.~Chang.
+\newblock {Weighted expectation maximization reconstruction algorithms with
+  application to gated megavoltage tomography}.
+\newblock {\em Physics in Medicine and Biology}, 50:N299--N307, 2005.
+
+\bibitem{Zhao:Wang:IEEE-TMI:2000}
+S.~Zhao and G.~Wang.
+\newblock {Feldkamp-Type Cone-Beam Tomography in the Wavelet Framework}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 19(9):922--929, 2000.
+
+\bibitem{Zhao:etal:SPIE:2004}
+S.~Zhao, H.~Yu, and G.~Wang.
+\newblock {A family of analytic algorithms for cone-beam CT}.
+\newblock {\em Proceedings of SPIE: Fourth-generation X-ray sources and Optics
+  II}, 5535:318--328, 2004.
+
+\bibitem{Zhao:etal:Med-Phys:2005}
+S.~Zhao, H.~Yu, and G.~Wang.
+\newblock {A unified framework for exact cone-beam reconstruction formulas}.
+\newblock {\em Medical Physics}, 32(6):1712--1721, 2005.
+
+\bibitem{Zhuang:etal:PMB:2004}
+T.~Zhuang, S.~Leng, B.~Nett, and G.~Chen.
+\newblock {Fan-beam and cone-beam image reconstrucion via filtering the
+  backprojection image of differentiated projection data}.
+\newblock {\em Physics in Medicine and Biology}, 49:5849--5503, 2004.
+
+\bibitem{Zou:Pan:IEEE-NSSC:2003}
+Y.~Zou and X.~Pan.
+\newblock {Three-term exact FBO reconstruction in cone-beam helical CT}.
+\newblock In {\em 2003 IEEE Nuclear Science Symposium Conference Record},
+  volume~4, pages 2735--2738, 2003.
+
+\bibitem{Zou:Pan:PMB:2004}
+Y.~Zou and X.~Pan.
+\newblock {An extended data function and its generalized backprojection for
+  image reconstruction in helical cone-beam CT}.
+\newblock {\em Physics in Medicine and Biology}, 49:N383--N387, 2004.
+
+\bibitem{Zou:Pan:PMB:2004c}
+Y.~Zou and X.~Pan.
+\newblock {An extended data function and its generalized backprojection for
+  image reconstruction in helical cone-beam CT}.
+\newblock {\em Physics in Medicine and Biology}, 49:N383--N387, 2004.
+
+\bibitem{Zou:Pan:SPIE:2004}
+Y.~Zou and X.~Pan.
+\newblock {Elimination of Direct Derivative along Source Trajectory for
+  Accurate Image Reconstruction in Helical Cone-beam CT}.
+\newblock {\em Proceedings of SPIE}, 5370:685--689, 2004.
+
+\bibitem{Zou:Pan:PMB:2004a}
+Y.~Zou and X.~Pan.
+\newblock {Exact image reconstruction on PI-lines from minimum data in helical
+  cone-beam CT}.
+\newblock {\em Physics in Medicine and Biology}, 49:941--959, 2004.
+
+\bibitem{Zou:Pan:PMB:2004b}
+Y.~Zou and X.~Pan.
+\newblock {Image reconstruction on PI-lines by use of filtered backprojection
+  in helical cone-beam CT}.
+\newblock {\em Physics in Medicine and Biology}, 49:2717--2731, 2004.
+
+\end{thebibliography}

@@ -1,0 +1,305 @@
+%
+%	Anderson84	Curvature and Tangential Deflection...
+%	Bennett75	On the Measurement of Curvature in a...
+%	Briggs74	Machine Contouring Using Minimum Curvature
+%	Dawson84 	Computing Curvature From Images
+%	Deguchi88	Multi-Scale Curvatures for Contour...
+%	Dudeck90	Recognizing Planar Curves Using Curvature...
+%	O'Gorman88	Analysis of Feature Detectability...
+%	O'Gorman88	Curvilinear Feature Detection...
+%	Pang75		A Method for ... (M.Sc.)
+%	Richards86	Encoding Contour Shape by Curvature Extrema
+%	Wuescher91	Robust Contour Decomposition Using a...
+%
+
+@Article{Anderson84Curvature,
+  author = 	{I. M. Anderson and J. C. Bezdek},
+  title = 	{Curvature and Tangential Deflection of Discrete Arcs:
+		 A Theory Based on the Commutator of Scatter Matrix
+		 Pairs and its Application to Vertex Detection in
+		 Planar Shape Data},
+  journal = 	PAMI,
+  year = 	1984,
+  month = 	jan,
+  volume = 	6,
+  number = 	1,
+  pages = 	{27--40},
+  lib =		{BOUND/CURV},
+  keywords =	{Tangential deflection and curvature are defined
+		  based on the geometrical and statistical properties
+		  of the eigenvalue-eigenvector structure of sample
+		  covariance matrices.
+		 The nonzero entry of the commutator of a pair of
+		  scatter matrices constructed from discrete arcs is
+		  related to the angle between their eigenspace.
+		 This entry (in certain limiting cases) is also
+		  proportional to the ANALYTICAL curvature of the
+		  plane curve from which the discrete data is drawn.
+		 Dominant points:
+			Locus of excessive cumulative tangential
+		 	deflection.
+		}
+}
+
+@Article{Bennett75Measure,
+  author = 	{J. R. Bennett and J. S. Mac Donald},
+  title = 	{On the Measurement of Curvature in a Quantized
+		 Environment},
+  journal = 	TransComp,
+  year = 	1975,
+  month = 	aug,
+  volume = 	{C-24},
+  number = 	8,
+  pages = 	{803--820},
+  lib =		{BOUND/CURV},
+  keywords =	{6 contour-tracing algorithms are considered; 4 on the
+		 square grid and two on the hexagonal one.
+		    (1)	4 directions, City Block metric "around" data pts.
+			Basic curvature function consists of 3
+		 	possible impulses of area +/- Pi/2 or 0.
+		    (2)	4 directions, City Block metric "on" data pts.
+                        Basic curvature function consists of 4
+                        possible impulses of area - Pi, +/- Pi/2 or 0.
+		    (3) 8 directions, Chessboard metric.
+		    (4) 8 directions, Chamfer-1-sqrt(2) metric.
+			Both (3) and (4) have Basic curvature functions
+		 	consisting of 6 possible impulses of area
+		 	3Pi/4, +/- Pi/2, +/- Pi/4 or 0.
+		    (5) 6 directions (hexagonal grid).
+                        Basic curvature function consists of 5
+                        possible impulses of area: Pi, 2Pi/3, +/- Pi/3 or 0.
+		    (6)	3 directions (hexagonal grid) "around" data pts.
+			Basic curvature function consists of 2
+		 	possible impulses of area +/- Pi/3.
+		 Quantization noise power (on basic curvature function)
+		  arbitrarily defined as the mean-square error (with
+		  respect to the discrete curvature function of the
+		  original boundary.
+			o In the Fourier component domain,
+		 	  quantization noise increases approximatively
+		 	  linearly with absolute frequency.
+			o The slope of this linear increase varies
+		 	  significantly among the 6 algorithms but
+		 	  only slightly with changes in grid resolution.
+			o Algorithm (4) has the best SNR followed by (5).
+		 Estimating the required bandwith in the curvature
+		 function (rule of thumb):
+			o Count the number of dominant pts. (extrema).
+			o Design for a bandwidth in harmonics equal to
+		 	  3 or 4 times that number.
+		}
+}
+
+@Article{Briggs74Machine,
+  author = 	{I. C. Briggs},
+  title = 	{Machine Contouring Using Minimum Curvature},
+  journal = 	{Geophysics},
+  year = 	1974,
+  OPTmonth = 	"",
+  volume = 	39,
+  OPTnumber = 	"",
+  pages = 	{39--48},
+  pointer =	{\cite{Langridge82Curve}},
+  note = 	{Get a copy.}
+}
+
+@InProceedings{Deguchi88MultiScale,
+  author = 	{K. Deguchi},
+  title = 	{Multi-Scale Curvatures for Contour Feature
+		 Extraction},
+  crossref = 	"ICPR88",
+  pages = 	{1113--1115},
+  volume =	1,
+  lib =		{BOUND/CURV},
+  keywords =	{k-curvature = angle between 2 straight line segments
+		 (endpoints on the digital curve).
+		 Length of the segments = k --> varies (scale parameter).
+		 k-curvature == smoothed version of the 1-curvature by
+		 a convolution with a triangular mask of unit height
+		 and width 2k.
+		}
+}
+
+@InProceedings( Dawson84Computing, 
+  author =	{B. M. Dawson and G. Treese},
+  title =	{Computing Curvature From Images}, 
+  year =	1984, 
+  volume =	504, 
+  booktitle =	ProcSPIE # "Applications of Digital Image Processing
+		 {VII}",
+  editor =	{A. G. Tescher}, 
+  pages =	{175--182}, 
+  publisher =   SPIE,
+  address =     {Bellingham, WA, U.S.A.},
+  lib =		{BOUND/CURV},
+  keywords =	{Planar contours, codon strings (assume no cusps),
+		 segmentation: pyramid, blob-finder, thresholding,
+		 edge-linking, chain-code (normals), smoothed tangents
+		 (5-pts triangle filter), curvature = G' * [smooth
+		 tangents] (sigma fixed to 1/6 the length of the blob;
+		 curvature clipped for tangent variations under 20
+		 degrees), inconsistent codon strings.}
+)
+
+@InProceedings{Dudeck90Recognizing,
+  author = 	{G. Dudeck and J. K. Tsotsos},
+  title = 	{Recognizing Planar Curves Using Curvature-Tuned Smoothing},
+  crossref = 	"ICPR90",
+  pages = 	{130--135},
+  volume =	1
+}
+
+@inproceedings( Gorman88Analysis, 
+  crossref =	"CVPR88",
+  author =	{O'Gorman, L.}, 
+  title =	{An Analysis of Feature Detectability From Curvature
+		 Estimation},
+  pages =	{235--240}, 
+  lib =		{BOUND/CURV},
+  keywords =	{Curvature estimation by Difference of Slopes (DoS).
+		 Two segments of length W; spaced apart (or
+		 overlapped) by length M.
+		 Local curvature K = angle by which the 2 segments
+		 	deviate from the straight line.
+		 Noise = K due to a 1 sample displacement from a
+		 	straight horizontal or vertical line.
+		 Best signal detectability for M near 0 (M > 0).
+		 DoS+ Method: M --> 0+, i.e., M close to 0 (for high
+		 	signal detectability) but large enough for
+			corners rounded by noise.
+		 Comparison with Gaussian filtered discrete curvature
+		 data.
+		 Parameters: W (or L) and M (see [Gorman88Curvilinear]).
+		}
+)
+
+@inproceedings( Gorman88Curvilinear, 
+  crossref =	"ICPR88",
+  author =	{O'Gorman, L.}, 
+  title =	{Curvilinear Feature Detection From Curvature Estimation}, 
+  volume =	1, 
+  pages =	{1116--1119}, 
+  lib =		{BOUND/CURV},
+  keywords =	{Curvature estimation by Difference of Slopes (DoS).
+		 Parameters:
+			o L = Min straight line arc length separating
+		 	      features.
+			o M = Max arc length of a corner.
+		}
+)
+
+@MastersThesis{Pang75MSc,
+  author = 	{Pang, Lawrence Chow-Foong},
+  title =	{A Method for Measuring the Curvature of a Boundary on
+		 a 2-Dimensional Quantized Grid},
+  school = 	McG # ", Dept. of " # CS,
+  year =	1975, 
+  address = 	MTL,
+  keywords =	{Representation and recognition of digitized curves
+		 (C). Survey of methods to evaluate curvature (k):
+		 impulse of k, chain encoding, angle versus length
+		 (AVL), syntax-directed, Fourier analysis, lateral
+		 inhibition and area operators.
+		 Proposed method: based on the notion of ENTROPY.
+		 o Representation: draw all possible lines through
+		   pairs of points on a segment of C. 
+		 o Histogram: function of # lines in each direction
+		   --> radial angle (theta). =
+		 o Entropy (of histogram) = k (approx.)
+		 o 3 parameters:
+		   (i) NB: Neighborhood size (radius)
+			o # pts. in a ngbd. : n = 2*NB + 1
+			o Avoid or reduce noise effects.
+			o Large NB tends to give axial directions
+		 	  instead of local tg. directions.
+			o Large NB can primarily be used to identify
+		 	  pts. of high k.
+		  (ii) NS: Number of angle (theta) sectors or cells.
+			o Cell with highest count is first located.
+			  Cells on either side are scanned until a
+		 	  cell with no counts is found --> high
+		 	  frequency region (HFR).
+			o Use large (small) NS with large (small) NB.
+		 (iii) XX: "Acceptable fraction" (heuristic)
+			o XX = a fraction of the highest cell count
+			       (HCC). 
+			o A threshold for the theta range: allows only
+		 	  theta cells with counts > (XX * HCC) to be
+		 	  included in the HFR.
+			o Vary proportionally with NB.}
+}
+
+@article( Richards86Encoding, 
+  author =	{W. A. Richards and B. Dawson and D. Whittington},
+  title =	{Encoding Contour Shape by Curvature Extrema}, 
+  year =	1986, 
+  month =	sep, 
+  journal =	JOSA # " ({A})",
+  volume =	3, 
+  number =	9, 
+  pages =	{1483--1491}, 
+  lib =		{BOUND/CURV},
+  keywords =	{Contour noise estimation. Natural scale. Scale set (2D+1D).
+		 Hierarchy of scale-spaces. Segment curvature plot at
+		 significant extrema.
+		 Noise:	o Numerical Diff. --> Low-pass filtering.
+			o Predictions about the nature of the power spectrum
+			  of the curvature signal (K).
+			  Assumptions:	Filter's bandwith known.
+					Noise character is known.
+			  Count the number of level crossings of K -->
+			  --> generates a curve which reflects the filter
+			      shape if K == white noise.
+		 Natural scale: scales for parts, surface texture.
+		 Structural hypothesis:
+			o The spatial structure of an object (outline)
+		 	  is generated by a number of different
+		 	  processes, each operating at a different scale. 
+			o Moving from one process to another -->
+		 	  confusion of two structures --> should
+		 	  reflect more noise than structure.
+			o No structure: distribution of level crossings
+		 		versus signal strength should fall off
+				in proportion to the filter shape.
+			o Structure: fixed number of level crossings,
+				regardless of the signal strength.
+		 Multi-curvature analysis:
+			o Isolate parts at coarse scale and then repeat 
+			  the curvature analysis for each part.
+		 Significant structure:
+			o Is reflected by the presence of K extrema
+			  across a range of scales that lie outside
+		 	  the level-crossing distribution expected
+		 	  from noise.
+		 The scale set (2D x 1D scale space):
+			o A set of 2D silhouettes obtained from
+		 	  convolution of the image with a range of 2D
+		 	  filters (blurring) + the 1D curvature
+		 	  operator applied to each silhouette.
+			o However, preliminary results suggest that
+		 	  the human observer uses only the most
+		 	  detailed available image of the silhouette.
+		 Computing K:
+			o Smoothing is needed to reduce digital noise
+		 	  and to set the scale of the K extrema.
+			o Convolution of the tangent histogram with
+		 	  1st Derivative of a Gaussian.
+			o Calculate the extent of the noisy region by
+			  using the data obtained with the finest K
+		 	  operator.
+		}
+)
+
+@Article{Wuescher91Robust,
+  author = 	{D. M. Wueschler and K. L. Boyer},
+  title = 	{Robust Contour Decomposition Using a Constant
+		 Curvature Criterion},
+  journal = 	PAMI,
+  year = 	1991,
+  volume = 	13,
+  number = 	1,
+  pages = 	{41--51},
+  month = 	jan,
+  keywords =	{Blip filter. Curvature voting.}
+}
+

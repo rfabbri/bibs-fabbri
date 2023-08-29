@@ -1,0 +1,192 @@
+\begin{thebibliography}{10}
+
+\bibitem{Cyr:Master:2001}
+C.~Cyr and B.~Kimia.
+\newblock A similarity-based aspect-graph approach to 3d object recognition.
+\newblock Master's thesis, Brown University, 2001.
+
+\bibitem{Cyr:etal:MMBIA2000}
+C.~M. Cyr, A.~F. Kamal, T.~B. Sebastian, and B.~B. Kimia.
+\newblock 2{D}-3{D} registration based on shape matching.
+\newblock In {\em Proceedings of Mathematical Methods in Biomedical Image
+  Analysis}, pages 198--203, 2000.
+
+\bibitem{Cyr:Kimia:ICCV2001}
+C.~M. Cyr and B.~B. Kimia.
+\newblock 3{D} object recognition using shape similarity-based aspect graph.
+\newblock In {\em Proceedings of the Eighth International Conference on
+  Computer Vision}, pages 254--261, Vancouver, Canada, July 9-12 2001. IEEE
+  Computer Society Press.
+
+\bibitem{Cyr:Kimia:IJCV01}
+C.~M. Cyr and B.~B. Kimia.
+\newblock A similarity-based aspect-graph approach to 3{D} object recognition.
+\newblock {\em IJCV}, 57(1), April 2004.
+
+\bibitem{Dhandapani:Kimia:MS2003}
+R.~Dhandapani and B.~Kimia.
+\newblock Resampled non-linear filters for accurate sub-pixel edge detection.
+\newblock Master's thesis, Brown University, 2003.
+
+\bibitem{Dhandapani:Kimia:ICIP2002}
+R.~Dhandapani and B.~B. Kimia.
+\newblock Role of scale in partitioning shape.
+\newblock In {\em Proceedings of the IEEE International Conference on Image
+  Processing}, volume~II, pages 565--568, Rochester, New York, Sepetember 2002.
+  IEEE Computer Society Press.
+
+\bibitem{Giblin:Kimia:CVPR2000}
+P.~J. Giblin and B.~B. Kimia.
+\newblock On the local form of symmetry sets, and medial axes, and shocks in
+  3{D}.
+\newblock In {\em Proceedings of the IEEE Computer Society Conference on
+  Computer Vision and Pattern Recognition}, pages 566--573, Hilton Head Island,
+  South Carolina, USA, June 13-15 2000. IEEE Computer Society Press.
+
+\bibitem{Giblin:Kimia:ECCV2002}
+P.~J. Giblin and B.~B. Kimia.
+\newblock Transitions of the 3{D} medial axis under a one-parameter family of
+  deformations.
+\newblock In {\em Seventh European Conference on Computer Vision}, pages
+  718--724, Copenhagen, Denmark, May 28-31 2002. Springer Verlag.
+
+\bibitem{Giblin:Kimia:3DForm:PAMI02}
+P.~J. Giblin and B.~B. Kimia.
+\newblock A formal classification of {3D} medial axis points and their local
+  geometry.
+\newblock {\em PAMI}, 2003.
+\newblock Accepted - To Appear.
+
+\bibitem{Giblin:Kimia:Reconstruction:PAMI03}
+P.~J. Giblin and B.~B. Kimia.
+\newblock On the intrinsic reconstruction of shape from its symmetries.
+\newblock {\em PAMI}, 25(7):895--911, July 2003.
+
+\bibitem{Giblin:Kimia:IJCV03}
+P.~J. Giblin and B.~B. Kimia.
+\newblock On the local form and transitions of symmetry sets, medial axes, and
+  shocks.
+\newblock {\em IJCV}, 54(Issue 1-3):143--157, August 2003.
+
+\bibitem{Johannes:POCV2001}
+M.~S. Johannes, T.~B. Sebastian, H.~Tek, and B.~B. Kimia.
+\newblock Perceptual organization as object recognition divided by two.
+\newblock In {\em Workshop on Perceptual Organization in Computer Vision},
+  pages 41--46, 2001.
+
+\bibitem{Kimia:etal:IBM:Book}
+B.~B. Kimia.
+\newblock Content-based retrieval of images based on shape.
+\newblock In V.~Castelli and L.~Bergman, editors, {\em Image Databases, Search
+  and Retrieval of Digital Imagery}, pages 345--372. Wiley Interscience, 2002.
+
+\bibitem{Kimia:Euler:Spiral:IJCV02}
+B.~B. Kimia, I.~Frankel, and A.-M. Popescu.
+\newblock Euler spiral for shape completion.
+\newblock {\em IJCV}, pages 159--182, August 2003.
+
+\bibitem{Klein:etal:SODA2001}
+P.~Klein, T.~Sebastian, and B.~Kimia.
+\newblock Shape matching using edit-distance: an implementation.
+\newblock In {\em Twelfth Annual ACM-SIAM Symposium on Discrete Algorithms
+  (SODA)}, pages 781--790, Washington, D.C., January 7-9 2001.
+
+\bibitem{Klein:etal:SODA2000}
+P.~Klein, S.~Tirthapura, D.~Sharvit, and B.~Kimia.
+\newblock A tree-edit distance algorithm for comparing simple, closed shapes.
+\newblock In {\em Tenth Annual ACM-SIAM Symposium on Discrete Algorithms
+  (SODA)}, pages 696--704, San Francisco, California, January 9-11 2000.
+
+\bibitem{Rodehorst:Kimia:2001}
+M.~J. Rodehorst and B.~B. Kimia.
+\newblock Subpixel polygonization of discrete implicit surfaces using {ENO}
+  interpolation.
+\newblock Technical Report LEMS-194, LEMS, Brown University, Providence, RI,
+  02912, September 2001.
+
+\bibitem{Sebastian:PHD:2001}
+T.~Sebastian.
+\newblock Shape-based object recognition.
+\newblock {Ph.D.} dissertation, Division Of Engineering, Brown University,
+  Providence, RI, 02912, September 2001.
+
+\bibitem{Sebastian:etal:MIA03}
+T.~Sebastian, J.~Crisco, and B.~Kimia.
+\newblock Segmentation of carpal bones for accurate measurement of {3D} {\em in
+  vivo} carpal kinematics.
+\newblock {\em Medical Image Analysis}, 7(1):21--45, March 2003.
+
+\bibitem{Sebastian:etal:Curves:PAMI2003}
+T.~Sebastian, P.~Klein, and B.~Kimia.
+\newblock On aligning curves.
+\newblock {\em PAMI}, 25(1):116--125, January 2003.
+
+\bibitem{Sebastian:etal:Shocks:PAMI2003}
+T.~Sebastian, P.~Klein, and B.~Kimia.
+\newblock Recognition of shapes by editing their shock graphs.
+\newblock {\em PAMI}, 2003.
+\newblock Accepted - To Appear.
+
+\bibitem{Sebastian:etal:MMBIA2000}
+T.~B. Sebastian, J.~J. Crisco, P.~N. Klein, and B.~B. Kimia.
+\newblock Constructing 2{D} curve atlases.
+\newblock In {\em Proceedings of Mathematical Methods in Biomedical Image
+  Analysis}, pages 70--77, 2000.
+
+\bibitem{Sebastian:Kimia:ICIP2001}
+T.~B. Sebastian and B.~B. Kimia.
+\newblock Curves vs skeletons in object recognition.
+\newblock In {\em Proceedings of the IEEE International Conference on Image
+  Processing}, pages 22--25, Thessaloniki, Greece, October 2001. IEEE Computer
+  Society Press.
+
+\bibitem{Sebastian:Kimia:ICPR2002}
+T.~B. Sebastian and B.~B. Kimia.
+\newblock Metric-based shape retrieval in large databases.
+\newblock In {\em Proceedings of International Conference on Pattern
+  Recognition}, volume~3, pages 30291--30296, Quebec City, Quebec, Canada,
+  August 11-15,2002 2002. Computer Society Press.
+
+\bibitem{Sebastian:Kimia:Signal03}
+T.~B. Sebastian and B.~B. Kimia.
+\newblock Curves vs skeletons in object recognition.
+\newblock {\em Signal Processing}, 2003.
+\newblock Accepted; To Appear.
+
+\bibitem{Sebastian:etal:IWVF2001}
+T.~B. Sebastian, P.~N. Klein, and B.~B. Kimia.
+\newblock Alignment-based recognition of shape outlines.
+\newblock In C.~Arcelli, L.~Cordella, and G.~S. di~Baja, editors, {\em
+  Proceedings of the International Workshop on Visual Form}, pages 606--618,
+  Capri, Italy, May 2001. Springer.
+
+\bibitem{Sebastian:etal:ICCV2001}
+T.~B. Sebastian, P.~N. Klein, and B.~B. Kimia.
+\newblock Recognition of shapes by editing shock graphs.
+\newblock In {\em Proceedings of the Eighth International Conference on
+  Computer Vision}, pages 755--762, Vancouver, Canada, July 9-12 2001. IEEE
+  Computer Society Press.
+
+\bibitem{Sebastian:etal:ECCV2002}
+T.~B. Sebastian, P.~N. Klein, and B.~B. Kimia.
+\newblock Shock-based indexing into large shape databases.
+\newblock In {\em Seventh European Conference on Computer Vision}, pages Part
+  III:731 -- 746, Copenhagen, Denmark, May 28-31 2002. Springer Verlag.
+
+\bibitem{Siddiqi:etal:VR2001}
+K.~Siddiqi, B.~B. Kimia, A.~R. Tannenbaunm, and S.~W. Zucker.
+\newblock On the psychophysics of the shape triangle.
+\newblock {\em Vision Research}, 41(9):1153--1178, 2001.
+
+\bibitem{Tek:Kimia:JMIV2001}
+H.~Tek and B.~B. Kimia.
+\newblock Boundary smoothing via symmetry transforms.
+\newblock {\em Journal of Mathematical Imaging and Vision}, 14(3):211--223, May
+  2001.
+
+\bibitem{Tek:Wave:Propagation:IJCV03}
+H.~Tek and B.~B. Kimia.
+\newblock Symmetry maps of free-form curve segments via wave propagation.
+\newblock {\em IJCV}, 54(Issue 1-3):35--81, August 2003.
+
+\end{thebibliography}

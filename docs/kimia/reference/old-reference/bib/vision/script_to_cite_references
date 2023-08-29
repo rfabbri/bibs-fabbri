@@ -1,0 +1,18 @@
+#!/usr/bin/perl
+
+open(FILE,"metricbib.tex");
+@entries=<FILE>;
+close(FILE);
+
+open(FILEW,">metricbib.tex");
+foreach $entry (@entries)
+{
+ #chomp($entry);
+ $pos=index($entry,"{");
+ #print $pos;
+ $entry_sub=substr($entry,$pos);
+ $entry_sub=~s/,/}/ ;
+ $entry_sub=~s/{/\\nocite{/;
+ print FILEW $entry_sub;
+}
+close(FILEW);

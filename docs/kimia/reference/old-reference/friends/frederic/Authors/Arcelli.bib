@@ -1,0 +1,173 @@
+%
+%	Arcelli78	On the Sequential Approach to Medial Line...
+%	Arcelli81	From Local Maxima to Connected Skeletons
+%	Arcelli81	Pattern Thinning by Contour Tracing
+%	Arcelli84	Quenching Points in Distance Labelled...
+%	Arcelli85	A Width-Independent Fast Thinning Algorithm
+%	Arcelli86	Finding Multiple Pixels
+%	Arcelli86	On the Simplicity of Digital Curves and...
+%	Arcelli86	Computing Voronoi Diagrams in Digital...
+%	Arcelli87	A Contour Characterization for Multiply...
+%	Arcelli88	Finding Local Maxima in a Pseudo-Euclidean...
+%	Arcelli89	A One-Pass Two-Operations Process to...
+%
+
+@article( Arcelli78Sequential,
+  author =	{C. Arcelli and Sanniti di Baja, G.},
+  title =	{On the Sequential Approach to Medial Line
+		 Transformation},
+  year =	1978, 
+  journal =	SMC,
+  volume =	{SMC-8},
+  number =	2,
+  pages =	{139--144},
+  keywords =	{}
+)
+
+@article( Arcelli81From,
+  author =	{C. Arcelli and L. P. Cordella and S. Leviadi},
+  title =	{From Local Maxima to Connected Skeletons},
+  year =	1981,
+  month =	mar,
+  journal =	PAMI,
+  volume =	{PAMI-3},
+  number =	2,
+  pages =	{134--143},
+  keywords =	{}
+)
+
+@article( Arcelli81Pattern, 
+  author =	{C. Arcelli},
+  title =	{Pattern Thinning by Contour Tracing},
+  year =	1981,
+  journal =	CGIP,
+  volume =	17,
+  pages =	{130--144},
+  keywords =	{}
+)
+
+@InProceedings{Arcelli84Quenching,
+  crossref =	"ICPR84",
+  author =	{C. Arcelli and Sanniti di Baja, G.},
+  title = 	{Quenching Points in Distance Labeled Pictures},
+  pages = 	{344--346},
+  volume =	1,
+  keywords =	{Discrete uniform propagation. Metric used:
+		 chessboard.
+		 Detection of the set of quenching points by the use
+		 of local operations. Interactions among wavefronts
+		 originating from different sources arise wherever 2
+		 equilabeled (i.e., same distance) wavefronts are
+		 4-adjacent to each other ( --> qp) or partially
+		 overlapped ( --> qp*).
+		 Local property of qp* with label "t": has in its
+		 neighborhood two 4-components of pixels labeled
+		 "t-1".
+		 Set of quenching points, Q, include the pixels with
+		 locally maximal label. Q may be regarded as the
+		 border line separating regions of the plane where the
+		 influence of a given source is stronger than any
+		 other.
+		 PROBLEM: If 2 interacting sources have an equal
+		 Cartesian coordinate --> 8-internal pixels are
+		 present in Q --> an ever increasing number of pixels
+		 satisfying the equidistance property is found at any
+		 time greater than "t".
+		 SOLUTION: Allow propagation from a quenching point
+		 labeled "t + k" (k >= 0) to only one pixel belonging
+		 to any adjacent 4-connected component labeled
+		 "t + k + 1". [ See Meyer88Skeletons ]
+		 SHAPE SPLITTING: Segmentation based on a proper
+		 sequence of contraction [erosions] and expansion
+		 [dilations] operations [ --> opening ], imposing that
+		 the picture topology be preserved while expanding
+		 certain picture subsets [ see Suzuki82Fusion ].
+		 Contraction [erosion] --> thresholding the DT.
+		 [ Geodesic DT is then described ! ]
+		 Segmentation paths are found in correspondence with
+		 pairs of distinct contour arcs delimiting regions of
+		 the clump which can be perceived as NECKS.
+		}
+}
+
+@article (Arcelli85Width,
+  author =	{C. Arcelli and Sanniti di Baja, G.},
+  title =	{A Width-Independent Fast Thinning Algorithm},
+  year =	1985,
+  month =	jul,
+  journal =	PAMI,
+  volume =	{PAMI-7},
+  number =	4,
+  pages =	{463--474},
+  keywords =	{}
+)
+
+@incollection( Arcelli86Finding,
+  author =	{C. Arcelli and Sanniti di Baja, G.},
+  title =	{Finding Multiple Pixels},
+  year =	1986,
+  booktitle =	{Image Analysis and Processing},
+  editor =	{V. Cantoni, S. Leviadi and G. Musso},
+  publisher =	{Plenum Press},
+  pages =	{137--144},
+  address =	{New York, NY, U.S.A.},
+  keywords =	{}
+)
+
+@inproceedings( Arcelli86Simplicity,
+  crossref =	"ICPR86",
+  author =	{C. Arcelli and Sanniti di Baja, G.},
+  title =	{On the Simplicity of Digital Curves and Contours},
+  pages =	{283--285},
+  keywords =	{}
+)
+
+@article( Arcelli86Computing, 
+  author =	{C. Arcelli and Sanniti di Baja, G.},
+  title =	{Computing {V}oronoi Diagrams in Digital Pictures},
+  year =	1986,
+  month =	oct,
+  journal =	PattRecLet,
+  volume =	4,
+  number =	5,
+  pages =	{383--390},
+  keywords =	{}
+)
+
+@article( Arcelli87Contour,
+  author =	{C. Arcelli and Sanniti di Baja, G.},
+  title =	{A Contour Characterization for Multiply Connected
+		 Figures},
+  year =	1987,
+  month =	sep,
+  journal =	PattRecLet,
+  volume =	6,
+  pages =	{245--249},
+  keywords =	{}
+)
+
+@Article( Arcelli88Finding,
+  author =	{C. Arcelli and Sanniti di Baja, G.},
+  title =	{Finding Local Maxima in a Pseudo-{E}uclidean Distance
+		 Transform},
+  year =	1988,
+  journal =	CVGIP,
+  volume =	43,
+  pages =	{361--367},
+  lib =		{SKEL\ARCELLI},
+  keywords =	{}
+)
+
+@article( Arcelli89OnePass,
+  author =	{C. Arcelli and Sanniti di Baja, G.},
+  title =	{A One-Pass Two-Operations Process to Detect the
+		 Skeletal Pixels on the 4-Distance Transform},
+  year =	1989,
+  month =	apr,
+  journal =	PAMI,
+  volume =	{PAMI-11},
+  number =	4,
+  pages =	{411--414},
+  keywords =	{}
+)
+

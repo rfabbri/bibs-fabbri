@@ -1,0 +1,34 @@
+#! /bin/sh
+#
+# Find keyword
+#
+# check # of arguments to script
+# 
+# example usage:
+# ./Find "Benjamin Kimia"   // searches for string "Benjamin Kimia" only using the bib files under /vision/docs/kimia/reference. Doesn't use the old-reference folder.
+# ./Find "Benjamin Kimia" 1 // the same thing as above
+# ./Find "Benjamin Kimia" 2 // also searches the old-reference folder
+
+case $# in
+	1)	only_new=1
+		;;
+	2)	
+		if [ $2 -eq 1 ] || [ $2 -eq 2 ]
+		then
+			only_new=$2
+		else
+			echo "The second input can be either 1 (i.e. don't search the old-reference folder) or 2 (i.e. also search the old-reference folder)"
+			exit 1
+		fi
+		;;
+	*)	echo "Usage: $0 <keyword> [search-option]" 1>&2
+		exit 1
+		;;
+esac
+
+if [ $only_new -eq 1 ]
+then
+	ls /vision/docs/kimia/reference/*.bib | xargs grep -i "$1" | more
+else
+	find /vision/docs/kimia/reference -type f -name '*.bib' -print | xargs grep -i "$1" | more
+fi

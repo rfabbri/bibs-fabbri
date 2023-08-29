@@ -1,0 +1,1266 @@
+\begin{thebibliography}{100}
+
+\bibitem{Abeyratne:etal:ultrasound}
+U.~Abeyratne, A.~Petropulu, and J.~Reid.
+\newblock Higher order spectra based deconvolution of ultrasound images.
+\newblock {\em IEEE}, 42(6):1064--1075, November 1995.
+
+\bibitem{Gamboa-Aldeco:etal:multiple}
+A.Gamboa-Aldeco, L.~Fellingham, and G.~Chen.
+\newblock Correlation of 3-d surfaces from multiple modalities in medical
+  imaging.
+\newblock {\em Proc SPIE Medicine XIV/PACS IV}, 626:467--473, 1986.
+
+\bibitem{Alpert:etal:transformation}
+N.~Alpert, J.~Bradshaw, D.~Kennedy, and J.~Correia.
+\newblock The principal axes transformation-a method for image registration.
+\newblock {\em J Nucl Med}, 31(10):1717--1722, 1990.
+
+\bibitem{Andreasen:etal:voxel:antemortem}
+N.~Andreasen, T.~Cizadlo, G.~Harris, V.~Swayze, D.~O'Leary, G.~Cohen,
+  J.~Ehrhardt, and W.~Yuh.
+\newblock Voxel processing techniques for the antemortem study of neuroanatomy
+  and neuropathology using magnetic resonance imaging.
+\newblock {\em Journal of Neuropsychiatry}, 5(2):121--130, 1993.
+
+\bibitem{Andreasen:General:review}
+N.~Andreasen, G.~Cohen, G.~Harris, T.~Cizadlo, J.~Parkkinen, K.~Rezai, and
+  V.~Swayze.
+\newblock Image processing for the study of brain structure and function:
+  Problems and programs.
+\newblock {\em Journal of Neuropsychiatry}, 4(2):125--133, 1992.
+
+\bibitem{Andreasen:etal:brainmap}
+N.~Andreasen, G.~Harris, T.~Cizadlo, S.~Arndt, D.~O'Leary, V.~Swayze, and
+  M.~Flaum.
+\newblock Techniques for measuring sulca/gyral patterns in the brain as
+  visualized through magnetic resonance scanning: Brainplot and brainmap.
+\newblock {\em Proc. Natl. Acad. Sci. USA}, 90:93--97, January 1994.
+
+\bibitem{Andreason:etal:schizophrenia}
+N.~Andreason, L.~Flashman, and M.~Flaum.
+\newblock Regional brain abnormalities in schizophrenia measured with magnetic
+  resonance imaging.
+\newblock {\em JAMA}, 272(22):1763--1769, 1994.
+
+\bibitem{Friston:etal:FMRI}
+K.~F.~J. Ashburner, C.~Frith, J.~Poline, and R.~Frackowiak.
+\newblock Anaylsis of functional mri time-series.
+\newblock {\em Human Brain Mapping}, 3:165--189, 1995.
+
+\bibitem{Aston:etal:extraction}
+E.~Aston, E.~Berg, K.~Parker, J.~Weisberg, C.~Chen, and L.~Ketonen.
+\newblock Segmentation and features extraction techniques, with applications to
+  biomedical images.
+\newblock {\em IEEE}, pages 726--730, 1994.
+
+\bibitem{Aston:etal:bayesian}
+E.~Aston and K.~Parker.
+\newblock Multiple resolution bayesian segmentation of ultrasound images.
+\newblock {\em SPIE}, 2359:38--49, March 1994.
+
+\bibitem{Axel:etal:intensity}
+L.~Axel, J.~Constantini, and J.~Listerud.
+\newblock Intensity correction in surface-coil \uppercase{MR} imaging.
+\newblock {\em AJR}, 148:418--420, February 1987.
+
+\bibitem{Ayache:results:trends}
+N.~Ayache.
+\newblock Computer vision applied to 3{D} medical images: Results, trends and
+  future challenges.
+\newblock Technical report, INRIA, 1993.
+
+\bibitem{Ayache:etal:tracking}
+N.~Ayache, I.~Cohen, and I.~Herlin.
+\newblock Medical image tracking.
+\newblock pages 284--369.
+
+\bibitem{Aylward:etal:spatially}
+S.~Aylward, J.~Coggins, T.~Cizadlo, and N.~Andreasen.
+\newblock Spatially invariant classification of tissues in \uppercase{MR}
+  images.
+\newblock {\em SPIE}, 2359:352--361.
+
+\bibitem{Azuma:Improving:1994}
+R.~Azuma and G.~Bishop.
+\newblock Improving static and dynamic registration in an optical see-through
+  hmd.
+\newblock {\em Computer Graphics Proceedings}, Annual Conference
+  Series:197--204, 1994.
+
+\bibitem{Azuma:Survey:1997}
+R.~T. Azuma.
+\newblock A survey of augmented reality.
+\newblock {\em Presence}, 6(4):355--451, 1997.
+
+\bibitem{Bajcsy:Kovacic:elastic}
+R.~Bajcsy and S.~Kovacic.
+\newblock Multiresolution elastic matching.
+\newblock {\em Comp Vis Graph Image Proc}, 46:1--21, 1989.
+
+\bibitem{Banks:Hodge:Knee:Kinematics}
+S.~A. Banks and W.~A. Hodge.
+\newblock Accurate measurement of three-dimensional knee replacement kinematics
+  using single-plane fluorscopy.
+\newblock {\em IEEE Trans. Biomedical Engineering}, 43(6):638--649, 1996.
+
+\bibitem{Bedell:etal:MRI}
+B.~Bedell, P.~Narayana, and D.~Johnston.
+\newblock Three-dimensional mr image registration of the human brain.
+\newblock {\em Magnetic Resonance in Medicine}, 35:384--390, 1996.
+
+\bibitem{Belliveau:etal:MRI}
+J.~Belliveau, D.~Kennedy, R.~McKinstry, B.~Buchbinder, R.~Weisskoff, M.~Cohen,
+  J.~Jeeva, T.~Brady, and B.~Rosen.
+\newblock Functional mapping of the human visual cortex by magnetic resonance
+  imaging.
+\newblock {\em Science}, 254:859--871, 1991.
+
+\bibitem{Bensaid:etal:Clustering}
+A.~Bensaid, L.~Hall, J.~Bedzeck, and L.P.Clarke.
+\newblock Partially supervised clustering for image segmentation.
+\newblock {\em Pattern Recognition}, 29:859--871, 1996.
+
+\bibitem{Biederman:Recognition:Components}
+I.~Biederman.
+\newblock Recognition-by-components: A theory of human image understanding.
+\newblock {\em Psychological Review}, 94:115--147, 1987.
+
+\bibitem{Birnbaum:etal:hemangiomas}
+B.~Birnbaum, M.~Noz, and J.~Chapnick.
+\newblock Hepatic hemangiomas: diagnosis with fusion of mr, ct, and
+  tc-99m-labeled red blood cell spect images.
+\newblock {\em Radiology}, 181:469--474, 1991.
+
+\bibitem{Boecker:etal:FMRI}
+H.~Boecker, D.~Khorram-Sefat, A.~Kleischmidt, K.~Merboldt, W.~Hanicke, and
+  J.~Frahm.
+\newblock High-resolution functional magnetic resonance imaging of cortical
+  activation during tactile exploration.
+\newblock {\em Human Brain Mapping}, 3:236--244, 1995.
+
+\bibitem{Boissonnat:shape:reconstruction}
+J.~D. Boissonnat.
+\newblock Shape reconstruction from planar cross sections.
+\newblock {\em Computer Vision, Graphics, and Image Processing}, 44:1--29,
+  1988.
+
+\bibitem{Bolduc94}
+M.~Bolduc and M.~Levine.
+\newblock A foveated retina system for robotic vision.
+\newblock Proceedings of Vision Interface, Banff,Canada, May 1994.
+
+\bibitem{Bookstein:medical:biometrics}
+F.~Bookstein.
+\newblock From medical images to the biometrics of form.
+\newblock {\em Information Processing in Medical Imaging}, pages 1--18, 1986.
+
+\bibitem{Bookstein:warps:deformation}
+F.~Bookstein.
+\newblock Principal warps: Thin-plate splines and the decomposition of
+  deformation.
+\newblock {\em IEEE Trans PAMI}, 11(6):567--585, 1989.
+
+\bibitem{Brandt:etal:Brain:MRI}
+M.~Brandt, T.~Bohan, L.~Kramer, and J.~Fletcher.
+\newblock Estimation of csf, white and gray matter volumes in hydrocephalic
+  children using fuzzy clustering of mr images.
+\newblock {\em Computerized Medical Imaging and Graphics}, 18:25--34, 1994.
+
+\bibitem{Brandt:functional:imaging}
+S.~Brandt, T.~Davis, H.~Obrig, B.~Meyer, J.~Belliveau, B.~Rosen, and
+  A.~Villringer.
+\newblock Functional magnetic resonance imaging shows localized brain
+  activation during serial transcranial stimulation in man.
+\newblock {\em Neuroreport}, 7(3):734--736, 1996.
+
+\bibitem{Brinkley:knowledge:85}
+J.~F. Brinkley.
+\newblock Knowledge-driven ultrasonic three-dimensional organ modelling.
+\newblock {\em IEEE Trans. on Pattern Analysis and Machine Intelligence},
+  7:431--441, 1985.
+
+\bibitem{Brinkley:flexible}
+J.~F. Brinkley.
+\newblock A flexible, generic model for anatomic shape:application to
+  interactive two-dimensional medical image segmentation and matching.
+\newblock {\em Computers an Biomedical Research}, 26:121--142, 1993.
+
+\bibitem{Buonocore:Coronary:MRI}
+M.~Buonocore.
+\newblock Estimation of total coronary artery flow using measurements of flow
+  in the ascending aorta.
+\newblock {\em Magnetic Resonance in Medicine}, 32:602--611, 1994.
+
+\bibitem{Burleigh:etal:collagen}
+M.~C. Burleigh, A.~D. Briggs, C.~L. Lendon, M.~J. Davies, G.~V.~R. Born, and
+  P.~D. Richardson.
+\newblock Collagen types i and iii, collagen content, {GAG}s and mechanical
+  strebgth of human atherosclerotic plaque caps: span-wise variation.
+\newblock {\em Atherosclerosis}, 96:71--81, 1992.
+
+\bibitem{Yvert:etal:Mesh:EEG}
+B.Yvert, O.~Bertrand, J.~Echallier, and J.~Pernier.
+\newblock Improved forward eeg calculations using local mesh refinement of
+  realistic head geometries.
+\newblock {\em Electroencephalography and clinical Neurophysiology},
+  95:381--392, 1995.
+
+\bibitem{Heath:etal:automatic:liver}
+Cao, D.~Heath, B.~Kuszyk, and E.~Fishman.
+\newblock Automatic liver segmentation technique of three-dimensional
+  visualization of \uppercase{CT} data.
+\newblock {\em Radiology}, pages 359--364, November 1996.
+
+\bibitem{Cham:etal:geometric}
+T.~Cham and R.~Cipolla.
+\newblock Geometric saliency of curve correspondences and grouping of symmetric
+  contours.
+\newblock {\em Proc. 4th Europena Conf. on Computer Vision, Lecture Notes in
+  computer Science}, pages 383--398, 1996.
+
+\bibitem{Charette93}
+P.~Charette, T.~Doukoglou, I.~Hunter, S.~Lafontaine, A.~J. Lynette,
+  G.~Mallinson, and M.~Sagar.
+\newblock A teleoperated microsurgical robot and associated virtual environment
+  for eye surgery.
+\newblock In {\em Presence}, volume~2, pages 265--280. MIT Press, fall edition,
+  1993.
+
+\bibitem{Cheng:etal:characterization}
+K.~Cheng.
+\newblock In vivo tissue characterization of human brain by chisquares
+  parameter maps: multiparmater proton t2-relaxation analysis.
+\newblock {\em Magnetic Resonance Imaging}, 12(7):1099--1109, 1994.
+
+\bibitem{Cheng:Chisquare:MRI}
+K.~Cheng.
+\newblock In vivo tissue characterization of human brain by chisquares parmeter
+  maps: Multiparameter proton t2-relaxation analysis.
+\newblock {\em Magnetic Resonance Imaging}, 12:1099--1109, 1994.
+
+\bibitem{Christensen:Deformable:Neuroanatomy}
+G.~E. Christensen, R.~D. Rabbitt, and M.~I. Miller.
+\newblock 3d brain mapping using a deformable neuroanatomy.
+\newblock {\em Physics in Medicine and Biology}, 39:608--618, 1994.
+
+\bibitem{Cizadlo:etal:multiple:injection}
+T.~Cizadlo, N.~Andreasen, G.~Zeien, R.~Rajarethinam, G.~Harris, D.~O'Leary,
+  V.~Swayze, S.~Arndt, R.~Heichwa, J.~Ehrhardt, and W.~Yuh.
+\newblock Image registration issue in the analysis of mutiple-injection $15_o$
+  $h_2$0 {PET} studies: {BRAINFIT}.
+\newblock {\em SPIE Medical Imaging: Physiology and Functions from
+  Multidimensional Images}, 2168:234--235, August 1994.
+
+\bibitem{Cline:etal:Cerebral:MRI}
+H.~Cline, W.E.Lorensen, and W.~Schroeder.
+\newblock 3d phase contrast mri of cerebral blood flow and surface anatomy.
+\newblock {\em Journal of Computer Assisted Tomography}, 17:173--177, 1993.
+
+\bibitem{Cohen:etal:Overview:FMRI}
+J.~Cohen, D.~Noll, and W.Schneider.
+\newblock Functional magnetic resonance imaging: Overview and methods for
+  psychological research.
+\newblock {\em Behavior Research methods, Instruments, \& Computers},
+  25:101--113, 1993.
+
+\bibitem{Collins:etal:talairach:space}
+D.~Collins, P.~Neelin, T.~Peters, and A.~Evans.
+\newblock Automatic 3d intersubject registration of \uppercase{MR} volumetric
+  data in standardized talairach space.
+\newblock {\em Journal of Computer Assisted Tomography}, 18(2):192--205,
+  March/April 1994.
+
+\bibitem{Cordes:etal:focal}
+M.~Cordes, W.~Christe, and H.~Henkes.
+\newblock Focal epilepsies: Hm-pao spect compared with ct, mr, and eeg.
+\newblock {\em Journal of Computer Assisted Tomography}, 14:402--409, 1990.
+
+\bibitem{Dann:etal:cerebral}
+R.~Dann, J.~Hoford, S.~Kovacic, M.~Reivich, and R.~Bajcsy.
+\newblock Evaluation of elastic matching system for anatomic (ct, mr) and
+  functional(pet) cerebral images.
+\newblock {\em J Comput Assist Tomogr}, 13(4):603--611, 1989.
+
+\bibitem{Davies:etal:risk}
+M.~J. Davies, P.~D. Richardson, N.~Woolf, D.~R. Katz, and J.~Mann.
+\newblock Risk of thrombosis in human atherosclerotic plaques: role of
+  extracellular lipid, macrophage, and smooth muscle cell content.
+\newblock {\em British Heart Journal}, 69:377--381, 1993.
+
+\bibitem{DeCarli:etal:Alzheimer}
+C.~DeCarli, J.~A. Kaye, B.~Horwitz, and S.~I. Rappaport.
+\newblock Critical analysis of the use of computer-assisted transverse axial
+  tomography to study human brain in aging and dementia of the alzheimer type.
+\newblock {\em Neurology}, 40:872--881, 1990.
+
+\bibitem{Dempster:etal:EM}
+A.~Dempster, N.~Laird, and D.~Rubin.
+\newblock Maximum likelihood from incomplete data via the \uppercase{EM}
+  algorithm.
+\newblock {\em Journal of Royal Statistical Society}, Series B, 39:1--38, 1977.
+
+\bibitem{Detmer:matched:filter}
+P.~R. Detmer, G.~Bashein, R.~W. Martin, and the study~of Prioperative Ischemia
+  Reasearch~Group.
+\newblock Matched filter identification of left-ventricular endocardial borders
+  in transesophageal echocardiograms.
+\newblock {\em IEEE Transactions on Medical Imaging}, 9:396--404, 1990.
+
+\bibitem{Docimo:Telerobotic:1997}
+S.~G. Docimo, R.~G. Moore, and L.~R. Kavoussi.
+\newblock Telerobotic surgery is clinical reality: Current experience with
+  telementoring in adults and children.
+\newblock {\em Presence}, 6(2):173--252, 1997.
+
+\bibitem{Elster:Gradient-echo:MRI}
+A.~Elster.
+\newblock Gradient-echo mr imaging: Techniques and acronyms.
+\newblock {\em Radiology}, 186:1--8, 1993.
+
+\bibitem{Ettinger:etal:sclerosis}
+G.~Ettinger, W.~G.~T. Lozano-Perez, W.~W. III, S.~White, and R.~Kikinis.
+\newblock Automatic registration for multiple-sclerosis change detection.
+\newblock In {\em Proceedings of IEEE Workshop on Biomedical Image Analysis},
+  pages 297--305, June 1995.
+
+\bibitem{Evans:etal:MRI-PET}
+A.~Evans, S.~Marrett, J.~Torrescorzo, S.~Ku, and L.~Collins.
+\newblock Mri-pet correlation in three dimensions using a
+  volume-of-interest(voi) atlas.
+\newblock {\em J Cereb Blood Flow Metab}, 11(2):A69--A78, 1991.
+
+\bibitem{Faber:etal:cardiac}
+T.~Faber, R.~McColl, R.~Opperman, J.~Corbett, and R.~Peshock.
+\newblock Spatial and temporal registration of cardiac spect and mr images:
+  methods and evaluation.
+\newblock {\em Radiology}, 179:857--861, 1991.
+
+\bibitem{Faber:Stokely:orientation}
+T.~Faber and E.~Stokely.
+\newblock Orientation of 3-d structures in medical images.
+\newblock {\em IEEE Trans PAMI}, 10(5):626--633, 1988.
+
+\bibitem{Faber:model:based}
+T.~L. Faber, E.~M. Stokely, R.~M. Peshock, and J.~R. Corbett.
+\newblock A model-based four-dimensional left ventricular surface detector.
+\newblock {\em IEEE Transactions on Medical Imaging}, 10:321--329, 1991.
+
+\bibitem{Feinberg:Oshio:GRASE:MRI}
+D.~Feinberg and K.~Oshio.
+\newblock Grase (gradient-and spin-echo mr imaging: A new fast clinical imaging
+  technique.
+\newblock {\em Radiology}, 181:597--602, 1991.
+
+\bibitem{Feldman:Contour:Tracing}
+T.~Feldman.
+\newblock Find-contour.cc.
+\newblock {\em Island Graphics Corporation}, 1985.
+
+\bibitem{Fletcher:etal:brain:tissue}
+L.~Fletcher, J.~Barsotti, and J.~Hornak.
+\newblock A multispectral analysis of brain tissues.
+\newblock {\em MRM}, 29:623--630, 1993.
+
+\bibitem{Friston:functional:imaging}
+K.~Friston, P.~Jezzard, and R.~Turner.
+\newblock Analysis of functional mri time-series.
+\newblock {\em Human Brain Mapping}, 1:153--171, 1994.
+
+\bibitem{Friston:etal:Registration}
+K.~Friston, P.~Jezzard, and R.~Turner.
+\newblock Spatial registration and normalization of images.
+\newblock {\em Human Brain Mapping}, 1:151--171, 1994.
+
+\bibitem{Gerig:car94}
+G.~Gerig, T.~Koller, G.~szakely, C.~Brechbuhler, and O.~Kubler.
+\newblock Segmentation and symbolic description of cerebral vessel structure
+  based on mr angiography volume data.
+\newblock In {\em Computer Assisted Radiology}, 1994.
+
+\bibitem{Gerig:etal:Segmentation:MRI}
+G.~Gerig, J.~Martin, R.~Kikinis, O.~Kubler, M.Shenton, and F.~Jolesz.
+\newblock Unsupervised tissue type segmentaton of 3d dual-echo mr head data.
+\newblock {\em Image and Vision Computing}, 10:349--360, 1992.
+
+\bibitem{Gerig:etal:dual:echo}
+G.~Gerig, J.~Martin, R.~Kikinis, O.~Kubler, M.~Shenton, and F.~Jolesz.
+\newblock Automating segmentation of dual-echo \uppercase{MR} head data.
+\newblock {\em IEEE}, pages 175--185, 1994.
+
+\bibitem{Gohagan:etal:multispectral}
+J.~Gohagan, E.~Spitznagel, W.~Murphy, M.~Vannier, W.~Dixson, D.~Gersell,
+  S.~R.~W. Totty, J.~Destouet, D.~Rickman, T.~Spraggins, and R.~Butterfield.
+\newblock Multispectral analysis of \uppercase{MR} images of the breast.
+\newblock {\em Radiology}, 163(3):703--707, June 1987.
+
+\bibitem{Graves94}
+S.~Graves, J.~Mollenhauer, and B.~Morgan.
+\newblock Dynamic session mangement for telerobotic control adn simulation.
+\newblock In {\em IEEE International Conferenc On Robotics and Automation},
+  volume~2, pages 1740--45. IEEE Computer Society Press, San Diego, California,
+  May.
+
+\bibitem{Grevera:Shape-Based:1994}
+G.~J. Grevera and J.~K. Udupa.
+\newblock Shape-based interpolation of multidimensional grey-level images.
+\newblock {\em SPIE}, 2164:14--21, 1994.
+
+\bibitem{Grevera:Shape-Based:1996}
+G.~J. Grevera and J.~K. Udupa.
+\newblock Shape-based interpolation of multidimensional grey-level images.
+\newblock {\em IEEE Trans. On Medical Imag.}, 15(6):881--892, 1996.
+
+\bibitem{Griffin:etal:gradient}
+L.~Griffin, A.~Colchester, and G.~Robinson.
+\newblock Scale and segmentation of grey-level images using maximum gradient
+  paths.
+\newblock {\em VBC}, 1994.
+
+\bibitem{Grimson:etal:visualization}
+W.~Grimson, G.~Ettinger, S.~White, P.~Gleason, T.~Lozano-Perez, W.~W. III, and
+  R.~Kikinis.
+\newblock Evaluating and validating an automated registration system for
+  enhanced reality visualization in surgery.
+\newblock {\em Proceedings of the First International Conference on Computer
+  Vision, Virtual Reality, and Robotics in Medicine}, April 1995.
+
+\bibitem{Grzeszczuk:etal:brownian}
+R.~Grzeszczuk and D.~Levin.
+\newblock ``brownian strings'': segmenting images with stochastically
+  deformalble contours.
+\newblock {\em SPIE}, 2359:72--88.
+
+\bibitem{Hajnal:etal:Registration:MRI}
+J.~Hajnal, N.~Saeed, A.~Oatridge, E.J.Williams, I.~Young, and G.~Bydder.
+\newblock Detection of subtle brain changes using subvoxel registration and
+  subtraction of serial mr images.
+\newblock {\em Journal of Computer Assisted Tomography}, 19:677--791, 1995.
+
+\bibitem{Hajnal:etal:Interpolation:MRI}
+J.~Hajnal, N.~Saeed, E.~Soar, A.~Oatridge, I.~Young, and G.~Bydder.
+\newblock A registration and interpolation procedure for subvoxel matching of
+  serially acquired mr images.
+\newblock {\em Journal of Assisted Tomography}, 19:289--296, 1995.
+
+\bibitem{Handschumacher:etal:integrated}
+M.~Handshumacher, J.~Lethor, S.~Siu, D.~Mele, J.~Rivera, M.~Picard, A.~Weyman,
+  and R.~Levine.
+\newblock A new integrated system for three-dimensional echocardiographic
+  reconstruction: development and validation for ventricular volume with
+  application in human subjects.
+\newblock {\em JACC}, 21(3):743--753, March 1993.
+
+\bibitem{Heath:etal:clinical:validation}
+D.~Heath, B.~Kuszyk, and E.~Fishman.
+\newblock Automatic liver segmentation technique for three-dimensional
+  visualization of ct data.
+\newblock {\em Radiology}, 201:359--364, 1996.
+
+\bibitem{Henri:etal:stereotactic}
+C.~Henri, D.~Collins, and T.~Peters.
+\newblock Multimodality image integration for stereotactic surgical planning.
+\newblock {\em Med Phys}, 18:167--177, 1991.
+
+\bibitem{Henri:phd:thesis}
+C.~J. Henri.
+\newblock Three-dimensional reconstruction of cerebral vasculature.
+\newblock Technical Report PhD thesis, Department of Biomedical Engineering,
+  McGill University, Montreal, 1993.
+
+\bibitem{Higgins:Simulation:1997}
+G.~A. Higgins, G.~L. Merrill, L.~J. Hettinger, C.~R. Kaufmann, H.~R. Champion,
+  and R.~M. Satava.
+\newblock New simulation technologies for surgical training and certification:
+  Current status and future projections.
+\newblock {\em Presence}, 6(2):160--172, 1997.
+
+\bibitem{Hill:etal:surgery}
+D.~Hill, D.~Hawkes, J.~Crossman, M.~Gleeson, and T.~Cox.
+\newblock Registration of mr and ct images for skull base surgery using
+  point-like anatomical features.
+\newblock {\em Brit J Radiology}, 64(767):1030--1035, 1991.
+
+\bibitem{Hill94}
+J.~Hill, S.~Green, J.~Jensen, Y.~Gorfu, and A.~Shaah.
+\newblock Telepresence surgery demonstration system.
+\newblock In {\em IEEE International Conferenc On Robotics and Automation},
+  volume~3, pages 2302--07. IEEE Computer Society Press, San Diego, California,
+  May 1994.
+
+\bibitem{Holden:Segmentation:Visualization}
+M.~Holden, E.~Steen, and A.~Lundervold.
+\newblock Segmentation and visualization of brain lesions in multispectral
+  magnetic resonance images.
+\newblock {\em Computerized Medical Imaging and Graphics}, 19(2):171--183,
+  1995.
+
+\bibitem{Humphreys:Rosen:1991}
+P.~Humphreys, G.~D. Rosen, D.~M. Press, G.~F. Sherman, and A.~M. Galaburda.
+\newblock Freezing lesions of the developing rat brain: A model for
+  cerebrocortical microgyria.
+\newblock {\em Journal of Neuropathology and Experimental Neurology},
+  50(2):145--160, 1991.
+
+\bibitem{Humphreys:etal:Freezing:Lesions}
+P.~Humphreys, G.~D. Rosen, D.~M. Press, G.~F. Sherman, and A.~M. Galaburda.
+\newblock Freezing lesions of the developing rat brain: A model for
+  cerebrocortical microgyria.
+\newblock {\em Journal of Neuropathology and Experimental Neurology},
+  50(2):145--160, 1991.
+
+\bibitem{Hunter:morphometric:measurements}
+G.~Hunter, L.~Hamberg, R.~Weisskoff, E.~Halpern, and T.~Brady.
+\newblock Measurement of stroke volume and cardiac output within a single
+  breath hold with echo-planar mr imaging.
+\newblock {\em JMRI}, 4(1):51--58, 1994.
+
+\bibitem{Hunter:etal:measurement}
+G.~Hunter, L.~Hamberg, R.~Wesskoff, E.~Halpern, and T.~Brady.
+\newblock Measurement of stroke volume and cardiac output within a single
+  breath hold with echo-planar \uppercase{MR} imaging.
+\newblock {\em JMRI}, 4(1):51--58, January/February 1994.
+
+\bibitem{Hunter91}
+I.~Hunter, S.~Lafontaine, J.~Hollerbach, and P.~Hunter.
+\newblock Fast reversible niti fibers for use in microrobotics.
+
+\bibitem{Wells:etal:intensity:correction}
+W.~W. III, W.~Grimson, R.~Kikinis, and F.~Jolesz.
+\newblock Statistical intensity correction and segmentation of \uppercase{MRI}
+  data.
+\newblock {\em SPIE}, 2359:13--25, March 1994.
+
+\bibitem{Jack:etal:Alzheimer}
+C.~R. Jack, R.~C. Peterson, P.~C. O'Brien, and E.~G. Tangalos.
+\newblock Mr-based hippocampal volumetry in the diagnosis of alzheimer's
+  disease.
+\newblock {\em Neurology}, 42:183--188, 1992.
+
+\bibitem{James:etal:Imaging:CT:Wrist}
+S.~E. James, R.~Richards, and D.~A. McGrouther.
+\newblock Three-dimensional \uppercase{CT} imaging of the wrist.
+\newblock {\em Journal of Hand Surgery}, 17B(5):504--506, 1992.
+
+\bibitem{Jiang:etal:multimodality}
+H.~Jiang, R.~Robb, and K.~Holton.
+\newblock A new approach to 3{D} registration of multimodality medical images
+  by surface matching.
+\newblock {\em Proc SPIE Visualization in Biomedical Computing}, 1808:196--213,
+  1992.
+
+\bibitem{Jobst:etal:Alzheimer}
+K.~A. Jobst, N.~J. Hindley, E.~King, and A.~D. Smith.
+\newblock The diagnosis of alzheimer's disease: A question of image?
+\newblock {\em Journal of Clinical Psychiatry}, 55(11,suppl):22--31, 1994.
+
+\bibitem{Joshi:etal:Brain:Mapping}
+S.~C. Joshi, M.~I. Miller, G.~E. Christensen, A.~Banerjee, T.~Coogan, and
+  U.~Grenander.
+\newblock Hierarchial brain mapping via a generalized dirichlet solution for
+  mapping brain manifolds.
+
+\bibitem{Joshi:etal:Cortical}
+S.~C. Joshi, J.~Wang, and M.~I. Miller.
+\newblock On the differential geometry of the cortical surface.
+
+\bibitem{Jungke:General:review}
+M.~Jungke, W.~von Seelen, G.~Bielke, S.~Meindl, G.~Krone, M.~Grigat, P.~Higer,
+  and P.~Pfannenstiel.
+\newblock Information processing in nuclear magnetic resonance imaging.
+\newblock {\em Magnetic Resource Imaging}, 6(6):683--693, 1988.
+
+\bibitem{Kalvin:Boundary:Footprints}
+A.~Kalvin, E.~Schonberg, J.~Scwartz, and M.~Sharir.
+\newblock Two-dimensional, model-based, boundary matching using footprints.
+\newblock {\em Intl. Journal of Robotics Research}, 5:38--55, 1986.
+
+\bibitem{Kamber:etal:dual:echo}
+M.~Kamber, D.~Collins, R.~Shinghal, G.~Francis, and A.~Evans.
+\newblock Model-based 3d segmentation of mutiple-sclerosis lesions in dual-echo
+  \uppercase{MRI} data.
+\newblock {\em SPIE}, 1808:590--600, 1992.
+
+\bibitem{Karrholm:Chronic:Knee}
+J.~Karrholm, L.~Elmqvist, G.~Selvik, and L.~Hansson.
+\newblock Chronic antrolateral instability of the knee: a roentgen
+  stereophotogrammetric evaluation.
+\newblock {\em American Journal of Sports Medicine}, 17(4):555--563, 1989.
+
+\bibitem{Kazanzides94}
+P.~Kazanzides, J.~Zuhars, B.~Mittelstadt, and R.~Taylor.
+\newblock Force sensing and control for a surgical robot.
+\newblock In {\em IEEE International Conferenc On Robotics and Automation},
+  volume~1, pages 612--17. IEEE Computer Society Press, Nice, France, May.
+
+\bibitem{Kelly:image:guided:surgery}
+P.~Kelly.
+\newblock Quantitative virtual reality enhances stereotactic neurosurgery.
+\newblock {\em Bulletin of the American College of Surgeons}, 80(11):13--20,
+  1995.
+
+\bibitem{Kesslak:etal:Alzheimer}
+J.~P. Kesslak, O.~Nalcioglu, and C.~W. Cotman.
+\newblock Quantification of magnetic resonance scans for hippocampal and
+  parahippocampal atrophy in alzheimer's disease.
+\newblock {\em Neurology}, 41:51--54, 1991.
+
+\bibitem{Kikinis:etal:surgical:reconstructions:planning}
+R.~Kikinis, H.~Cline, D.~Altobelli, M.~Halle, W.~Lorensen, and F.~Jolesz.
+\newblock Interactive visualization and manipulation of 3{D} reconstructions
+  for the planning of surgical procedures.
+\newblock {\em SPIE, Visualization in Biomedical Computing}, 1808:559--563,
+  1992.
+
+\bibitem{Klinker:Confluence:1997}
+G.~J. Klinker, K.~H. Ahlers, D.~E. Breen, P.~yves Chevalier, C.~Crampton, D.~S.
+  Greer, D.~Koller, A.~Kramer, E.~Rose, M.~Tuceryan, and R.~T. Whitaker.
+\newblock Confluence of computer vision and interactive graphics for augmented
+  reality.
+\newblock {\em Presence}, 6(4):433--451, 1997.
+
+\bibitem{Koh:tracking:patella}
+T.~J. Koh, M.~Grabiner, and R.~DeSwart.
+\newblock In vivo tracking of the human patella.
+\newblock {\em Journal of Biomechanics}, 25(6):637--644, 1992.
+
+\bibitem{Kooy:etal:fusion}
+H.~Kooy, M.~van Herk, P.~Barnes, E.~Alexander, S.~Dunbar, N.~Tarbell,
+  R.~Mulkern, E.~Holupka, and J.~Loeffler.
+\newblock Image fusion for sterotactic radiotherapy and radiosurgery treatment
+  planning.
+\newblock {\em I.J. Radiation Oncology}, 28(5):1229--1234, 1995.
+
+\bibitem{Krog:etal:lesions}
+G.~Krog and J.~Galich.
+\newblock Pre-operative localization of intracranial lesions on mr.
+\newblock {\em AJNR}, 9:513--516, 1988.
+
+\bibitem{Lafortune:kinematics:knee:walking}
+M.~Lafortune, P.~Cavanagh, H.~Sommer, and A.~Kalenak.
+\newblock Three-dimensional kinematics of the human knee during walking.
+\newblock {\em Journal of Biomechanics}, 25(4):347--358, 1992.
+
+\bibitem{Saleudean94}
+S.~Lalcudean and J.~Yan.
+\newblock Towards a force-reflecting mootion-scaling system for microsurgry.
+\newblock In {\em IEEE International Conferenc On Robotics and Automation},
+  volume~3, pages 2296--301. IEEE Computer Society Press, San Diego,
+  California, May 1994.
+
+\bibitem{Lan:etal:Measuring}
+J.~Lan and S.~P. Salloway.
+\newblock Measuring brain parenchema, ventricular, and subarachnoid spaces.
+\newblock {\em Butler Hospital, Neurology Department}, 1995.
+
+\bibitem{Latchaw:MRI:neuroradiology}
+R.~Latchaw.
+\newblock Application of functional mri in neuroradiology.
+\newblock {\em Presented at ASNR Annual Meeting}, May 6, 1994.
+
+\bibitem{Lavallee:IGOR}
+S.~Lavallee and P.~Cinquin.
+\newblock Igor: Image guided operating robot.
+\newblock {\em IEEE}, 7803:876--881, 1991.
+
+\bibitem{Lavallee:image:guided:surgery}
+S.~Lavallee, J.~Troccaz, L.~Gaborit, P.~Cinquin, A.~Benabid, and D.~Hoffmann.
+\newblock Image guided operating robot: a clinical application in stereotactic
+  neurosurgery.
+\newblock {\em IEEE}, 8186:618--624, 1992.
+
+\bibitem{Lavallee:etal:stereotactic}
+S.~Lavallee, J.~Troccaz, L.~Gaborit, P.~Cinquin, A.~Benabid, and D.~Hoffmann.
+\newblock Image guided operating robot: a clinical application in stereotactic
+  neurosurgery.
+\newblock {\em IEEE}, pages 618--624, 1992.
+
+\bibitem{Lee:Massear:Carpal:Injuries}
+D.~Lee and V.~Massear.
+\newblock Comparison of arthroscopic and {MRI} interpretation of carpal
+  ligamentous injuries: An in vitro study.
+\newblock Personal communication, 1993.
+
+\bibitem{Lee:etal:tumors}
+M.~Lee, P.~Mueller, S.~Dawson, G.~Gazelle, P.~Hahn, M.~Goldberg, and G.~Boland.
+\newblock Percutaneous ethanol injection for the treatment of hepatic tumors:
+  Indications, mechanism of action, technique, and efficacy.
+\newblock {\em AJR}, 164:215--220, 1995.
+
+\bibitem{LeMay:etal:Alzheimer}
+M.~LeMay, J.~L. Stafford, T.~Sandor, M.~Albert, H.~Haykal, and A.~Zamani.
+\newblock Statistical assessment of perceptual ct scan ratings in patients with
+  alzheimer type dementia.
+\newblock {\em Journal of Computer Assisted Tomography}, 10(5):802--809, 1986.
+
+\bibitem{Levine:mitral:valve}
+R.~Levine.
+\newblock Mitral valve prolapse: clinical impact of new diagnostic criteria and
+  insights from three-dimensional echocardiography.
+\newblock {\em Journal of Cardiology}, 24(38):3--14, 1994.
+
+\bibitem{Levine:etal:annular}
+R.~Levine, M.~Triulzi, P.~Harrigan, and A.~Weyman.
+\newblock The relationship of mitral annular shpae to the diagnosis of mitral
+  valve prolapse.
+\newblock {\em Circulation}, 75(4):756--767, April 1987.
+
+\bibitem{Lim:etal:cerebrospinal}
+K.~Lim and A.~Pfefferbaum.
+\newblock Segmentation of \uppercase{MR} brain images into cerebrospinal fluid
+  spaces, white and gray matter.
+\newblock {\em Journal of Computer Assisted Tomography}, 13(4):588--593,
+  July/August 1989.
+
+\bibitem{Nowinski:etal:neuroimaging}
+W.~Lowinski.
+\newblock A dual probalistic classifier for three-dimensional neuroimaging from
+  \uppercase{MRI} data5.
+\newblock {\em SPIE}, 2359:373--385, March 1994.
+
+\bibitem{Lundervold:Segmentation:Multispectral:MRI}
+A.~Lundervold and G.~Storvik.
+\newblock Segmentation of brain parenchyma and cerebrospinal fluid in
+  multispectral magnetic resonance images.
+\newblock {\em IEEE Transactions on Medical Imaging}, 14:339--349, 1995.
+
+\bibitem{Lundervold:Segmentation:Brain}
+A.~Lundervold and G.~Storvik.
+\newblock Segmentation of brain parenchyma and cerebrospinal fluid in
+  multispectral magnetic resonance images.
+\newblock {\em IEEE Transactions on Medical Imaging}, 14(2):339--349, 1995.
+
+\bibitem{Lutton:etal:vanishing:Hough}
+E.~Lutton, H.~Maitre, and J.~Lopez-Krahe.
+\newblock Determining vanishing points using hough transform.
+\newblock {\em SPIE}, 1360:420--430, 1990.
+
+\bibitem{MacDonald:wbc94}
+D.~MacDonald, D.~Avis, and A.~C. Evans.
+\newblock Multiple surface idendification and matching in magnetic resonance
+  images.
+\newblock In {\em Visualization on Biomedical Computing}, 1994.
+
+\bibitem{malandain93:topological}
+G.~Malandain, G.~Bertrand, and N.~Ayache.
+\newblock Topological segmentation of discrete surfaces.
+\newblock {\em International Journal of Computer Vision}, 10(2):183--197, 1993.
+
+\bibitem{Mangin:MRI:1995}
+J.-F. Mangin.
+\newblock From 3d magnetic resonance images to structural representations of
+  the cortex topography using topology preserving deformations.
+\newblock {\em Journal of Mathematical Imaging and Vision}, 5:297--318, 1995.
+
+\bibitem{Marrett:etal:anatomical-functional}
+S.~Marrett, A.~Evans, L.~Collins, and T.~Peters.
+\newblock Anatomical-functional correlative analysis of the human brain using
+  three dimensional imaging systems.
+\newblock {\em Proc SPIE Med Im III: Image Processing}, 1092:264--274, 1989.
+
+\bibitem{Marrett:etal:neurophysiological}
+S.~Marrett, A.~Evans, L.~Collins, and T.~Peters.
+\newblock A volume of interest(voi) atlas for the analysis of
+  neurophysiological image data.
+\newblock {\em Proc SPIE Med Im III: Image Processing}, 1092:467--477, 1989.
+
+\bibitem{Martin:etal:analysis}
+J.~Martin, A.~Pentland, and R.~Kikinis.
+\newblock Shape analysis of brain structures using physical and experimental
+  modes.
+\newblock In {\em CVPR1994}, pages 752--755, 1994.
+
+\bibitem{Martinez:etal:epilepsy}
+M.~Martinez, J.~Sananaria, and J.~Mercader.
+\newblock Correlation of mri hippocampal volume analysis video/eeg monitoring
+  and inter and post ictal single photon emission tomography in refractory
+  focal epilepsy.
+\newblock {\em Neuroradiology}, 37(11), 1994.
+
+\bibitem{Mayfield:Patterns:Carpal:Injury}
+J.~K. Mayfield.
+\newblock Patterns of injury to carpal ligaments - {A} spectrum.
+\newblock {\em Clinical Orthopaedics}, 187:36--42, 1984.
+
+\bibitem{Miki:Computer-Assisted:1997}
+Y.~Miki, R.~I. Grossman, J.~K. Udupa, S.~Samarasekera, M.~A. van Buchem, B.~S.
+  Cooney, S.~N. Pollack, D.~L. Kolson, C.~Constantinescu, M.~Polansky, and
+  L.~J. Mannon.
+\newblock Computer-assisted quantitation of enhancing lesions in multiple
+  sclerosis:correlation with clinical classification.
+\newblock {\em AJNR Am. J. Neuroradiology}, pages 705--710, 1997.
+
+\bibitem{Momenan:etal:staining}
+R.~Momenan, R.~Wagner, B.~Garra, M.~Loew, and M.~Insana.
+\newblock Image staining and differential diagnosis of ultrasound scans based
+  on the mahalanobis distance.
+\newblock {\em IEEE}, 13(1):1994, March 1994.
+
+\bibitem{Nastar:ayache:classification}
+C.~Nastar and N.~Ayache.
+\newblock Classification of nonrigid motion in 3{D} images using physics-based
+  vibration analysis.
+\newblock In {\em CVPR1994}, pages 61--69, 1994.
+
+\bibitem{Nastar:etal:vibration}
+C.~Nastar and N.~Ayache.
+\newblock Classification of nonrigid motion in 3d images using physics-based
+  vibration analysis.
+\newblock {\em IEEE}, pages 61--69, 1994.
+
+\bibitem{Ozkan:etal:neural}
+M.~Ozkan, B.~Dawant, and R.~Maciunas.
+\newblock Neural-network-based segmentation of multi-modal medical images: a
+  comparative and prospective study.
+\newblock {\em IEEE}, 12(3):534--544, September 1994.
+
+\bibitem{Paul94}
+H.~Paul, B.~Mittlestadt, W.~Bargar, B.~Musits, R.~Taylor, P.~Kaaazanzides,
+  J.~Zuhars, B.~Williamson, and W.~Hanson.
+\newblock A surgical robot for total hip replacement surgery.
+\newblock In {\em IEEE International Conferenc On Robotics and Automation},
+  volume~1, pages 606--11. IEEE Computer Society Press, Nice, France, May.
+
+\bibitem{Pelizzari:etal:registration}
+C.~Pelizzari, G.~Chen, D.~Spelbring, R.~Weichselbaum, and D.~Levin.
+\newblock Accurate three-dimensional registration of ct, pet, and/or mr images
+  of the brain.
+\newblock {\em J Comput Assist Tomogr}, 13(1):20--26, 1989.
+
+\bibitem{Perona:Orientation:texture:diffusion}
+P.~Perona.
+\newblock Orientation diffusions.
+\newblock {\em IEEE Trans. on Image Proc.}, page 1999.
+
+\bibitem{Peters:etal:angiography}
+T.~Peters, J.~Clark, A.~Olivier, E.~Marchand, and G.~Mawko.
+\newblock Integrated stereotaxic imaging with ct, mr imaging, and digital
+  subtraction angiography.
+\newblock {\em Radiology}, 161(3):821--826, 1986.
+
+\bibitem{Peters:etal:integration}
+T.~M. Peters, C.~J. Henri, A.~M. Takahashi, and A.~C. Evans.
+\newblock Integration of stereoscopic {DSA} and 3{D} {MRI} for image guided
+  neurosurgery.
+\newblock {\em Computerized Medical Imaging and Graphics}, 18:289--299, 1994.
+
+\bibitem{Marbot91}
+M.~Pierre-Henry and B.~Hannaford.
+\newblock Mini direct drive robot arm for biomedical application.
+\newblock In {\em Fifth International Conference on Advanced Robotics},
+  volume~1, pages 859--64. IEEE Service Center, Pisa, Italy, June 1991.
+
+\bibitem{Poon:etal:contour}
+C.~Poon, M.~Braun, R.~Fahrig, A.~Ginige, and A.~Dorrell.
+\newblock Segmentation of medical images using an active contour model
+  incorporatin region-based image features.
+\newblock {\em SPIE}, 2359:90--95.
+
+\bibitem{Lohner:etal:generation:advancing:front}
+rainald Lohner and P.~Parikh.
+\newblock Generation of three-dimensional unstructured grids by the advancing
+  front method.
+\newblock {\em Int'l Jour. for Num. Meth. in Fluids}, 8:1135--1149, 1988.
+
+\bibitem{Redner:Walker:Mixture:EM}
+R.~A. Redner and H.~F. Walker.
+\newblock Mixture densities, maximum likelihood and the \uppercase{EM}
+  algorithm.
+\newblock {\em SIAM Review}, 26(2):195--239, 1984.
+
+\bibitem{Rekimoto:NaviCam:1997}
+J.~Rekimoto.
+\newblock A magnifying glass approach to augmented reality.
+\newblock {\em Presence}, 6(4):399--414, 1997.
+
+\bibitem{Roberts:bloch:equations}
+J.~Roberts.
+\newblock The bloch equations. how to have fun calculating what happens in nmr
+  experiments with a personal computer.
+\newblock {\em Concepts in Magnetic Resonance}, 3:27--45, 1991.
+
+\bibitem{Romeny:etal:clinical:validation}
+B.~H. Romeny, F.~Bastin, J.~Steenbeek, K.~Zuiderveld, and M.~Viergever.
+\newblock Three dimensional ct subtraction angiography.
+\newblock {\em SPIE}, 2359:262--271, 1994.
+
+\bibitem{Rosen:Harry:1990}
+G.~D. Rosen and J.~D. Harry.
+\newblock Brain volume estimation from serial section measurements: a
+  comparison of methodologies.
+\newblock {\em Journal of Neuroscience Methods}, 35:115--124, 1990.
+
+\bibitem{Rosen:Sherman:1990}
+G.~D. Rosen, G.~F. Sherman, K.~Emsbo, C.~Mehler, , and A.~M. Galaburda.
+\newblock The midsagittal area of the corpus callosum and total neocortical
+  volume differ in three inbred strains of mice.
+\newblock {\em Experimental Neurology}, 107:271--276, 1990.
+
+\bibitem{Rosenfield:etal:coronary}
+K.~Rosenfield, D.~Losordo, and K.~Ramaswany.
+\newblock Three dimensional reconstruction of human coronary and peripheral
+  arteries from images recorded during two-dimensional intravascular ultrasound
+  examination.
+\newblock {\em Circulation}, 84:1938--1956, 1991.
+
+\bibitem{Ruby:etal:Scapholunate:Motion}
+L.~K. Ruby, W.~Cooney, K.~An, R.~Linscheid, and E.~Chao.
+\newblock The effect of scapholunate ligament section on scapholunate motion.
+\newblock {\em Journal of Hand Surgery}, 12A(5):767--771, 1987.
+
+\bibitem{Ruby:etal:Kinematic:Analysis}
+L.~K. Ruby, W.~Cooney, K.~An, R.~Linscheid, and E.~Chao.
+\newblock Relative motion of selected carpal bones: A kinematic analysis of the
+  normal wrist.
+\newblock {\em Journal of Hand Surgery}, 13A:1--10, 1988.
+
+\bibitem{Rusinek:etal:Alzheimer}
+H.~Rusinek, M.~J. de~Leon, A.~E. George, L.~A. Stylopoulos, R.~Chandra,
+  G.~Smith, T.~Rand, M.~Mourino, and H.~Kowalksi.
+\newblock Alzheimer disease: Measuring loss of cerebral gray matter with mr
+  imaging.
+\newblock {\em Radiology}, 178:109--114, 1991.
+
+\bibitem{Salcudean:YanMotion:Scaling}
+S.~Salcudean and J.~Yan.
+\newblock Towards a force-reflecting motion-scaling system for microsurgery.
+\newblock In {\em Robotics and Automation}, volume~3, pages 2296--2307, Los
+  Alamitos, California, May 1994. IEEE International Conference on Robotics and
+  Automation.
+
+\bibitem{Satava:Virtual:1997}
+R.~M. Satava and S.~B. Jones.
+\newblock Virtual environments for medical training and education.
+\newblock {\em Presence}, 6(2):139--252, 1997.
+
+\bibitem{Sato94}
+T.~Sato, J.~Ichikawa, M.~Mitsuishi, and Y.~Hatamura.
+\newblock A new micro-teleoperation system wmplooying a hand-held
+  force-feedback pencil.
+\newblock In {\em IEEE International Conferenc On Robotics and Automation},
+  volume~2, pages 1728--33. IEEE Computer Society Press, Los Alamitos,
+  California, May 1994.
+
+\bibitem{Savelberg:PhD:Carpal:Motion}
+H.~Savelberg.
+\newblock {\em Wrist Joint Kinematics and Ligament Behavior}.
+\newblock PhD thesis, Nijmegen University, 1991.
+
+\bibitem{Savelberg:etal:Ligament:Recruitment}
+H.~Savelberg, J.~G. Kooloos, A.~de~Lange, R.~Huiskes, and J.~M. Kauer.
+\newblock Human carpal ligament recruitment and three-dimensional carpal
+  motion.
+\newblock {\em Journal Orthopaedic Research}, 9(5):693--704, 1991.
+
+\bibitem{Savelberg:etal:Carpal:Kinematics}
+H.~Savelberg, J.~G. Kooloos, J.~D.~M. Otten, R.~Huiskes, and J.~M. Kauer.
+\newblock Carpal bone kinematics and ligament lengthening studied for the full
+  range of joint movement.
+\newblock {\em Journal of Biomechanics}, 26(12):1389--1402, 1993.
+
+\bibitem{Schad:etal:Radiosurgical:MRI}
+L.~Schad, H.~Bluml, S.~Hawighorst, F.~Wenz, and W.~J. Lorenz.
+\newblock Radiosurgical treatment planning of brain metases based on a fast,
+  three-dimensional mr imaging technique.
+\newblock {\em Magnetic Resonance Imaging}, 12:811--819, 1994.
+
+\bibitem{Schad:etal:Stimulation:FMRI}
+L.~Schad, F.~W.~M. Knopp, K.~Baudendistel, E.~Muller, and W.~J. Lorenz.
+\newblock Functional 2d and 3d magnetic resonance imaging of motor cortex
+  stimulation at high spatial resolution using standard 1.5 t imager.
+\newblock {\em Magnetic Resonance Imaging}, 12:9--15, 1994.
+
+\bibitem{Schueler:etal:fundamentals}
+C.~Schueler, H.~Lee, and G.~Wade.
+\newblock Fundamentals of digital ultrasonic imaging.
+\newblock {\em IEEE}, 31(4):195--217, July 1994.
+
+\bibitem{Schweidard94}
+A.~Schweidard, R.~Tombropoulos, L.~Kavraki, J.~Adler, and L.~Jean-Claude.
+\newblock Treatment planning for a radiosurgical system with general
+  kinematics.
+\newblock In {\em IEEE International Conferenc On Robotics and Automation},
+  volume~2, pages 1720--1727. IEEE Computer Society Press, Los Alamitos,
+  California, May 1994.
+
+\bibitem{Selvic:kinematics:PhD}
+G.~Selvik.
+\newblock A roentgen stereophotogrammetric method for the study of the
+  kinematics of the skeletal system.
+\newblock {Ph.D.} dissertation, Universityof Lund, Sweden.
+
+\bibitem{SHK:etal:balloon}
+T.~SHK, E.~Gussenhoren, and Y.~Zhong.
+\newblock The effect of balloon angioplasty on the femoral artery evaluated
+  with intravascular ultrasound.
+\newblock {\em Circulation}, 86:483--493, 1992.
+
+\bibitem{Shostko:etal:unstructured:grid:generation}
+A.~Shostko and R.~Lohner.
+\newblock Three-dimensional parallel unstructured grid generation.
+\newblock {\em Int'l. Jour. for Num. Meth. in Eng.}, 38:905--925, 1995.
+
+\bibitem{Singh94}
+S.~Singh, M.~Bostrom, D.~Popa, and C.~Wiley.
+\newblock Desigh of an interactive lumbar puncture simulator with tactile
+  feedback.
+\newblock In {\em IEEE International Conferenc On Robotics and Automation},
+  volume~2, pages 1734--39. IEEE Computer Society Press, San Diego, California,
+  May 1994.
+
+\bibitem{Skorton:General:review}
+D.~Skorton, S.~Collins, E.~Garcia, E.~Geiser, W.~Hillard, W.~Koppes, D.~Linder,
+  and G.~Schwartz.
+\newblock Digital signal and image processing in echocardiography.
+\newblock {\em American Heart Journal}, 2(15):1266--1283, 1985.
+
+\bibitem{Soltanian-Zadeh:Eigenimage:MRI}
+H.~Soltanian-Zadeh, R.Saigal, J.~Windham, A.~Eagle, and D.~O. Hearshen.
+\newblock Optimization of mri protocols and pulse sequence parameters for
+  eigenimage filtering.
+\newblock {\em IEEE Transactions on Medical Imaging}, 13:161--175, 1994.
+
+\bibitem{Staib:etal:fourier}
+L.~Staib and J.~Duncan.
+\newblock Deformable {F}ourier modles for suface finding in 3{D} images.
+\newblock {\em SPIE Visualization in Biomedical Computing}, 1808:90--104, 1992.
+
+\bibitem{Staib:etal:intermodality}
+L.~Staib and X.~Lei.
+\newblock Intermodality 3d medical image registration with global search.
+\newblock {\em IEEE}, pages 225--234, 1994.
+
+\bibitem{Steen:morphometric:measurements}
+R.~Steen, S.~Gronemeyer, P.~Kingsley, W.~Reddick, J.~Langston, and J.~Taylor.
+\newblock Precise and accurate measurement of proton t1 in human brain in vivo:
+  validation and preliminary application.
+\newblock {\em JMRI}, 4(5):681--691, 1994.
+
+\bibitem{Stokking:etal:visualization}
+R.~Stokking, K.~Zuiderveld, H.~Hulshoff, and M.~Viergever.
+\newblock \uppercase{SPECT}/\uppercase{MRI} visualization for frontal lobe
+  damaged regions.
+\newblock {\em SPIE}, 2359.
+
+\bibitem{Sugiura:etal:carcinoma}
+N.~Sugiura, K.~Takara, M.~Ohto, K.~Okuda, and N.~Hirooka.
+\newblock Percutaneous intratumoral injection of ethanol under ultrasound
+  imaging for treatment of small hepatocellular carcinoma.
+\newblock {\em Acta Hepatol Jpn}, 24:920--923, 1983.
+
+\bibitem{Taxt:Lundervold:Multispectral:MRI}
+T.~Taxt and A.~Lundervold.
+\newblock Multispectral analysis of the brain using magnetic resonance imaging.
+\newblock {\em IEEE Transactions on Medical Imaging}, 13(3):470--481, 1994.
+
+\bibitem{Taylor91}
+R.~Taylor, H.~Paul, P.~Kazanzides, B.~Mittelstadt, W.~Hanson, J.~Zuhars, and
+  B.~Williamson.
+\newblock Taming the bull: Safety in a precise robot.
+\newblock In {\em Fifth International Conference on Advanced Robotics},
+  volume~1, pages 865--70. IEEE Service Center, Pisa, Italy, 1991.
+\newblock June.
+
+\bibitem{Tek:etal:Bubbles}
+H.~Tek and B.~B. Kimia.
+\newblock Shock-based reaction-diffusion bubbles for image segmentation.
+\newblock {\em Technical Report LEMS-138, Division on Engineering, Brown
+  University}, 1994.
+
+\bibitem{Toennies:etal:segmentation}
+K.~Toennies, G.~Herman, and J.~Udupa.
+\newblock Surface registration for the segmentation of implanted bone grafts.
+\newblock {\em Computer Assisted Radiology, Springer-Verlag, Berlin}, pages
+  381--385, 1989.
+
+\bibitem{Lavallee94}
+S.~L.~J. Troccaz, L.~Gaborit, P.~Cinquin, A.~Benabid, and D.~Hoffmann.
+\newblock Image guided operating robot: A clinical application in stereotactic
+  neurosurgery.
+\newblock In {\em IEEE International Conferenc On Robotics and Automation},
+  volume~1, pages 618--24. IEEE Computer Society Press, Nice, France, May 1994.
+
+\bibitem{Udupa:Multiple:1997}
+J.~Udupa, L.~Wei, S.~Samarasekera, Y.~Miki, M.~van Buchem, and R.~Grossman.
+\newblock Multiple sclerosis lesion quantification using fuzzy-connectedness
+  principles.
+\newblock {\em IEEE Trans. On Medical Imaging}, 16(5):598--609, 1997.
+
+\bibitem{Udupa:Connected:1997}
+J.~K. Udupa.
+\newblock Connected, oriented, closed bondaries in digital spaces:thoery and
+  algorithms.
+\newblock {\em Elsevier}, pages 205--231, 1996.
+
+\bibitem{Udupa:Automatic:1997}
+J.~K. Udupa, D.~Odhner, jie Tian, G.~Holland, and L.~Axel.
+\newblock Automatic clutter-free volume rendering for mr angiography using
+  fuzzy connectedness.
+\newblock {\em SPIE}, 3035:114--119, 1997.
+
+\bibitem{Udupa:Fuzzy:1996}
+J.~K. Udupa and S.~Samarasekera.
+\newblock Fuzzy connectedness and object definition: Theory, algorithms, and
+  applications in image segmentation.
+\newblock {\em Graphical Models and Image Processing}, 58(3):246--261, 1996.
+
+\bibitem{Udupa:Pentium:1997}
+J.~K. Udupa, J.~Tian, D.~C. Hemmy, and P.~Tessier.
+\newblock A pentium personal computer-based craniofacial three-dimensional
+  imagine and analysis system.
+\newblock {\em The Journal of Craniofacial Surgers}, 8(5):333--339, 1997.
+
+\bibitem{Udupa:System:1997}
+J.~K. Udupa, L.~Wei, Y.~Miki, and R.~I. Grossman.
+\newblock A system for the comprehensive analysis of multiple sclerosis lesion
+  load based on mr imagery.
+\newblock {\em SPIE}, 3031:610--618, 1997.
+
+\bibitem{Elsen:etal:image:matching}
+P.~van~den Elsen, E.~Pol, and M.~Viergever.
+\newblock Medical image matching--a review with classification.
+\newblock {\em IEEE Engineering in Medicine and Biology}, pages 26--39, March
+  1993.
+
+\bibitem{Vandermeulen:VBC92}
+D.~Vandermeulen, D.~Delaere, P.~Suetens, H.~Bosmans, and G.~Marchal.
+\newblock Local filtering and global optimization methods for 3{D} magnetic
+  resonance angiography({MRA}).
+\newblock In {\em Visualization on Biomedical Computing}, pages 274--288, 1992.
+
+\bibitem{VanGool:texture:survey}
+L.~VanGool, P.~Dewaele, and A.~Oosterlinck.
+\newblock Texture analysis anno 1983.
+\newblock {\em Computer Vision, Graphics, and Image Processing}, 29:336--357,
+  1985.
+
+\bibitem{Vannier:etal:magnetic}
+M.~Vannier, R.~Butterfield, D.~Jordan, W.~Murphy, R.~Levitt, and M.~Gado.
+\newblock Multispectral analysis of magnetic resonance images.
+\newblock {\em Radiology}, 154(1):221--224, January 1985.
+
+\bibitem{Vannier:etal:multispectral:tissue}
+M.~Vannier, C.~Speidel, and D.~Rickman.
+\newblock Magnetic resonance imaging multispectral tissue classification.
+\newblock {\em NIPS}, 3:148--154, August 1988.
+
+\bibitem{Watson:Subluxation:Scaphoid}
+H.~Watson, L.~Ottoni, E.~Pitts, and A.~Handal.
+\newblock Rotary subluxation of the scaphoid: A spectrum of instability.
+\newblock {\em Journal of Hand Surgery}, 18B:62--64, 1993.
+
+\bibitem{Weeks:etal:Imaging:Wrist}
+P.~M. Weeks, M.~W. Vannier, W.~G. Stevens, D.~Gayou, and L.~A. Gilula.
+\newblock Three-dimensional imaging of the wrist.
+\newblock {\em Journal of Hand Surgery}, 10A(1):32--39, 1984.
+
+\bibitem{Weng:etal:cardiac}
+J.~Weng, A.~Singh, and M.~Chiu.
+\newblock Learning-based ventricle detection from cardiac \uppercase{MR} . and
+  \uppercase{CT} images.
+\newblock {\em IEEE}, pages 23--32, 1994.
+
+\bibitem{Wester:etal:clinical:validation}
+K.~Wester.
+\newblock Gender distribution and sidedness of middle fossa arachnoid cysts: A
+  review of cases diagnosed with computed imaging.
+\newblock {\em Neurosurgery}, 31(5):940--944, 1992.
+
+\bibitem{Wester:gender:distribution}
+K.~Wester.
+\newblock Gender distribution and sidedness of middle fossa arachnoid cysts: a
+  review of cases diagnosed with computed imaging.
+\newblock {\em Neurosurgery}, 31(5):940--944, November 1992.
+
+\bibitem{Wicks:morphometric:measurements}
+D.~Wicks, P.~Tofts, D.~Miller, G.~du~Boulay, A.~Feinstein, R.~Sacares,
+  I.~Harvey, R.~Brenner, and W.~McDonald.
+\newblock Volume measurement of multiple sclerosis lesions with magnetic
+  resonance images.
+\newblock {\em Neuroradiology}, 34:475--479, 1994.
+
+\bibitem{Wicks:etal:lesions}
+D.~Wicks, P.~Tofts, D.~Miller, G.~du~Boulay, A.~Feinsten, R.~Sacares,
+  I.~Harvey, R.~Brenner, and W.~McDonald.
+\newblock Volume measurement of mutliple sclerosis lesions with magnetic
+  resonance images.
+\newblock {\em Neuroradiology}, 34:475--479, 1992.
+
+\bibitem{Wong:etal:LipidMRI}
+W.~Wong, S.~Northup, R.~Herrick, A.~Glombicki, R.~Wood, and J.~Morrisett.
+\newblock Quantitation of lipid in biological tissue by chemical shift magnetic
+  resonance imaging.
+\newblock {\em Magnetic Resonance in Medicine}, 32:440--446, 1994.
+
+\bibitem{Wood:Fourier:Imaging}
+M.~Wood.
+\newblock {\em Fourier imaging}, volume~1, chapter~2, pages 21--66.
+\newblock Mosby-Year book, 1992.
+
+\bibitem{Xiong:functional:imaging}
+J.~Xiong, J.~Gao, J.~Lancaster, and P.~Fox.
+\newblock Clustered pixels analysis for functional mri activation studies of
+  the human brain.
+\newblock {\em Human Brain Mapping}, 3:287--301, 1995.
+
+\bibitem{Xiong:etal:clustered:pixels}
+J.~Xiong, J.~Gao, J.~Lancaster, and P.~Fox.
+\newblock Clustered pixels analysis for functional \uppercase{MRI} activation
+  studies of the human brain.
+\newblock {\em Human Brain Mapping}, 3:287--301, 1995.
+
+\bibitem{Yamashita:etal:histopathologic}
+Y.~Yamashita, Z.~Fan, H.~Yamaoto, and T.~Matsukawa.
+\newblock Spin-echo and dynamic gadolinium-enhanced flash \uppercase{MR}
+  imaging of hepatocellular carcinoma: correlation with histopathologic
+  findings.
+\newblock {\em JMRI}, 1(212):83--90, January/February 1994.
+
+\bibitem{Young:etal:reconstruction}
+A.~Young, D.~Kraitchman, and L.~Axel.
+\newblock Deformalble models for tagged \uppercase{MR} images: reconstruction
+  of two- and three-dimensional heart wall motion.
+\newblock {\em IEEE}, pages 317--323, 1994.
+
+\bibitem{Young:Bydder:Phase:Imaging}
+I.~Young and G.~Bydder.
+\newblock {\em Phase Imaging}, volume~1, chapter~9, pages 219--232.
+\newblock Mosby-Year book, 1992.
+
+\bibitem{Yuan:MR:image}
+C.~Yuan, U.~Schmiedl, E.~Weinberger, W.~Krueck, and S.~Rand.
+\newblock Three-dimensional fast spin-echo imaging: pulse sequence and in vivo
+  image evaluation.
+\newblock {\em JMRI}, 3(6):894--899, 1993.
+
+\bibitem{Yvert:etal:geometries}
+B.~Yvert, O.~Bertrand, J.~Echallier, and J.~Pernier.
+\newblock Improved forward eeg calculations using local mesh refinement of
+  realistic head geometries.
+\newblock {\em Electroencephalography and clinical Neurophysiology}, pages
+  381--392, 1995.
+
+\bibitem{Zijdenbos:morphometric:measurements}
+A.~Zidjenbos, B.~Dawant, R.~Margolin, and A.~Palmer.
+\newblock Morhometric analysis of white matter lesions in {MR} images: method
+  and validation.
+\newblock {\em IEEE Transactions on Medical Imaging}, 13(4):716--724, 1994.
+
+\bibitem{Zidjenbos:etal:morphometric}
+A.~Zigdenbos, B.~Dawant, R.~Margolin, and A.~Palmer.
+\newblock Morphometric aalysis of white matter lesions in \uppercase{MR}
+  images: method and validation.
+\newblock {\em IEEE}, 13(4):716--724, December 1994.
+
+\bibitem{Zijdenbos:etal:morphometric}
+A.~P. Zijdenbos, B.~M. Dawant, R.~A. Margolin, and A.~C. Palmer.
+\newblock Morhpometric analysis of white matter lesions in {MR} images: method
+  and valiation.
+\newblock {\em Medical Imaging}, 13(4):716--724, 1992.
+
+\bibitem{Zubal:etal:intermodality}
+G.~Zubal, H.~Tagare, L.~Zhang, and J.~Duncan.
+\newblock 3-d registration of intermodality medical images.
+\newblock {\em Ann Int Conf IEEE Engng Med Biol Soc}, 13:293--294, 1991.
+
+\end{thebibliography}

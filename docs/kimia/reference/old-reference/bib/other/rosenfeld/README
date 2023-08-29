@@ -1,0 +1,30 @@
+
+
+November 10, 1989
+
+
+Dr. Azriel Rosenfeld's Bibliography.
+
+For each year of the bibliography, there are  two  files;  a
+pre-imagen  file (e.g.  preimagen.biblio.1988) in troff for-
+mat (using our own bibliography macro package, mebib) and  a
+text  file  (e.g. biblio.text.1988), which is the pre-imagen
+file run through nroff and edited a bit.
+
+Also included  is  our  bibliographic  troff  macro  package
+tmacs.ebib  (to  provide  the  -mebib option for troff).  It
+should be installed in /usr/lib/tmacs  (or  where  ever  you
+keep you troff macro packages), if you want to be able to do
+anything with the preimagen.biblio files.
+
+The bibliography files occupy under 3.5 MBytes.
+
+Sincerely,
+
+Joseph Sanjour
+Systems Administrator
+Center for Automation Research
+University of Maryland
+College Park, MD  20742-3411
+
+sanjour@cvl.umd.edu

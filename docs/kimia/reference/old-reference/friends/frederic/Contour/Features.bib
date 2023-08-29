@@ -1,0 +1,154 @@
+%
+%	Fischler86	Perceptual Organization and Curve...
+%	Han90		Detection of Convex and Concave...
+%	Langridge82	Curve Encoding and the Detection of...
+%	Ledley64:	High-speed Automatic Analysis...
+%	Sankar78	A Parallel Procedure for the Detection...
+%	Teh89		On the Detection of Dominant Points...
+%
+
+@Article{Fischler86Perceptual,
+  author = 	{M. A. Fischler and R. C. Bolles},
+  title = 	{Perceptual Organization and Curve Partitioning},
+  journal = 	PAMI,
+  year = 	1986,
+  volume = 	8,
+  number = 	1,
+  pages = 	{100--105},
+  month = 	jan,
+  lib =		{BOUND/FEATURES},
+  keywords =	{Four paradigms for curve partitioning.
+		 Two principles of effective model-based
+		 interpretation. Curve partitioning by detecting
+		 local discontinuity: look at deviations of the curve
+		 from a chord or stick that is iteratively advanced
+		 along the curve.}
+}
+
+@Article{Han90Detection,
+  author = 	{J. H. Han},
+  title = 	{Detection of Convex and Concave Discontinuous Points
+		 in a Plane Curve},
+  crossref = 	"ICCV3",
+  pages = 	{71--74},
+  lib =		{ICCV},
+  keywords =	{Draw a line segment between 2 curve pts. (of length
+		 L). Use the distance (D) from the line to the curve
+		 as a criterion. City-Block DT. Accumulator (H) for
+		 each pt. --> number of times a pt. is seen as an
+		 extrema. 3 thresholds: L, Dmin, Hmin.
+		}
+}
+
+@Article{Langridge82Curve,
+  author = 	{D. J. Langridge},
+  title = 	{Curve Encoding and the Detection of
+		 Discontinuities},
+  journal = 	CGIP,
+  year = 	1982,
+  volume = 	20,
+  number = 	1,
+  pages = 	{58--71},
+  month = 	sept,
+  note = 	{See \cite{Langridge72Computation}. Contour points are
+		 allowed to move around their position (maximum shift
+		 permitted == parameter ``e''). Local iterative
+		 process to obtain a set of cubic splines. Breaks the
+		 curve at points of local maximum first derivative. A
+		 lower threshold ``t'' is set experimentally for
+		 discontinuities. The iterative process stops when all
+		 local maxima are less than ``t''. Results are
+		 orientation-dependent (in accordance with human
+		 perception).}
+}
+
+@Article{Ledley64HighSpeed,
+  author = 	{R. S. Ledley},
+  title = 	{High-speed Automatic Analysis of Biomedical Pictures},
+  journal = 	{Science},
+  year = 	1964,
+  volume = 	146,
+  pages = 	{216--223},
+  month = 	oct,
+  lib =		{BOUND/FEATURES},
+  keywords =	{Boundary analysis in terms of ``direction'' and
+		 ``curvature''. Segment length. Trailing and leading
+		 vectors --> Tangent (average). Curvature = length /
+		 turning angle.
+		Curve segments classification: convex (concave),
+		 degree of convexity (concavity) or curvature,
+		 straight line, ``notches'' (or perturbations).
+		}
+}
+
+@Article{Sankar78Parallel,
+  author = 	{P. V. Sankar and C. U. Sharma},
+  title = 	{A Parallel Procedure for the Detection of Dominant
+		 Points on a Digital Curve},
+  journal = 	CGIP,
+  year = 	1978,
+  volume = 	7,
+  pages = 	{403--412},
+  lib =		{BOUND/FEATURES},
+  keywords =	{Local curvature based on 3pts --> quantized angle set
+			--> 3 classes: +, 0, -; k(i,1) = 1, 0 or -1.
+		 Global curvature: sum of local curvatures
+			--> iteratively (j>1): k(i,j) = SUM k(i,j-1)
+						i: i - (j) to i + (j)
+			Filter == triangle
+			Stop iterations when # dominant pts stable.
+			--> # dominant pts. converges toward a
+			    minimum --> ad hoc criterion. Will delete
+			    many significant dominant pts.
+		}
+}
+
+@Article( Teh89Detection,
+  author =	{C.-H. Teh and R. T. Chin},
+  title =	{On the Detection of Dominant Points on Digital
+		 Curves},
+  year =	1989,
+  month =	aug,
+  journal =	PAMI,
+  volume =	11,
+  number =	8,
+  pages =	{859--872},
+  lib =		{BOUND/FEATURES},
+  keywords =	{No input parameters.
+		 Region of support, and hence the corresponding scale
+		  or smoothing parameter, of each boundary pt. should
+		  be determined independently, based on its local
+		  properties.
+		 The detection of dominant pts. relies not only on
+		  the accuracy of measures of significance, but
+		  primarily on the precise determination of the region
+		  of support. This is contrary to the traditional
+		  view in which accurate determination of discrete
+		  curvature measures are believed essential.
+		 Review of some algorithms: Rosenfeld--Johnston,
+		  Rosenfeld--Wezska [Rosenfeld75], Freeman--Davis
+		  [Freeman77], Sankar--Sharma [Sankar78] (see above).
+		 Curvature measures (3 levels of significance):
+			o k-cosine
+			o 1-curvature
+			o k-curvature
+		 Determination of the region of support:
+		      o Each boundary pt. should have its own view of
+			of the curve. A dominant pt. should have a
+			view constituting a meaningful region of support
+			of the curve and should block the view from
+			neighboring nondominant pts.
+		      o Length of a chord: l_{ik} == distance between
+			pts. p_{i-k} and p_{i+k}.
+		      o Perpendicular distance: d_{ik} of the pt.
+			p_{i} to the chord.
+		      o Start with k = 1. Compute l_{ik} and d_{ik}
+			until:	(a) l_{ik} >= l_{i,k+1} or
+				(b) |d_{ik}|/l_{ik} >=
+				     |d_{i,k+1}|/l_{i,k+1}
+		      o Region of support = set of pts. which satisfy
+			either (a) or (b).
+		 Dominant points extracted by nonmaxima suppression.
+		}
+)
+

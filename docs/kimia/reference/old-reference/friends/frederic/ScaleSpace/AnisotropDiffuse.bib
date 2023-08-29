@@ -1,0 +1,117 @@
+%
+%	Alvarez90	Image Selective Smoothing and Edge... (II)
+%	Catte90		Image Selective Smoothing and Edge... (I)
+%	Nitzberg90	Nonlinear Image Smoothing with Edge and...
+%	Nordstom89	Biased Anisotropic Diffusion - A Unified...
+%	Osher90		Feature-Oriented Image... (in MathVision/Deblurr.bib)
+%	Perona87	Scale Space and Edge Detection...
+%	Perona90	Scale-Space and Edge Detection...
+%
+
+@TechReport{Alvarez90Image,
+  author = 	{L. Alvarez and P.-L. Lions and J.-M. Morel},
+  title = 	{Image Selective Smoothing and Edge Detection by
+		 Nonlinear Diffusion ({II})},
+  institution = CEREMADE,
+  year = 	1990,
+  type = 	CRMDtr,
+  number = 	9046,
+  address = 	CRMDadr,
+  note = 	{29 pages.}
+}
+
+@TechReport{Catte90Image,
+  author = 	{F. Catt\'e and T. Coll and P.-L. Lions and J.-M.
+		 Morel},
+  title = 	{Image Selective Smoothing and Edge Detection by
+		 Nonlinear Diffusion},
+  institution = CEREMADE,
+  year = 	1990,
+  type = 	CRMDtr,
+  number = 	9044,
+  address = 	CRMDadr,
+  month = 	jul,
+  note = 	{22 pages.}
+}
+
+@TechReport{Nitzberg90Nonlinear,
+  author = 	{M. Nitzberg and T. Shiota},
+  title = 	{Nonlinear Image Smoothing with Edge and Corner
+		 Enhancement},
+  institution = HarvApplSci,
+  year = 	1990,
+  number = 	{90--2},
+  address = 	HarvUAdr,
+  month = 	apr,
+  OPTnote = 	"",
+  keywords =	{Selective and anisotropic blurring with oriented
+		 gaussians. Corners are preserved.}
+}
+
+@TechReport{Nordstom89Biased,
+  author = 	{K. N. Nordstom},
+  title = 	{Biased Anisotropic Diffusion --- A Unified Approach
+		 to Edge Detection},
+  institution = UCalEECS,
+  year = 	1989,
+  OPTtype = 	"",
+  OPTnumber = 	"",
+  address = 	UCalAdr,
+  OPTmonth = 	"",
+  OPTnote = 	"",
+  keywords =	{Introduces a forcing term in the Malik and Perona's
+		 equation, thus giving a nontrivial steady state.}
+}
+
+@inproceedings( Perona87Scale,
+  crossref =	"WCV87",
+  author =	{P. Perona and J. Malik},
+  title =	{Scale Space and Edge Detection Using Anisotropic
+		 Diffusion},
+  pages =	{16--22}
+)
+
+@article( Perona90Scale, 
+  author =	{P. Perona and J. Malik},
+  title =	{Scale-Space and Edge Detection Using Anisotropic
+		 Diffusion},
+  year =	1990,
+  month =	jul,
+  journal =	PAMI,
+  volume =	12,
+  number =	7,
+  pages =	{629--639},
+  keywords =	{Spatially varying diffusion coefficient. Nonlinear
+		 diffusion.
+		 Criteria for scale-space:
+			(1) Causality: no spurious details generated
+		 		(from fine to coarse).
+			(2) Immediate localization: sharp boundaries
+		 		at each resolution should correspond
+		 		to meaningful ones.
+			(3) Piecewise smoothing: intraregion smoothing
+		 		favored over interegion smoothing.
+		 Anisotropic Diffusion:
+			o I_t = div{c * nabla(I)} = c * grad(I) +
+		 		nabla(c) * nabla(I)
+			o Set the conduction coefficient, c, to be
+		 	  non-constant: c = c(x,y,t).
+			o Ideally: c = 1 in (identified) regions and
+		 	  	   c = 0 at boundaries.
+		 	o Practically: c = g(|| E ||);
+				E = E(x,y,t): current estimate of a
+		 		boundary (edges) location at scale t
+		 		(e.g., E = nabla(I)).
+				g(.): nonnegative monotonically
+		 		decreasing function with g(0) = 1.
+			o The anisotropic diffusion equ. < class of
+		 	  elliptic eqns. that satisfy a Maximum
+		 	  Principle (i.e., all max. & min. in the
+		 	  scale-space belong to the original image and
+		 	  the boundaries of the domain of interest).
+			o Adiabatic boundary conditions (i.e., c = 0
+		 	  at the image boundaries) ==> extrema only
+		 	  belong to the original image.
+		 Implementation:
+		}
+)

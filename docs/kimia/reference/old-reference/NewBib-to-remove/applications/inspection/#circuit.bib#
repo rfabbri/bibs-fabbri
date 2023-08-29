@@ -1,0 +1,46 @@
+@article{Hough:Hough:Transform,
+  author = {P. V. C. Hough},
+  title = {Method and Means for Recognizing Complex Patterns},
+  number = {U.S. Patent 3069654},
+  year = {1962},
+}
+
+@article{Duda:Hart:Hough,
+  author = {R.O. Duda and P.E. Hart}, 
+  title = {Use of the Hough Transformation to Detect Lines and Curves in Picture},
+  journal = {Comm. ACM},
+  volume = {15},
+  pages = {11-15},
+  year = {1972},
+}
+
+@inproceedings{Davies:Polygon:Detection,
+  author = {E. R. Davies},
+  title = {Reduced Parameter Spaces for Polygon Detection Using the
+		  Generalised Hough Transform},
+  booktitle = {Proceedings of the\/ $8^{th}$ Internation Conference on
+		  Pattern Recognition},
+  address = {Paris}, 
+  month = {October},
+  year = {1986},
+  pages = {495--497},
+}
+
+@book{Pitas:Image:Algorithm,
+  author = {Ioannis Pitas},
+  title = {Digital Image Processing Algorithms},
+  publisher = {Prentice Hall},
+  city = {New York},
+  year = {1993},
+}
+
+@inproceedings{Shunji:etal:OCR:Review,
+  author = { Shunji Mori and Ching Y. Suen and Kazuhiko Yamamoto},
+  title = {Historical review of OCR research and development},
+  booktitle = {Historical review of OCR research and development},
+  volume = {80},
+  month = {October},
+  year = {1992},
+  pages = {1029--1058},
+}
+

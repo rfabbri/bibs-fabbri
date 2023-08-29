@@ -1,0 +1,387 @@
+@InProceedings{PaleyK95,
+  Author= "Paley, S.M. and Karp, P.D.",
+  Title= "Adapting {CLIM} Applications for Use on the World Wide Web",
+  Booktitle= "Proceedings of the Association of Lisp Users Meeting
+              and Workshop",
+  Year= "1995",
+  pages="1--9",
+Abstract = "The World Wide Web (WWW) offers the potential to deliver specialized
+information to an audience of unprecedented size.  Along with this
+exciting new opportunity, however, comes a challenge for software
+developers: instead of rewriting our software applications to operate
+over the WWW, how can we maximize software reuse by retrofitting
+existing applications?  We have developed a
+Web server tool, written in Common Lisp, that allows any existing
+graphical user interface application written using the Common Lisp
+Interface Manager (CLIM) to hook easily into the WWW.  This tool ---
+CWEST (CLIM-WEb Server Tool, pronounced ``quest'') --- has been
+developed to operate with EcoCyc, an electronic encyclopedia of genes
+and metabolism of the bacterium {\em E. coli}.  EcoCyc consists of a
+database of objects relevant to {\em E. coli} biochemistry and a
+sophisticated interface, implemented in CLIM, that runs on the local
+host window system and generates graphical displays appropriate to
+each type of object.  Each query to our server is passed as a command
+to the EcoCyc program, which responds by dynamically generating an
+appropriate local drawing.  That drawing, which can be a mixture of
+text and graphics, is then translated into the HyperText Markup
+Language (HTML) and/or the Graphics Interchange Format (GIF) and
+returned to the client.  Sensitive regions embedded in the CLIM
+drawing are converted to hyperlinks with Universal Resource Locators
+(URLs) that generate further EcoCyc queries.  This tight coupling of
+CLIM output with Web output makes CLIM an ideal high-level programming
+tool for Web applications.  The flexibility of Common Lisp and CLIM
+made implementation of the server tool surprisingly easy, requiring
+few changes to the existing EcoCyc program.  The results can be seen
+at URL {\tt http://www.ai.sri.com/ecocyc/browser.html}.  We plan to
+make CWEST available to the CLIM community at large, with the hope
+that it will spur other software developers to make their CLIM
+applications available over the WWW.",
+windexkey="sri aic paper papers",
+URL="ftp://ftp.ai.sri.com/pub/papers/paley-luv95.ps.Z",
+}
+
+@Article{KarpMLJ93,
+Key="Karp",
+Author="Karp, P.D.",
+Journal="Machine Learning",
+Title="Design methods for scientific hypothesis formation and their
+application to molecular biology",
+volume="12",
+pages="89--116",
+Year=1993,
+Abstract = "Hypothesis-formation problems occur when the outcome of an
+experiment as predicted by a scientific theory does not match the
+outcome observed by a scientist.  The problem is to modify the theory,
+and/or the scientist's conception of the initial conditions of the
+experiment, such that the prediction agrees with the observation.  I
+treat hypothesis formation as a design problem. A program called
+HypGene designs hypotheses by reasoning backward from its goal of
+eliminating the difference between prediction and observation.  This
+prediction error is eliminated by design operators that are
+applied by a planning system.  The synthetic, goal-directed
+application of these operators should prove more efficient than past
+generate-and-test approaches to hypothesis generation.  HypGene uses
+heuristic search to guide a generator that is focused on the errors in
+a prediction.  The advantages of the design approach to
+hypothesis-formation over the generate-and-test approach are analogous to
+the advantages of dependency-directed backtracking over chronological
+backtracking.  These hypothesis-formation methods were developed in
+the context of a historical study of a scientific research program in
+molecular biology.  This paper describes in detail the results of
+applying the HypGene program to several hypothesis-formation
+problems identified in the historical study.
+HypGene found most of the same solutions as did the biologists,
+which demonstrates that it is capable of solving complex, real-world
+hypothesis-formation problems.",
+windexkey="sri aic paper papers",
+URL="ftp://ftp.ai.sri.com/pub/papers/karp-mlj93.ps.Z",
+   }
+
+@InProceedings{KarpGFP95,
+  Key="Karp",
+  author = "Karp, P.D. and Myers, K. and Gruber, T.",
+  title = "The Generic Frame Protocol",
+  booktitle = "Proceedings of the 1995 International Joint Conference
+		 on Artificial Intelligence",
+  year = 1995,
+  pages="768--774",
+  Abstract="The Generic Frame Protocol (GFP) is an application program interface
+for accessing knowledge bases stored in frame knowledge representation
+systems (FRSs).  GFP provides a uniform model of FRSs based on a
+common conceptualization of frames, slots, facets, and inheritance.
+GFP consists of a set of Common Lisp functions that provide a generic
+interface to underlying FRSs.  This interface isolates an
+application from many of the idiosyncrasies of specific FRS software
+and enables the development of generic tools (e.g., graphical
+browsers, frame editors) that operate on many FRSs.  To date, GFP has
+been used as an interface to Loom, Ontolingua, Theo, and Sipe.",
+  keywords="knowledge representation",
+  windexkey="sri aic paper papers",
+  URL="ftp://ftp.ai.sri.com/pub/papers/karp-gfp95.ps.Z",
+  }
+
+@InProceedings{KarpPERKOBJ95,
+  Key="Karp",
+  author = "Karp, P.D. and Paley, S.M.",
+  title = "Knowledge Representation in the Large",
+  booktitle = "Proceedings of the 1995 International Joint Conference
+		 on Artificial Intelligence",
+  year = 1995,
+  pages="751--758",
+Abstract="Frame knowledge representation systems lack two important capabilities
+that prevent them from scaling up to large applications: they do not
+support fast access to large knowledge bases (KBs), nor do they provide
+concurrent multiuser access to shared KBs.  We describe the design and
+implementation of a storage subsystem that submerges a database
+management system (DBMS) within a knowledge representation system.
+The storage subsystem incrementally loads referenced frames from the
+DBMS, and can save only those frames that have been updated in a given
+session to the DBMS.  We present experimental results that show our
+approach to be an improvement over the use of flat files, and that
+evaluate several variations of our approach.",
+keywords="knowledge representation",
+windexkey="sri aic paper papers",
+URL="ftp://ftp.ai.sri.com/pub/papers/karp-perkobj95.ps.Z",
+}
+
+@InProceedings{KarpCIKM94,
+  Key="Karp",
+  author = "Karp, P.D. and Paley, S.M. and Greenberg, I.",
+  title = "A Storage System for Scalable Knowledge Representation",
+  booktitle = "Proceedings of the Third International Conference on
+		 Information and Knowledge Management",
+  editor = "Adam, N.",
+  year = 1994,
+Abstract="Twenty years of AI research in knowledge representation has produced
+frame knowledge representation systems (FRSs) that incorporate a
+number of important advances.  However, FRSs lack two important
+capabilities that prevent them from scaling up to realistic
+applications: they cannot provide high-speed access to large knowledge
+bases (KBs), and they do not support shared, concurrent KB access by
+multiple users.  Our research investigates the hypothesis that one can
+employ an existing database management system (DBMS) as a storage
+subsystem for an FRS, to provide high-speed access to large, shared
+KBs.  We describe the design and implementation of a general storage
+system that incrementally loads referenced frames from a DBMS, and
+saves modified frames back to the DBMS, for two different FRSs: LOOM
+and THEO.  We also present experimental results showing that the
+performance of our prototype storage subsystem exceeds that of flat
+files for simulated applications that reference or update up to one
+third of the frames from a large LOOM KB.",
+keywords="knowledge representation",
+windexkey="sri aic paper papers",
+URL="ftp://ftp.ai.sri.com/pub/papers/karp-cikm94.ps.Z",
+}
+
+@Article{KarpCabiosThesis,
+   Key="Karp",
+   Author="Karp, P.D.",
+   Journal=CABIOS,
+   Title="Artificial intelligence methods for theory representation and
+		 hypothesis formation",
+   Year="1991",
+   Volume="7",
+   Number="3",
+   Pages="301--308",
+windexkey="sri aic paper papers",
+keywords="machine learning",
+   }
+
+@InCollection{KarpGensim,
+  author = 	"Karp, Peter D.",
+  title = 	"A Qualitative Biochemistry and its Application to the Regulation of the Tryptophan Operon",
+  booktitle = 	"Artificial Intelligence and Molecular Biology",
+  publisher = 	"AAAI Press",
+  year = 	"1993",
+  editor = 	"Hunter, L.",
+  address = 	"Menlo Park, CA",
+windexkey="sri aic paper papers",
+keywords="bioinformatics",
+}
+
+@Article{KarpCompoundKB,
+   Key="Karp",
+   Author="Karp, P.D.",
+   Journal=CABIOS,
+   Title="A knowledge base of the chemical compounds of intermediary metabolism",
+   volume="8",
+   number="4",
+   pages="347--357",
+   Year=1992,
+Abstract="This paper describes a publicly available knowledge base of the
+chemical compounds involved in intermediary metabolism.  We consider
+the motivations for constructing a knowledge base of metabolic
+compounds, the methodology by which it was constructed, and the
+information that it currently contains.  Currently the knowledge base
+describes 952 compounds, listing for each: synonyms for its name, a
+systematic name, CAS registry number, chemical formula, molecular
+weight, chemical structure, and two-dimensional display coordinates
+for the structure.  The Compound Knowledge Base (CompoundKB)
+illustrates several methodological principles that should guide the
+development of biological knowledge bases.  I argue that biological
+datasets should be made available in multiple representations to
+increase their accessibility to end users, and I present multiple
+representations of the CompoundKB (knowledge base, relational data
+base, and ASN.1 representations) I also analyze the general
+characteristics of these representations to provide an understanding
+of their relative advantages and disadvantages.  Another principle is
+that the error rate of biological data bases should be estimated and
+documented -- this analysis is performed for the CompoundKB.",
+Annote="The online version has been updated to reflect modifications
+to the knowledge base.",
+windexkey="sri aic paper papers",
+keywords="bioinformatics, metabolism",
+URL="ftp://ftp.ai.sri.com/pub/papers/karp-ckb.ps.Z",
+   }
+
+@InProceedings{KarpISMB94,
+  Key="Karp",
+  author = 	"Karp, P. and Paley, S.M.",
+  title = 	"Representations of Metabolic Knowledge: Pathways",
+  booktitle = "Proceedings of the Second International Conference on Intelligent
+		 Systems for Molecular Biology",
+  editor = "Altman, R. and Brutlag, D. and Karp, P. and Lathrop, R.
+		 and Searls, D.",
+  publisher = "AAAI Press",
+  address = "Menlo Park, CA",
+  year = 1994,
+  abstract="The automatic generation of drawings of metabolic pathways is a
+challenging problem that depends intimately on exactly what
+information has been recorded for each pathway, and on how that
+information is encoded.  The chief contributions of the paper are a
+minimized representation for biochemical pathways called the 
+predecessor list, and inference procedures for converting the
+predecessor list into a  pathway-graph representation that can
+serve as input to a pathway-drawing algorithm. The predecessor list
+has several advantages over the pathway graph, including its
+compactness and its lack of redundancy.  The conversion between the
+two representations can be formulated as both a
+constraint-satisfaction problem and a logical inference problem, whose
+goal is to assign directions to reactions, and to determine which are
+the main chemical compounds in the reaction.  We describe a set of
+production rules that solves this inference problem.  We also present
+heuristics for inferring whether the exterior compounds that are
+substrates of reactions at the periphery of a pathway are side or main
+compounds.  These techniques were evaluated on 18 metabolic pathways
+from the EcoCyc knowledge base.",
+windexkey="sri aic paper papers",
+keywords="bioinformatics, metabolism",
+URL="ftp://ftp.ai.sri.com/pub/papers/karp-ismb94.ps.Z",
+}
+
+@InProceedings{KarpISMB93,
+  Key="Karp",
+  author = 	"Karp, P. and Riley, M.",
+  title = 	"Representations of Metabolic Knowledge",
+  booktitle = "Proceedings of the First International Conference on Intelligent
+		 Systems for Molecular Biology",
+  editor = "Hunter, L. and Searls, D. and Shavlik, J.",
+  publisher = "AAAI Press",
+  address = "Menlo Park, CA",
+  year = 1993,
+  Pages="207--215",
+Abstract="Construction of electronic repositories of metabolic information
+is an increasingly active area of research.  Encoding detailed
+knowledge of a complex biological domain requires finely honed
+representations.  We survey representations used for several metabolic
+databases, including EcoCyc, and reach the following conclusions.
+Representation of the metabolism must distinguish enzyme classes from
+individual enzymes, because there is not a one-to-one mapping from
+enzymes to the reactions they catalyze.  Individual enzymes must be
+represented explicitly as proteins, e.g., by encoding their subunit
+structure.  The species variation of metabolism must be represented.
+So must the substrate specificity of enzymes, which may be treated in
+several ways.",
+keywords="bioinformatics, metabolism",
+windexkey="sri aic paper papers",
+URL="ftp://ftp.ai.sri.com/pub/papers/karp-ismb93.ps.Z",
+}
+
+
+@InProceedings{KarpBIGR94,
+  Key="Karp",
+  author = 	"Karp, P. and Paley, S.M.",
+  title = 	"Automated Drawing of Metabolic Pathways",
+  booktitle = "Third International Conference on Bioinformatics and
+		 Genome Research",
+  editor = "Lim, H. and Cantor, C. and Robbins, R.",
+  year = 1994,
+  abstract="The EcoCyc system consists of a knowledge base that describes the
+genes and intermediary metabolism of E. coli, and a graphical user
+interface (GUI) for accessing that knowledge.  This paper presents
+algorithms for drawing metabolic pathways by dynamically querying the
+underlying knowledge base.  These algorithms provide a foundation for
+building graphical user interfaces to metabolic databases.  Pathway
+drawing is a graph-layout problem.  Our algorithms draw pathways of
+several different topologies, including linear, cyclic, and branching
+pathways, as well as larger groupings of such pathways.  The
+algorithms provide several visual presentations of metabolic pathways,
+for example, compounds can be drawn as names and/or chemical
+structures, and enzyme names and side compounds can be drawn or
+omitted.  The GUI also provides several facilities for navigating in
+the space of biochemical pathways, such as traversing connections
+between pathways, and exploding or collapsing a pathway to include or
+exclude neighboring pathways.",
+windexkey="sri aic paper papers",
+keywords="bioinformatics, metabolism",
+URL="ftp://ftp.ai.sri.com/pub/papers/karp-bigr94.ps.Z",
+}
+
+
+@Article{KarpM94,
+  author = 	"Karp, P. and Mavrovouniotis, M.",
+  title = 	"Representing, Analyzing, and Synthesizing Biochemical Pathways",
+  journal = 	"{IEEE} Expert",
+  year = 	1994,
+  volume = 9,
+  number = 2,
+  pages = "11--21",
+Abstract="Living cells are complex systems whose growth and existence depends on
+thousands of biochemical reactions.  A subset of these reactions --
+the metabolism -- interconverts small molecules.  A
+variety of computational problems arise in representing knowledge of
+the metabolism in electronic form, in analyzing that knowledge to gain
+deeper insights into complexities of the metabolism, and in using such
+knowledge in biology, biotechnology and health applications.  These
+problems provide a rich set of opportunities for exploiting existing
+AI techniques, and challenges for developing new and improved
+techniques.  This article describes challenges and opportunities for
+addressing computational problems in the metabolism with techniques
+from knowledge representation, planning, integration of heterogeneous
+databases, qualitative reasoning, knowledge acquisition, and machine
+learning.  The computational problems include construction of large
+shared knowledge bases of biochemical pathways, knowledge acquisition
+from the biochemical literature, qualitative simulation of metabolic
+pathways, thermodynamic estimation, synthesis of metabolic pathways,
+and scientific hypothesis formation.",
+URL="ftp://ftp.ai.sri.com/pub/papers/karp-pathway-overview.ps.Z",
+Annote="This online version was edited heavily to produce
+the version published in IEEE Expert.",
+windexkey="sri aic paper papers",
+}
+
+@article{GRASPER-CL,
+  author = 	"Karp, P.D. and Lowrance, J.D. and Strat, T.M. and
+		 Wilkins, D.E.",
+  title = 	"The {Grasper-CL} Graph Management System",
+ journal = 	"{LISP} and Symbolic Computation",
+ volume = 7,
+ pages = "245--282",
+ year = 1994,
+ keywords = "graphs",
+ windexkey="sri aic",
+ URL="ftp://ftp.ai.sri.com/pub/papers/karp-grasper-tr.ps.Z",
+ Abstract="Graphs are virtually ubiquitous in programming applications.
+Moreover, graph-structured information is especially prevalent in AI
+applications.  We can enhance programs that manipulate
+graph-structured information by providing these programs with
+graphical user interfaces that draw graphs, and that allow users to
+interact with drawings of graph nodes and edges.  Grasper-CL is a
+Common Lisp system for manipulating and displaying graphs.
+
+Grasper-CL defines a graph abstract datatype and an extensive set of
+associated operations for creating, modifying and interrogating
+graphs, and for saving them persistently.  The system draws graphs
+using CLIM (the Common Lisp Interface Manager), and can create
+postscript renditions of its drawings.  Grasper-CL supports a wide
+variety of graphic styles for drawing graph nodes and edges.
+The system includes several different automatic graph layout
+algorithms, such as for circular and tree layout; it also supports
+full interactive manipulation of graph drawings.  Finally, the system
+provides facilities for building graph-based user interfaces for
+application programs, which have been used in conjunction with the
+Sipe planner, the Gister evidential reasoner, a scheduler for the
+Hubble Space Telescope, and the EcoCyc encyclopedia of biochemical
+pathways.
+
+A number of groups within the AIC and SRI are using the Grasper-CL
+system in a variety of projects.  This talk will describe the system
+in detail for people who wish to understand its capabilities better or
+who are thinking of using it for other projects.  This talk is also an
+opportunity for the audience to shape the future directions of the
+system: What additional capabilities should be added?  Would users
+like more direct input in how the system evolves?  Should we attempt
+to find funding for further development of the system and research on
+such issues as graph layout algorithms?",
+ }
+

@@ -1,0 +1,216 @@
+@book{Ballard:Brown,
+  author = {Ballard, D. H. and Brown, C. M.},
+  title = {Computer Vision},
+  publisher= {Prentice Hall},
+  address = {New Jersey},
+  year = {1982},
+}
+
+@book{Beck:etal:Vision,
+  author = {J. Beck and B. Hope and A. Rosenfeld},
+  title = {Human and Machine Vision},
+  city = {New York}, 
+  publisher = {Academic Press}, 
+  year = {1983},
+}
+
+@book{Barnsley:Fractals:Book,
+  author = {Michael Barnsley},
+  title = {Fractals Everywhere},
+  publisher = {Academic Press},
+  year = {1988},
+}
+
+@book{Blake:Zisserman:Reconstruction,
+  author = {A. Blake and A. Zisserman},
+  title = {Visual Reconstruction},
+  address = {Cambridge, MA},
+  year = {1987},
+  publisher = {MIT Press},
+}
+
+@book{Brodatz:Textures:1966,
+  author = {P. Brodatz},
+  title = {Textures},
+  publisher = {Dover},
+  city = {New York}, 
+  year = {1966}, 
+}
+
+@book{Duda:Hart:Book,
+  author = {Richard O. Duda and Peter E. Hart},
+  title = {Pattern Classification and Scene Analysis},
+  publisher = {John Wiley \& Sons},
+  year = {1973},
+  city = {New York}, 
+}
+
+@book{Freeman:Vision,
+  author = {Herbert Freeman},
+  title = {Machine Vision, Algorithms, Architectures,And Systems},
+  publisher = {Academic Press},
+  year = {1988},
+}
+
+@book{Fukunaga:Statistical,
+  author = {Keinosuke Fukunaga},
+  title = {Statistical Pattern Recognition},
+  publisher = {Academic Press},
+  year = {1990}, 
+}
+
+@book{Gibson:Ecological:1979,
+  author = {J. J. Gibson},
+  title = {The Ecological Approach to Visual Perception},
+  publisher = {Houghton Miflin},
+  city = {Boston},
+  year = {1979},
+}
+
+@book{Gonzalez:Wintz:Image:1987,
+  author = {Rafael C. Gonzalez and Paul Wintz},
+  title = {Digital Image Processing},
+  publisher = {Addison Wesley},
+  year = {1992},
+}
+@book{Gonzalez:Wintz:Image:1992,
+  author = {Rafael C. Gonzalez and Paul Wintz},
+  title = {Digital Image Processing},
+  publisher = {Addison Wesley},
+  year = {1992},
+}
+
+@book{Hildreth:Measurement:Motion,
+  author = {E. C. Hildreth},
+  title = {The Measurement of Visual Motion},
+  address = {Cambridge, MA},
+  year = {1983},
+  publisher = {MIT Press},
+}
+
+@book{Hall:Image,
+  author = {E.L.H. Hall},
+  title = {Computer Image Processing and Recognition},
+  publisher = {Academic Press},
+  year = {1979},
+}
+
+@book{Herman:Image,
+  author = {G. Herman},
+  title =  {Image Reconstruction from Projections},
+  publisher = {Academic Press},
+  year = {1980},
+}
+
+@book{Horn:Robot:Vision,
+  author = {Berthold Klaus Paul Horn},
+  title = {Robot Vision},
+  publisher = {McGraw Hill},
+  year = {1986},
+}
+
+@book{Horn:Brooks:Shading,
+  editor = {Berthold Klaus Paul Horn and Michael J. Brooks},
+  title = {Shape from Shading}, 
+  publisher = {MIT press},
+  year = {1989}, 
+}
+
+@book{Jain:Image,
+  author = {Anil K. Jain},
+  title = {Fundamentals of Image Processing},
+  publisher = {Prentice Hall},
+  year = {1990}, 
+}
+
+@book{Kanizsa:Organization,
+  author = {G. Kanizsa},
+  title = {Organization in Vision: essays on Gestalt perception},
+  publisher = {Praeger},
+  city = {New York},
+  year = {1979},
+}
+
+@book{Kittler:Duff:Image,
+  author = {Joseph Kittler and Michael J.B. Duff},
+  title = {Image Processing and System Architectures},
+  publisher = {Wiley},
+  year = {1985}, 
+}
+
+@book{Koenderink:Solid:Shape,
+  author = {Jan J. Koenderink},
+  title = {Solid Shape},
+  publisher = {MIT Press},
+  address = {Cambridge, Massachusetts},
+  year = {1990}, 
+}
+
+
+@book{Levine:Vision,
+  author = {Martin D. Levine},
+  title = {Vision in Man and Machine},
+  publisher = {McGraw-Hill},
+  year = {1985},
+}
+
+@book{Marr:Vision,
+  author = {David Marr}, 
+  title = {Vision},
+  publisher = {W.H. Freeman},
+  address = {San Fransisco},
+  year = {1982}, 
+} 
+
+@book{Pavlidis:Graphics:Algorithms,
+  author = {Theo Pavlidis},
+  title = {Algorithms for Graphics and Image Processing},
+  publisher = {Computer Science Press},
+  address = {Rockville, Maryland},
+  year = {1982},
+}
+
+@book{Pratt:Image,
+  author = {William K. Pratt},
+  title = {Digital Image Processing},
+  publisher = {Wiley-Interscience},
+  year = {1978},
+}
+
+
+@book{Rosenfeld:Kak,
+  author = {Azriel Rosenfeld and Avinash C. Kak},
+  title = {Digital Picture Processing},
+  publisher = {Academic Press},
+  year = {1982},
+}
+
+@book{Ullman:Interpretation:Motion,
+  author = {S. Ullman},
+  title = {The Interpretation of Visual Motion},
+  address = {Cambridge, MA},
+  year = {1979},
+  publisher = {MIT Press},
+}
+
+@book{Kendall:etal:Shape:Book:1999,
+  author = {D. G. Kendall and D. Barden and T. K. Carne and H. Le},
+  title = {Shape and Shape Theory},
+  address = {Chichester, UK},
+  year = {1999},
+  publisher = {John Wiley & Sons, Inc},
+}
+
+@Book{Anderson:Book95,
+  author =	 {Anderson, J. A.},
+  title = 	 {An Introduction to Neural Networks},
+  publisher = 	 {MIT Press},
+  year = 	 1995,
+  address =	 {Cambridge, MA}
+}
+
+
+
+
+
+

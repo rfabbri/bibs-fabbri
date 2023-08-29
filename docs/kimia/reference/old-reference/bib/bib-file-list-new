@@ -1,0 +1,105 @@
+atr.bib
+compression.bib
+circuit.bib
+bib-header.bib
+document-handling.bib
+math-strings.bib
+proceedings.bib
+strings.bib
+chem-books.bib
+cs-books.bib
+ee-books.bib
+math-books.bib
+philosphy-books.bib
+physics-books.bib
+augmented-reality.bib
+dither.bib
+halftone.bib
+physics-books.bib
+math.bib
+medical.bib
+art.bib
+control.bib
+data-fitting.bib
+fuzzy.bib
+misc.bib
+physics.bib
+biology.bib
+multidimscaling.bib
+neuro.bib
+psych-books.bib
+psychophysics.bib
+color.bib
+
+3D.bib
+curvature-flow-physics.bib
+flow.bib
+math-luisa.bib
+numerical.bib
+physics.bib
+viscosity.bib
+diffusion.bib
+
+graph-matching.bib
+image-databases.bib
+morphology.bib
+multiple-3d-view-integration.bib
+neural-networks.bib
+optical-flow.bib
+active-contours.bib
+aspect-graphs.bib
+segmentation.bib
+Kimia.bib
+continuation.bib
+recognition.bib
+scale.bib
+shape.bib
+skeleton2D.bib
+similarity.bib
+skeleton-scale.bib
+ridge.bib
+snakes.bib
+skeleton3D.bib
+perceptual-grouping.bib
+shading.bib
+reconstruction.bib
+texture.bib
+vision-books.bib
+vision.bib
+catagorization.bib
+
+Some other likely candidates that we can merge are 
+graph-matching.bib -> shape-matching
+
+
+Merge these into segmentation.bib
+ active-contours.bib
+ snakes.bib
+ segmentation.bib
+
+Merge these two
+ continuation.bib
+ perceptual-grouping.bib
+
+Merge these two
+ catagorization.bib 
+ similarity.bib 
+
+Merge these two 
+ dither.bib
+ halftone.bib
+
+More for misc-vision category
+ neural-networks.bib
+ morphology.bib
+ shading.bib
+ texture.bib
+ compression.bib
+ circuit.bib
+ document-handling.bib
+ data-fitting.bib
+ fuzzy.bib
+ augmented-reality.bib
+ optical-flow.bib
+
+We are missing edge.bib which had all the edge-detection papers.

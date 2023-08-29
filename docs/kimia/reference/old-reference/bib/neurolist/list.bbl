@@ -1,0 +1,1662 @@
+\begin{thebibliography}{100}
+
+\bibitem{Mumford:Bookchapter:94}
+{\em Large-Scale Neuronal Theories of the Brain}, chapter Neuronal
+  architectures for pattern-theoretic problems, pages 125--152.
+\newblock MIT Press, Cambridge, MA, 1994.
+
+\bibitem{Barlow:Book_Chapter94}
+{\em Large-Scale Neuronal Theories of the Brain}, chapter What is the
+  Computational Goal of the Neocortex, pages 125--152.
+\newblock MIT Press, Cambridge, MA, 1994.
+
+\bibitem{Singer:Book_Chapter94}
+{\em Large-Scale Neuronal Theories of the Brain}, chapter Putative Functions of
+  Temporal Correlations in Neocortical Processing, pages 125--152.
+\newblock MIT Press, Cambridge, MA, 1994.
+
+\bibitem{Stevens:Book_Chapter94}
+{\em Large-Scale Neuronal Theories of the Brain}, chapter What Form should a
+  Cortical Theory Take?, pages 125--152.
+\newblock MIT Press, Cambridge, MA, 1994.
+
+\bibitem{Gallant:etal:Book95}
+{\em Early Vision and Beyond}, chapter Two-dimensional and three-dimensional
+  texture processing in visual cortex of the macaque monkey, pages 89--98.
+\newblock MIT Press, Cambridge, MA, 1995.
+
+\bibitem{bienenstock:Book96}
+{\em Brain Theory - Biological Basis and Computational Theory of Vision},
+  chapter Composition, pages 269--300.
+\newblock Elsevier, 1996.
+
+\bibitem{Lee:Image_Analysis:Book02}
+{\em Image analysis and higher level vision, Lecture notes in Mathematics and
+  its Application}, chapter Analysis and synthesis of visual images in the
+  brain.
+\newblock Springer-Verlag, 2002.
+
+\bibitem{Lee:Perceptual_organization:Book02}
+{\em Perceptual Organization in Vision: Behavioral and Neural Perspectives},
+  chapter High-resolution buffer hypothesis and its implications on attention,
+  feedback and perceptual organization.
+\newblock Lawrence Erlbaum Associates, 2002.
+
+\bibitem{Allman:etal:ARN:85}
+J.~Allman, F.~Miezin, and E.~McGuinness.
+\newblock Stimulus specific responses from beyond the classical receptive
+  field: Neurophysiological mechanisms for loac-global comparisions in visual
+  neurons.
+\newblock {\em Annual Review of Neuroscience}, 1985.
+
+\bibitem{Allman:etal:AnnualRevNeuro85}
+J.~Allman, F.~Miezin, and E.~McGuinness.
+\newblock Stimulus specific responses from beyond the classical receptive
+  field: neurophysiological mechanisms for local-global comparisons in visual
+  neurons.
+\newblock {\em Annual Review of Neuroscience}, 8:407--430, 1985.
+
+\bibitem{Alter:Basri:CVPR96}
+T.~Alter and R.~Basri.
+\newblock Extracting salient contours from images: An analysis of the saliency
+  network.
+\newblock {\em Proc. IEEE CVPR}, pages 13--20, 1996.
+\newblock San Francisco, CA.
+
+\bibitem{Arend:PsychRev73}
+L.~Arend.
+\newblock Spatial differential and integral operations in human vision:
+  Implications of stablized retinal image fading.
+\newblock {\em Psychological Review}, 80:374--395, 1973.
+
+\bibitem{Arrington:VR94}
+K.~F. Arrington.
+\newblock The temporal dynamics of brightness filling-in.
+\newblock {\em Vision Research}, 34(24):3371--3387, 1994.
+
+\bibitem{Arrington:NC96}
+K.~F. Arrington.
+\newblock Directional filling-in.
+\newblock {\em Neural Computation}, 8(2):300--318, 1996.
+
+\bibitem{Arrington:BBS99}
+K.~F. Arrington.
+\newblock Filling-in as the phenomenal side of binding.
+\newblock {\em Behavioral and Brain Sciences}, 21:749, December 1999.
+
+\bibitem{Atema:etal:Aquatic}
+J.~Atema, R.~R. Fay, A.~N. Popper, and W.~N. Tavolga, editors.
+\newblock {\em Sensory Biology of Aquatic Animals}.
+\newblock Springer-Verlag, 1988.
+
+\bibitem{Baker:etal:JNeurophysiol01}
+S.~N. Baker, A.~Jackson, R.~Spinks, and R.~N. Lemon.
+\newblock Synchronization in monkey motor cortex during a precision grip task
+  i. task-dependent modulation in single-unit synchrony.
+\newblock {\em J. Neurophysiol.}, 85:869--885, 2001.
+
+\bibitem{Bakin:etal:JN00}
+J.~S. Bakin, K.~Nakayama, and C.~D. Gilbert.
+\newblock Visual responses in monkey areas {V1} and {V2} to three dimensional
+  surface configurations.
+\newblock {\em J. Neuroscience}, 20:8188--8198, 2000.
+
+\bibitem{BarLev:Elber:Book98}
+A.~Bar-Lev and G.~Elber.
+\newblock Visibility as an intrinsic property of geometric models.
+\newblock In F.~Wolter and N.~Patrikalakis, editors, {\em Computer Graphics
+  International}, pages 198--206, Hannover, Germany, June 1998. IEEE Computer
+  Society.
+\newblock CGI'98.
+
+\bibitem{Batista:etal:Science99}
+A.~P. Batista, C.~A. Buneo, L.~H. Snyder, and R.~A. Andersen.
+\newblock Reach plans in eye-centered coordinates.
+\newblock {\em Science}, 285:257--260, 1999.
+
+\bibitem{Bear:Connors:Paradiso:Book}
+M.~Bear, B.~Connors, and M.~Paradiso.
+\newblock {\em Neuroscience:Exploring the Brain}.
+\newblock Lippincott Williams and Wilkins, 2001.
+
+\bibitem{Beierlein:etal:NatureNeuro00}
+M.~Beierlein, J.~Gibson, and B.~W. Connors.
+\newblock An electrically coupled network of interneurons drives synchronized
+  inhibition in neocortex.
+\newblock {\em Nature Neurosci}, 3:904--910, 2000.
+
+\bibitem{Ben-Yishai:JCN97}
+R.~Ben-Yishai.
+\newblock Traveling waves and the processing of weakly tuned inputs in a
+  cortical network module.
+\newblock {\em Journal of Computational Neuroscience}, 1997.
+
+\bibitem{Biederman:Gerhardstein:ExpPsych93}
+I.~Biederman and P.~C. Gerhardstein.
+\newblock Recognizing depth-rotated objects: Evidence and conditions for
+  three-dimensional viewpoint invariance.
+\newblock {\em Journal of Experimental Psychology}, 19:1162--1182, 1993.
+
+\bibitem{Biederman:Gerhardstein:ExpPsych95}
+I.~Biederman and P.~C. Gerhardstein.
+\newblock Viewpoint-dependent mechanisms in visual object recognition.
+\newblock {\em Journal of Experimental Psychology: Human Perception and
+  Performance}, 21:1506--1514, 1995.
+
+\bibitem{Blum:Transformation:Book67}
+H.~Blum.
+\newblock {\em Models for the Perception of Speech and Visual Form}, chapter A
+  transformation for extracting new descriptors of shape, pages 362--380.
+\newblock MIT Press, Cambridge, 1967.
+
+\bibitem{Blum:New_Model:PBM67}
+H.~Blum.
+\newblock A new model of global brain function.
+\newblock {\em Perspectives in Biology and Medicine}, 10:381--408, 1967.
+
+\bibitem{Borg-Graham:etal:Nature98}
+L.~Borg-Graham, C.~Monier, and Y.~Frégnac.
+\newblock Visual input evokes transient and strong shunting inhibition in
+  visual cortical neurons.
+\newblock {\em Nature}, 393:369--374, 1998.
+
+\bibitem{Bradley:etal:Nature75}
+D.~Bradley and S.~Dumais.
+\newblock Ambiguous cognitive contours.
+\newblock {\em Nature}, 1975.
+
+\bibitem{Bravo:etal:VR88}
+M.~Bravo, R.~Blake, and S.~Morrison.
+\newblock Cats see subjective contours.
+\newblock {\em Vision Research}, 28:861--865, 1988.
+
+\bibitem{Bringuier:etal:Science99}
+V.~Bringuier, F.~Chavane, L.~Glaeser, and Y.~Fregnac.
+\newblock Horizontal propagation of visual activity in the synaptic integration
+  field of area 17 neurons.
+\newblock {\em Science}, 283:695--699, January 1999.
+
+\bibitem{Bulthoff:Edelman:PNAS92}
+H.~Bulthoff and S.~Edelman.
+\newblock Psychophysical support for a 2--{D} view interpolation theory of
+  object recognition.
+\newblock {\em Proceedings of the National Academy of Science}, 89:60 -- 64,
+  1992.
+
+\bibitem{Bulthoff:etal:PNAS92}
+H.~Bulthoff and S.~Edelman.
+\newblock Psychophysical support for a two-dimensional view interpolation
+  theory of object recognition.
+\newblock {\em Proc. Natl. Acad. Sci. USA}, 1992.
+
+\bibitem{Bulthoff:etal:Cerebral:Cortex95}
+H.~H. Bulthoff, S.~Y. Edelman, and M.~J. Tarr.
+\newblock How are three-dimensional objects represented in the brain?
+\newblock {\em Cerebral Cortex}, 5(3):247--260, 1995.
+
+\bibitem{Burbeck:Hadden:JOSAA93}
+C.~Burbeck and S.~Hadden.
+\newblock Scaled position integration areas: Accounting for weber's law for
+  separation.
+\newblock {\em Journal of the Optical Society of America A.}, 10:5--15, 1993.
+
+\bibitem{Burbeck:Pizer:TR-94-041}
+C.~Burbeck and S.~Pizer.
+\newblock Linking object boundaries at scale: bisection with extended objects.
+\newblock Technical Report TR-94-041, University of North Carolina, Computer
+  Sciences, 1994.
+
+\bibitem{Burbeck:Pizer:VisRes95}
+C.~Burbeck and S.~Pizer.
+\newblock Object representation by cores: Identifying and representing
+  primitive spatial regions.
+\newblock {\em Vision Research}, 1995.
+
+\bibitem{Burbeck:etal:VR96}
+C.~Burbeck, S.~Pizer, B.~Morse, D.~Ariely, G.~Zauberman, and J.~Rolland.
+\newblock Linking object boundaries at scale - a common mechanism for size and
+  shape judgements.
+\newblock {\em Vision Research}, 36(3):361--372, 1996.
+
+\bibitem{Campbell:Gubisch}
+F.~Campbell and R.~Gubisch.
+\newblock Optical quality of the human eye.
+\newblock {\em J. Physiol. (Lond.)}, 186:558--578, 1966.
+
+\bibitem{Castelo-Branco:etal:JNeuro98}
+M.~Castelo-Branco, S.~Neuenschwander, and W.~Singer.
+\newblock Synchronization of visual responses between the cortex, lateral
+  geniculate nucleus, and retina in the anesthetized cat.
+\newblock {\em J Neurosci}, 18(16):6395--6410, 1998.
+
+\bibitem{Choe:etal:Neurocomputing98}
+Y.~Choe and R.~Miikkulainen.
+\newblock Self-organization and segmentation in a laterally connected
+  orientation map of spiking neurons.
+\newblock {\em Neurocomputing}, 1998.
+
+\bibitem{Choe:Miikkulainen:TechReport00}
+Y.~Choe and R.~Miikkulainen.
+\newblock Contour integration and segmentation with self-organized lateral
+  connections.
+\newblock Technical Report AI-00-286, Department of Computer Sciences,
+  University of Texas at Austin, 2000.
+
+\bibitem{Choe:Miikkulainen:TechReport99}
+Y.~Choe and R.~Miikkulainen.
+\newblock Contour integration based on synchronization mediated by
+  self-organized lateral connections.
+\newblock Technical Report AI-TR99-283, Department of Computer Sciences,
+  University of Texas at Austin, November 2000.
+
+\bibitem{Connors:etal:IntRevNeurobiol01}
+B.~W. Connors, D.~J. Pinto, and A.~E. Telfeian.
+\newblock Local pathways of seizure propagation in neocortex.
+\newblock {\em Int Rev Neurobiol}, 45:527--46, 2001.
+
+\bibitem{Cooper:Scofield:Mean}
+L.~N. Cooper and C.~L. Scofield.
+\newblock Mean field theory of a neural network.
+\newblock {\em Proc. Natl. Sci.USA Neuobiology}, 85:1973--1977, March 1988.
+
+\bibitem{Das:Gilbert:Nature95}
+A.~Das and C.~Gilbert.
+\newblock Long-range horizontal connections and their role in cortical
+  reorganization revealed by optical imaging of cat primary visual cortex.
+\newblock {\em Nature}, 375:780--784, 1995.
+
+\bibitem{Daugman:Uncertainty_relation:JOSA85}
+J.~Daugman.
+\newblock Uncertainty relation for resolution in space, spatial frequency, and
+  orientation optimized by two-dimensional visual cortical filters.
+\newblock {\em Journal of Optical Society of America}, 1985.
+
+\bibitem{DeAngelis:etal:Jneurophysiol94}
+G.~DeAngelis, R.~Freeman, and I.~Ohzawa.
+\newblock Length and width tuning of neurons in the cat's primary visual
+  cortex.
+\newblock {\em J. Neurophysiol}, 71:347--374, 1994.
+
+\bibitem{DeAngelis:etal:JNeurophys94}
+G.~DeAngelis, R.~Freeman, and I.~Ohzawa.
+\newblock Length and width tuning of neurons in the cat's primary visual
+  cortex.
+\newblock {\em Journal of Neurophysiology}, 1994.
+
+\bibitem{DeAngelis:etal:JNeurophys92}
+G.~DeAngelis, J.~Robson, I.~Ohzawa, and R.~Freeman.
+\newblock Organization of suppression in receptive fields of neurons in cat
+  visual cortex.
+\newblock {\em Journal of Neurophysiology}, 1992.
+
+\bibitem{Dear:etal:Let.Nature93}
+S.~P. Dear, J.~A. Simmons, and J.~Fritz.
+\newblock A possible neuronal basis for representation of acoustic scenes in
+  auditory cortex of the big brown bat.
+\newblock {\em Letters to Nature}, 364:620--623, August 1993.
+
+\bibitem{Deco:Lee}
+G.~Deco and T.~Lee.
+\newblock An interactive neurodynamical model of biased competition for
+  attentive object recognitionand visual search.
+\newblock Deco:Lee.
+
+\bibitem{Desimone:etal:IT:Soc.Neuro84}
+R.~Desimone, T.~Albright, C.~Gross, and C.~Bruce.
+\newblock Stimulus-selective properties of the inferior temporal neurons in the
+  macaque.
+\newblock {\em Society for Neuroscience}, 4(8):2051--2062, 1984.
+
+\bibitem{Desimone:Gross:BR79}
+R.~Desimone and C.~Gross.
+\newblock Visual areas in the temporal cortex of the macaque.
+\newblock {\em Brain Research}, 178:363--380, 1979.
+
+\bibitem{Desimone&Schein}
+R.~Desimone and S.~Schein.
+\newblock Visual properties of neurons in area v4 of the macaque.
+\newblock {\em Journal of Neurophysiology}, 57(3):835--868, 1987.
+
+\bibitem{Desimone:etal:BeyondStriate}
+R.~Desimone, S.~Schein, J.~Moran, and L.~Ungerleider.
+\newblock Contour, color, and shape analysis beyond the striate cortex.
+\newblock {\em Vision Research}, 25(3):441--452, 1985.
+
+\bibitem{Desimone&Ungerleider:Handbook}
+R.~Desimone and L.~G. Ungerleider.
+\newblock Neural mechanisms of visual processing in monkeys.
+\newblock {\em Handbook of Neurophysiology}, 2:267--299, 1989.
+
+\bibitem{Devalois:etal:VR86}
+R.~Devalois, M.~Webster, K.~Devalois, and B.~LingelBach.
+\newblock Temporal properties of brightness and color induction.
+\newblock {\em Vision Research}, 26:887--897, 1986.
+
+\bibitem{Donoghue:etal:JNeurophysiol98}
+J.~Donoghue, J.~Sanes, N.~Hatsopoulos, and G.~Gaal.
+\newblock Neural discharge and local field potential oscillations in primate
+  motor cortex during voluntary movements.
+\newblock {\em Journal of Neurophysiology}, 77:159--173, 1998.
+
+\bibitem{Douglas:etal:Science95}
+R.~Douglas, C.~Koch, M.~Mahowald, K.~Martin, and H.~Suarez.
+\newblock Recurrent excitation in neocortical circuits.
+\newblock {\em Science}, 269:981--985, 1995.
+
+\bibitem{Durgin:VR01}
+F.~H. Durgin.
+\newblock Texture contrast aftereffects are monocular; texture density
+  aftereffects are binocular.
+\newblock {\em Vision Research}, 41:2619--2630, 2001.
+
+\bibitem{Durgin:Hammer:VR01}
+F.~H. Durgin and J.~T. Hammer.
+\newblock Visual aftereffects of sequential perception: Dynamic adaptation to
+  changes in texture density and contrast.
+\newblock {\em Vision Research}, 41:2607--2617, 2001.
+
+\bibitem{Durgin:etal:Perception95}
+F.~H. Durgin, S.~P. Tripathy, and D.~M. Levi.
+\newblock On the filling in of the visual blind spot: Some rules of thumb.
+\newblock {\em Perception}, 24:827--840, 1995.
+
+\bibitem{Eckhorn:etal:BiolCybern88}
+R.~Eckhorn, R.~Bauer, W.~Jordon, M.~Brosch, W.~Kruse, M.~Munk, and
+  H.~Reitboeck.
+\newblock Coherent oscillations: A mechanism of feature linking in the visual
+  cortex?
+\newblock {\em Biological Cybernetics}, 60:121--130, 1988.
+
+\bibitem{Edelman:etal:VR92}
+S.~Edelman and H.~Bultfoff.
+\newblock Orientation dependence in the recognition of familiar and novel views
+  of three-dimensional objects.
+\newblock {\em Vis Res}, 1992.
+
+\bibitem{Edelman:Bulthoff:VR92}
+S.~Edelman and H.~Bulthoff.
+\newblock Orientation dependence in recognition of familiar and novel views of
+  three-dimensional objects.
+\newblock {\em Vision Research}, 32:2385--2400, 1992.
+
+\bibitem{Engel:etal:PNAS91}
+A.~Engel, P.~Konig, and W.~Singer.
+\newblock Direct physiological evidence for scene segmentation by temporal
+  coding.
+\newblock {\em Proceedings in National Academy of Science USA}, 1991.
+
+\bibitem{Ermentrout:Kleinfeld:Neuron2001}
+G.~Ermentrout and D.~Kleinfeld.
+\newblock Traveling electrical waves in cortex: Insights from phase dynamics
+  and speculation on a computational role.
+\newblock {\em Neuron}, 2001.
+
+\bibitem{Ribary:etal:PNAS91}
+U.~R. et~al.
+\newblock Magnetic field tomography of coherent thalamocortical 40-hz
+  oscillations in humans.
+\newblock {\em Proc. Natl. Acad. Sci.}, 88:11037--11041, 1991.
+
+\bibitem{Fox:etal:PET}
+P.~Fox, F.~Miezin, J.~Allman, D.~V. Essen, and M.~Raichle.
+\newblock Retinotopic organization of human visual cortex mapped with positron
+  emission tomography.
+\newblock {\em Journal of Neuroscience}, 7(3):913--922, 1987.
+
+\bibitem{Francis:VR96}
+G.~Francis and S.~Grossberg.
+\newblock Cortical dynamics of form and motion integration: persistence,
+  apparent motion, and illusory contours.
+\newblock {\em Vis Res}, 1996.
+
+\bibitem{Francis:etal:VR94}
+G.~Francis, S.~Grossberg, and E.~Mingolla.
+\newblock Cortical dynamics of feature binding and reset: control of visual
+  persistence.
+\newblock {\em Vis Res}, 1994.
+
+\bibitem{Freedman:etal:Science01}
+D.~Freedman, M.~Riesenhuber, T.~Poggio, and E.~Miller.
+\newblock Categorical representation of visual stimuli in the primate
+  prefrontal cortex.
+\newblock {\em Science}, 291:312--316, 2001.
+
+\bibitem{Fries:etal:Science01}
+P.~Fries, J.~Reynolds, A.~Rorie, and R.~Desimone.
+\newblock Modulation of oscillatory neuronal synchronization by selective
+  visual attention.
+\newblock {\em Science}, 291:1560--1563, 2001.
+
+\bibitem{Fries:etal:PNAS97}
+P.~Fries, P.~R. Roelfsema, A.~K. Engel, P.~König, and W.~Singer.
+\newblock Synchronization of oscillatory responses in visual cortex correlates
+  with perception in interocular rivalry.
+\newblock {\em Proc. Natl. Acad. Sci.}, 94:12699--12704, November 1997.
+
+\bibitem{Frome:TR-198:1972}
+F.~Frome.
+\newblock A psychophysical study of shape alignment.
+\newblock Technical Report TR-198, University of Maryland, Computer Science
+  Center, 1972.
+
+\bibitem{Fujita:etal:Nature92}
+I.~Fujita, K.~Tanaka, M.~Ito, and K.~Cheng.
+\newblock Columns for visual features of objects in monkey inferotemopral
+  cortex.
+\newblock {\em Nature}, 360:343--346, 1992.
+
+\bibitem{Georgopoulos:etal:Science93}
+A.~Georgopoulos, M.~Taira, and A.~Lukashin.
+\newblock Cognitive neurophysiology of the motor cortex.
+\newblock {\em Science}, 1993.
+
+\bibitem{Gerrits:etal:VR66}
+H.~Gerrits, B.~de~Haan, and A.~Vendrick.
+\newblock Experiments with retinal stabilized images. relations between the
+  observations and neural data.
+\newblock {\em Vision Research}, 6:427--440, 1966.
+
+\bibitem{Gibson:Peterson:JEP94}
+B.~Gibson and M.~Peterson.
+\newblock Does orientation-independent object recognition precede
+  orientation-dependent recognition? {E}vidence from a cueing paradigm.
+\newblock {\em Journal of Experimental Psychology: Human Perception and
+  Performance}, 20:299--316, 1994.
+
+\bibitem{Gibson:etal:Nature99}
+J.~Gibson, M.~Beierlein, and B.~W. Connors.
+\newblock Two electrically coupled inhibitory networks.
+\newblock {\em Nature}, 402(4):75--79, 1999.
+
+\bibitem{Giersch:etal:CogNeuropsych00}
+A.~Giersch, G.~Humphreys, M.~Boucart, and I.~Kovács.
+\newblock The computation of occluded contours in visual agnosia: evidence for
+  early computation prior to shape binding and figure-ground coding.
+\newblock {\em Cognitive Neuropsychology}, 17(8):731--759, 2000.
+
+\bibitem{Gilber:etal:PNAS96}
+C.~Gilbert, A.~Das, M.~Ito, M.~Kapadia, and G.~Westheimer.
+\newblock Spatial integration and cortical dynamics.
+\newblock {\em Proceedings in the National Academy of Science USA}, 1996.
+
+\bibitem{Gilbert:Wiesel:Nature83}
+C.~Gilbert and T.~Wiesel.
+\newblock {\em Nature (London)}, 280:120--125, 1983.
+
+\bibitem{Gilbert:etal:VR90}
+C.~Gilbert and T.~Wiesel.
+\newblock The influence of contextual stimuli on the orientation selectivitiy
+  of cells in primary visual cortex of the cat.
+\newblock {\em Vision Res}, 1990.
+
+\bibitem{Gilbert:Wiesel:JN83}
+C.~D. Gilbert and T.~N. Wiesel.
+\newblock Clustered intrinsic connections in cat visual cortex.
+\newblock {\em Journal of Neuroscience}, 3:1116--1133, 1983.
+
+\bibitem{Grammont:Riehle:EBrainRes99}
+F.~Grammont and A.~Riehle.
+\newblock Precise spike synchronization in monkey motor cortex involved in
+  preparation for movement.
+\newblock {\em Exp. Brain Res.}, 128:118--122, 1999.
+
+\bibitem{Gray:McCormick:Science96}
+C.~Gray and D.~McCormick.
+\newblock Chattering cells: superficial pyramidal neurons contributing to the
+  generation of synchronous oscillations in the visual cortex.
+\newblock {\em Science}, 274:109--13, 1996.
+
+\bibitem{Gray:Singer:PNAS89}
+C.~M. Gray and W.~Singer.
+\newblock Stimulus-specific neuronal oscillations in orientation columns of cat
+  visual cortex.
+\newblock {\em Proc. Natl. Acad. Sci. USA}, 86(5):1698--1702, march 1989.
+
+\bibitem{Grinvald:Lieke:Frostig:Hildesheim:JN94}
+A.~Grinvald, E.~Lieke, R.~Frostig, and R.~Hildesheim.
+\newblock Cortical point-spread function and long-range lateral interactions
+  revealed by real-time optical imaging of macaque mondkey primary visual
+  cortex.
+\newblock {\em Journal of Neuroscience}, 1994.
+
+\bibitem{Grinvald:etal:JN94}
+A.~Grinvald, E.~Lieke, R.~Frostig, and R.~Hildesheim.
+\newblock Cortical point-spread function long-range lateral iteraction revealed
+  by real-time optical imaging of macaque monkey primary visual cortex.
+\newblock {\em J. Neuroscience}, 14:2545--2568, 1994.
+
+\bibitem{Grossberg:PP94}
+S.~Grossberg.
+\newblock 3-{D} vision and figure-ground separation by visual cortex.
+\newblock {\em Perception and Psychophysics}, 55:48--121, 1994.
+
+\bibitem{Grossberg:Mingolla:PP85}
+S.~Grossberg and E.~Mingolla.
+\newblock Neural dynamics of perceptual grouping: textures, boundaries, and
+  emergent segmentations.
+\newblock {\em Perception and Psychophysics}, 38:141--171, 1985.
+
+\bibitem{Grossberg:Pessoa:VR98}
+S.~Grossberg and L.~Pessoa.
+\newblock Texture segregation, surface representation, and figure-ground
+  separation.
+\newblock {\em Vision Research}, 38:2657--2684, 1998.
+\newblock Preliminary version appears as Boston University Technical Report,
+  CAS/CNS-TR-96-025.
+
+\bibitem{Grossberg:Todorovic:PP88}
+S.~Grossberg and D.~Todorovic.
+\newblock Neural dynamics of 1-d and 2-d brightness perception: A unified model
+  of classical and recent phenomena.
+\newblock {\em Perception and Psychophysics}, 43:241--277, 1988.
+
+\bibitem{Gulyas:etal:JNeurophysiol87}
+B.~Gulyas, G.~A. Orban, J.~Duysens, and H.~Maes.
+\newblock The suppressive influence of moving textured backgrounds on responses
+  of cat striate neurons to moving bars.
+\newblock {\em J. Neurophysiol.}, 57:--1791, 1987.
+
+\bibitem{Guy:Medioni:IJCV96}
+G.~Guy and G.~Medioni.
+\newblock Inferring global perceptual contours from local features.
+\newblock {\em IJCV}, 20:113--133, 1996.
+
+\bibitem{Gyoba:Perception97}
+J.~Gyoba.
+\newblock Loss of a forest: Pereceptual fading and filling-in of static texture
+  patterns.
+\newblock {\em Perception}, 26:1317--1320, 1997.
+
+\bibitem{Hatsopoulos:etal:PNAS98}
+N.~Hatsopoulos, C.~Ojakangas, L.~Paninski, and J.~Donoghue.
+\newblock Information about movement direction obtained by synchronous activity
+  of motor cortical neurons.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  95:15706--15711, 1998.
+
+\bibitem{Hayward:ExpPsych98}
+W.~G. Hayward.
+\newblock Effects of outline shape in object recognition.
+\newblock {\em Journal of Experimental Psychology: Human Perception and
+  Performance}, 24(2):427--440, 1998.
+
+\bibitem{Heitger:etal:VR92}
+F.~Heitger, L.~Rosenthaler, R.~von~der Heydt, E.~Peterhans, and O.~Kubler.
+\newblock Simulation of neural contour mechanisms: from simple to end-stopped
+  cells.
+\newblock {\em Vis Res}, 1992.
+
+\bibitem{Heitger:etal:IVC98}
+F.~Heitger, R.~von~der Heydt, E.~Peterhans, L.~Rosenthaler, and O.~Kobler.
+\newblock Simulation of neural contour mechanisms: representing anomalous
+  contours.
+\newblock {\em Image and Vision Computing}, 16:409--423, 1998.
+
+\bibitem{Hess:Nature97}
+R.~Hess and S.~Dakin.
+\newblock Absence of contour linking in peripheral vision.
+\newblock {\em Nature}, 1997.
+
+\bibitem{Hirsch:etal:PNAS95}
+J.~Hirsch, R.~DeLaPaz, N.~RElkin, J.~Victor, K.~Kim, T.~Li, P.~Borden,
+  N.~Rubin, and R.~Shapley.
+\newblock Illusory contours activate specific regions in human visual cortex:
+  evidence from functional magnetic resonance imaging.
+\newblock {\em Proc. Natl. Acad. Sci.}, 1995.
+
+\bibitem{Hirsch:Gilbert:JNeuro91}
+J.~A. Hirsch and C.~Gilbert.
+\newblock Synaptic physiology of horizontal connections in the cat's visual
+  cortex.
+\newblock {\em J. Neurosci.}, 11:1800--1809, 1991.
+
+\bibitem{Hollingsworth-Lisanby:Lockhead:APA91}
+S.~Hollingsworth-Lisanby and G.~R. Lockhead.
+\newblock {\em The Perception of Structure}, chapter Subjective Randomness,
+  Aesthetics, and Structure.
+\newblock American Psychological Association, Washington DC, 1991.
+
+\bibitem{Hubel&Livingstine:18}
+Hubel, D.~H, Livingstone, and M.~S.
+\newblock Segregation of form, color, and stereopsis in primate area 18.
+\newblock {\em Journal of Neuroscience}, 7(11):3378--3415, 1987.
+
+\bibitem{Hubel:Wiesel:JPhysiol62}
+D.~Hubel and T.~Wiesel.
+\newblock Receptive fields, binocular interaction and functional architecture
+  in the cat's visual cortex.
+\newblock {\em J. Physiology}, 160:106--154, 1962.
+
+\bibitem{Hubel:Wiesel:Mechanisms}
+D.~H. Hubel and T.~N. Wiesel.
+\newblock Brain mechanisms of vision.
+\newblock {\em Scientific American}, 241:150--162, September 1979.
+
+\bibitem{Hummel:Stankiewicz:Spatial:Vision96}
+J.~E. Hummel and B.~J. Stankiewicz.
+\newblock Categorical relations in shape perception.
+\newblock {\em Spatial Vision}, 10:201--236, 1996.
+
+\bibitem{Humphrey:Khan:JPsych92}
+G.~Humphrey and S.~Khan.
+\newblock Recognizing novel views of three-dimensional objects.
+\newblock {\em Canadian Journal of Psychology}, 46:170--190, 1992.
+
+\bibitem{Hupe:etal:Nature98}
+J.~Hupe, B.~Payne, S.~Lomber, P.~Girard, and J.~Bullier.
+\newblock Cortical feedback improves discrimination between figure and
+  background by v1, v2 and v3 neurons.
+\newblock {\em Nature}, 1998.
+
+\bibitem{Huxlin:etal:CC00}
+K.~Huxlin, R.~Saunders, D.~Marchionini, H.-A. Pham, and W.~Merigan.
+\newblock Perceptual deficits after lesions of inferotemporal cortex in
+  macaques.
+\newblock {\em Cerebral Cortex}, 10:671--683, 2000.
+
+\bibitem{Ishai:etal:Science95}
+A.~Ishai and D.~Sagi.
+\newblock Common mechanisms of visual imagery and perception.
+\newblock {\em Science}, 1995.
+
+\bibitem{Janssen:etal:Science2000}
+P.~Janssen, R.~Vogels, and G.~Orban.
+\newblock Selectivity for 3{D} shape that reveals distinct areas within macaque
+  inferior temporal cortex.
+\newblock {\em Science}, 288:2054--2056, 2000.
+
+\bibitem{Janssen:etal:Science00}
+P.~Janssen, R.~Vogels, and G.~Orban.
+\newblock Selectivity for 3d shape that reveals distinct areas within macaque
+  inferior temporal cortex.
+\newblock {\em Science}, 2000.
+
+\bibitem{Reid:etal:VR88}
+R.~R. JR and R.~Shapley.
+\newblock Brightness induction by local contrast and the spatial dependence of
+  assimilation.
+\newblock {\em Vis Res}, 1988.
+
+\bibitem{Kandel:Schwartz:Jessel:Book}
+E.~Kandel, J.~Schwartz, and T.~Jessell.
+\newblock {\em Essentials of Neural Science and Behavior}.
+\newblock Appleton and Lange, Norwalk, CT, 2001.
+
+\bibitem{Kastner:etal:VR97}
+S.~Kastner, H.~Nothdurft, and I.~Pigarev.
+\newblock Neuronal correlates of pop-out in cat striate cortex.
+\newblock {\em Vis Res}, 1997.
+
+\bibitem{Kellman:Shipley:CPsych91}
+P.~Kellman and T.~Shipley.
+\newblock A theory of visual interpolation in object perception.
+\newblock {\em Cognitive Psychology}, 23:141--221, 1991.
+
+\bibitem{Kisvarday:Eysel:EJN93}
+Z.~Kisvarday and U.~Eysel.
+\newblock Functional and structural topography of horizontal inhibitory
+  connections in cat visual cortex.
+\newblock {\em European Journal of Neuroscience}, 5:1558--72, 1993.
+
+\bibitem{Nakayama:etal:Science92}
+K.Nakayama and S.~Shimojo.
+\newblock Experiencing and perceiving visual surfaces.
+\newblock {\em Science}, 1992.
+
+\bibitem{Kobatake:Tanaka:APS94}
+E.~Kobatake and K.~Tanaka.
+\newblock Neuronal selectivities to complex object features in the ventral
+  visual pathway of the macaque cerebral cortex.
+\newblock {\em American Physiological Society}, 1994.
+
+\bibitem{Koffka:Book35}
+K.~Koffka.
+\newblock {\em Principles of Gestalt Psychology}, page 150, 1935.
+
+\bibitem{Kosslyn:etal:Nature95}
+S.~Kosslyn, W.~Thompson, I.~Kim, and N.~Alpert.
+\newblock Topographical representations of mental images in primary visual
+  cortex.
+\newblock {\em Nature}, 1995.
+
+\bibitem{Kourtzi:Kanwisher:JN2000}
+Z.~Kourtzi and N.~Kanwisher.
+\newblock Cortical regions involved in perceiving object shape.
+\newblock {\em Journal of Neuroscience}, 2000.
+
+\bibitem{Kovacs:BBR96}
+I.~Kovacs.
+\newblock Gestalten of today: early processing of visual contours and surfaces.
+\newblock {\em Behavioural Brain Research}, 82:1--11, 1996.
+
+\bibitem{Kovacs:etal:VR98}
+I.~Kovacs, A.~Feher, and B.~Julesz.
+\newblock Medial-point description of shape: a representation for action coding
+  and its psychophysical correlates.
+\newblock {\em Vision Research}, 38:2323--2333, 1998.
+
+\bibitem{Kovacs:Julesz:PNAS93}
+I.~Kovacs and B.~Julesz.
+\newblock A closed curve is much more than an incomplete one: Effect of closure
+  in figure-ground segmentation.
+\newblock {\em PNAS}, 90:7495--7497, August 1993.
+
+\bibitem{Kovacs:Julesz:Nature94}
+I.~Kovacs and B.~Julesz.
+\newblock Perceptual sensitivity maps within globally defined visual shapes.
+\newblock {\em Nature}, 370:644--646, August 1994.
+
+\bibitem{Kovacs:Julesz:Book95}
+I.~Kovacs and B.~Julesz.
+\newblock Long-range spatial interactions of early vision.
+\newblock {\em Maturational windows and cortical plasticity, SFI studies in the
+  sciences of complexity}, 23:127--136, 1995.
+
+\bibitem{Kovacs:etal:PNAS99}
+I.~Kovacs, P.~Kozma, A.~Feher, and G.~Benedek.
+\newblock Late maturation of visual spatial integration in humans.
+\newblock {\em PNAS}, 96(21):12204--12209, October 1999.
+
+\bibitem{Kurbat:Perception94}
+M.~A. Kurbat.
+\newblock Structural description theories: is {RBC}/{JIM} a general-purpose
+  theory of human entry-level object recognition.
+\newblock {\em Perception}, 23:1339--1368, 1994.
+
+\bibitem{Lachter:etal:VC00}
+J.~Lachter, F.~H. Durgin, and T.~Washington.
+\newblock Disappearing percepts: Evidence for retention failure in metacontrast
+  masking.
+\newblock {\em Visual Cognition}, 7:269--279, 2000.
+
+\bibitem{Lamme:IORS94}
+V.~Lamme.
+\newblock Neuronal correlates of figure-ground segregation in primary cortex.
+\newblock {\em Invest. Ophthalmol.}, 35:1489, 1994.
+
+\bibitem{Lamme:JN95}
+V.~Lamme.
+\newblock The neurophysiology of figure-ground segmentation.
+\newblock {\em J. Neurosci}, 15:1605--1615, 1995.
+
+\bibitem{Lamme:Spekreijse:Nature98}
+V.~Lamme and H.~Spekreijse.
+\newblock Neuronal synchrony does not represent texture segregation.
+\newblock {\em Nature}, 396:362--366, 1998.
+
+\bibitem{Lamme:etal:SocNeuroAbs97}
+V.~Lamme, K.~Zipser, and H.~Spekreijse.
+\newblock Figure-ground signals in {V}1 depend on consciousness and feedback
+  from extra-striate areas.
+\newblock {\em Soc. Neurosci. Abs.}, 603(1), 1997.
+
+\bibitem{Lamote:Wagemans:VC99}
+L.~Lamote and J.~Wagemans.
+\newblock Rapid integration of contour fragments: from simple filling-in to
+  parts-based shape description.
+\newblock {\em Visual Cognition}, 6:345--361, 1999.
+
+\bibitem{Land:PNAS:59}
+E.~Land.
+\newblock Color vision and the natural image.
+\newblock {\em Proc. Natl. Acad. Sci}, 1959.
+
+\bibitem{Land:SciAme77}
+E.~Land.
+\newblock Retinex theory of color vision.
+\newblock {\em Scientific American}, 237:108--128, 1977.
+
+\bibitem{Land:McCann:JOSA71}
+E.~Land and J.~McCann.
+\newblock Lightness and retinex theory.
+\newblock {\em {JOSA}}, 61:1--11, 1971.
+
+\bibitem{Lee:VR95}
+T.~Lee.
+\newblock A bayesian framework for understanding texture segmentation in the
+  primary visual cortex.
+\newblock {\em Vis Res}, 1995.
+
+\bibitem{Lee:SNeuroAbstr95}
+T.~Lee.
+\newblock Evidence for scale-invariant medial axis representation in primate
+  striate cortex.
+\newblock {\em Soc. Neurosci. Abstr.}, 21:1648--, 1995.
+
+\bibitem{Lee:CNSProc.CompNeuro96}
+T.~Lee.
+\newblock Neurophysiological evidence for image segmentation and medial axis
+  computation in primate {V}1.
+\newblock In N.~M. Bower~JM, editor, {\em Computation and Neural System,
+  Pro-ceedings of the Fourth Annual Computational Neuroscience Conference}.
+  Kluwer Academic Publishing, The Netherlands, 1996.
+
+\bibitem{Lee:etal:NatureNeuro02}
+T.~Lee, C.Yang, R.D.Romero, and D.Mumford.
+\newblock Neural activity in early visual cortex reflects perceptual saliency
+  determined by behavioral experience and high-order stimulus properties.
+\newblock {\em Nature Neuroscience}, page Under Review, 2002.
+
+\bibitem{Lee:etal:IOVS95}
+T.~Lee, D.~Mumford, and P.~Schiller.
+\newblock Neuronal correlates of boundary and medial axis representations in
+  primate visual cortex.
+\newblock {\em Invest. Ophthalmol. Vis. Sci.}, 36:477--, 1995.
+
+\bibitem{Lee:Nguyen:PNAS01}
+T.~Lee and M.~Nguyen.
+\newblock Dynamics of subjective contour formation in the early visual cortex.
+\newblock {\em Proceedings of the National Academy of Sciences, Neurobiology},
+  98(4):1907--1911, Feb 2001.
+
+\bibitem{Lee:etal:VR98}
+T.~S. Lee, D.~Mumford, R.~Romero, and V.~A. Lamme.
+\newblock The role of primary visual cortex in higher level vision.
+\newblock {\em Vision Research}, 38:2429--2454, 1998.
+
+\bibitem{Lehky&Sejnowsky}
+S.~R. Lehky and T.~J. Sejnowski.
+\newblock Network model of shape-from-shading: neural function arises from both
+  receptive and projective fields.
+\newblock {\em Nature}, 333(2):452--454, 1988.
+
+\bibitem{Lesher:etal:VR93}
+G.~W. Lesher and E.~Mingolla.
+\newblock The role of edges and line-ends in illusory contour formation.
+\newblock {\em Vis Res}, 1993.
+
+\bibitem{Lettvin:etal:IRE59}
+J.~Lettvin, H.~Maturana, W.~McCulloch, and W.~Pitts.
+\newblock What the frog's eye tells the frog brain.
+\newblock {\em Proceed. IRE}, 47:1940--51, 1959.
+
+\bibitem{Lettvin:etal:Frog}
+J.~Lettvin, H.~Maturana, W.~Mcculloch, and W.~Pitts.
+\newblock What the frog's eye tells the frog's brain.
+\newblock {\em Proceedings of the IRE}, 47(11):1940--1959, November 1959.
+
+\bibitem{Levi:etal:VR85}
+D.~Levi, S.~Klein, and A.~Aitsebaomo.
+\newblock Vernier acuity, crowding and cortical magnification.
+\newblock {\em Vision Research}, 25, 1985.
+
+\bibitem{Levitt:Lund:Nature97}
+J.~Levitt and J.~Lund.
+\newblock Contrast dependence of contextual effects in primate visual cortex.
+\newblock {\em Nature}, 387:73--76, 1997.
+
+\bibitem{Li:Li:VR94}
+C.~Li and W.~Li.
+\newblock Extensive integration field beyond the classical receptive field of
+  cat's striate cortical neurons: classification and tuning properties.
+\newblock {\em Vision Research}, 34(18):2337--2355, 1994.
+
+\bibitem{Li:etal:1997}
+W.~Li and G.~Westheimer.
+\newblock Human discrimination of the implicit orientation of simple
+  symmetrical patterns.
+\newblock {\em Vis Res}, 1997.
+
+\bibitem{Li:NeuralComp98}
+Z.~Li.
+\newblock A neural model of contour integration in the primary visual cortex.
+\newblock {\em Neural Computation}, 10:903--940, 1998.
+
+\bibitem{Li:NIPS99}
+Z.~Li.
+\newblock {\em Advances in Neural Information Processing Systems}, volume~12,
+  chapter Can {V}1 mechanisms account for figure-ground and medial axis
+  effects?, pages 136--142.
+\newblock MIT Press, Cambridge, MA, 1999.
+
+\bibitem{Li:ANIPS99}
+Z.~Li.
+\newblock A v1 model of pop out and asymmetry in visual search.
+\newblock {\em Advances in Neural Information Processing Systems}, 1999.
+
+\bibitem{Li:ANIPS2000}
+Z.~Li.
+\newblock Can v1 mechanisms account for figure-ground and medial axis effects?
+\newblock {\em Advances in Neural Information Processing Systems}, 2000.
+
+\bibitem{Li:SpatialVision00}
+Z.~Li.
+\newblock Pre-attentive segmentation in the primary visual cortex.
+\newblock {\em Spatial Vision}, 13:25--50, 2000.
+
+\bibitem{Liu:Spatial:Vision96}
+Z.~Liu.
+\newblock Viewpoint dependency in shape representation and recognition.
+\newblock {\em Spatial Vision}, 9(4):491--521, 1996.
+
+\bibitem{Livingstone:JNeurophys96}
+M.~Livingstone.
+\newblock Oscillatory firing and interneuronal correlations in squirrel monkey
+  striate cortex.
+\newblock {\em Journal of Neurophysiology}, 1996.
+
+\bibitem{Logothetis:etal:CurrBiol94}
+N.~Logothetis, J.~Paul, H.~Bulthoff, and T.~Poggio.
+\newblock Viewer dependent object recognition by monkeys.
+\newblock {\em Curr. Biol.}, 45:401--414, 1994.
+
+\bibitem{Logothetis:etal:ARN96}
+N.~Logothetis and D.~Sheinberg.
+\newblock Visual object recognition.
+\newblock {\em Annual Review of Neurosci}, 1996.
+
+\bibitem{MacEvoy:etal:NatureNeuro98}
+S.~MacEvoy, W.~Kim, and M.~Paradiso.
+\newblock Integration of surface information in primary visual cortex.
+\newblock {\em Nature Neuroscience}, 1:616--620, 1998.
+
+\bibitem{Malach:etal:PNAS93}
+R.~Malach, Y.~Amir, M.~Harel, and A.~Grinvald.
+\newblock Relationship between intrinsic connections and functional
+  architecture,revealed by optical imaging and in vivo targeted biocytine
+  injections in primate striate cortex.
+\newblock {\em Proceedings of the National Academy of Science, USA},
+  90:10469--10473, 1993.
+
+\bibitem{Manceaux-Demiau:Mangin:1997}
+A.~Manceaux-Demiau, J.-F. Mangin, J.~Regis, O.~Pizzato, and V.~Frouin.
+\newblock Differential features of cortical folds.
+\newblock {\em CVRMed-MRCAS'97}, Lecture Notes in Computer Science
+  1205:439--448, 1997.
+
+\bibitem{Mangin:Regis:1995}
+J.-F. Mangin, J.~Regis, I.~Bloch, V.~Frouin, Y.~Samson, and J.~Lopez-Krahe.
+\newblock A mrf based random graph modelling the human cortical topography.
+\newblock {\em CVRMed'95}, Lecture Notes in Computer Science 905:177--183,
+  1995.
+
+\bibitem{Mather:VR89}
+G.~Mather.
+\newblock The role of subjective contours in capture of stereopsis.
+\newblock {\em Vision Research}, 29:143--146, 1989.
+
+\bibitem{McDonald:Burkhalter:JN93}
+C.~McDonald and A.~Burkhalter.
+\newblock Organization of longe-range inhibitory connections with rat visual
+  cortex.
+\newblock {\em Journal of Neuroscience}, 13:768--81, 1993.
+
+\bibitem{McIlhagga:Mullen:VR96}
+W.~McIlhagga and K.~Mullen.
+\newblock Contour integration with color and luminance contrast.
+\newblock {\em Vision Research}, 36:1265--1279, 1996.
+
+\bibitem{McIlhagga:etal:VR96}
+W.~McIlhagga and K.~Mullen.
+\newblock Contour integration with colour and luminance contrast.
+\newblock {\em Vis Res}, 1996.
+
+\bibitem{Mendola:etal:JN99}
+J.~D. Mendola, A.~M. Dale, B.~Fischl, A.~K. Liu, and R.~B. Tootell.
+\newblock The representation of illusory and real contours in human cortical
+  visual areas revealed by functional magnetic resonance imaging.
+\newblock {\em Journal of Neuroscience}, 19(19):8560--8572, 1999.
+
+\bibitem{Mitchison:etal:PNAS82}
+G.~Mitchison and F.~Crick.
+\newblock Long axons within the striate cortex: their distribution,
+  orientation, and patterns of connection.
+\newblock {\em Proceedings in the National Academy of Science USA}, 1982.
+
+\bibitem{Mitchinson:McKee:I:VR87}
+G.~Mitchison and S.~McKee.
+\newblock Interpolation and detection of fine structure in stereoscopic
+  matching.
+\newblock {\em Vision Research}, 27:295--302, 1987.
+
+\bibitem{Mitchinson:McKee:II:VR87}
+G.~Mitchison and S.~McKee.
+\newblock The resolution of ambiguous stereoscopic matches by interpolation.
+\newblock {\em Vision Research}, 27:285--294, 1987.
+
+\bibitem{Mizobe:etal:SNA96}
+K.~Mizobe, T.~Kasamatsu, U.~Polat, and A.~Norcia.
+\newblock Contrast and context modulation of single-cell responses elicited in
+  cat area 17.
+\newblock {\em Soc. Neurosci. Abstr.}, 36:2099--2109, 1996.
+
+\bibitem{Morin:Molotchnikoff:EJN94}
+C.~Morin and S.~Molotchnikoff.
+\newblock Influences of horizontal connections on visual responses of rabbit in
+  striate cortex.
+\newblock {\em European Journal of Neuroscience}, 6:1063--71, 1994.
+
+\bibitem{Mumford:I:BiolCybern91}
+D.~Mumford.
+\newblock On the computational architecture of the neocortex, i: The role of
+  the thalamo-cortical loop.
+\newblock {\em Biological Cybernetics}, 65, 1991.
+
+\bibitem{Mumford:II:BiolCybern91}
+D.~Mumford.
+\newblock On the computational architecture of the neocortex, ii: The role of
+  cortico-cortical loops.
+\newblock {\em Biological Cybernetics}, 66, 1991.
+
+\bibitem{Nakayama:Shimojo:Science92}
+K.~Nakayama and S.~Shimojo.
+\newblock Experiencing and perceiving visual surfaces.
+\newblock {\em Science}, 257:1357--1363, 1992.
+
+\bibitem{Nakayama:etal:Perception89}
+K.~Nakayama, S.~Shimojo, and G.~Silverman.
+\newblock Stereoscopic depth: Its relation to image segmentation, grouping, and
+  the recognition of occluded objects.
+\newblock {\em Perception}, 18:55--68, 1989.
+
+\bibitem{Nelson:Katz:Neuron95}
+D.~Nelson and L.~Katz.
+\newblock Emergence of functional circuits in ferret visual cortex visualized
+  by optical imaging.
+\newblock {\em Neuron}, 15(1):23--34, 1995.
+
+\bibitem{Neumann:etal:IVC98}
+H.~Neumann, L.~Pessoa, and E.~Mingolla.
+\newblock A neural network architecture of brightness perception: Non-linear
+  contrast detection and geometry-driven diffusion.
+\newblock {\em Image and Vision Computing}, 16(6-7):423--446, 1998.
+
+\bibitem{Nowak:etal:JNeurophysiol99}
+L.~Nowak, M.~Munk, A.~James, P.~Girard, and J.~Bullier.
+\newblock Cross-correlation study of the temporal interactions between areas
+  {V}1 and {V}2 of the macaque monkey.
+\newblock {\em J. Neurophysiol.}, 81:1057--1074, 1999.
+
+\bibitem{O'Regan:commentary:BBS98}
+J.~O'Regan.
+\newblock No evidence for neural filling in -- vision as an illusion -- pinning
+  down "enaction".
+\newblock Commentary on Pessoa, Thompson and Noe, "Finding out about filling
+  in". Brain and Behaviour Science, 21, 1998.
+
+\bibitem{Paik:etal:MedPhys98}
+D.~Paik, C.~Beaulieu, R.~Jeffrey, G.~Rubin, and S.~Napel.
+\newblock Automated flight path planning for virtual endoscopy.
+\newblock {\em Med Phys}, 25(5):629--637, May 1998.
+
+\bibitem{Paradiso:CurrBio00}
+M.~Paradiso.
+\newblock Visual neuroscience: Illuminating the dark corners.
+\newblock {\em Current Biology}, 10:R15--18, 2000.
+
+\bibitem{Paradiso:Hahn:VR96}
+M.~Paradiso and S.~Hahn.
+\newblock Filling-in percepts produced by luminance modulation.
+\newblock {\em Vision Research}, 36:2657--2663, 1996.
+
+\bibitem{Paradiso:Nakayama:VR91}
+M.~A. Paradiso and K.~Nakayama.
+\newblock Brightness perception and filling in.
+\newblock {\em Vision Research}, 31:1221--36, 1991.
+
+\bibitem{Pei:etal:JNeuro94}
+X.~Pei, T.~R. Vidyasagar, M.~Volgushev, and O.~D. Creutzfeldt.
+\newblock Receptive field analysis and orientation selectivity of postsynaptic
+  potentials of simple cells in cat visual cortex.
+\newblock {\em J. Neurosci.}, 14:--7140, 1994.
+
+\bibitem{Pessoa:Neumann:TCS98}
+L.~Pessoa and H.~Neumann.
+\newblock Why does the brain fill-in?
+\newblock {\em Trends in Cognitive Sciences}, 2, December 1998.
+
+\bibitem{Pessoa:etal:BBS88}
+L.~Pessoa, E.~Thompson, and A.~Noe.
+\newblock Finding out about filling in: a guide to perceptual completion for
+  visual science and the philosophy of perception.
+\newblock {\em Behavioral and Brain Sciences}, 21(6):723--802, 1988.
+
+\bibitem{Peterhans:vonderHeydt:JN89}
+E.~Peterhans and R.~von~der Heydt.
+\newblock Mechanisms of contour perception in monkey visual cortex. ii.
+  contours bridging gaps.
+\newblock {\em J. Neurosci.}, 9(5):1749--1763, 1989.
+
+\bibitem{Peterhans:etal:JN89}
+E.~Peterhans and R.~von~der Heydt.
+\newblock Mechanisms of contour perception in monkey visual cortex. ii.
+  contours bridging gaps.
+\newblock {\em Journal of Neuroscience}, 1989.
+
+\bibitem{Peterson:Gibson:APS94}
+M.~Peterson and B.~Gibson.
+\newblock Must figure-ground organization precede object recognition?
+\newblock {\em American Psychological Society}, 1994.
+
+\bibitem{Pettet:etal:VR98}
+M.~Pettet, S.~McKee, and N.~Grzywacz.
+\newblock Constraints on long range interactions mediating contour detection.
+\newblock {\em Vis Res}, 1998.
+
+\bibitem{Pettet:Verghese:AnnMeetSocNeuro97}
+M.~Pettet and P.~Verghese.
+\newblock Enchanced contour detection is not mediated by apparent contrast.
+\newblock {\em 27th Annual Meeting of the Society of Neuroscience}, 23:176,
+  1997.
+
+\bibitem{Pinto:Ermentrout:SIAMJAppMath01}
+D.~J. Pinto and G.~B. Ermentrout.
+\newblock Spatially structured activity in synaptically coupled neuronal
+  networks: I. traveling fronts and pulses.
+\newblock {\em SIAM J. Appl Math.}, 62(1):206--225, 2001.
+
+\bibitem{Polat:etal:Nature98}
+U.~Polat, K.~Mizobe, M.~Pettet, T.~Kasamatsu, and A.~Norcia.
+\newblock Collinear stimuli regulate visual responses depending on cell's
+  contrast threshold.
+\newblock {\em Nature}, 1998.
+
+\bibitem{Polat:Norcia:VR96}
+U.~Polat and A.~Norcia.
+\newblock Neurophysiological evidence for contrast dependent long-range
+  facilitation and suppression in the human visual cortex.
+\newblock {\em Vision Research}, 36:2099--2109, 1996.
+
+\bibitem{Polat:Sagi:VR94}
+U.~Polat and D.~Sagi.
+\newblock The architecture of perceptual spatial interactions.
+\newblock {\em Vision Research}, 34:73--78, 1994.
+
+\bibitem{Polat:etal:PNAS94}
+U.~Polat and D.~Sagi.
+\newblock Spatial interactions in human vision: from near to far via
+  experience-dependent cascades of connections.
+\newblock {\em Proc. Natl. Acad. Sci. USA}, 1994.
+
+\bibitem{Prechtl:PNAS:2000}
+J.~Prechtl, T.~Bullock, and D.~Kleinfeld.
+\newblock Direct evidence for local oscillatory current sources and
+  intracortical phase gradients in turtle visual cortex.
+\newblock {\em PNAS}, 2000.
+
+\bibitem{Psotka:JEA78}
+J.~Psotka.
+\newblock Perceptual processes that may create stick figures and balance.
+\newblock {\em Journal of Experimental Psychology: Human Perception and
+  Performance}, 4:101--111, 1978.
+
+\bibitem{Ramachandran:CDPS92}
+V.~Ramachandran.
+\newblock Filling in gaps in perception: Part i.
+\newblock {\em Current Directions in Psychological Science}, 6:199--205, 1992.
+
+\bibitem{Ramachandran:PNAS93}
+V.~Ramachandran.
+\newblock Behavioral and magnetoencephalographic correlates of plasticity in
+  the adult human brain.
+\newblock {\em Proc. Natl. Acad. Sci. USA}, 90:10413--10420, 1993.
+
+\bibitem{Ramachandran:CDPS93}
+V.~Ramachandran.
+\newblock Filling in gaps in perception: Part ii. scotomas and phantom limbs.
+\newblock {\em Current Directions in Psychological Science}, 2:56--65, 1993.
+
+\bibitem{Ramachandran:IntRevNeuro94}
+V.~Ramachandran.
+\newblock Phantom limbs, neglect syndromes, repressed memories, and freudian
+  psychology.
+\newblock {\em International Review of Neurobiology}, 37:291--333, 1994.
+
+\bibitem{Ramachandran:Gregory:Nature91}
+V.~S. Ramachandran and R.~Gregory.
+\newblock Perceptual filling in of artificially induced scotomas in human
+  vision.
+\newblock {\em Nature}, 350(6320):699--702, 1991.
+
+\bibitem{Rao:Ballard:NN99}
+R.~Rao and D.~Ballard.
+\newblock Predictive coding in the visual cortex: a functional interpretation
+  of some extra-classical receptive field effects.
+\newblock {\em Nat Neurosci}, 2(1):79--87, 1999.
+
+\bibitem{Reid:Alonso:Nature95}
+R.~Reid and J.~Alonso.
+\newblock Specificity of monosynaptic connections from thalamus to visual
+  cortex.
+\newblock {\em Nature}, 378:281--284, 1995.
+
+\bibitem{Riehle:etal:Science97}
+A.~Riehle, S.~Grün, M.~Diesmann, and A.~Aertsen.
+\newblock Spike synchronization and rate modulation differentially involved in
+  motor cortical function.
+\newblock {\em Science}, 278:1950--1953, 1997.
+
+\bibitem{Riesenhuber:Poggio:NatNeuro99}
+M.~Riesenhuber and T.~Poggio.
+\newblock Hierarchical models of object recognition in cortex.
+\newblock {\em Nature Neuroscience}, 2(11):1019--1025, November 1999.
+
+\bibitem{Ritz:etal:BiolCybern94}
+R.~Ritz, W.~Gerstner, U.~Fuentes, and J.~L. van Hemmen.
+\newblock A biologically motivated and analytically soluble model of collective
+  oscillations in the cortex: Ii. application to binding and pattern
+  segmentation.
+\newblock {\em Biol. Cybern.}, 71:349--358, 1994.
+
+\bibitem{Roelfsema:etal:Nature97}
+P.~Roelfsema, A.~Engel, and W.~S. P.~Konig.
+\newblock Visuomotor integration is associated with zero time-lag
+  synchronization among cortical areas.
+\newblock {\em Nature}, 385:157--161, 1997.
+
+\bibitem{Roelfsema:Engel:Konig:Singer:Nature97}
+P.~R. Roelfsema, A.~Engel, P.~Konig, and W.~Singer.
+\newblock Visuomotor integration is associated with zero time-lag
+  synchronization among cortical areas.
+\newblock {\em Nature}, 1997.
+
+\bibitem{Rossi:Paradiso:VR96}
+A.~Rossi and M.~Paradiso.
+\newblock Temporal limits of brightness induction and mechanisms of brightness
+  perception.
+\newblock {\em Vision Research}, 36:1391--1398, 1996.
+
+\bibitem{Rossi:Paradiso:JN99}
+A.~Rossi and M.~Paradiso.
+\newblock Neural correlates of brightness in the responses of neurons in the
+  retina, {LGN}, and primary visual cortex.
+\newblock {\em Journal of Neuroscience}, 19:6145--6156, 1999.
+
+\bibitem{Rossi:Paradiso:Science96}
+A.~Rossi, C.~Rittenhouse, and M.~Paradiso.
+\newblock The representation of brightness in primary visual cortex.
+\newblock {\em Science}, 273:1104--1107, 1996.
+
+\bibitem{Roy:Alloway:JNeuro01}
+S.~Roy and K.~Alloway.
+\newblock Coincidence detection or temporal integration? what the neurons in
+  somatosensory cortex are doing.
+\newblock {\em Journal of Neuroscience}, 21:2462--2473, 2001.
+
+\bibitem{Roy:etal:JNeuro01}
+S.~Roy, S.~Dear, and K.~Alloway.
+\newblock Long-range cortical synchronization without concomitant oscillations
+  in the somatosensory system.
+\newblock {\em Journal of Neuroscience}, 21:1795--1808, 2001.
+
+\bibitem{Roy:Alloway:JN2001}
+S.~A. Roy and K.~Alloway.
+\newblock Coincidence detection or temporal integration? what the neurons in
+  somatosensory cortex are doing.
+\newblock {\em Journal of Neuroscienc}, 1987.
+
+\bibitem{Rudd:Arrington:VR01}
+M.~E. Rudd and K.~F. Arrington.
+\newblock Darkness filling-in: a neural model of darkness induction.
+\newblock {\em Vision Research}, 41(27):3649--3662, 2001.
+
+\bibitem{Salin:Bullier:PhysiolRev95}
+P.~Salin and J.~Bullier.
+\newblock Corticocortical connections and the visual system: Structure and
+  function.
+\newblock {\em Physiol. Rev.}, 75:107--154, 1995.
+
+\bibitem{Sarkar:Boyer:CVPR96}
+S.~Sarkar and K.~Boyer.
+\newblock Quantitative measures of change based on feature organization:
+  Eigenvalues and eigenvectors.
+\newblock {\em Proc. IEEE CVPR}, pages 478--483, 1996.
+\newblock San Fransisco, CA.
+
+\bibitem{Sary:etal:Science93}
+G.~Sary, R.~Vogels, and G.~Orban.
+\newblock Cue-invariant shape selectivity of macaque inferior temporal neurons.
+\newblock {\em Science}, 1993.
+
+\bibitem{Schwartz:etal:Shape:IT}
+E.~Schwartz, R.~Desimone, T.~Albright, and G.~C.G.
+\newblock Shape recognition and inferior temporal neurons.
+\newblock {\em Procceedings of the National Academy of Sciences, U.S.A.},
+  80:5776--5778, 1983.
+
+\bibitem{Schwartz:Spatial:IT}
+E.~L. Schwartz.
+\newblock {\em Spatial Mapping and Spatial Vision in Primate Striate and
+  Infero-Temporal Cortex}.
+\newblock 1984.
+
+\bibitem{Schyns:Cognition98}
+P.~Schyns.
+\newblock Diagnositc recognition: task constraints, object information, and
+  their interactions.
+\newblock {\em Cognition}, 1998.
+
+\bibitem{Senseman:VisNeuro96}
+D.~Senseman.
+\newblock Correspondence between visually evoked voltage­sensitive dye signals
+  and synaptic activity recorded in cortical pyramidal cells with intracellular
+  microelectrodes.
+\newblock {\em Vis. Neuroscience}, 13:963­977, 1996.
+
+\bibitem{Shadlen:Movshon:Neuron99}
+M.~Shadlen and J.~Movshon.
+\newblock Synchrony unbound: A critical evaluation of the temporal binding
+  hypothesis.
+\newblock {\em Neuron}, 1999.
+
+\bibitem{Shaply:Gordon:IOVS83}
+R.~Shapley and J.~Gordon.
+\newblock A nonlinear mechanism for the perception of form.
+\newblock {\em Invest Ophthal Vis Sci}, 24:238, 1983.
+
+\bibitem{Shashua:Ullman:ICCV88}
+A.~Shashua and S.~Ullman.
+\newblock Structural saliency: The detection of globally salient structures
+  using a locally connected network.
+\newblock {\em ICCV}, pages 321--327, 1988.
+
+\bibitem{Shaw:Palm:Brain}
+G.~Shaw and G.~Palm.
+\newblock {\em Brain Theory -- Advanced Series in Neuroscience}, volume~1.
+\newblock World Scientific, 1988.
+
+\bibitem{Sheinberg:Logothetis:JN01}
+D.~Sheinberg and N.~Logothetis.
+\newblock Noticing familiar objects in real world scenes: The role of temporal
+  cortical neurons in natural vision.
+\newblock {\em J. of Neurosci.}, 21:1340--1350, 2001.
+
+\bibitem{Sherman:Spear:ARPhysiol82}
+S.~Sherman and P.~Spear.
+\newblock Organization of visual pathways in normal and visually deprived cats.
+\newblock {\em Annu Rev Physiol.}, 62:738--855, 1982.
+
+\bibitem{Sheth:etal:Science96}
+B.~Sheth, J.~Sharma, S.~C. Rao, and M.~Sur.
+\newblock Orientation maps of subjective contours in visual cortex.
+\newblock {\em Science}, 274:2110--2115, 1996.
+
+\bibitem{Shimojo:etal:Science01}
+S.~Shimojo, Y.~Kamitani, and S.~Nishida.
+\newblock Afterimage of perceptually filled-in surface.
+\newblock {\em Science}, 293:1677--1680, 2001.
+
+\bibitem{Shimojo:etal:PNAS01}
+S.~Shimojo, M.~Paradiso, and I.~Fujita.
+\newblock What visual perception tells us about mind and brain.
+\newblock {\em Proceedings of National Academy of Science}, 98(22):12340--41,
+  October 2001.
+
+\bibitem{Siddiqi:Kimia:Tannenbaum:Zucker:VisRes2001}
+K.~Siddiqi, B.~Kimia, A.~Tannenbaum, and S.~Zucker.
+\newblock On the psychophysics of the shape triangle.
+\newblock {\em Vision Research}, 2001.
+
+\bibitem{Sillito:JPhysiol75}
+A.~Sillito.
+\newblock The contribution of inhibitory mechanisms to the receptive field
+  properties of neurons in the striate cortex of the cat.
+\newblock {\em J. Physiol.}, 250:305--329, 1975.
+
+\bibitem{Sillito:etal:Nature94}
+A.~Sillito, H.~Jones, G.~Gerstein, and D.~West.
+\newblock Feature-linked synchronization of thalamic relay cell firing induced
+  by feedback from the visual cortex.
+\newblock {\em Nature}, 369:479--482, 1994.
+
+\bibitem{Sillito:etal:Nature95}
+A.~M. Sillito, K.~L. Grieve, H.~E. Jones, J.~Cudeiro, and J.~Davis.
+\newblock Visual cortical mechanisms detecting focal orientation
+  discontinuities.
+\newblock {\em Nature}, 378:492--6, November 1995.
+
+\bibitem{Singer:Gray:AnnRevNeuro95}
+W.~Singer and C.~Gray.
+\newblock Visual feature integration and the temporal correlation hypothesis.
+\newblock {\em Annu. Rev. Neuro.}, 18:555--86, 1995.
+
+\bibitem{Sirovich:Kaplan:Knight:O'Brien:Orbach:PhysicaD96}
+L.~Sirovich, E.~Kaplan, B.~Knight, E.~O'Brien, and D.~Orbach.
+\newblock Modeling the functional organization of the visual cortex.
+\newblock {\em Physica D}, 1996.
+
+\bibitem{Steinmetz:etal:Nature00}
+P.~N. Steinmetz, A.~Roy, P.~Fitzgerald, S.~Hsiao, E.~Niebur, and K.~O. Johnson.
+\newblock Attention modulates synchronized neuronal firing in primate
+  somatosensory cortex.
+\newblock {\em Nature}, 404:187 -- 190, 2000.
+
+\bibitem{Stemmler:etal:Science95}
+M.~Stemmler, M.~Usher, and E.~Niebur.
+\newblock Lateral interactions in primary visual cortex: a model bridging
+  physiology to psychophysics.
+\newblock {\em Science}, 269:1877--1880, 1995.
+
+\bibitem{Takeichi:etal:Perception92}
+H.~Takeichi, I.~Watanabe, and S.~Shimojo.
+\newblock Illusory occluding contours and surface formation by depth
+  propagation.
+\newblock {\em Perception}, 21:177--184, 1992.
+
+\bibitem{Tanaka:CurrentBio92}
+K.~Tanaka.
+\newblock Inferotemporal cortex and higher visual functions.
+\newblock {\em Current Biology}, 1992.
+
+\bibitem{Tanaka:Science93}
+K.~Tanaka.
+\newblock Neuronal mechanisms of object recognition.
+\newblock {\em Science}, 262:685--688, 1993.
+
+\bibitem{Tanaka:AnnRevNeuro96}
+K.~Tanaka.
+\newblock Inferotemporal cortex and object vision.
+\newblock {\em Annual Review of Neuroscience}, 19:109--139, 1996.
+
+\bibitem{Tarr:Black:CVGIP94}
+M.~Tarr and M.~Black.
+\newblock A computational and evolutionary perspective on the role of
+  representation in vision.
+\newblock 60(1):65--73, July 1994.
+
+\bibitem{Tarr:Pinker:CognitivePhysiology89}
+M.~Tarr and S.~Pinker.
+\newblock Mental rotation and orientation-dependence in shape recognition.
+\newblock {\em Cognitive Psychology}, 21:233--282, 1989.
+
+\bibitem{Tarr:Rotating:95}
+M.~J. Tarr.
+\newblock Rotating objects to recognize them: A case study of the role of
+  viewpoint dependency in the recognition of three-dimensional objects.
+\newblock {\em Psychonomic Bulletin and Review}, 2(1):55--82, 1995.
+
+\bibitem{Tarr:Bulthoff:ExpPsych95}
+M.~J. Tarr and H.~H. Bulthoff.
+\newblock Is human object recognition better described by
+  geon-structural-descriptions or by multiple-views?
+\newblock {\em Journal of Experimental Psychology}, 21(6):1494--1505, 1995.
+
+\bibitem{Terlfeian:Connors:Epilepsia98}
+A.~E. Telfeian and B.~W. Connors.
+\newblock Layer-specific pathways for the horizontal propagation of
+  epileptiform discharges in neocortex.
+\newblock {\em Epilepsia}, 39(7):700--8, 1998.
+
+\bibitem{Thompson:Noe:Pessoa:ICPCS}
+E.~Thompson, A.~Noe, and L.~Pessoa.
+\newblock Perceptual completion: A case study in phenomenology and cognitive
+  science.
+\newblock Issues in Contemporary Phenomenology and Congitive Science.
+
+\bibitem{Thompson:etal:Book99}
+E.~Thompson, A.~Noe, and L.~Pessoa.
+\newblock {\em Naturalizing Phenomenology: Issues in Contemporary Cognitive
+  Science and Phenomenology}, chapter Perceptual completion: a case study for
+  phenomenology and cognitive science.
+\newblock Stanford University Press, 1999.
+
+\bibitem{Tjan:Legge:VR98}
+B.~Tjan and G.~Legge.
+\newblock The viewpoint complexity of an object-recognition task.
+\newblock {\em Vision Research}, 38:2335--2350, 1998.
+
+\bibitem{Tjan:etal:VR98}
+B.~Tjan and G.~Legge.
+\newblock The viewpoint complexity of an object-recognition task.
+\newblock {\em Vis Res}, 1998.
+
+\bibitem{Tse:Perception98}
+P.~Tse.
+\newblock Illusory volumes from conformation.
+\newblock {\em Perception}, 27(8):977--994, 1998.
+
+\bibitem{Tse:CogPsych99}
+P.~Tse.
+\newblock Volume completion.
+\newblock {\em Cognitive Psychology}, In Press, 1999.
+
+\bibitem{Tso:etal:Science90}
+D.~Ts'o, Frostig, Lieke, and A.~Grinvald.
+\newblock {\em Science}, 249:417--419, 1990.
+
+\bibitem{Ts'O:etal:Reports90}
+D.~Ts'O, R.~Frostig, and E.~Lieke.
+\newblock Functional organization of primate visual cortex revealed by high
+  resolution optical imaging.
+\newblock {\em Reports}, 1990.
+
+\bibitem{Tso:etal:JN86}
+D.~Ts'o, C.~Gilbert, and T.~Wiesel.
+\newblock Relationships between horizontal interactions and functional
+  architecture in cat striate cortex as revealed by cross-correlation analysis.
+\newblock {\em J Neurosci.}, 6:1160--70, 1986.
+
+\bibitem{Ungerleider&Desimone}
+L.~Ungerleider and R.~Desimone.
+\newblock Cortical connection of visual area mt in the macaque.
+\newblock {\em Journal of Comparative Neurology}, 248:190--222, 1986.
+
+\bibitem{Usrey:etal:JNeuro00}
+W.~Usrey, J.-M. Alonso, and R.~Reid.
+\newblock Synaptic interactions between thalamic inputs to simple cells in cat
+  visual cortex.
+\newblock {\em Journal of Neuroscience}, 20:5461--5467, 2000.
+
+\bibitem{Colett:PRSL85}
+M.-C. van Lieshout.
+\newblock Extrapolating and interpolating surfaces in depth.
+\newblock {\em Proc. Roy. Soc. London}, 224(Series B):43--56, 1985.
+
+\bibitem{Verroust:Lazarus:SMI99}
+A.~Verroust and F.~Lazarus.
+\newblock Extracting skeletal curves from {3D} scattered data.
+\newblock In {\em Shape Modeling International '99}, International Conference
+  on Shape Modeling and Applications, Aizu, Japan, March 1999. IEEE Computer
+  Society.
+
+\bibitem{vonderHeydt:Peterhans:JN89}
+R.~von~der Heydt and E.~Peterhans.
+\newblock Mechanisms of contour perception in monkey visual cortex. {I}:
+  {L}ines of pattern discontinuity.
+\newblock {\em Journal of Neuroscience}, 9:1731--1748, 1989.
+
+\bibitem{Heydt:etal:JN89}
+R.~von~der Heydt and E.~Peterhans.
+\newblock Mechanisms of contour perception in monkey visual cortex. i. lines of
+  pattern discontinuity.
+\newblock {\em Journal of Neuroscience}, 1989.
+
+\bibitem{vonderheydt:etal:VR00}
+R.~von~der Heydt, H.~Zhou, and H.~Friedman.
+\newblock Representation of stereoscopic edges in monkey visual cortex.
+\newblock {\em Vision Research}, 40:1955--1967, 2000.
+
+\bibitem{Wang:etal:NR98}
+G.~Wang, M.~Tanifuji, and K.~Tanaka.
+\newblock Functional architecture in monkey inferotemporal cortex revealed by
+  in vivo optical imaging.
+\newblock {\em Neuroscience Research}, 32:33--46, 1998.
+
+\bibitem{Watanabe:Cavanagh:VR92}
+I.~Watanabe and P.~Cavanagh.
+\newblock Depth capture and transparency of region bounded by illusory and
+  chromatic contours.
+\newblock {\em Vision Research}, 32(3):527--532, 1992.
+
+\bibitem{Wermter:Panchev:ProcECAI00}
+S.~Wermter and C.~Panchev.
+\newblock Hybrid sequential machines based on neuroscience.
+\newblock In {\em Proceedings of the ECAI Workshop on Foundations of
+  Connectionist Symbolic Integration}, pages 13--24, Berlin, Germany, August
+  2000.
+
+\bibitem{Williams:Jacobs:NC97}
+L.~Williams and D.~Jacobs.
+\newblock Stochastic completion fields: A neural model of illusory contour
+  shape and salience.
+\newblock {\em Neural Computation}, 9:849--870, 1997.
+
+\bibitem{Yen:Finkel:CompNeuro97}
+S.-C. Yen and L.~Finkel.
+\newblock Cortical synchronization mechanism for "pop-out" of salient image
+  contours.
+\newblock {\em Computational Neuroscience}, Trends in Research:553--560, 1997.
+
+\bibitem{Yen:Finkel:VR98}
+S.-C. Yen and L.~Finkel.
+\newblock Extraction of perceptually salient contours by striate cortical
+  networks.
+\newblock {\em Vision Research}, 38(5):719--741, 1998.
+
+\bibitem{Yen:etal:CompNeuro98}
+S.-C. Yen, E.~D. Menschik, and L.~H. Finkel.
+\newblock Cortical synchronization and perceptual salience.
+\newblock {\em Computational Neuroscience: Trends in Research}, pages 125--130,
+  1998.
+
+\bibitem{Yu:Lee:NeuroComp99}
+S.~Yu and T.~Lee.
+\newblock What {V}1 neurons tell us about saccadic suppression.
+\newblock {\em Neurocomputing}, (32-33):271--277, 1999.
+
+\bibitem{Yu:Shi:CMU2001}
+S.~Yu and J.~Shi.
+\newblock Understanding popout: Pre-attentive segmentation through
+  nondirectional repulsion.
+\newblock Technical report, Carnegie Mellon University, 2001.
+
+\bibitem{Yund:etal:VR75}
+E.~Yund and J.~Armington.
+\newblock Color and brightness contrast effects as a function of spatial
+  variables.
+\newblock {\em Vis Res}, 1975.
+
+\bibitem{Zeki:Nature80}
+S.~Zeki.
+\newblock The representation of colours in the cerebral cortex.
+\newblock {\em Nature}, 1980.
+
+\bibitem{Zeki:Shipp:1988}
+S.~Zeki and S.~Shipp.
+\newblock The functional logic of cortical connections.
+\newblock {\em Nature}, 335:311--317, 1988.
+
+\bibitem{Zhou:etal:JN00}
+H.~Zhou, H.~Friedman, and R.~von~der Heydt.
+\newblock Coding of border ownership in monkey visual cortex.
+\newblock {\em J Neuroscience}, 20:6594--6611, 2000.
+
+\bibitem{Zhou:etal:VC98}
+Y.~Zhou, A.~Kaufman, and A.~W. Toga.
+\newblock Three-dimensional skeleton and centerline generation based on an
+  approximate minimum distance field.
+\newblock {\em The Visual Computer}, 14(7):303--314, 1998.
+\newblock Springer-Verlag serials publication.
+
+\bibitem{Zipser:etal:JN96}
+K.~Zipser, V.~Lamme, and P.~Schiller.
+\newblock Contextual modulation in primary visual cortex.
+\newblock {\em Journal of Neuroscience}, 16(22):7376--89, 1996.
+
+\bibitem{Zipser:etal:IOVS94}
+K.~Zipser, T.~Lee, V.~Lamme, and P.~Schiller.
+\newblock Invariance of figure-ground segregation mechanisms in {V}1 for depth,
+  orientation, luminance, and chrominance cues.
+\newblock {\em Invest. Ophthalmol. Vis. Sci.}, 35:1973--, 1994.
+
+\end{thebibliography}

@@ -1,0 +1,1481 @@
+From sandy@cfar.umd.edu Tue Jan 10 17:47 EST 1995
+Received: from parmenides.cfar.umd.edu (parmenides.cfar.umd.edu [128.8.132.3]) by lems.brown.edu (8.6.9/8.6.5) with ESMTP id RAA27551; Tue, 10 Jan 1995 17:46:59 -0500
+Received: from xanth.cfar.umd.edu (xanth.cfar.umd.edu [128.8.132.16]) by parmenides.cfar.umd.edu (8.6.8.1/8.6.6) with ESMTP id RAA15231; Tue, 10 Jan 1995 17:27:32 -0500
+Received: (sandy@localhost) by xanth.cfar.umd.edu (8.6.8.1/8.6.6) id RAA07648; Tue, 10 Jan 1995 17:27:24 -0500
+From: Sandy German <sandy@cfar.umd.edu>
+Date: Tue, 10 Jan 1995 17:27:24 -0500
+Message-Id: <199501102227.RAA07648@xanth.cfar.umd.edu>
+To: cvl-abstract-dist@cfar.umd.edu
+Subject: Computer Vision Laboratory technical reports now on-line
+Cc: sandy@cfar.umd.edu
+Content-Type: text
+Content-Length: 68412
+Status: RO
+
+Effective March 1, 1994, the technical reports of the Computer Vision
+Laboratory, Center for Automation Research, University of Maryland at
+College Park, became available in compressed postscript format via 
+anonymous ftp. If for some reason one of our reports is not available
+in postscript form, a notation will be made with the abstract distribution 
+stating that it is available in hardcopy only.  The reports have been
+placed in subdirectories according to the publication date of the
+each report (not necessarily the date when it was actually printed, 
+but the date when its report number was assigned).
+Currently these subdirectories are called: CVL-Reports-1993,
+CVL-Reports-1994, and CVL-Reports-1995.
+
+The main ftp directory contains reports that may be of interest but
+which were never assigned CVL Report numbers. For example, there are
+files containing the annual or final reports on some of our research
+contracts.
+
+This is our first mailing to the list we established to advertise the
+availability of our reports. This message contains the "directory_contents"
+information of all reports currently available. In the future,
+announcements of new reports being posted and made available will be
+mailed out on a biweekly basis. These announcements will contain the
+file name, title, authors, abstract, etc. of each report as it
+appears in the "directory_contents" file.
+
+If you ever want to remove yourself from this mailing list,
+send the following command in email to
+"cvl-abstract-dist-request@cfar.umd.edu":
+
+    unsubscribe
+
+Or you can send mail to "Majordomo@cfar.umd.edu" with the following command
+in the body of your email message:
+
+    unsubscribe cvl-abstract-dist sandy@cfar.umd.edu
+
+Below are the directions for anonymous ftp access to our archive:
+
+	1. "ftp ftp.cfar.umd.edu"
+
+	2. login "anonymous"
+
+	3. password "your login" (e.g., sandy@cfar.umd.edu)
+
+	4. "cd CfAR/TRs" (please match upper and lower case as indicated)
+
+As mentioned above, you may need to move into one of the subdirectories
+CVL-Reports-1994 or CVL-Reports-1995.
+
+The contents of these directories are:
+
+a. "directory_contents" (an ascii file containing abstracts and other
+descriptive information---keywords, postscript file name, total number
+of pages when output in hardcopy, etc.---about each report available in
+the directory)
+
+b. "INDEX" (an ascii file containing the name of the postscript file
+and the title of the paper contained in that file)
+
+c. postscript files (some of these files can be quite large---even 
+when compressed---as they include figures and/or images)
+
+Note: occasionally the title page of a report must be formatted
+separately from the body of the report. When this happens the title
+page will be posted as a separate postscript file with "tpg" as
+part of the file name.
+
+Advice: set "bin" (I have been told that it is advisable to use binary
+transfer when downloading compressed files---which most of the files are)
+
+*************************************************************************
+
+These files can also be accessed via the World Wide Web at:
+
+	http: //www.cfar.umd.edu/ftp/TRs
+
+*************************************************************************
+*************************************************************************
+
+       Here are the contents of the directory CVL-Reports-1993
+
+*************************************************************************
+
+Note: occasionally the title page of a report must be formatted
+separately from the body of the report. When this happens the title
+page will be posted as a separate postscript file with "tpg" as
+part of the file name.
+
+file name(s): TR3064-Fermuller.ps.Z and TR3064-Fermuller-tpg.ps
+report numbers: CAR-TR-668 and CS-TR-3064
+title: Basic Visual Capabilities
+author(s): Cornelia Ferm\"{u}ller
+date: May 1993
+pages: 106 and 1
+support: IRI-90-57934
+agency: NSF
+keywords: doctoral dissertation
+abstract:
+A visual system in order to successfully navigate in its environment
+and understand the visible world must possess a set of basic
+capabilities.
+This thesis describes the design and the development
+of the processes responsible for the estimation of egomotion
+(the system's motion) and object motion which are a prerequisite
+for the accomplishment of any other navigational task.
+For a monocular observer capable of actively controlling the 
+geometric parameters of its sensory apparatus, it is shown how
+different activities facilitate the interpretation of visual motion.
+The basic idea of the object motion estimation strategy
+lies in the employment of fixation and tracking.
+Fixation simplifies much of the computation by
+placing the object at the center of the visual field,
+and the main advantage of tracking is the accumulation
+of information over time.
+For the problem of egomotion estimation
+new constraints of a global 
+nature relating 2-D image measurements to 3-D motion parameters 
+are presented.
+Local image measurements form global patterns in the image plane 
+and the position of these patterns determines the 3-D motion parameters.
+The algorithms developed are provably robust
+because the constraints employed are global and 
+qualitative and neither
+correspondence nor optical flow is utilized as input, but only
+the spatio-temporal derivatives of the image intensity function.
+
+file name(s): TR3127-Krishnamachari.ps.Z
+report numbers: CAR-TR-682 and CS-TR-3127
+title: Delineating Buildings by Grouping Lines
+author(s): Santhana Krishnamachari and Rama Chellappa
+date: September 1993
+pages: 26
+support: MIP-91-00655
+agency: NSF
+keywords: 
+abstract:
+An energy function based approach is presented to detect rectangular
+shapes in images.
+The proposed edge-based approach involves extracting
+straight lines from an edge map of the image.
+Then a {\em Markov Random Field} (MRF) is built on these lines,
+i.e., a suitable neighborhood and an energy
+function are specified based on the relative orientation and spatial
+location of the lines.
+This energy function can be construed as a
+measure of the conditional probability of observing the lines given
+the rectangular shapes (the positions and number of which are unknown)
+in the image.
+Minimizing the energy function is equivalent to
+selecting the {\em maximum likelihood} estimate of the rectangular shapes
+in the image from the observed lines.
+Simulated examples are presented to
+demonstrate the robustness of the proposed method.
+This approach, supplemented with some
+qualitative information about shadows and gradients, is used to
+detect rectangular buildings in real aerial images.
+Due to poor quality of the real images, only partial shapes are extracted in
+some cases.
+A {\em modified deformable contour} (snakes) based approach
+is then presented for completion of the partial shapes.
+
+file name(s): TR3162-Blue.ps.Z
+report numbers: CAR-TR-691 and CS-TR-3162
+title: Evaluation of Pattern Classifiers for Fingerprint and OCR Applications
+author(s): J.L. Blue, G.T. Candela, P.J. Grother, R. Chellappa, and C.L. Wilson
+date: October 1993
+pages: 40
+keywords:
+abstract:
+In this paper we evaluate the classification accuracy of four
+statistical and three neural network classifiers for two image based
+pattern classification problems.
+These are fingerprint classification and optical character
+recognition (OCR) for isolated handprinted digits.
+The evaluation results reported here should be useful for designers
+of practical systems for these two important commercial applications.
+For the OCR problem, the Karhunen-Lo\`{e}ve (K-L) transform of the
+image is used to generate the input feature set.
+Similarly for the fingerprint problem, the K-L transform of the ridge
+directions is used to generate the input feature set.
+The statistical classifiers used were Euclidean minimum distance,
+quadratic minimum distance, normal, and $k$-nearest neighbor.
+The neural network classifiers used were multi-layer perceptron,
+radial basis function, and probabilistic.
+The OCR data consisted of 7,480 digit images for training and 23,140
+digit images for testing.
+The fingerprint data consisted of 2,000 training and 2,000 testing
+images.
+In addition to evaluation for accuracy, the multi-layer perceptron
+and radial basis function networks were evaluated for size and
+generalization capability.
+For the evaluated datasets the best accuracy obtained for either
+problem was provided by the probabilistic neural network, where the
+minimum classification error was 2.5\% for OCR and 7.2\% for
+fingerprints.
+
+file name(s):: TR3172-Yao.ps.Z
+report numbers: CAR-TR-692 and CS-TR-3172
+title: Estimation of Vehicle Dynamics from Monocular Noisy Images
+author(s): Yi-Sheng Yao and Rama Chellappa
+date: November 1993
+pages: 21
+support: DAAH-0493G0419
+agency: ARPA/ARO
+keywords: motion estimation, navigation, vehicle dynamics
+abstract:
+This paper presents a new
+model-based egomotion estimation algorithm for an autonomous vehicle
+navigating through rough terrain.
+Due to the uneven terrain, the vehicle
+undergoes bouncing, pitch and roll motion.
+To reliably accomplish other
+tasks such as tracking and obstacle avoidance using visual inputs, it is
+essential to consider these disturbances.
+In this paper, two vehicle models
+available in the literature are used for egomotion estimation.
+The Half
+Vehicle Model (HVM) takes into account the bouncing and pitch motion of the
+vehicle, and the Full Vehicle Model (FVM) also considers the roll motion.
+The dynamics of the vehicle are formulated using standard equations of
+motion.
+Assuming that depth information is known for some landmarks in the
+scene (e.g., obtained from a laser range finder), a feature-based approach is
+proposed to estimate vehicle motion parameters such as the vertical movement
+of the center of mass and the instantaneous angular velocity.
+An Iterated
+Extended Kalman Filter (IEKF) is used for recursive parameter estimation.
+Simulation results for both known and unknown terrain are presented.
+
+file name(s): TR3174-Der.ps.Z
+report numbers: CAR-TR-693 and CS-TR-3174
+title: Probe Based Recognition of Targets in Infrared Images
+author(s): Sandor Z. Der and Rama Chellappa
+date: November 1993
+pages: 25
+support: F49620-93-1-0576
+agency: ARPA/AFOSR
+keywords: automatic target recognition, object recognition, pattern
+analysis, systems and applications
+abstract:
+A probe based approach is used to recognize objects in a cluttered
+background using an infrared imager.
+A probe is a simple mathematical
+function which operates locally on image grey levels and produces an output
+that is more directly usable by an algorithm.
+A directional probe image is
+calculated by taking the difference in grey levels between pixels a set
+distance apart in a given direction, centered on the probe image pixel.
+These probe images contain the information necessary for use by an object
+recognition algorithm in a readily usable, and mathematically describable,
+form.
+A parametric statistical image background model which describes the
+probe images is introduced.
+The parameters of the probe image model can be
+readily estimated from the image.
+Knowledge of these parameters, together
+with target signatures obtained from Computer Aided Design (CAD) models,
+allows the likelihood ratio for a given object pose hypothesis versus the
+background null hypothesis to be written.
+The generalized likelihood ratio
+test is used to accept one of the object poses or to choose the null
+hypothesis.
+Results of the method applied to a large set of terrain model
+board images are presented.
+
+file name(s): TR3175-Rosenfeld.ps.Z
+report numbers: CAR-TR-694 and CS-TR-3175
+title: Fuzzy Plane Geometry: Triangles
+author(s): Azriel Rosenfeld
+date: November 1993
+pages: 6
+support: F49620-93-1-0039
+agency: AFOSR
+keywords: fuzzy geometry, fuzzy triangles
+abstract:
+A fuzzy triangle $T$ (with a discrete-valued membership function) can be
+regarded as a nest of parallel-sided triangles $T_i$ with successively
+higher membership values.
+Such a nest is determined by its max projections on any two of its ``sides''.
+The area (perimeter) of $T$ is a weighted sum of the areas (perimeters)
+of the $T_i$'s.
+The side lengths and altitudes of $T$ can also be defined as weighted sums
+obtained from projections; using these definitions, the perimeter of $T$ is
+the sum of the side lengths, and the side lengths are related to the vertex
+angles by the Law of Sines, but there is no simple relationship between the
+area of $T$ and the products of the side lengths and altitudes.
+
+file name(s): TR3176-Sirohey.ps.Z
+report numbers: CAR-TR-695 and CS-TR-3176
+title: Human Face Segmentation and Identification
+author(s): Saad Ahmed Sirohey
+date: November 1993
+pages: 39
+support: DACA76-92-C-0009
+agency: ARPA/U.S. Army Topographic Engineering Center
+keywords: face images, face recognition, segmentation (MS thesis)
+abstract:
+This thesis considers segmentation and identification of
+human faces from grey scale images with clutter.
+The segmentation developed utilizes the elliptical structure of the human
+head.
+It uses the information present in the edge map of the image and
+through some preprocessing separates the head from the background
+clutter.
+An ellipse is then fitted to mark the boundary between the
+head region and the background.
+The identification procedure
+finds feature points in the segmented face through a Gabor wavelet
+decomposition and performs graph matching.
+The segmentation and
+identification algorithms were tested on a database of 48 images of 16
+persons with encouraging results.
+
+file name(s): TR3177-wang.ps.Z
+report numbers: CAR-TR-696 and CS-TR-3177
+title: CFAR Detection of Targets in Fully Polarimetric SAR Images
+author(s): Ying Wang, Rama Chellappa, and Qinfen Zheng
+date: November 1993
+pages: 19
+support: DACA76-92-C-0024
+agency: ARPA/U.S. Army Topographic Engineering Center
+keywords: CFAR detection, polarimetric SAR, SAR imagery, target detection
+abstract: 
+Traditional constant false alarm rate (CFAR) detection algorithms
+produce a lot of false targets when applied to single-look,
+high-resolution, fully polarimetric synthetic aperture radar (SAR)
+images, due to the presence of speckle.
+We propose a two stage CFAR detector followed by conditional dilation
+for detecting point and extended targets in polarimetric SAR images.
+In the first stage, possible targets are detected and false targets
+due to the speckle are removed by using global statistical parameters.
+In the second stage, the local statistical parameters are used to
+detect targets in regions adjacent to targets detected in the first
+stage.
+Conditional dilation is then performed to recover target pixels lost
+in second stage CFAR detection.
+
+The performance of a CFAR detector will be degraded if an incorrect
+statistical model is adopted and the data are correlated.
+A goodness-of-fit test is performed to decide the appropriate
+distribution and the effects of decorrelation of the data are
+considered.
+
+Good experimental results are obtained when our method is applied to
+single-look, high-resolution, fully polarimetric SAR images acquired
+from MIT Lincoln Laboratory.
+
+file name(s): TR3198-Mount.ps.Z
+report numbers: CAR-TR-697 and CS-TR-3198
+title: Efficient Randomized Algorithms for Robust Circular Arc Estimation
+author(s): David M.\ Mount and Nathan S.\ Netanyahu
+date: December 1993
+pages: 22
+support: F49620-93-1-0039
+agency: AFOSR
+keywords: Circular arc fitting, robust estimation, Theil-Sen
+          estimator, RM estimator, randomized algorithms, computational
+          geometry, inversion counting, range searching
+abstract: 
+The problem of fitting a circular arc to a finite collection of points
+in the plane is an important problem in statistical estimation having
+significant industrial applications.  Recently there has been a great deal
+of interest in {\em robust estimators}, because of their lack of sensitivity
+to outlying data points.  The basic measure of the robustness of an estimator
+is its {\em breakdown point}, i.e., the fraction (up to 50\% percent) of
+outlying data points that can corrupt the estimator.  One problem with
+robust estimators is that achieving high breakdown points (near 50\%) has
+proved to be computationally demanding.  In this paper we introduce
+{\em nonlinear} Theil-Sen and repeated median (RM) variants for
+{\em circular arc estimation} (CAE), having (roughly) 21\% and 50\%
+breakdown points, respectively.  We present two randomized algorithms,
+which run in $O({n^2}\log n)$ expected time and require $O(n)$ space.
+These algorithms rely on nonlinear generalizations of inversion counting,
+random sampling, and range searching.
+
+*************************************************************************
+
+       Here are the contents of the directory CVL-Reports-1994
+
+*************************************************************************
+
+file name(s): CAR-TR-751-Sidiropoulos.ps.Z
+title: Further Results on MAP Optimality and Strong Consistency
+       of Certain Classes of Morphological Filters
+author(s): N.D. Sidiropoulos, J.S. Baras, and C.A. Berenstein
+date: December 1994
+pages: 12
+support: 
+keywords: Morphological Image Processing and Analysis, Opening, 
+          Closing, Statistical Optimization of Nonlinear Filters, 
+          MAP Optimality, Consistency of MAP estimator
+abstract:
+In two recent papers, Sidiropoulos et al.\ have obtained statistical proofs
+of Maximum {\em A Posteriori} (MAP) optimality and strong consistency of 
+certain classes of Morphological filters, namely, 
+Morphological Openings, Closings, unions of 
+Openings, and intersections of Closings, under i.i.d.\ (both pixel-wise, and 
+sequence-wide)
+assumptions on the noise model. In this paper we revisit this 
+classic filtering problem, and prove
+MAP optimality and strong consistency under a different, and, in a sense,
+more appealing set of assumptions, which allows the explicit incorporation
+of geometric and Morphological constraints into the noise model, i.e., the 
+noise may now exhibit {\em structure}; surprisingly, it turns out that this 
+affects neither the optimality nor the consistency of these filters.
+
+file name(s): TR3200-Rosenfeld.ps.Z and TR3200-tpg.ps
+report numbers: CAR-TR-698 and CS-TR-3200
+title: Image Analysis and Computer Vision: 1993
+author(s): Azriel Rosenfeld
+date: January 1994
+pages: 90 and 1
+support: F49620-93-1-0039
+agency: AFOSR
+keywords: bibliography, computer vision, image analysis
+abstract: 
+This paper presents a bibliography of nearly 1300 references
+related to computer vision and image analysis, arranged by subject
+matter.
+The topics covered include computational techniques; features
+detection and segmentation; image analysis; two-dimensional shape;
+pattern; color and texture; matching and stereo; three-dimensional
+recovery and analysis; three-dimensional shape; and motion.
+A few references are also given on related topics, such as geometry,
+graphics, coding and processing, sensors and optical processing, visual
+perception, neural nets, pattern recognition, and artificial intelligence,
+as well as on applications.
+
+file name(s): TR3201-Mount.Z.ps
+report numbers: CAR-TR-699 and CS-TR-3201
+title: On the Area of Overlap of Translated Polygons
+author(s): David M. Mount, Ruth Silverman, and Angela Y. Wu
+date: January 1994
+pages: 20
+support: CCR 93-10705
+agency: NSF
+keywords: 
+abstract:
+Given two simple polygons $P$ and $Q$ in the plane and a
+translation vector $t\in R^2$, the
+{\em area-of-overlap}
+function of $P$ and $Q$ is the function ${\rm Ar}(t)={\rm Area}(P\cap(t+Q))$,
+where $t + Q$ denotes $Q$ translated by $t$.
+This function has a number of applications in areas such as motion
+planning and object recognition.
+We present a number of mathematical results regarding this function.
+We also provide efficient algorithms for computing a representation
+of this function, and for tracing contour curves of constant area of
+overlap.
+
+file name(s): TR3218-Singh.ps.Z
+report numbers: CAR-TR-700 and CS-TR-3218
+title: An Improved Shape from Shading Algorithm
+author(s): Hemant Singh and Rama Chellappa
+date: February 1994
+pages: 26
+support: DACA76-92-C-0009
+agency: ARPA/U.S. Army Topographic Engineering Center
+keywords: Illumination source, image recovery, shape from shading
+abstract:
+We propose an improved shape from shading (SFS) algorithm which is an
+extension of the recently published algorithm by Zheng and Chellappa
+[13].  A markedly more accurate estimate of the azimuth
+of the illumination source is presented.  Depth reconstruction has been
+improved upon by using a new set of boundary conditions and adapting a more
+sophisticated technique for hierarchical implementation of the SFS
+algorithm.  Errors at the boundaries of images and in rotation of the
+reconstructed images have been corrected.  Typical results on synthetic and
+real images are presented.
+
+file name(s): TR3219-Mount.ps.Z
+report numbers: CAR-TR-701 and CS-TR-3219
+title: Minimum Enclosures with Specified Angles
+author(s): David M. Mount and Ruth Silverman
+date: February 1994
+pages: 17
+support: CCS-89-08901 and JSA 91-5
+agency: NSF/Census Bureau
+keywords: 
+abstract:
+Given a convex polygon $P$, an {\em m-envelope}
+is a convex $m$-sided polygon that contains $P$.
+Given any convex polygon $P$, and any sequence of $m\geq 3$ angles
+$A=\langle \alpha_1, \alpha_2,\ldots, \alpha_m\rangle$, we consider
+the problem of computing the minimum area $m$-envelope for $P$ whose
+counter-clockwise sequence of exterior angles is given by $A$.
+We show that such envelopes can be computed in $O(nm \log m)$ time.
+The main result on which the correctness of the algorithm rests is a
+flushness condition stating that for any locally minimum enclosure
+with specified angles, one of its sides must be collinear with on eof
+the sides of $P$.
+
+file name(s): TR3220-Shashua.ps.Z and TR3220-tpg.ps
+report numbers: CAR-TR-702 and CS-TR-3220
+title: The Quadric Reference Surface: Applications in Registering Views
+of Complex 3D Objects
+author(s): Amnon Shashua and Sebastian Toelg
+date: February 1994
+pages: 11 and 1
+support: DACA76-92-C-0009
+agency: ARPA/U.S. Army Topographic Engineering Center
+keywords: Correspondence, matching, quadric surfaces
+abstract:
+The theoretical component of this
+work involves the following question: Given any two views of some
+unknown textured opaque
+quadric surface in 3D,
+is there a
+finite number of corresponding points across the two views that
+uniquely determine all other correspondences coming from points on the
+quadric? A constructive answer to this question is then used to
+propose a transformation,
+which we call a nominal quadratic transformation,
+that can be used in practice to facilitate the process of achieving full
+point-to-point
+correspondence between two grey-level images of the same (arbitrary) object.
+
+file name(s): TR3222-Rivlin.ps.Z
+report numbers: CAR-TR-703 and CS-TR-3222
+title: Recognition by Functional Parts
+author(s): Ehud Rivlin, Sven J. Dickinson, and Azriel Rosenfeld
+date: February 1994
+pages: 24
+support: F49620-93-1-0039 and DACA76-92-C-0009
+agency: AFOSR/U.S. Army Topographic Engineering Center
+keywords: abstract shape reasoning, function-based object recognition,
+recognition by parts
+abstract:
+We present an approach to function-based object recognition
+that reasons about the functionality of an object's intuitive parts.
+We extend the popular ``recognition by parts'' shape
+recognition framework to support ``recognition by functional parts'',
+by combining a set of functional primitives 
+and their relations with a
+set of abstract volumetric shape primitives and their relations. 
+Previous approaches have relied on more global object features, often
+ignoring the problem of object segmentation and thereby
+restricting themselves to range images of unoccluded scenes. 
+We show how these shape primitives and relations can be easily recovered
+from superquadric ellipsoids which, in turn, 
+can be recovered from either range or intensity images of occluded
+scenes.
+Furthermore, the 
+proposed framework supports both unexpected (bottom-up)
+object recognition and expected (top-down) object recognition.
+We demonstrate
+the approach on a simple domain by recognizing a restricted class of hand-tools
+from 2-D images.
+
+file name(s): TR3230-Hoel.ps.Z
+report numbers: CAR-TR-704 and CS-TR-3230
+title: Algorithms for Data-Parallel Spatial Operations
+author(s): Erik G. Hoel and Hanan Samet
+date: February 1994
+pages: 76
+support: IRI-92-16970
+agency: NSF
+keywords: Spatial data structures, PRM quadtrees, R-trees, R+-trees,
+          spatial operations, Connection Machine
+abstract:
+Efficient data-parallel algorithms for three common spatial data structures
+(the bucket PMR quadtree, R-tree, and R$^+$-tree) are presented.  The domain
+consists of planar line segment data (i.e., Bureau of the Census TIGER/Line
+files).  Parallel algorithms for building the data-parallel spatial
+structures, as well as determining the closed polygons formed by the line
+segments, map intersection, and a spatial range query are described.  The
+performance of data-parallel algorithms for spatial operations is also
+compared.  The algorithms are implemented using the scan model of parallel
+computation on the hypercube architecture of the Connection Machine.  The
+results of experiments reveal that the bucket PMR quadtree outperforms both
+the R-tree and R$^+$-tree.  This is primarily because the bucket PMR
+quadtree yields a regular disjoint decomposition of space while the R-tree
+and R$^+$-tree do not.  The regular disjoint decomposition increases the
+potential for interprocessor communication and parallelism in the bucket PMR
+quadtree, thereby enabling the execution times to decrease relative to those
+needed by the R-tree and R$^+$-tree.
+
+file name(s): TR3236-Rosenfeld.ps.Z
+report numbers: CAR-TR-705 and CS-TR-3236
+title: Geodesic Convexity in Discrete Spaces
+author(s): Azriel Rosenfeld and Angela Y. Wu
+date: March 1994
+pages: 7
+support: F49620-93-1-0039 
+agency: AFOSR
+keywords: 
+abstract:
+A pebbled graph is called ``(geodesically) convex'' if at least one shortest
+path between any two unpebbled nodes has no pebbles on any of its nodes.
+There exist conditions on the node neighborhoods in a pebbled graph that
+imply convexity; but no such conditions can be necessary for convexity.
+The convex pebblings can be characterized for various special types of
+graphs, such as cycles, trees, and cliques.
+For a graph $L$ whose nodes are the lattice points in the plane under the
+relation of row or column adjacency, we show that a pebbling of $L$ is
+convex iff the set of unpebbled nodes is connected and orthoconvex.
+
+file name(s): TR3265-Yacoob.ps.Z
+report numbers: CAR-TR-706 and CS-TR-3265
+title: Recognizing Human Facial Expressions
+author(s): Yaser Yacoob and Larry S. Davis
+date: May 1994
+pages: 33
+support: DACA76-92-C-0009
+agency: U.S. Army TEC/ARPA
+keywords: facial dynamics, facial expressions
+abstract:
+An approach to the analysis and representation of facial dynamics for
+recognition of facial expressions from image sequences is proposed.
+The algorithms we develop utilize optical flow computation to identify
+the directions of rigid and non-rigid motions that are caused by human facial
+expressions.
+A mid-level symbolic representation motivated by linguistic and
+psychological considerations is developed.
+Recognition of six facial expressions, as well as eye blinking, is
+demonstrated on a large set of image sequences.
+
+file name(s): TR3269-Sickels.ps.Z
+report numbers: CAR-TR-707 and CS-TR-3269
+title: A Virtual Instrument Interface for Camera Motion Control
+author(s): Stephen J. Sickels
+date: May 1994
+pages: 114
+support: DACA76-92-C-0009
+agency: U.S. Army TEC/ARPA
+keywords: Camera motion control, camera position control,
+graphical user interface
+abstract:
+This thesis describes a hardware and software system for
+precise positioning and motion control of a CCD camera.
+The purpose
+of this system is to provide images, or sequences of images, with
+known ground truth.
+The system should allow the testing,
+evaluation, and validation of various algorithms concerned with the
+recovery of the structure of imaged scenes and of
+relative three-dimensional motion from a sequence of images.
+
+The particular focus of this work is the system software, which
+includes a Graphical User Interface (GUI).
+A key objective, which
+drove the software design process, was to have the GUI
+be straightforward and of minimal complexity, despite the underlying
+complexity of the program.
+And although simplicity in an interface
+tends to decrease a system's functionality, we nonetheless attempted
+to afford the user maximal control over the camera's motion.
+
+We describe the system, as well as the objectives and
+constraints that led to its final configuration.
+We also present a
+self-contained user's manual and a programmer's manual, which will
+allow the system to be modified in response to future needs.
+
+file name(s): TR3273-Duric.ps.Z
+report numbers: CAR-TR-710 and CS-TR-3273
+title: The Applicability of Green's Theorem to Computation of Rate of
+Appraoch
+author(s): Zoran Duric, Azriel Rosenfeld, and James Duncan
+date: May 1994
+pages: 39
+support: F49620-93-1-0039
+agency: AFOSR
+keywords: Motion estimation, rate of approach, time to collision
+abstract:
+The rate of approach (ROA) of a moving observer toward a 
+scene point, as estimated at a given instant, is proportional to the component
+of the observer's instantaneous velocity in the direction of 
+the point.
+In this paper we analyze the applicability of 
+Green's theorem to ROA estimation.
+We derive a formula which relates three quantities: 
+the average value of the ROA for a surface patch in the scene;
+a surface integral that depends on the surface slant of the patch;
+and the contour integral of the normal motion field 
+around the image of the boundary of the patch.
+We analyze how much larger the ROA on the surface patch can be 
+than the value of the contour integral, for given assumptions about the
+variability of the distance to points on the surface patch.
+We illustrate our analysis quantitatively using synthetic data, and we also
+validate it qualitatively on a real image sequence.
+
+file name(s): TR3291-Liu-tpg.ps.Z and TR3291-Liu.ps.Z
+report numbers: CAR-TR-717 and CS-TR-3291
+title: A Reliable Optical Flow Algorithm Using 3-D Hermite Polynomials
+author(s): Hongche Liu, Tsai-Hong Hong, Martin Herman, and Rama Chellappa
+date: June 1994
+pages: 1 and 31
+support: #60NAB3D1402
+agency: NIST
+keywords: Hermite polynomials, optical flow
+abstract:
+Most optical flow algorithms suffer from one or more of the following common
+difficulties:  occlusion, brightness changes, irregular motion, and the
+aperture problem.  We present a {\em reliable} algorithm that copes with
+these problems.  This algorithm is reliable in two ways:  firstly, it
+employs 3-D Hermite polynomial filters to estimate image gradients and
+derive fairly {\em accurate} and {\em dense} optical flow from multiple
+order gradient constraint equations; secondly, from the previous
+computation, optical flow at every pixel is accompanied by a set of
+performance metrics or confidence measures that reflect the characteristics
+of the spatio-temporal image at that location.  These characteristics, as
+our theoretical analysis attests, correspond to the aforementioned
+difficulties.  Therefore more reliable flow can be extracted from the
+initial dense output using these performance metrics.  Prior knowledge about
+the input image sequence provides extra information about the usage of the
+performance metrics, further increasing the reliability of the output.
+Extensive comparisons with other existing algorithms show that our algorithm
+performs consistently well over a wide variety of synthetic and real image
+sequences.
+
+file name(s): TR3292-Gavrila.ps.Z
+report numbers: CAR-TR-718 and CS-TR-3292
+title: R-tree Index Optimization
+author(s): D.M. Gavrila
+date: June 1994
+pages: 21
+support: DACA76-92-C-0009
+agency: ARPA/CETEC
+keywords: spatial databases, R-tree, optimization
+abstract:
+The optimization of spatial indexing is an increasingly important issue 
+considering the fact that spatial databases, in such diverse areas as
+geographical, CAD/CAM and image applications, are growing rapidly in size 
+and often contain on the order of millions of items or more. This necessitates 
+the storage of the index on disk, which has the potential of slowing 
+down the access time significantly. In this paper, we discuss ways of
+minimizing the disk access frequency by grouping together data items which 
+are close to one another in the spatial domain (``packing''). The data 
+structure which we seek to optimize here is the R-tree for a given set of data 
+objects.  
+
+Existing methods of building an R-tree index based on space-filling curves
+(Peano, Hilbert) are computationally cheap, but they do not preserve spatial 
+locality well, in particular when dealing with higher-dimensional data of 
+non-zero extent. On the other hand, existing methods of packing based on 
+all dimensions of the data, such as the several proposed dynamic R-tree
+insertion algorithms, do not take advantage of the fact that all the data 
+objects are known beforehand. Furthermore, they are essentially serial in 
+nature.
+
+In this paper, we regard packing as an optimization problem and propose
+an iterative method of finding a close-to-optimal solution to the
+packing of a given set of spatial objects in D dimensions. The method
+achieves a high degree of parallelism by constructing the R-tree bottom-up. 
+In experiments on data of various dimensionalities and distributions, 
+we have found that the proposed method can significantly improve on 
+the packing performance of the R* insertion algorithm and the 
+Hilbert curve. It is shown that the improvements increase with 
+the skewness of the data and, in some cases, can even amount to an order of 
+magnitude in terms of decreased response time.
+
+file name(s): TR3294-Yao.ps.Z
+report numbers: CAR-TR-720 and CS-TR-3294
+title: Tracking a Dynamic Set of Feature Points
+author(s): Yi-Sheng Yao and Rama Chellappa
+date: June 1994
+pages: 35
+support: DAAH-0493G0419
+agency: ARO
+keywords: Feature point tracking, image sequence analysis, motion analysis
+abstract:
+This paper presents a model-based algorithm for tracking feature
+points over a long sequence of monocular noisy images with the
+ability to include new feature points detected in successive frames.
+The trajectory for each feature point is modeled by a simple
+kinematic motion model.
+A Probabilistic Data Association Filter is first designed to estimate
+the motion between two consecutive frames.
+A matching algorithm then identifies the corresponding point to
+subpixel accuracy and an Extended Kalman Filter (EKF) is employed to
+continually track the feature point.
+An efficient way to dynamically include new feature points from
+successive frames into a tracking list is also addressed.
+Tracking results for several image sequences are given.
+
+file name(s): TR3304-Rosenblum.ps.Z
+report numbers: CAR-TR-721 and CS-TR-3304
+title: Human Emotion Recognition from Motion Using a Radial Basis 
+Function Network Architecture
+author(s): Mark Rosenblum, Yaser Yacoob, and Larry S. Davis
+date: June 1994
+pages: 31
+support: DACA76-92-C-0009
+agency: ARPA/CETEC
+keywords: Emotion recognition, human faces, neural networks,
+radial basis functions
+abstract:
+In this paper a radial basis function network architecture is
+developed that learns the correlation between facial feature motion
+patterns
+and human emotions. We describe a hierarchical  approach which at the
+highest level identifies emotions, at the mid level determines
+motions of
+facial features,
+and at the low level recovers motion directions.
+Individual
+emotion networks were trained to recognize
+the ``smile'' and ``surprise'' emotions.  Each  network was
+trained by viewing a set of sequences of one emotion for many
+subjects.  The trained neural network was then tested for retention,
+extrapolation and rejection ability.  Success rates were about 88%
+for retention, 73% for extrapolation, and 79% for rejection.
+
+file name(s): TR3305-Fermuller.ps.Z
+report numbers: CAR-TR-722 and CS-TR-3305
+title: Vision and Action
+author(s): Cornelia Fermuller and Yiannis Aloimonos
+date: June 1994
+pages: 41
+support: DACA76-92-C-0009, IRI-90-57934, N00014-93-1-0257
+agency: ARPA/CETEC, NSF, ONR
+keywords: active vision, navigation, recognition
+abstract:
+Our work on Active Vision has recently focused on the computational
+modelling of navigational tasks, where our investigations were guided by the
+idea of approaching vision for behavioral systems in form of modules that
+are directly related to perceptual tasks.  These studies led us to branch in
+various directions and inquire into the problems that have to be addressed
+in order to obtain an overall understanding of perceptual systems.  In this
+paper we present our views about the architecture of vision systems, about
+how to tackle the design and analysis of perceptual systems, and promising
+future research directions.  Our suggested approach for understanding
+behavioral vision to realize the relationship of perception and action
+builds on two earlier approaches, the Medusa philosophy [3] and
+the Synthetic approach [15].  The resulting framework calls for
+synthesizing an artificial vision system by studying vision competences of
+increasing complexity and at the same time pursuing the integration of the
+perceptual components with action and learning modules.  We expect that
+Computer Vision research in the future will progress in tight collaboration
+with many other disciplines that are concerned with empirical approaches to
+vision, i.e.\ the understanding of biological vision.  Throughout the paper
+we describe biological findings that motivate computational arguments which
+we believe will influence studies of Computer Vision in the near future.
+
+file name(s): TR3309-Toelg.ps.Z
+report numbers: CAR-TR-723 and CS-TR-3309
+title: Towards an Example-Based Image Compression
+       Architecture for Video-Conferencing
+author(s): Sebastian Toelg and Tomaso Poggio
+date: July 1994
+pages: 81
+support: DACA76-92-C-0009
+agency: ARPA/CETEC
+keywords: image compression, teleconferencing, human faces
+abstract:
+Very-low bandwidth video-conferencing, which is the simultaneous
+transmission of speech and pictures (face-to-face communication) of the
+communicating parties, is a challenging application requiring an integrated
+effort of computer vision and computer graphics.  This paper consists of two
+major parts.  First, we present the outline of a simple approach to
+video-conferencing relying on an example-based hierarchical image
+compression scheme.  In particular, we discuss the use of example images as
+a model, the number of required examples, faces as a class of semi-rigid
+objects, a hierarchical model based on decomposition into different
+time-scales, and the decomposition of face images into patches of interest.
+Also, a brief discussion of approaches to face recognition that are relevant
+to our work is given in Appendix C.  In the second part, we present several
+algorithms for image processing and animation as well as their experimental
+evaluation.  Among the original contributions of this paper is an automatic
+algorithm for pose estimation and normalization.  Experiments suggest
+interesting estimates of necessary spatial resolution and frequency bands.
+We also review and compare different algorithms for finding the nearest
+neighbors in a database for a new input as well as a generalized algorithm
+for blending patches of interest in order to synthesize new images.
+Extensions to image sequences are proposed together with possible extensions
+based on the techniques of Beymer, Shashua and Poggio (1993) for
+interpolating between example images.  Finally, we outline the possible
+integration of several algorithms to illustrate a simple model-based
+video-conferencing system.
+
+file name(s): TR3318-Rosenfeld.ps.Z
+report numbers: CAR-TR-724 and CS-TR-3318
+title: "Geometric Properties" of Sets of Lines
+author(s): Azirel Rosenfeld
+date: July 1994
+pages: 14
+support: F49620-93-1-0039
+agency: AFOSR
+keywords: Geometric properties, Hough transform, incidence, lines
+abstract:
+When we regard the plane as a set of points, we can define various geometric
+properties of subsets of the plane---connectedness, convexity, area,
+diameter, etc.
+It is well known that the plane can also be regarded as a set of lines.
+This note considers methods of defining sets (or fuzzy sets) of lines in the
+plane, and of defining (analogs of) ``geometric properties'' for such sets.
+
+file name(s): TR3320-Burlina.ps.Z
+report numbers: CAR-TR-726 and CS-TR-3320
+title: Time-to-X: Analysis of Motion through Temporal Parameters
+author(s): Philippe Burlina and Rama Chellappa
+date: July 1994
+pages: 40
+support: DACA76-92-C-0009
+agency: ARPA/CETEC
+keywords: Time to X, motion analysis, time-varying imagery
+abstract:
+Situations involving navigation among maneuvering agents are critical for
+the study of visual guidance of autonomous vehicles.
+This paper addresses the general case of motions with polynomial laws in
+their translational component and defines a class of temporal parameters
+(TP) relevant for navigation, and enabling a qualitative description of the
+observed depth trajectories.
+These parameters are shown to be visually recoverable.
+Some instances of these parameters include the Time to Collision (TTC) and
+the Time to Synchronization (TTS: the time until the observer achieves the
+same velocity as a moving object, relevant for docking or platooning
+maneuvers).
+Recoverability of these parameters leads to an equivalent temporal
+representation of visual information.
+Results on recoverability are specialized to lower order motions and the
+recovery of TTC and TTS for arbitrarily smooth laws.
+Computations using direct and feature-based methods are described.
+A scheme for addressing model order determination, collision detection and
+temporal parameter estimation is proposed and tested.
+Experimental results on synthetic and real images are given.
+
+file name(s): TR3325-Burlina.ps.Z
+report numbers: CAR-TR-727 and CS-TR-3325
+title: Transform Methods for the Spatio-temporal Analysis of Visual Motion
+author(s): Philippe Burlina and Rama Chellappa
+date: July 1994
+pages: 32
+support: DACA76-92-C-0009
+agency: ARPA/CETEC
+keywords: Mellin transforms, spatio-temporal transforms, time to
+          collision, visual motion analysis
+abstract:
+This paper addresses the use of spatio-temporal transform methods applied
+to the analysis of dynamic image sequences and the characterization of
+image motion. It is shown that image motion resulting from arbitrary 3D
+camera translation is conveniently analyzed in the Mellin Transform (MT)
+domain associated with space as well as time dimensions, resulting in the
+separation of the generalized spectrum into a structural component
+corresponding to the spatial MT of the static image and an MT component
+depending on the image motion itself (a motion support). This result has
+potential implications for the recovery of image motion from integral
+image brightness measurements. In particular, we study the effects of
+``nearness'' to an imaged object and Time-to-Collision (TTC) on the
+resulting MT spectral motion support. Conversely, the recovery of TTC
+from MT spectral analysis along the time and space directions is
+illustrated. Different cases of Mellin parameters are examined.
+
+file name(s): TR3326-Khuller.ps.Z
+report numbers: CAR-TR-728 and CS-TR-3326
+title: Localization in Graphs
+author(s): Samir Khuller, Balaji Raghavachari, and Azriel Rosenfeld
+date: July 1994
+pages: 12
+support: DACA76-92-C-0009
+agency: ARPA/CETEC
+keywords: approximation algorithms, metric basis, metric dimension, trees
+abstract:
+Navigation can be studied in a graph-structured framework in which the
+navigating agent (which we shall assume to be a point robot) moves from node
+to node of a ``graph space''.  The robot can locate itself by the presence
+of distinctively labeled ``landmark'' nodes in the graph space.  For a robot
+navigating in Euclidean space, visual detection of a distinctive landmark
+provides information about the direction to the landmark, and allows the
+robot to determine its position by triangulation.  On a graph, however,
+there is neither the concept of direction nor that of visibility.  Instead,
+we shall assume that a robot navigating on a graph can sense the distances
+to a set of landmarks.
+
+Evidently, if the robot knows its distances to a sufficiently large set of
+landmarks, its position on the graph is uniquely determined.  This suggests
+the following problem:  given a graph, what are the fewest number of
+landmarks needed, and where should they be located, so that the distances to
+the landmarks uniquely determine the robot's position on the graph?  This is
+actually a classical problem about metric spaces.  A minimum set of
+landmarks which uniquely determine the robot's position is called a ``metric
+basis'', and the minimum number of landmarks is called the ``metric
+dimension'' of the graph.  In this paper we present some results about this
+problem.  Our main {\em new} result is that the metric dimension can be
+approximated in polynomial time within a factor of $O(\log n)$; we also
+establish some properties of graphs with metric dimension 2.
+
+file name(s): TR3333-Waksman.ps.Z
+report numbers: CAR-TR-729 and CS-TR-3333
+title: Sparse, Opaque Three-Dimensional Texture, 2a: Visibility
+author(s): Adlai Waksman and Azriel Rosenfeld
+date: July 1994
+pages: 25
+support: DACA76-92-C-0009
+agency: ARPA/CETEC
+keywords: Three-dimensional textures, visibility
+abstract:
+This paper considers three-dimensional textures composed of
+opaque planar texels uniformly distributed over a volume of space.
+For simple assumptions about the shapes of the texels 
+and their distribution of orientations, we estimate the probability
+ of seeing through a given-thickness volume of the texture;
+these estimates are confirmed using synthetic examples.
+We find that the probability is quite insensitive to texel shape
+(for a given average texel area), but is more sensitive to the
+distribution of texel slants, since the slant of a texel
+affects its subtended area.
+For example, expected texel slants tend to be high
+ for textures composed of
+``leaves'' whose stems conform to a standard tree branching model.
+On the other hand, in real scenes containing
+falling disks (``snowflakes''),
+we found that the disks had about the same average slant
+as texels whose distribution of orientations is uniform.
+
+file name(s): TR3334-Gavrila.ps.Z
+report numbers: CAR-TR-730 and CS-TR-3334
+title: Fast Correlation Matching in Large (Edge) Image Databases
+author(s): D.M. Gavrila and L.S. Davis
+date: August 1994
+pages: 19
+support: DACA76-92-C-0009
+agency: ARPA/CETEC
+keywords: composite filters, correlation, image databases, image
+          matching, phase coding
+abstract:
+Correlation-based matching methods are known to be very expensive when used
+on large image databases.  In this paper, we will examine ways of speeding
+up correlation matching by phase-coded filtering.  Phase coded filtering is
+a technique to combine multiple patterns in one filter by assigning complex
+weights of unit magnitude to the individual patterns and summing them up in
+a composite filter.  Several of the proposed composite filters are based on
+this idea, such as the Circular Harmonic Component (CHC) filters and the
+Linear Phase Coefficient Composite (LPCC) filters.
+
+We will consider the LPCC(1) filter in isolation and examine ways to improve
+its performance by assigning the complex weights to the individual patterns
+in a non-random manner so as to maximize the SNR of the filter w.r.t.\ the
+individual patterns.  In experiments on a database of 100 to 1000 edge
+images from the aerial domain we examine the trade-off between the speed-up
+(the number of patterns combined in a filter) and unreliability (the number
+of resulting false matches) of the composite filter.  Results indicate that
+for binary patterns with point densities of about 0.05 we can safely combine
+more than 20 patterns in the optimized LPCC(1) filter, which represents a
+speed-up of an order of a magnitude over the brute force approach of
+matching the individual patterns.
+
+file name(s): TR3339-Chellappa.ps.Z
+report numbers: CAR-TR-731 and CS-TR-3339
+title: Human and Machine Recognition of Faces: A Survey
+author(s): R. Chellappa, C.L. Wilson, S. Sirohey, and C.S. Barnes
+date: August 1994
+pages: 84
+support: DACA76-92-C-0009
+agency: ARPA/CETEC
+keywords: Face recognition, machine perception, human perception,
+	  object recognition, object identification, surveilance
+abstract:
+This report presents a survey of the
+literature on human and machine recognition of faces. 
+Over the last twenty years researchers in
+psychophysics, neural sciences and engineering, image processing,
+analysis and computer vision have investigated a number of issues
+related to face recognition by humans and machines. 
+But very little synergism exists between studies in
+psychophysics and the engineering literature. Most importantly, there
+exist no evaluation or benchmarking studies using large
+databases with the image quality that arises in law
+enforcement/commercial applications.  
+
+In this report, we first present different applications of face
+recognition in the law enforcement and commercial sectors. 
+This is followed by a
+brief overview of the literature on face recognition in the psychophysics
+community. We then present a detailed overview of more than twenty
+years of research done in the engineering community. Techniques for
+segmentation/location of the face, feature extraction and recognition
+are reviewed.  A brief
+summary of recognition using face profiles and range image data is also
+given. 
+
+An assessment of real-time face recognition from video images for existing
+technologies in the image understanding literature  is also given.
+We also discuss  data collection, performance metrics and evaluation of 
+face recognition systems and techniques. 
+
+file name(s): TR3341-Fermuller.ps.Z
+report numbers: CAR-TR-732 and CS-TR-3341
+title: On the Geometry of Visual Correspondence
+author(s): Cornelia Fermuller and Yiannis Aloimonos
+date: August 1994
+pages: 39
+support: DACA76-92-C-0009, IRI-90-57934, N00014-93-1-0257
+agency: ARPA/CETEC, NSF, ONR
+keywords: Correspondence, iso-motion contours, motion field, normal
+flow, optic flow
+abstract:
+Image displacement fields---optical flow fields, stereo disparity fields,
+normal flow fields---due to rigid motion possess a global geometric
+structure which is independent of the scene in view.  Motion vectors of
+certain lengths and directions are constrained to lie on the imaging surface
+at particular loci whose location and form depends solely on the 3D motion
+parameters.  If optical flow fields or stereo disparity fields are
+considered, then equal vectors are shown to lie on conic sections.
+Similarly, for normal motion fields, equal vectors lie within regions whose
+boundaries also constitute conics.  By studying various properties of these
+curves and regions and their relationships, a characterization of the
+structure of rigid motion fields is given.  The goal of this paper is to
+introduce a concept underlying the global structure of image displacement
+fields.  This concept gives rise to various constraints that could form the
+basis of algorithms for the recovery of visual information from multiple
+views.
+
+file name(s): TR3343-Rivlin.ps.Z
+report numbers: CAR-TR-733 and CS-TR-3343
+title: Navigational Functionalities
+author(s): Ehud Rivlin and Azriel Rosenfeld
+date: August 1994
+pages: 28
+support: DACA76-92-C-0009
+agency: ARPA/CETEC
+keywords: 
+abstract:
+A navigating agent can relate in three basic ways to an object:  Avoidance
+(e.g., if the object is a threat or an obstacle); interception (e.g., if the
+object is prey or food); and reference (e.g., if the object can be used as a
+landmark).  We illustrate these classes of object functionalities for the
+case in which the agent is a simple corridor-cleaning robot that uses the
+walls (and wall-floor junctions) as references in following the corridor;
+treats independently moving objects as threats, and large stationary objects
+as obstacles; and treats small stationary objects as ``prey" (trash to be
+swept up).
+
+file name(s): TR3349-Yao.ps.Z
+report numbers: CAR-TR-735 and CS-TR-3349
+title: Estimation of Unstabilized Components in Vehicular Motion
+author(s): Yi-sheng Yao and Rama Chellappa
+date: September 1994
+pages: 28
+support: DAAH-0493G0419
+agency: ARO
+keywords: Dynamics, motion estimation, unstabilized
+          components, vehicular motion
+abstract:
+This paper presents a kinetic-model based algorithm for estimating some
+unstabilized components in vehicular motion. In addition to smooth
+movement, there are unstabilized components such as bounce, pitch and
+roll in vehicular motion.  To reliably accomplish other tasks like
+tracking and obstacle avoidance using visual inputs, it is essential to
+consider these disturbances. A two-wheel vehicle model available in the
+literature is used for this purpose. It takes into account the bouncing
+and pitching components. The dynamics of these unstabilized components
+are formulated using standard equations of motion. Assuming that depth
+information is known for some landmarks in the scene (e.g., obtained from a
+laser range finder) and additional information from inertial sensors such
+as accelerometers is available, a feature-based approach is proposed to
+estimate the unstabilized components.  Simulation results for both
+deterministic and stochastic terrain profiles are presented. The
+robustness of the filter with respect to various parameter mismatches is
+also addressed. 
+
+file name(s): TR3351-Toelg.ps.Z
+report numbers: CAR-TR-736 and CS-TR-3351
+title: On the Finite Kinematics of Visual Fixation
+author(s): Sebastian Toelg
+date: September 1994
+pages: 54
+support: DACA76-92-C-0009
+agency: ARPA/CETEC
+keywords: Active vision, fixation, motion recovery, optical flow
+abstract:
+Within the computer vision community the paradigm of active vision 
+has attracted increasing attention over the last few years.
+Most of the related work can be roughly subdivided into 
+more conceptual or theoretical work (linearization of problems
+by active sensor movements, novel algorithms, 
+proving existence and uniqueness of solutions, etc.) 
+and more practical work (the construction of active head systems 
+and the implementation of simpler algorithms in real time).
+Almost all of the theoretical work related to motion is based on the 
+instantaneous motion field model.
+An active camera, however, acquires images
+at discrete time steps, resulting in finite observer motion between 
+consecutive frames.
+The crude approximation of infinitesimal movements between the frames
+is not adequate if information is integrated over time, 
+as for example under fixation or for robust determination of 
+structure from motion.
+Fixation is a basic behavioral capability of a moving observer,
+facilitating for instance navigation using one or more landmarks 
+(dead reckoning) and shape from motion determination during ego-motion.
+
+In the first part of this paper we develop the mathematical tools to
+deal with vision-related problems under finite kinematics for
+applications that are by nature discrete in time.
+In the second part we derive a general fixation constraint 
+using finite kinematics.
+The pros and cons of several  kinematic sensor models,
+e.g., combinations of the rotational degrees of freedom of the 
+active visual sensor, are discussed,
+and closed-form solutions for the inverse kinematic problem
+are given in all cases.
+Moreover, an additional constraint can be imposed on the observer
+motion to yield a unique solution for a redundant manipulator.
+Finally, we derive general time-dependent formulas for the projected
+trajectories, the motion field, the projected displacement vector field,
+and the trajectories of the epipole or FOE in the image plane.
+Moreover, several robust algorithms are presented for the recovery of the
+observer trajectory, the direction of motion, and a novel way to
+compute the optical flow field from image data obtained by
+a fixating observer.
+
+file name(s): TR3355-Duric.ps.Z
+report numbers: CAR-TR-737 and CS-TR-3355
+title: Function from Motion
+author(s): Zoran Duric, Jeffrey Fayman, and Ehud Rivlin 
+date: September 1994
+pages: 25
+support: F49620-93-1-0039
+agency: AFOSR
+keywords: function from motion, object functionality, optical flow
+abstract:
+In order for a robot to operate autonomously in its environment, it must be
+able to perceive its environment and take actions based on these
+perceptions.  Recognizing the functionalities of objects is an important
+component of this ability.
+
+In this paper, we look into a new area of functionality recognition:
+determining the function of an object from its motion.  Given a sequence of
+images of a known object performing some function, we attempt to determine
+what that function is.  We show that the motion of an object, when combined
+with information about the object and its normal uses, provides us with
+strong constraints on possible functions that the object might be
+performing.
+
+file name(s): TR3356-Khuller.ps.Z
+report numbers: CAR-TR-738 and CS-TR-3356
+title: Graphbots: Mobility in Discrete Spaces
+author(s): Samir Khuller, Ehud Rivlin, and Azriel Rosenfeld
+date: September 1994
+pages: 22
+support: DACA76-92-C-0009 and CCR-9307462
+agency: ARPA/CETEC and NSF
+keywords: discrete spaces, motion planning
+abstract:
+Most previous theoretical work on motion planning has addressed the
+problem
+of path planning for geometrically simple
+robots in geometrically simple regions of Euclidean space
+(e.g., a planar region containing polygonal obstacles). In this
+paper we define a natural version of the motion planning
+problem in a graph theoretic setting. We establish
+conditions under which a ``robot'' or team of robots having a
+particular
+graph structure can move from any start
+location to any goal destination in a graph-structured space.
+
+file name(s): TR3358-Michalski.ps.Z and TR3358-Michalski-tpg.ps.Z
+report numbers: CAR-TR-739 and CS-TR-3358
+title: Machine Vision and Learning: Research Issues and Directions
+author(s): R.S. Michalski, A. Rosenfeld, and Y. Aloimonos
+date: October 1994
+pages: 69 and 1
+support: F49620-92-J-0549 and GMU-5-25010-1
+agency: ARPA/AFOSR
+keywords: Computer vision, machine learning, machine vision
+abstract:
+This document is a report on the NSF/ARPA Workshop on
+Machine Learning and Vision, held in Harpers Ferry, WV, on October 15--17,
+1992. It is based in part on materials prepared by the Workshop participants.
+
+file name(s): TR3363-Waksman.ps.Z
+report numbers: CAR-TR-740 CS-TR-3363
+title: Sparse, Opaque Three-Dimensional Texture, 2b: Photometry
+author(s): Adlai Waksman and Azriel Rosenfeld
+date: October 1994
+pages: 25
+support: DACA76-92-C-0009
+agency: ARPA/CETEC
+keywords: Texture, reflectance, transmittance, graylevel, histogram
+abstract:
+This paper deals with 3-D textures composed of approximately
+planar
+texels distributed over a volume of space (``leafy'' textures).
+It studies the gray level histograms of images of such textures
+under illumination by a compact light source.
+Simple models can be used to describe
+the variation of such histograms with light source direction.
+In fact, the variation of real plant histograms with light 
+source direction resembles that
+of synthetic histograms generated using a Phong-type reflectance model
+and a uniform texel orientation model, and ignoring transmittance,
+interreflection, and shadows.
+
+file name(s): TR3366-Shulman.ps.Z
+report numbers: CAR-TR-742 CS-TR-3366
+title: Nonlinear Scalespace via Hierarchical Statistical Modeling
+author(s): David Shulman and Tomas Brodsky
+date: October 1994
+pages: 25
+support: N00014-93-1-0257
+agency: ONR
+keywords: Hierarchical models, image models, scale space, statistical
+          models
+abstract:
+Nonlinear scalespace should be based on a hierarchical statistical model of
+the image intensity function.  This model should contain an explicit
+representation of the multiscale structure of edges and corners.  Using this
+model we can have a non-ad-hoc basis for computing the parameters we need to
+determine how much smoothing we should do at points that appear to be edge
+points.  We also have a basis for computing the apparent error in our
+scalespace calculations.
+
+Hierarchical statistical modeling is a technique that can be applied to
+other problems in low-level vision, but in this introductory paper we just
+present the application of our scalespace theory to image smoothing.
+
+file name(s): TR3367-Thompson.ps.Z
+report numbers: CAR-TR-743 CS-TR-3367
+title: Growth Models for Shapes
+author(s): Scott F. Thompson
+date: October 1994
+pages: 117
+support: F49620-93-1-0039
+agency: AFOSR
+keywords: Growth processes, shape models, Ph.D. thesis
+abstract:
+A central problem in computer vision is to detect, delineate (segment)
+and recognize objects in an image.  One reason why this is difficult
+is that very little information specific to given types of objects is
+used during segmentation.  Making use of information about an object's
+shape, for example, should facilitate and improve the segmentation of
+that object.  The thrust of this thesis lies in the development of
+models for shape that provide an effective basis for computer-aided
+recovery of natural, specifically biological, shapes.  We introduce a
+2D discrete growth model for shape from a point on a Cartesian grid,
+based on notions related to biological growth.  By ``growth'' is meant
+an accretionary process occurring at the boundary of the shape.  We
+discuss two types of growth models: probabilistic models and
+deterministic (periodic) models.  A probabilistic model on the
+Cartesian grid, which associates probabilities of growth with each of
+the eight directions, is considered.  While such models empirically
+have been shown to describe many natural growth phenomena, complete
+quantitative characterizations do not yet exist.  We prove that a
+class of models of this type is not capable of generating isotropic
+shapes.  We introduce a new type of deterministic growth model based
+on the notion of ``time delay''.  Associating a delay with each
+direction defines a time delay kernel (TDK); we show that such kernels
+produce classes of convex octagons, and that sequences of TDKs can
+give rise to arbitrary convex polygons.  We also show that growth in a
+(stochastic) environment of facilitators and inhibitors, which
+decrease or increase the time delays respectively, appears to describe
+biological growth processes.  As an example, we present results which
+suggest that simple periodic growth processes in an environment
+describe the gross morphology of multiple sclerosis lesions at the
+scale afforded by magnetic resonance images.
+
+file name(s): TR3371-Samet.ps.Z
+report numbers: CAR-TR-744 CS-TR-3371
+title: Integrating Images into a Relational Database System
+author(s): Hanan Samet and Aya Soffer
+date: November 1994
+pages: 26
+support: IRI-9017393 and NGT-30130
+agency: NSF/NASA
+keywords: Database management, image database, relational database
+abstract:
+A method is presented for integrating images into the
+framework of a conventional database management system (DBMS). It
+is applicable to a class of images termed {\em symbolic images}
+in which the set of objects that may appear are known
+a priori. The geometric shapes of the objects are 
+relatively primitive and they convey symbolic information.
+Both the pattern recognition  and indexing aspects of the problem are
+addressed.  The emphasis is on extracting 
+both contextual and spatial information from the raw images. A logical 
+image representation that preserves this information is defined.  
+Methods for storing and indexing logical images 
+as tuples in a relation are presented. Indices are constructed
+for both the contextual and the spatial data, thereby enabling efficient
+retrieval of images based on contextual as well as spatial 
+specifications. Two different data organizations (integrated and
+partitioned) for storing logical images in 
+relational tables are proposed. They differ in the way the
+logical images are stored. Sample queries and execution plans to
+respond to these queries are described for both organizations. 
+Analytical as well as empirical cost analyses of these execution plans
+are given. A quantitative comparison of the two data organizations is
+presented. 
+
+file name(s): TR3378-Kwon.ps.Z
+report numbers: CAR-TR-745 CS-TR-3378
+title: Region Adaptive Image Coding
+author(s): Oh-Jin Kwon
+date: November 1994
+pages: 85
+support: DACA76-92-C-0009
+agency: ARPA/CETEC
+keywords: Ph.D. thesis, image coding, subband coding, video coding,
+          region-adaptive coding, segmentation-based coding
+abstract:
+Two region adaptive image coding schemes guided by different
+criteria are proposed.
+The first scheme, Region Adaptive Subband Image Coding (RA-SBIC),
+is developed based on rate-distortion theory.
+The major concern is  minimizing the mean squared error 
+between the original image and the coded image for a given
+number of bits.
+The second scheme, Segmentation Based Image Coding (SB-IC), incorporates ideas 
+from Human Visual System (HVS) models.
+An image resembling the original image is generated using 
+a multi-component decomposition of the original image.
+
+In RA-SBIC, the input image is decomposed into a number of image
+subbands and their statistical properties are studied.
+It is observed that the amount of energy in image subbands increases 
+towards lower frequency subbands and, more importantly, 
+towards image edges. 
+It is also found that the directionality of the energy 
+distribution is highly dependent on the orientation of the edges.
+Based on the energy distribution, arbitrarily shaped regions are extracted
+in each subband and entropy-constrained quantizers
+using the generalized Gaussian distribution for
+modeling the image subbands are employed.
+The problem of determining an optimal subband 
+decomposition among all the possible decompositions is also addressed.
+Experimental results show that visual degradations are negligible
+at a bit rate of 1.0 bits/pel and that reasonable quality images
+are obtainable up to rates as low as 0.25 bits/pel.
+
+Applications of RA-SBIC to video coding are also included.
+For motion compensation of two consecutive frames, a feature matching
+algorithm is employed. Motion compensated frame differences are 
+divided into three regions called stationary background, moving objects,
+and newly emerging area.
+Different quantizers are used for the different regions.
+
+SB-IC mimics the processing of the contours and textures in the HVS.
+Using both uniform and textured region extraction algorithms, 
+the input image is segmented.
+Textured regions are reconstructed using 2-D noncausal Gaussian-Markov
+random field models.
+Uniform regions are reconstructed using polynomial expansions.
+Images of reasonable quality are obtained up to rates of 0.1 bits/pel.
+
+*************************************************************************
+
+       Here are the contents of the directory CVL-Reports-1995
+
+*************************************************************************
+
+file name(s): TR3400-Rosenfeld-tpg.ps.Z and TR3400-Rosenfeld.ps.Z
+report numbers: CAR-TR-755 CS-TR-3400
+title: Image Analysis and Computer Vision:  1994
+author(s): Azriel Rosenfeld
+date: January 1995
+pages: 1 and 130
+support: F49620-93-1-0039
+agency: AFOSR
+keywords: computational techniques; feature detection and segmentation; 
+          image analysis; two-dimensional shape; pattern; color and texture; 
+          matching and stereo; three-dimensional recovery and analysis; 
+          three-dimensional shape; and motion; bibliography
+abstract:
+This paper presents a bibliography of over 1900 references related to
+computer
+vision and image analysis, arranged by subject matter.
+The topics covered include computational techniques;
+feature detection and segmentation; image analysis;
+two-dimensional shape; pattern; color and texture; matching and stereo;
+three-dimensional recovery and analysis; three-dimensional shape; and motion.
+A few references are also given on related topics, such as
+geometry and graphics, compression and processing, sensors and optics,
+visual perception, neural networks, artificial intelligence,
+and pattern recognition, as well as on applications.
+

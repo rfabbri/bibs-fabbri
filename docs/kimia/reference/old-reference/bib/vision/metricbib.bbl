@@ -1,0 +1,518 @@
+\begin{thebibliography}{10}
+
+\bibitem{achlioptas:database:2001}
+D.~Achlioptas.
+\newblock Database-friendly random projections.
+\newblock In {\em Symposium on Principles of Database Systems}, 2001.
+
+\bibitem{agarwal:geometric:1997}
+P.~K. Agarwal.
+\newblock Geometric range searching.
+\newblock In {\em {CRC} Handbook of Computational Geometry}. CRC, 1997.
+
+\bibitem{Agarwala:1999:ANT}
+R.~Agarwala, V.~Bafna, M.~Farach, M.~Paterson, and M.~Thorup.
+\newblock On the approximability of numerical taxonomy (fitting distances by
+  tree metrics).
+\newblock 28(3):1073--1085, June 1999.
+
+\bibitem{alon:karp:graphtheoretic:1995}
+N.~Alon, R.~M. Karp, D.~Peleg, and D.~West.
+\newblock A graph-theoretic game and its application to the k-server problem.
+\newblock {\em SIAM J. Comput.}, 24(1):78--100, 1995.
+
+\bibitem{athitsos-database}
+V.~Athitsos and S.~Sclaroff.
+\newblock Database indexing methods for 3d hand pose estimation.
+
+\bibitem{athitsos-estimating}
+V.~Athitsos and S.~Sclaroff.
+\newblock Estimating 3d hand pose from a cluttered image.
+
+\bibitem{Awerbuch:network:1985}
+B.~Awerbuch.
+\newblock Complexity of network synchronization.
+\newblock In {\em Journal of the ACM}, pages 804--823, 1985.
+
+\bibitem{Yates:Busto:KAP:2003}
+R.~Baeza-Yates, B.~Bustos, E.~Ch\'avez, N.~Herrera, and G.~Navarro.
+\newblock {\em Clustering in Metric Spaces and Its Application to Information
+  Retrieval}.
+\newblock Kluwer Academic Publishers, 2003.
+\newblock ISBN 1-4020-7682-7.
+
+\bibitem{bartal:probabilistic:1996}
+Y.~Bartal.
+\newblock Probabilistic approximations of metric spaces and its algorithmic
+  applications.
+\newblock In {\em {IEEE} Symposium on Foundations of Computer Science}, pages
+  184--193, 1996.
+
+\bibitem{Bartal:metrics:1998}
+Y.~Bartal.
+\newblock On approximating arbitrary metrices by tree metrics.
+\newblock In {\em Proceedings of the thirtieth annual ACM symposium on Theory
+  of computing}, pages 161--168. ACM Press, 1998.
+
+\bibitem{bartal:1997:polylogncompetitive}
+Y.~Bartal, A.~Blum, C.~Burch, and A.~Tomkins.
+\newblock A polylog($n$)-competitive algorithm for metrical task systems.
+\newblock pages 711--719, 1997.
+
+\bibitem{basri:roth:jacobs:clustering:appearances}
+R.~Basri, D.~Roth, and D.~Jacobs.
+\newblock Clustering appearances of 3d objects.
+\newblock In {\em In Proceedings of IEEE International Conference on Computer
+  Vision and Pattern Recognition}, 1998.
+
+\bibitem{Bengio:etal:TR1232:UMontreal:2003}
+Y.~Bengio, P.~Vincent, and J.~Paiement.
+\newblock Learning eigenfunctions of similarity: Linking spectral clustering
+  and kernel pca.
+\newblock Technical report, Université de Montréal, 2003.
+
+\bibitem{bengio:vincent:paiement:eigenfunctions:clustering}
+Y.~Bengio, P.~Vincent, and J.~F. Paiement.
+\newblock Learning eigenfunctions of similarity: Linking spectral clustering
+  and kernel pca, 2003.
+
+\bibitem{Bing:ICKDDM:2001}
+E.~Bingham and H.~Mannila.
+\newblock Random projection in dimensionality reduction: Applications to image
+  and text data.
+\newblock In {\em Proceedings of the {ACM SIGKDD} International Conference on
+  Knowledge Discovery and Data Mining}, pages 245--250, San Francisco, CA, Aug.
+  2001.
+
+\bibitem{bose:spanning:2002}
+P.~Bose, L.~Devroye, W.~S. Evans, and D.~G. Kirkpatrick.
+\newblock On the spanning ratio of gabriel graphs and beta-skeletons.
+\newblock In {\em Latin American Theoretical {INformatics}}, pages 479--493,
+  2002.
+
+\bibitem{Bourgain:Hilbert:1985}
+J.~Bourgain.
+\newblock On lipschitz embedding of finite metric spaces in hilbert space.
+\newblock {\em Israel Journal of Mathematics}, pages 46--52, 1985.
+
+\bibitem{brand:huang:unifying:2003}
+M.~Brand and K.~Huang.
+\newblock A unifying theorem for spectral embedding and clustering, 2003.
+
+\bibitem{Bustos:PR:2003}
+B.~Bustos, G.~Navarro, and E.~Ch{\'a}vez.
+\newblock Pivot selection techniques for proximity searching in metric spaces.
+\newblock {\em Pattern Recognition Letters}, 24(14):2357--2366, 2003.
+
+\bibitem{bishop:svensen:williams:topographic:mapping}
+C.~K. I.~W. C.~M.~Bishop, M.~Svensen.
+\newblock Gtm: The generative topographic mapping.
+\newblock {\em Neural Computation}, 10:215--234, 1998.
+
+\bibitem{chandra:sparseness:1995}
+B.~Chandra, G.~Das, G.~Narasimhan, and J.~Soares.
+\newblock New sparseness results on graph spanners.
+\newblock {\em International Journal of Computational Geometry and
+  Applications}, 5:125--144, 1995.
+
+\bibitem{charikar:chekuri:98:approximating}
+M.~Charikar, C.~Chekuri, A.~Goel, S.~Guha, and S.~A. Plotkin.
+\newblock Approximating a finite metric by a small number of tree metrics.
+\newblock In {\em {IEEE} Symposium on Foundations of Computer Science}, pages
+  379--388, 1998.
+
+\bibitem{Chavez:Navarro:SPIRE00}
+E.~Chavez and G.~Navarro.
+\newblock An effective clustering algorithm to index high dimensional metric
+  spaces.
+\newblock In {\em Proc. 7th International Symposium on String Processing and
+  Information Retrieval (SPIRE'00)}, pages 75--86. IEEE CS Press, 2000.
+
+\bibitem{Ciaccia:etal:VLDB97}
+P.~Ciaccia, M.~Patella, and P.~Zezula.
+\newblock M-tree: an efficient access method for similarity search in metric
+  spaces.
+\newblock In {\em Proc. 23rd Conference on Very Large Databases (VLDB'97)},
+  pages 426--435, 1997.
+
+\bibitem{Cox:Cox:1994}
+T.~F. Cox and M.~A.~A. Cox.
+\newblock {\em Multidimensional Scalin}.
+\newblock Chapman and Hall, 1994.
+
+\bibitem{silva:tenenbaum:manifolds}
+V.~de~Silva and J.~B. Tenenbaum.
+\newblock Unsupervised learning of curved manifolds, 2002.
+
+\bibitem{Dehne:Nolteimer:87}
+F.~Dehne and H.~Nolteimer.
+\newblock Voronoi trees and clustering problems.
+\newblock {\em Information Systems}, 12(2):171--175, 1987.
+
+\bibitem{Susheela:Murty:PR:2002}
+V.~Devi and M.~N. Murty.
+\newblock An incremental prototype set building technique.
+\newblock {\em Pattern Recognition}, 2002.
+
+\bibitem{donoho:grimes:image:manifolds}
+D.~L. Donoho and C.~Grimes.
+\newblock When does isomap recover the natural parametrization of families of
+  articulated images? (aka: Image manifolds which are isometric to euclidean
+  space), 2002.
+
+\bibitem{Dunagan:Vempala:1999}
+J.~Dunagan and S.~Vempala.
+\newblock On euclidean embeddings and bandwidth minimization.
+\newblock In {\em In Randomization, approximation, and combinatorial
+  optimization}, pages 229--240. Springer-Verlag, 1999.
+
+\bibitem{even:naor:rao:divideconquer:1995}
+G.~Even, J.~Naor, S.~Rao, and B.~Schieber.
+\newblock Divide-and-conquer approximation algorithms via spreading metrics
+  (extended abstract).
+\newblock In {\em {IEEE} Symposium on Foundations of Computer Science}, pages
+  62--71, 1995.
+
+\bibitem{Fakcharoenphol:metrics:2003}
+J.~Fakcharoenphol, S.~Rao, and K.~Talwar.
+\newblock A tight bound on approximating arbitrary metrics by tree metrics.
+\newblock In {\em Proceedings of the thirty-fifth ACM symposium on Theory of
+  computing}, pages 448--455. ACM Press, 2003.
+
+\bibitem{feige:approximating:1998}
+U.~Feige.
+\newblock Approximating the bandwidth via volume respecting embeddings
+  (extended abstract).
+\newblock pages 90--99, 1998.
+
+\bibitem{fu:polly:dynamic:2000}
+A.~W.-C. Fu, P.~M. shuen Chan, Y.-L. Cheung, and Y.~S. Moon.
+\newblock Dynamic vp-tree indexing for n-nearest neighbor search given
+  pair-wise distances.
+\newblock {\em VLDB Journal}, 9(2):154--173, 2000.
+
+\bibitem{Fukunaga:AP:1990}
+K.~Fukunaga.
+\newblock {\em Introduction to Statistical Pattern Recogntion}.
+\newblock Academic Press,Boston, second edition, 1990.
+
+\bibitem{gaede:gunther:98:multidimensional}
+V.~Gaede and O.~G{\"u}nther.
+\newblock Multidimensional access methods.
+\newblock {\em ACM Computing Surveys}, 30(2):170--231, 1998.
+
+\bibitem{Gershenfeld:CU:99}
+N.~Gershenfeld.
+\newblock {\em The Nature of Mathematical Modelling}.
+\newblock Cambridge University Press, Cambridge, 1999.
+
+\bibitem{Grenander:1996}
+U.~Grenander.
+\newblock {\em Elements of Pattern Theory}.
+\newblock Baltimore: Johns Hopkins University Press, 1996.
+
+\bibitem{guha:CURE:98}
+S.~Guha, R.~Rastogi, and K.~Shim.
+\newblock {CURE}: an efficient clustering algorithm for large databases.
+\newblock pages 73--84, 1998.
+
+\bibitem{Gupta:Sinclair:1999:Cuts}
+A.~Gupta, A.~Sinclair, I.~Newman, and Y.~Rabinovich.
+\newblock Cuts, trees and -embeddings of graphs.
+\newblock In {\em Proceedings of the 40th Annual Symposium on Foundations of
+  Computer Science}, page 399. IEEE Computer Society, 1999.
+
+\bibitem{hagedoorn:pattern:99}
+M.~Hagedoorn and R.~Veltkamp.
+\newblock Metric pattern spaces.
+\newblock Technical Report UUCS-1999-03, Utrecht University, 1999.
+
+\bibitem{halkidi:clustering:2001}
+M.~Halkidi, Y.~Batistakis, and M.~Vazirgiannis.
+\newblock On clustering validation techniques.
+\newblock {\em Journal of Intelligent Information Systems}, 17(2-3):107--145,
+  2001.
+
+\bibitem{hecht-nielsen:replicator:neural:networks}
+R.~Hecht-Nielsen.
+\newblock Replicator neural networks for universal optimal source coding.
+\newblock {\em Science}, 269(5232):1860--1863, 1995.
+
+\bibitem{Hildrum:Kubiatowicz:2002}
+K.~Hildrum, J.~D. Kubiatowicz, S.~Rao, and B.~Y. Zhao.
+\newblock Distributed object location in a dynamic network.
+\newblock In {\em Proceedings of the Fourteenth ACM Symposium on Parallel
+  Algorithms and Architectures}, pages 41--52, Aug. 2002.
+
+\bibitem{Hjaltason:Samet:2003}
+G.~R. Hjaltason and H.~Samet.
+\newblock Properties of embedding methods for similarity searching in metric
+  spaces.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 25(5):530--549, 2003.
+
+\bibitem{Hotelling:PCA:JEP33}
+H.~Hotelling.
+\newblock Analysis of complex statistical variables into principal components.
+\newblock {\em J. Educational Psychology}, 24:498--520, 1933.
+
+\bibitem{hurrell:95:north:atlantic:oscillation}
+J.~W. Hurrell.
+\newblock Decadal trends in the north atlantic oscillation: Regional
+  temperatures and precipitation.
+\newblock {\em Science}, 269(5224):676--679, 1995.
+
+\bibitem{Indyk:2001:AAL}
+P.~Indyk.
+\newblock Algorithmic applications of low-distortion geometric embeddings.
+\newblock pages 10--33, 2001.
+
+\bibitem{Indyk:2002:Nearest}
+P.~Indyk.
+\newblock Approximate nearest neighbor algorithms for frechet distance via
+  product metrics.
+\newblock In {\em Proceedings of the eighteenth annual symposium on
+  Computational geometry}, pages 102--106. ACM Press, 2002.
+
+\bibitem{Indyk:2004}
+P.~Indyk.
+\newblock Approximate nearest neighbor under edit distance via product metrics.
+\newblock In {\em 15th Symposium on Discrete Algorithms}, 2004.
+
+\bibitem{CRC:Indyk:Matousek:1997}
+P.~Indyk and J.~Matousek.
+\newblock {\em Low-Distortion embeddings of finite metric spaces}, chapter~39.
+\newblock CRC Press LLC, 1997.
+
+\bibitem{Indyk:2003:ICCV}
+P.~Indyk and N.~Thaper.
+\newblock Fast image retrieval via embeddings.
+\newblock In {\em 3rd International Workshop on Statistical and Computational
+  Theories of Vision}.
+
+\bibitem{jaromczyk:relative}
+J.~Jaromczyk and G.~Toussaint.
+\newblock Relative neighborhood graphs and their relatives.
+\newblock {\em P-IEEE}, 80:1502--1517.
+
+\bibitem{jin-efficient}
+L.~Jin, C.~Li, and S.~Mehrotra.
+\newblock Efficient record linkage in large data sets.
+
+\bibitem{Jolliffe:PCA:1986}
+I.~T. Jolliffe.
+\newblock {\em Principal Component Analysis}.
+\newblock Springer, 1986.
+
+\bibitem{Kambhatla:Leen:neuralComp:97}
+N.~Kambhatla and T.~K. Leen.
+\newblock Dimension reduction by local principal component analysis.
+\newblock {\em Neural Computation}, pages 1493--1516, 1997.
+
+\bibitem{konjevodL:approximating:2001}
+G.~Konjevod, R.~Ravi, and F.~S. Salman.
+\newblock On approximating planar metrics by tree metrics.
+\newblock {\em Information Processing Letters}, 80(4):213--219, 2001.
+
+\bibitem{krauthgamer-metric}
+R.~Krauthgamer, N.~Linial, and A.~Magen.
+\newblock Metric embeddings - beyond one-dimensional distortion.
+
+\bibitem{lee:seung:learning:matrix:factorization}
+D.~D. Lee and H.~S. Seung.
+\newblock Learning the parts of objects by non-negative matrix factorization.
+\newblock {\em Nature}, 401:788--791, 1999.
+
+\bibitem{Leibe:Schiele:BMVC03}
+B.~Leibe and B.~Schiele.
+\newblock Interleaved object categorization and segmentation.
+\newblock In {\em Proceedings of British Machine Vision Conference}, Norwich,
+  GB, 2003.
+
+\bibitem{li:chang:molina:clustering}
+C.~Li, E.~Y. Chang, H.~Garcia-Molina, and et~al.
+\newblock Clustering for approximate similarity search in high-dimensional
+  spaces.
+
+\bibitem{linial:rabinovich:95}
+N.~Linial, E.~London, and Y.~Rabinovich.
+\newblock The geometry of graphs and some of its algorithmic applications.
+\newblock {\em Combinatorica}, 15:215--245, 1995.
+
+\bibitem{linial:trees:1998}
+N.~Linial, A.~Magen, and M.~E. Saks.
+\newblock Trees and {Euclidean} metrics.
+\newblock pages 169--175, 1998.
+
+\bibitem{liotta:low:1996}
+G.~Liotta.
+\newblock Low degree algorithms for computing and checking gabriel graphs.
+\newblock Technical Report CS-96-28, 1996.
+
+\bibitem{Mardia:etal:AP:1979}
+K.~V. Mardia, J.~Kent, and J.~Bibby).
+\newblock {\em Multivariate Analysis}.
+\newblock Academic Press,New York, 1979.
+
+\bibitem{matousek:embedding:1999}
+J.~Matousek.
+\newblock On embedding trees into uniformly convex banach spaces, 1999.
+
+\bibitem{mcclurkin:optican:91:concurrent:processing}
+J.~W. McClurkin, L.~M. Optican, B.~J. Richmond, and T.~J. Gawne.
+\newblock Concurrent processing and complexity of temporally encoded neuronal
+  messages in visual perception.
+\newblock {\em Science}, 253(5020):675--677, 1991.
+
+\bibitem{menozzi:piazza:78:human:gene:frequencies}
+P.~Menozzi, A.~Piazza, and L.~Cavalli-Sforza.
+\newblock Synthetic maps of human gene frequencies in europeans.
+\newblock {\em Science}, 201(4358):786--792, 1978.
+
+\bibitem{moore:anchors}
+A.~W. Moore.
+\newblock The anchors hierarchy: Using the triangle inequality to survive high
+  dimensional data.
+\newblock pages 397--405.
+
+\bibitem{murtagh:clustering:2000}
+F.~Murtagh.
+\newblock Clustering massive data sets.
+\newblock In P.~P. J.~Abello and M.~Reisende, editors, {\em Handbook of Massive
+  Data Sets}. Kluwer, 2000.
+
+\bibitem{navarro:reyes:dynamic}
+G.~Navarro and N.~Reyes.
+\newblock Dynamic spatial approximation trees.
+
+\bibitem{Nolteimer:etal:trees:92}
+H.~Nolteimer, K.~Verbarg, and C.~Zirkelbach.
+\newblock Monotonous bisector trees - a tool for efficient partitioning of
+  complex scenes of geometric objects.
+\newblock In {\em Data Structures and Efficient Algorithms, Lecture Notes in
+  Computer Science}, volume 594, pages 186--203, 1992.
+
+\bibitem{Peleg:Ullman:hypercube}
+D.~Peleg and J.D.Ullman.
+\newblock An optimal synchronizer for the hypercube.
+\newblock In {\em In Proceedings 6th ACM Symposium on Priciples of Distributed
+  Computing}, pages 77--85, 1985.
+
+\bibitem{polito:perona:embedding}
+M.~Polito and P.~Perona.
+\newblock Grouping and dimensionality reduction by locally linear embedding,
+  2001.
+
+\bibitem{rabinovich:raz:embedding:1996}
+Rabinovich and Raz.
+\newblock Lower bounds on the distortion of embedding finite metric spaces in
+  graphs.
+\newblock {\em GEOMETRY: Discrete and Computational Geometry}, 19, 1996.
+
+\bibitem{Roth:Laub:Optimal:2003}
+V.~Roth, J.~Laub, M.~Kawanabe, and J.~M. Buhmann.
+\newblock Optimal cluster preserving embedding of non-metric proximity data.
+\newblock {\em IEEE Transaction on Pattern Analysis and Machine Intelligence},
+  2003.
+
+\bibitem{Roweis:Saul:Science00}
+S.~T. Roweis and L.~K. Saul.
+\newblock Nonlinear dimensionality reduction by locally linear embedding.
+\newblock {\em Science}, 290:2323--2326, December 2000.
+
+\bibitem{Samet:applications:1990}
+H.~Samet.
+\newblock {\em Applications of Spatial Data Structures}.
+\newblock Addison-Wesley,MA, 1990.
+
+\bibitem{Samet:design:1990}
+H.~Samet.
+\newblock {\em The design and analysis of Spatial Data Structures}.
+\newblock Addison-Wesley, MA, 1990.
+
+\bibitem{Saul:Roweis:locally:2003}
+L.~K. Saul and S.~T. Roweis.
+\newblock Think globally, fit locally: unsupervised learning of low dimensional
+  manifolds.
+\newblock {\em J. Mach. Learn. Res.}, 4:119--155, 2003.
+
+\bibitem{Schoenberg:Metric:1938}
+I.~J. Schoenberg.
+\newblock Metric spaces and positive definite functions.
+\newblock volume~44, pages 522--536, 1938.
+
+\bibitem{sharon:CVPR00}
+E.~Sharon, A.~Brandt, and R.~Basri.
+\newblock Fast multiscale image segmentation.
+\newblock In {\em Proc. IEEE Conference on Computer Vision and Pattern
+  Recognition}, volume~I, pages 70--77, 2000.
+
+\bibitem{shepard:perceptual:reflections}
+R.~N. Shepard.
+\newblock Perceptual-cognitive universals as reflections of the world.
+\newblock {\em Psychonomic Bulletin & Review}, 1:2--28, 1994.
+
+\bibitem{tenenbaum:silva:langford:2000}
+J.~tenenbaum, de~Silva~V., and J.~Langford.
+\newblock A global geometric framework for nonlinear dimensionality reduction.
+\newblock {\em Science}, 22(290):2319--2323, December 2000.
+
+\bibitem{toussiant:workshop:1991}
+G.~Toussaint.
+\newblock Some unsolved problems on proximity graphs, 1991.
+
+\bibitem{Caetano:slimtrees:2000}
+C.~{Traina Jr.}, A.~Traina, B.~Seeger, and C.~Faloutsos.
+\newblock {Slim-Trees}: High performance metric trees minimizing overlap
+  between nodes.
+\newblock {\em Lecture Notes in Computer Science}, 1777:51--??, 2000.
+
+\bibitem{Uhlmann:IPL:91}
+J.~Uhlmann.
+\newblock Satisfying general proximity/similarity queries with metric trees.
+\newblock {\em Information Processing Letters}, 40:175--179, 1991.
+
+\bibitem{runger:sphere_of_influence}
+R.~Unger.
+
+\bibitem{Wang:spanning:2003}
+W.~Wang, X.-Y. Li, K.~Moaveni-Nejad, Y.~Wang, and W.-Z. Song.
+\newblock The spanning ratios of beta-skeletons, 2003.
+
+\bibitem{Johnson:Lindenstrauss:Hilbert:1984}
+W.B.Johnson and J.Lindenstrauss.
+\newblock Extensions of lipschitz mapping into hilbert space.
+\newblock {\em Contemporary Mathematics}, pages 189--206, 1984.
+
+\bibitem{Yianilos:Vantage:98}
+P.~N. Yianilos.
+\newblock Excluded middle vantage point forests for nearest neighbor search.
+\newblock Technical report, NEC Research Institute, Princeton, NJ, July 1998.
+
+\bibitem{Yianilos00vp3}
+P.~N. Yianilos.
+\newblock Locally lifting the curse of dimensionality for nearest neighbor
+  search.
+\newblock In {\em Proceedings of the Eleventh Annual ACM-SIAM Symposium on
+  Discrete Algorithms (SODA)}, pages 361--370, 2000.
+
+\bibitem{Yianilos:curse:02}
+P.~N. Yianilos.
+\newblock Locally lifting the curse of dimensionality for nearest neighbor
+  search.
+\newblock In {\em DIMACS Nearest Neighbor Challenge (to appear)}, 2002.
+
+\bibitem{young:yamane:92:inferotemporal}
+M.~P. Young and S.~Yamane.
+\newblock Sparse population coding of faces in the inferotemporal cortex.
+\newblock {\em Science}, 256(5061):1327--1331, 1992.
+
+\bibitem{Young:Hilbert:1988}
+N.~Young.
+\newblock {\em An Introduction to Hilbert Space}.
+\newblock Cambridge University Press, 1988.
+
+\bibitem{Wan:king:PPT:2002}
+W.~Zhang and I.~King.
+\newblock Locating support vector via $\beta$-skeleton technique, 2002.
+
+\end{thebibliography}

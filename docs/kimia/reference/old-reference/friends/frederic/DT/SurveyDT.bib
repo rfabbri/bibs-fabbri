@@ -1,0 +1,74 @@
+%
+%	Danielsson83	Time Complexity for Serial and Parallel...]
+%	Paglieroni92	Distance Transforms: Properties and Machine...
+%	Piper87		Computing Distance Transformation in Convex...
+%
+
+@InProceedings{ Danielsson83Time,
+  author = 	{P. E. Danielsson and S. Tanimoto},
+  title = 	{Time Complexity for Serial and Parallel Propagation
+		 in Images},
+  booktitle = 	ProcSPIE # "Architecture and Algorithms for Digital
+		 Image Processing",
+  year = 	1983,
+  volume = 	435,
+  pages = 	{60--67},
+  publisher = 	SPIE,
+  address =	SPIEadr,
+  keywords =	{Convex (C) and Non-convex objects (NC).
+		 Time Complexities:
+		 Sequential propagation (1 processor):
+		  o Recursive raster-scan (C: O[n^2], NC: O[n^4])
+		  o Data-dependent-scan   (C: O[n^2], NC: O[n^2])
+		 Parallel propagation (n^2 processors):
+		  o Full (1 proc./pixel)  (C: O[n], NC: O[n^2])
+		  o Full pyramidal	  (C: O[Log(n)], NC: O[n^2])
+		 Parallel propagation (m^2 processors; m << n):
+		  o Window		  (C: O[n^3/m^2], NC: O[n^4/m^2])
+		  o Window-recursive	  (C: O[n^2/m], NC: O[n^2+(n^4/m^3)])
+		  o Distributed		  (C: O[n^3/m^2], NC: O[n^4/m^2])
+		  o Distr.-recursive	  (C: O[n^2/m], NC: O[n^4/m^2])
+		  o Distr.-parallel	  (C: O[(n^2/m^2)+m], NC: O[n^4/m^2])
+		  o Distr.-para. (index)  (C: O[n^2/(m^2+n) * Log(n/m)],
+					   NC: O[n^4/(m^4+n^2) * Log(n/m)])
+		 Fastest propagation:
+		  o Convex (thick) objects: Full pyramidal (O[Log(n)]).
+		  o Convex (thin) objects:  Full parallel  (O[n]).
+		  o Non-convex objects:	    No improvements with parallelism.}
+}
+
+@Article{Paglieroni92Distance,
+  author = 	{D. W. Paglieroni},
+  title = 	{Distance Transforms: Properties and Machine Vision
+		 Applications},
+  journal = 	CVGIPGMIP,
+  year = 	1992,
+  volume = 	54,
+  number = 	1,
+  pages = 	{56--74},
+  month = 	jan
+}
+
+@Article{ Piper87ComputDT,
+  author = 	{J. Piper
+		and E. Granum},
+  title = 	{Computing Distance Transformation in Convex and
+		 Non-Convex Domains},
+  journal = 	PattRec,
+  year = 	1987,
+  volume = 	20,
+  number = 	6,
+  pages = 	{599-615},
+  keywords =	{WDT's. Constrained DT's. Propagated DT's. 2, 3 and 4
+		 passes algorithms. Convexity, sub- and
+		 super-convexity, x- and y-convexity. Minimal
+		 2-direction paths. Non-reversing paths. Recursive and
+		 ordered propagations. Queue sorted by predicted
+		 distance. Constant, cyclic, random and specific
+		 orders. Cost function transformations. Propagation of
+		 links and labels. Grey-weighted DT and
+		 valley-following image segmentation. Fall-DT of an
+		 image. General formalism for DT's (and cost function
+		 transformations).}
+}
+

@@ -1,0 +1,335 @@
+%
+@preamble( "\newcommand{\noop}[1]{} "
+         # "\newcommand{\singleletter}[1]{#1} " )
+%
+%	General Keywords
+%
+@string{ AI =		"Artificial Intelligence"}
+@string{ Comm =		"Communications of "}
+@string{ CptRend =	"Comptes-Rendu "}
+@string{ CS =		"Computer Science"}
+@string{ CSDep =	CS # " Dept."}
+@string{ CSTR =		CS # " Technical Report"}
+@string{ EtAl =		"and others"}
+@string{ EE =		"Electrical Engineering"}
+@string{ EEDep =	EE # " Dept."}
+@string{ Jour =		"Journal of "}
+@string{ IJour =	"International " # Jour}
+@string{ InfEng =	"Information Engineering"}
+@string{ IntConf =	"International Conference on "}
+@string{ IntSymp =	"International Symposium on "}
+@string{ Proc =		"Proceedings of the "}
+@string{ SchEng =	"School of Engineering"}
+@string{ TR =		"Technical Report"}
+@string{ TResRep =	"Technical Research Report"}
+%
+%-------- INSTITUTIONS & Addresses ----------------------------------
+%
+%		CANADA
+%
+@string{ CIMTR =	"McRCIM Technical Report"}
+@string{ CVRLtr =	"Computer Vision \& Robotics Lab. Technical Report"}
+@string{ MCRCIM =	"McGill Research Center for Intelligent Machines"}
+@string{ McG =		"McGill University"}
+@string{ MTL =		"Montr\'eal, QC, Canada"}
+@string{ McGEE =	EEDep # ", " # McG}
+@string{ McGMTL =	McG # ", " # MTL}
+%
+@string{ ACFAS =	"Association Canadienne-Fran\c caise pour
+		 	 l'Avancement des Sciences"}
+@string{ CIAR =		"Canadian Institute for Advanced Research"}
+@string{ CIPS =		"Canadian Information Processing Society"}
+@string{ CIPSadr =	"243 College St., Toronto, OT, Canada"}
+@string{ CIPPRS =	"Canadian Image Processing and Pattern
+		 	 Recognition Society"}
+@string{ GI =		"Graphics Interface"}
+@string{ NRCC =		"National Research Council of Canada"}
+@string{ RBCV =		"Research in Biological and Computational
+		 	 Vision"}
+@string{ TrRBCV =	TR # " on " # RBCV}
+@string{ UofTCS =	CSDep # ", University of Toronto"}
+@string{ UofTCSadr =	"10 King's College Road, Toronto, OT, CANADA,
+		 	 M5S 1A4"}
+@string{ VI =		"Vision Interface"}
+%
+%		U.S.A.
+%
+@string{ AFCRL =	"Air Force Cambridge Research Laboratories"}
+@string{ AFCRLadr =	"Bedford, Mass., U.S.A."}
+@string{ CRC =		"CRC Press"}
+@string{ CRCadr =	"Boca Raton, Florida, U.S.A."}
+@string{ HarvU =	"Harvard University"}
+@string{ HarvUAdr =	"Cambridge, MA 01238, U.S.A."}
+@string{ HarvApplSci =	HarvU # ", Division of Applied Sciences"}
+@string{ MIT =		"Massachusetts Institute of Technology"}
+@string{ MITadr =	"Cambridge, MA, U.S.A."}
+@string{ MITAI =	MIT # ", " # AI # " Laboratory"}
+@string{ MediaLab =	"M.I.T. Media Lab"}
+@string{ MediaLabAdr =	MIT # ", Room E15-387, 20 Ames Street,
+		 	 Cambridge, MA 02138, U.S.A."}
+@string{ MediaLabVisi =	MediaLab # " Vision and Modeling Group"}
+@string{ MITPr =	"The MIT Press"}
+@string{ MITPrAdr =	"Cambridge, MA, U.S.A."}
+@string{ MKP =		"Morgan Kaufmann Publishers"}
+@string{ MKPadr =	"Los Altos, CA, U.S.A."}
+@string{ MKPAI =	"Research notes in " # AI # " Series"}
+@string{ MKPAIed =	"D. Sleeman and N. S. Sridharan"}
+@string{ NY =		"New York, NY, U.S.A."}
+@string{ NCAI =		"National Conference on " # AI}
+@string{ PUP =		"Princeton University Press"}
+@string{ PUPadr =	"Princeton, NJ, U.S.A."}
+@string{ PurdueCS =	CS # " Dept., Purdue University"}
+@string{ PurdueAdr =	"West Lafayette, Indiana 47907, U.S.A."}
+@string{ UCal =		"University of California"}
+@string{ UCalAdr =	"Berkeley, CA 94720, U.S.A."}
+@string{ UCalEECS =	UCal # ", Dept. of " # EE # " and " # CS}
+@string{ UChLPhy =	"Chicago Lectures in Physics"}
+@string{ UChP =		"The University of Chicago Press"}
+@string{ UChPadr =	"Chicago, U.S.A."}
+@string{ UMdCS =	"Dept. of " # CS # ", University of Maryland"}
+@string{ YaleU =	"Yale University"}
+@string{ YaleUAdr =	"New Haven, Connecticut, U.S.A."}
+@string{ YaleUCS =	YaleU # ", Dept. of " # CS}
+@string{ YaleUNum =	YaleU # ", Numerical Algorithms Research
+		 	 Group, Mathematics Dept."}
+%
+%		FRANCE
+%
+@string{ MathMorpho =	"Mathematical Morphology"}
+@string{ Morpho =	"Morphologie Math\'ematique"}
+@string{ CMM =		"Centre de " # Morpho}
+@string{ CGMM =		"Centre de G\'eostatistique et de " # Morpho}
+@string{ EcoleMines =	"Ecole Nationale Sup\'erieure des Mines de
+		 	 Paris"}
+@string{ CMMadr =	"35, rue Saint-Honor\'e, 77305 FONTAINEBLEAU
+		 	 cedex, France"}
+@string{ DocMorpho =	"Doctorat en " # Morpho}
+%
+@string{ CEREMADE =	"Centre de Recherche de Math\'ematiques de la
+		 	 D\'ecision"}
+@string{ CRMDtr =	"Cahier de Math\'ematiques de la D\'ecision"}
+@string{ CRMDadr =	"Universit\'e Paris IX -- Dauphine, Place de
+		 	 Lattre de Tassigny, 75775 PARIS cedex 16,
+		 	 FRANCE"}
+@string{ CRIN =		"Centre de Recherche en Informatique de Nancy"}
+@string{ CRINadr =	"Campus Scientifique, B.P. 239, 54506
+		    	 Vand\oe uvre-les-Nancy cedex, France"}
+@string{ GabayAdr =	"Librairie Jacques Gabay, 151 bis, rue
+		 	 Saint-Jacques, 75005 Paris, France"}
+@string{ HermannAdr = 	"293, rue Lecourbe, 75015 Paris, France"}
+@string{ INRIA =	"Institut National de Recherche en
+		 	 Informatique et Automatique"}
+@string{ INRIARoc =	"Domaine de Voluceau, Rocquencourt, B.P. 105,
+		 	 78153 Le Chesnay cedex, France"}
+%
+%		U.K.
+%
+@string{ CambU =	"Cambridge University"}
+@string{ CambUEng =	CambU # ", Engineering Department"}
+@string{ CambUPr =	CambU # " Press"}
+@string{ CambUAdr =	CambU # ", England"}
+@string{ CambTrMath =	"Cambridge Tracts in Mathematics"}
+@string{ Claren =	"Clarendon Press"}
+@string{ ClarenAdr =	"Oxford, England"}
+@string{ ClarenOxf =	"Oxford Applied Mathematics and Computing
+		 	 Science Series"}
+@string{ EdinU =	"University of Edinburgh"}
+@string{ EdinUPr =	EdinU # " Press"}
+@string{ EdinAdr =	"Edinburgh, Scotland, U.K."}
+@string{ EdinUAI =	"Department of " # AI # ", " # EdinU}
+@string{ EdinUAIadr =	"5 Forrest Hill, Edinburgh, Scotland EH1 2QL"}
+@string{ LEA =		"Lawrence Erlbaum Associates"}
+@string{ LEAadr =	"London, England"}
+@string{ OxfU =		"Oxford University"}
+@string{ OxfUadr =	"Oxford, England"}
+@string{ OxfUPr =	OxfU # " Press"}
+@string{ PRoySocEdin =	Proc # "Royal Society of Edinburgh"}
+@string{ PhTRSocLond =	"Philosophical Transactions of the Royal
+		 	 Society of London"}
+@string{ PRoySocLond =	Proc # "Royal Society of London"}
+%
+%		Italy
+%
+@string{ AttiLincei =	"Atti Della Accademia Nazionale Dei Lincei"}
+%
+%		Sweden
+%
+@string{ LinkU =	"Link{\"o}ping University"}
+@string{ LinkUEE =	LinkU # ", " # EEDep}
+@string{ LinkUadr =	"Link{\"o}ping, Sweden"}
+@string{ LicenTh =	"Licentiate in Technology Dissertation"}
+@string{ LinkSST =	"Link{\"o}ping Studies in Science and
+		 	 Technology"}
+%
+%		Australia
+%
+@string{ SMPCE =	"School of MPCE, Macquarie University"}
+@string{ SMPCEadr =	"NSW 2109, Australia"}
+@string{ SMPCEtr =	"Macquarie Computing Reports"}
+%
+%		Japan
+%
+@string{ NagU =		"Nagoya University"}
+@string{ NagUadr =	"Furo-cho, Chikusa-ku, Nagoya 464, JAPAN"}
+%
+%------	JOURNALS and PROCEEDINGS ------------------------------------
+%
+%		IEEE
+%
+@string{ IEEECS =	"IEEE Computer Society"}
+@string{ IEEECSPress =	IEEECS # " Press"}
+@string{ IEEECSPressAdr = "Los Alimitos, CA, U.S.A."}
+@string{ IEEESP =	"IEEE Signal Processing Magazine"}
+@string{ IEEETr =	"IEEE Transactions on "}
+@string{ COM =		IEEETr # "Communications"}
+@string{ SMC =		IEEETr # "Systems, Man and Cybernetics"}
+@string{ TrAutoCtrl =	IEEETr # "on Automatic Control"}
+@string{ TransComp =	IEEETr # "Computers"}
+@string{ TrCompGrAppl = IEEETr # "Computer Graphics and Applications"}
+@string{ PAMI =		IEEETr # "Pattern Analysis and Machine Intelligence"}
+@string{ ASSP =		IEEETr # "Acoustics, Speech, and Signal Processing"}
+@string{ TransRA =	IEEETr # "Robotics and Automation"}
+@string{ TrMedImag =	IEEETr # "Medical Imaging"}
+@string{ TrBioMed =	IEEETr # "Biomedical Engineering"}
+@string{ TrInfoTh =	IEEETr # "Information Theory"}
+@string{ IEEECS =	"IEEE Computer Society"}
+@string{ IEEEpr =	"Proceedings of the IEEE"}
+%
+%		SPIE & OSA
+%
+@string{ SPIE =		"Society for Photo-Instrumentation Engineers"}
+@string{ ProcSPIE =	Proc # "SPIE Conference on "}
+@string{ OSA =		"Optical Society of America"}
+@string{ JOSA =		Jour # "the " # OSA}
+@string{ JOSAA =	JOSA # " -- A"}
+%
+%		ACM
+%
+@string{ ACM = 		"Association for Computing Machinery"}
+@string{ JACM =		Jour # "the " # ACM}
+@string{ CACM =		Comm # "the " # ACM}
+@string{ ACMMathSoft =	"ACM Transactions on Mathematical Software"}
+%
+%		Academic Press
+%
+@string{ AcadP =	"Academic Press"}
+@string{ AcadPadr =	"Boston. MA. U.S.A."}
+@string{ CGIP =		"Computer Graphics and Image Processing" }
+@string{ CVGIP =	"Computer Vision, Graphics and Image Processing" }
+@string{ CVGIPIU =	CVGIP # ": Image Understanding"}
+@string{ CVGIPGMIP =	CVGIP # ": Graphic Models and Image Processing"}
+%
+%		Vision related
+%
+@string{ ElecIma =	"Proceedings on Electronic Imaging Science and
+		 	 Technology"} 
+@string{ ImaVisiComp =	"Image and Vision Computing"}
+@string{ IJCV =		IJour # "Computer Vision"}
+@string{ JVCIR =	Jour # "Visual Communications and Image
+		 	 Representation"}
+@string{ MVA =		"Machine Vision and Applications"}
+@string{ OpticEng =	"Optical Engineering"}
+@string{ Optica =	"Optica Acta"}
+@string{ PattRec =	"Pattern Recognition"}
+@string{ PattRecLet =	PattRec # " Letters"}
+@string{ SignProc =	"Signal Processing"}
+@string{ SignProcIC =	SignProc # ": Image Communication"}
+@string{ VisiRes =	"Vision Research"}
+%
+%		Bio stuff
+%
+@string{ CanJPhysPharm = "Canadian " # Jour # "Physiology and
+		 	  Pharmacology"}
+@string{ ExpCelBio =	"Experimental Cell Biology"}
+@string{ ExpCelRes =	"Experimental Cell Research"}
+@string{ JCelSci =	Jour # "Cell Science"}
+@string{ JCelBio =	Jour # "Cell Biology"}
+@string{ JHistoCyto =	Jour # "Histology and Cytology"}
+@string{ JMu =		Jour # "Microscopy"}
+@string{ JNeuro =	Jour # "Neurophysiology"}
+@string{ JPhysL =	Jour # "Physiology (London)"}
+@string{ JThBio =	Jour # "Theoretical Biology"}
+@string{ JThNeuroBio =	Jour # "Theoretical Neurobiology"}
+@string{ NeuralComp =	"Neural Computation"}
+%
+%		Psychology Stuff
+%
+@string{ PsyRev =	"Psychological Review"}
+@string{ JMathPsy =	Jour # "Mathematical Psychology"}
+%
+%		Math stuff
+%
+@string{ AMM =		"The American Mathematical Monthly"}
+@string{ AMS =		"American Mathematical Society"}
+@string{ AMSadr =	"Providence, RI, U.S.A."}
+@string{ BullAMS =	"Bulletin of the " # AMS}
+@string{ ComMathPhy =	"Communications in Mathematical Physics"}
+@string{ CPAM =		"Communications on Pure and Applied
+		 	 Mathematics"}
+@string{ IJNME =	"International Journal for Numerical Methods
+		 	 in Engineering"}
+@string{ JDiffGeo =	Jour # "Differential Geometry"}
+@string{ JMathMech =	Jour # "Mathematics and Mechanics"}
+@string{ LinAlgAppl =	"Linear Algebra and its Applications"}
+@string{ MAA =		"Mathematical Association of America"}
+@string{ MAAadr =	"Buffalo, U.S.A."}
+@string{ ProcAMS =	Proc # AMS}
+@string{ SIAM =		"Society for Industrial and Applied Mathematics"}
+@string{ JNumAnal =	"SIAM Journal of Numerical Analysis"}
+%
+%		A.I., Robots, Control
+%
+@string{ IJRobotRes =	"The " # IJour # " Robotics Research"}
+@string{ BioCyber =	"Biological Cybernetics"}
+@string{ InfCtrl =	"Information and Control"}
+@string{ MachInt =	"Machine Intelligence"}
+%
+%		Physics
+%
+@string{ CPhyComm =	"Computer Physics Communications"}
+@string{ JCompPhy =	Jour # "Computational Physics"}
+@string{ RevPhysAppl =	"Revue de Physique Appliqu\'ee"}
+%
+%		Other Societies
+%
+@string{ RSocB =	Proc # "Royal Society"}
+%
+%		Other Publishers
+%
+@string{ AddWes =	"Addison--Wesley"}
+@string{ AddWesAdr =	"Reading, MA, U.S.A."}
+@string{ ESPub =	"Elsevier Science Publishers B.V."}
+@string{ JB =		"Jones {\&} Bartlett"}
+@string{ JBadr =	"20 Park Plaza, Boston, MA 02116, U.S.A."}
+@string{ JWS =		"John Wiley \& Sons"}
+@string{ JWSadr =	NY}
+@string{ MacM =		"MacMillan"}
+@string{ MacMadr =	NY}
+@string{ McGH =		"McGraw--Hill"}
+@string{ McGHadr =	NY}
+@string{ NH =		"North--Holland"}
+@string{ NHadr =	"Amsterdam, The Netherlands"}
+@string{ Plenum =	"Plenum Press"}
+@string{ PH =		"Prentice--Hall"}
+@string{ PHadr =	"Englewood Cliffs, NJ, U.S.A."}
+@string{ PubPer =	"Publish or Perish"}
+@string{ PubPerAdr =	"Houston, TX, U.S.A."}
+@string{ Spring =	"Springer--Verlag"}
+@string{ SpringAdr =	"Berlin, Germany"}
+@string{ SpringGTM =	"Graduate Texts in Mathematics Series"}
+@string{ SpringUTM =	"Undergraduate Texts in Mathematics Series"}
+@string{ SpringLNCS =	"Lecture Notes in Computer Science Series"}
+@string{ SpringLNCSed =	"G. Goos and J. Hartmanis"}
+@string{ WHF =		"W. H. Freeman"}
+@string{ WHFadr =	"San Francisco, CA, U.S.A."}
+%
+%---------- CONFERENCES ---------------------------------------------
+%
+@string{ SCIA =		"Scandinavian Conference on Image Analysis"}
+@string{ ICIAP =	IntConf # "Image Analysis and Processing"}
+@string{ IJCAI =	"International Joint Conference on " # AI}
+@string{ CVPR =		"Computer Vision and Pattern Recognition"}
+@string{ ICPR =		IntConf # "Pattern Recognition"}
+@string{ ICCV =		IntConf # "Computer Vision"}
+@string{ ECCV =		"European Conference on Computer Vision"}
+%

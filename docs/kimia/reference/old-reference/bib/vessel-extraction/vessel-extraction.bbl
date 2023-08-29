@@ -1,0 +1,1479 @@
+\begin{thebibliography}{100}
+
+\bibitem{Aharinejad:etal:Scan-Microsc:1992}
+S.~Aharinejad, A.~Lametschwandtner, P.~Franz, and W.~Firbas.
+\newblock {The vascularization of the digestive tract studied by scanning
+  electron microscopy with special amphasis on the teeth, esophagus, stomach,
+  small and large intestine, pancreas, and liver}.
+\newblock {\em Scanning Microsc.}, 5(3):811--849, 1991.
+
+\bibitem{Aherinejad:etal:MRT:1993}
+S.~Aherinejad, I.~MacDonald, E.~Mackay, and A.~Mason-Savas.
+\newblock {New aspects of microvascular corrosion casting: A scanning,
+  transmission electron, and high-resolution intravital video microscopic
+  study}.
+\newblock {\em Microscopy Research and Technique}, 26(6):473--488, 1993.
+
+\bibitem{Allport:Weissleder:Exp-Hem:2001}
+J.~Allport and R.~Weissleder.
+\newblock {In vivo imaging of gene and cell therapies}.
+\newblock {\em Experimental Hematology}, 29:1237--1246, 2001.
+
+\bibitem{Alvarez:Macovski:PMB:1976}
+R.~E. Alvarez and A.~Macovski.
+\newblock {Energy-selective Reconstructions in X-ray Computerized Tomography}.
+\newblock {\em Physics in Medicine and Biology}, 21(5):733--744, 1976.
+
+\bibitem{Antiga:etal:Microvas-Res:2001}
+L.~Antiga, B.~Ene-Iordache, G.~Remuzzi, and A.~Remuzzi.
+\newblock {Automatic Generation of GLomerular Capillary Topological
+  Organization}.
+\newblock {\em Microvascular Research}, 62:346--354, 2001.
+
+\bibitem{Armande:etal:SCIA:1995}
+N.~Armande, O.~Monga, and P.~Montesinos.
+\newblock Extraction of thin nets in grey-level images.
+\newblock In {\em 9th Scandinavian Conference on Image Analysis}, 1995.
+
+\bibitem{Armande:etal:IPMI:1995}
+N.~Armande, O.~Monga, and P.~Montesinos.
+\newblock {Thin nets extraction in medical images}.
+\newblock In Y.~Bizais, editor, {\em Proc. Int. Conf. on Information Processing
+  and Medical Imaging}, Lecture Notes in Computer Science, pages 383--384.
+  Springer-Verlag, 1995.
+
+\bibitem{Armande:etal:CVIU:1999}
+N.~Armande, P.~Montesinos, O.~Monga, and G.~Vaysseix.
+\newblock {Thin Nets Extraction Using a Multi-scale Approach}.
+\newblock {\em Computer Vision and Image Understanding}, 73(2):248--257,
+  February 1999.
+
+\bibitem{Artacho-Perula:etal:AJA:1999}
+E.~Artacho-Perula, R.~Roldan-Villalobos, and L.~M. Cruz-Orive.
+\newblock {Application of the fractionator and vertical slices to estimate
+  total capillary length in skeletal muscle}.
+\newblock {\em American Journal of Anatomy}, 195:429--437, 1999.
+
+\bibitem{Ayache:etal:MMMI:1993}
+N.~Ayache, A.~Gueziec, J.~Thirion, A.~Gourdon, and J.~Knoplioch.
+\newblock {Evaluating 3D registration of CT-scan images using crest lines}.
+\newblock {\em Mathematical Methods in Medical Imaging}, 2035:60--71, 1993.
+
+\bibitem{Aylward:etal:MMBIA:1996}
+S.~Aylward, E.~Bullitt, S.~Pizer, and D.~Eberly.
+\newblock {Intensity Ridge and Widths for Tubular Object Segmentation and
+  Description}.
+\newblock In {\em IEEE Workshop on Mathematical Methods in Biomedical Image
+  Analysis}, pages 131--138, 1996.
+
+\bibitem{Aylward:Bullitt:IEEE-TMI:2002}
+S.~R. Aylward and E.~Bullitt.
+\newblock {Initialization, Noise, Singularities, and Scale in Height Ridge
+  Traversal for Tubular Object Centerline Extraction}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 21(2):61--75, February
+  2002.
+
+\bibitem{Aylward:etal:IJCV:2003}
+S.~R. Aylward, J.~Jomier, S.~Weeks, and E.~Bullitt.
+\newblock {Registraton and Analysis of Vascular Images}.
+\newblock {\em International Journal of Computer Vision}, 55(2/3):123--138,
+  2003.
+
+\bibitem{Aylward:etal:MICCAI:2001}
+S.~R. Aylward, S.~weeks, and E.~Bullitt.
+\newblock {Analysis of the Parameter Space of a Metric for Registering 3D
+  Vascular Images}.
+\newblock In {\em Medical Image Computing and Computer-Assisted Intervention},
+  volume 2208 of {\em Lecture Notes in Computer Science}, pages 932--939.
+  Springer-Verlag, 2001.
+
+\bibitem{Barbareschi:etal:BCRT:1995}
+M.~Barbareschi, G.~Gasparini, L.~Morelli, S.~Forti, and D.~Palma.
+\newblock {Novel methods for the determination of the angioge}.
+\newblock {\em Breast Cancer Research and Treatment}, 36(2):181--192, 1995.
+
+\bibitem{Bartling:etal:JCAT:2005}
+S.~Bartling, V.~Shukla, H.~Becker, T.~Brady, A.~Hayman, and R.~Gupta.
+\newblock {High-Resolution Flat-Panel Volume-CT of Temporal Bone-Part1}.
+\newblock {\em Journal of Computer Assisted Tomography}, 29:420--423, 2005.
+
+\bibitem{Bays:etal:SPIE:1995}
+R.~Bays, G.~Wagnieres, D.~Robert, J.~Mizeret, D.~Braichotte, J.-F. Savary,
+  P.~Monnier, and H.~van~den Bergh.
+\newblock {Clinical measurements of tissue optical properties in the esophagus
+  and in the oral cavity}.
+\newblock In {\em 5th International Photodynamic Association Biennial Meeting},
+  volume 2371 of {\em Proceedings of SPIE}, pages 388--395, March 1995.
+
+\bibitem{Bays:etal:SPIE:1991}
+R.~Bays, L.~Winterhalter, H.~Funakubo, P.~Monnier, M.~Savary, G.~Wagnieres,
+  D.~Braichotte, A.~Chatelain, H.~van~den Bergh, L.~Svaasand, and
+  C.~Burckhardt.
+\newblock {Clinical optical dose measurement for PDT: Invasive and non-invasive
+  techniques}.
+\newblock In {\em Future Trends in Biomedical Applications of Lasers}, volume
+  1525 of {\em Proceedings of SPIE}, pages 397--408, 1991.
+
+\bibitem{Bennett:etal:AMJHPCP:2000}
+S.~Bennett, M.~Eldridge, D.~Zaghi, S.~Zaghi, J.~Milstein, and B.~Goetzman.
+\newblock {Form and function of fetal and neonatal pulmonary arterial
+  bifurcations}.
+\newblock {\em Am J Physiol Heart Circ Physiol}, 279:3047--3057, 2000.
+
+\bibitem{Benoy:etal:BCR:2005}
+I.~Benoy, R.~Salgado, H.~Elst, P.~Dam, J.~Weyler, E.~Marck, S.~Scharpe,
+  P.~Vermeulen, and L.~Dirix.
+\newblock {Relative microvessel area of the primary tumour, and not lymph node
+  status, predicts the presence of bone marrow micrometastases detected by
+  reverse transcriptase polymerase chain reaction in patients with clinically
+  non-metatatic breast cancer}.
+\newblock {\em Breast Cancer Research}, 7:R210--R219, 2005.
+
+\bibitem{Bentley:etal:Kidney-Inter:2002}
+M.~Bentley, M.~Rodriguez-Porcel, A.~Lerman, M.~Sarafov, J.~Romero, L.~Pelaez,
+  J.~Grande, E.~Ritman, and L.~Lerman.
+\newblock {Enhanced renal cortical vAascularization in experimental
+  hypercholesterolemia}.
+\newblock {\em Kidney International}, 61:1056--1063, 2002.
+
+\bibitem{Boone:Seibert:Med-Phys:1997}
+J.~Boone and J.~Seibert.
+\newblock {An accurate method for computer-generating tungsten anode x-ray
+  spectra from 30 to 140kV}.
+\newblock {\em Medical Physics}, 24:1661--1670, 1997.
+
+\bibitem{Boone:etal:Mol-Img:2004}
+J.~M. Boone, O.~Velazquez, and S.~R. Cherry.
+\newblock {Small-Animal X-ray Dose from Micro-CT}.
+\newblock {\em Molecular Imaging}, 3(3):149--158, 2004.
+
+\bibitem{Brooks:Chiro:PMB:1976}
+R.~A. Brooks and G.~D. Chiro.
+\newblock {Beam Hardening in X-ray Reconstructive Tomography}.
+\newblock {\em Phys. Med. Biol.}, 21:390--398, 1976.
+
+\bibitem{Bullitt:etal:IPMI:1999}
+E.~Bullitt, S.~Aylward, A.~Liu, J.~Stone, S.~Mukherji, C.~Coffey, G.~Gerig, and
+  S.~Pizer.
+\newblock {3D Graph Description of the Intracerebral Vasculature from Segmented
+  MRA and Tests of Accuracy by Comparison with X-ray Angiograms}.
+\newblock In {\em Proc. Int. Conf. on Information Processing and Medical
+  Imaging}, volume 1613 of {\em Lecture Notes in Computer Science}, pages
+  308--321. Springer-Verlag, 1999.
+
+\bibitem{Bullitt:etal:MIA:2001}
+E.~Bullitt, S.~Aylward, K.~Smith, S.~Mukherji, M.~Jiroutek, and K.~Muller.
+\newblock {Symbolic description of intracerebral vessels segmented from
+  magnetic resonance angiograms and evaluation by comparison with X-ray
+  angiograms}.
+\newblock {\em Medical Image Analysis}, 5:157--169, 2001.
+
+\bibitem{Bullitt:Aylward:AIPR:2001}
+E.~Bullitt and S.~R. Aylward.
+\newblock {Analysis of Time-Varying Images Using 3D Vascular Models}.
+\newblock In {\em Proc. Applied Imagery Pattern Recognition}, pages 9--14,
+  2001.
+
+\bibitem{Bullitt:etal:Acad-Radiol:1999}
+E.~Bullitt, A.~Liu, S.~Aylward, C.~Coffey, J.~Stone, S.~Mukherji, K.~Muller,
+  and S.~Pizer.
+\newblock {Registration of 3D cerebral vessels with 2D digital angiograms:
+  clinical evaluation}.
+\newblock {\em Journal of Biomechanical Engineering}, 6(9):539--546, September
+  1999.
+
+\bibitem{Bullitt:etal:AJNR:1997}
+E.~Bullitt, A.~Liu, S.~Aylward, M.~Soltys, J.~Rosenman, and S.~Pizer.
+\newblock {Methods for displaying intracerebral vascular anatomy}.
+\newblock {\em Am J Neuroradiol.}, 18(3):417--420, March 1997.
+
+\bibitem{Bullitt:etal:IPMI:1997}
+E.~Bullitt, A.~Liu, S.~Aylward, M.~Soltys, J.~Rosenman, and S.~Pizer.
+\newblock Reconstruction of the intracerebral vasculature from mra and a pair
+  of projection views.
+\newblock In {\em Int'l Conf. Information Processing in Medical Imaging
+  (IPMI'97)}, pages 537--542, 1997.
+
+\bibitem{Bullitt:etal:Med-Phys:1997a}
+E.~Bullitt, A.~Liu, and S.~Pizer.
+\newblock {Three-dimensional reconstruction of curves from pairs of projection
+  views in the presence of error. I. Algorithms}.
+\newblock {\em Medical Physics}, 24(11):1671--1678, 1997.
+
+\bibitem{Bullitt:etal:Med-Phys:1997b}
+E.~Bullitt, A.~Liu, and S.~Pizer.
+\newblock {Three-dimensional reconstruction of curves from pairs of projection
+  views in the presence of error. II. Analysis of error}.
+\newblock {\em Medical Physics}, 24:1679--1686, 1997.
+
+\bibitem{Cavanaugh:etal:Mol-Img:2004}
+D.~Cavanaugh, E.~Johnson, R.~Price, J.~Kurie, E.~Travis, and D.~Cody.
+\newblock {In Vivo Respiratory-Gated Micro-CT Imaging in Small-Animal Oncology
+  Models}.
+\newblock {\em Molecular Imaging}, 3(1):55--62, 2004.
+
+\bibitem{Chantrain:etal:JHC:2003}
+C.~Chantrain, Y.~DeClerck, S.~Groshen, and G.~McNamara.
+\newblock {Computerized Quantification of Tissue Vascularization Using
+  High-resolution Slide Scanning of Whole Tumor Sections}.
+\newblock {\em The Journal of Histochemistry and Cytochemistry},
+  51(2):151--158, 2003.
+
+\bibitem{Chatterjee:etal:JAPS:1995}
+G.~Chatterjee, I.~Cabasso, and J.~Smid.
+\newblock {Radiopaque epoxy resins}.
+\newblock {\em Journal of Applied Polymer Science}, 55(6):851--856, 1995.
+
+\bibitem{Chen:Amini:IEEE-TMI:2004}
+J.~Chen and A.~A. Amini.
+\newblock {Quantifying 3-D Vascular Structures in MRA Images Using Hybrid PDE
+  and Geometric Deformable Models}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 23(10):1251--1262, 2004.
+
+\bibitem{Chen:etal:PAMI:2000}
+J.~Chen, Y.~Sato, and S.~Tamura.
+\newblock {Orientation Space Filtering for Multiple Orientation Line
+  Segmentation}.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  22(5):417--429, May 2000.
+
+\bibitem{Cherry:etal:IEEE-TNS:1986}
+S.~Cherry, Y.~Shao, S.~Siegel, R.~Silverman, K.~Meadors, J.~Young, W.~Jones,
+  D.~NEwport, C.~Moyers, E.~Mumucuoglu, A.~Chatziioannou, T.~Farquhar,
+  M.~Andreaco, M.~Paulus, D.~Binkley, R.~Nutt, and M.~Phelps.
+\newblock {MicroPET: A High Resolution PET Scanner for Imaging Small Animals}.
+\newblock {\em IEEE Trans Nucl Sci}, 44:1161--1166, 1997.
+
+\bibitem{Conchello:SPIE:1994}
+J.-A. Conchello.
+\newblock {Superresolution and point spread function sensitivity analysis of
+  the expectation-maximization algorithm for computational optical sectioning
+  microscopy}.
+\newblock In {\em Image Reconstruction and Restoration}, volume 2302 of {\em
+  Proceedings of SPIE}, pages 369--378, 1994.
+
+\bibitem{Conchello:etal:Appl-Opt:1994}
+J.-A. Conchello, J.~Kim, and E.~Hansen.
+\newblock {Enhanced 3-D reconstruction from confocal scanning microscope
+  images. II. Depth discrimination vs. signal-to-noise ratio in partially
+  confocal images}.
+\newblock {\em Appl. Opt.}, 33:3740--3750, 1994.
+
+\bibitem{Conchello:Lichtman:Appl-Opt:1994}
+J.-A. Conchello and J.~Lichtman.
+\newblock {Theoretical analysis of a rotating-disk partially confocal scanning
+  microscope}.
+\newblock {\em Appl. Opt.}, 33:585--596, 1994.
+
+\bibitem{Cumming:etal:PCIS:1969}
+G.~Cumming, R.~Henderson, K.~Horsfield, and S.~S. Singhal.
+\newblock {The Functional Morphology of the Pulmonary Circulation}.
+\newblock {\em The Pulmonary Circulation and Interstitial Space}, pages
+  327--340, 1969.
+
+\bibitem{Davy:etal:Poly-Inter:1997}
+K.~Davy, M.~Anseau, M.~Odlyha, and G.~Foster.
+\newblock {X-Ray Opaque Methacrylate Polymers for Biomedical Applications}.
+\newblock {\em Polymer International}, 43:143--154, 1997.
+
+\bibitem{Davy:Causton:JoD:1982}
+K.~Davy and B.~Causton.
+\newblock {Radio-opaque denture base; a new acrylic co-polyme}.
+\newblock {\em Journal of Dentistry}, 10(3):254--264, 1982.
+
+\bibitem{Dawson:etal:JAP:1999}
+C.~Dawson, G.~Krenz, K.~Karau, S.~Haworth, C.~Hanger, and J.~Linehan.
+\newblock {Structure-function relationships in the pulmonary arterial tree}.
+\newblock {\em Journal of Applied Physiology}, 86:569--583, 1999.
+
+\bibitem{VanDeCasteele:PMB:2002}
+E.~V. de~Casteele, D.~V. Dyck, J.~Sijbers, and E.~Raman.
+\newblock {An energy-based beam hardening model in tomography}.
+\newblock {\em Phys. Med. Biol.}, 47:4181--4190, 2002.
+
+\bibitem{VanDeCasteele:etal:J-XRay-Sci-Technol:2004}
+E.~V. de~Casteele, D.~V. Dyck, J.~Sijbers, and E.~Raman.
+\newblock {A model-based correction method for beam hardening artefacts in
+  X-ray microtomography}.
+\newblock {\em Journal of X-Ray Science and Technology}, 12:43--57, 2004.
+
+\bibitem{Delaviz:etal:JAPS:1990}
+Y.~Delaviz, Z.-X. Zhang, I.~Cabasso, and J.~Smid.
+\newblock {Homogeneous Radiopaque Polymers with Organobismuth Compounds}.
+\newblock {\em Journal of Applied Polymer Science}, 40:835--843, 1990.
+
+\bibitem{Deriche:ICIP:1992}
+R.~Deriche.
+\newblock {Recursively implementing the Gaussian and its derivatives}.
+\newblock In {\em ICIP92 Proceedings of the 2nd Singapore International
+  Conference on Image Processing, Singapore}, pages 263--267, September 1992.
+
+\bibitem{Eberly:etal:JMIV:1994}
+D.~Eberly, R.~Gardner, B.~Morse, S.~Pizer, and C.~Scharlach.
+\newblock {Ridges for Image Analysis}.
+\newblock {\em Journal of Mathematical Imaging and Vision}, 4:351--371, 1994.
+
+\bibitem{Eccles:Callaghan:JMR:1986}
+C.~Eccles and P.~Callaghan.
+\newblock {High-Resolution Imaging. The NMR Microscope}.
+\newblock {\em Journal of Magnetic Resonance}, 68:393--398, 1986.
+
+\bibitem{Eiho:Qian:CIC:1997}
+S.~Eiho and Y.~Qian.
+\newblock {Detection of Coronary Artery Tree Using Morphological Operator}.
+\newblock {\em IEEE Computers in Cardiology}, 24:525--528, 1997.
+
+\bibitem{Schafer:Bowles:AECT:1985}
+J.~E.W.~Schafer and J.~W.A.~Bowles.
+\newblock {Acute Oral Toxicity and Repellency of 933 Chemicals to House and
+  Deer Mice}.
+\newblock {\em Arch. Environ. Contam. Toxicol.}, 14(1):111--129, 1985.
+
+\bibitem{Faulkner:Moores:PMB:1984}
+K.~Faulkner and B.~Moores.
+\newblock {Noise and contrast detection in computed tomography images}.
+\newblock {\em Physics in Medicine and Biology}, 29(4):329--339, 1984.
+
+\bibitem{Fessler:Booth:IEEE-TIP:1999}
+J.~A. Fessler and S.~D. Booth.
+\newblock {Conjugate-Gradient Preconditioning Methods for Shift-Variant PET
+  Image Reconstruction}.
+\newblock {\em IEEE Transactions on Image Processing}, 8(5):688--699, 1999.
+
+\bibitem{Fessler:etal:IEEE-TMI:1997}
+J.~A. Fessler, E.~P. Ficaro, N.~H. Clinthorne, and K.~Lange.
+\newblock {Grouped-Coordinate Ascent Algorithms for Penalized-Likelihood
+  Transmission Image Reconstruction}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 16(2):166--175, 1997.
+
+\bibitem{Fink:etal:JMRI:2003}
+C.~Fink, F.~Kiessling, M.~Bock, M.~Lichy, B.~Misselwitz, P.~Peschke,
+  N.~Fusenig, R.~Grobholz, and S.~Delorme.
+\newblock {High-Resolution Three-Dimensional MR Angiography of Rodent Tumors:
+  Morphologic Characterization of Intratumoral Vasculature}.
+\newblock {\em Journal of Magnetic Resonance Imaging}, 18:59--65, 2003.
+
+\bibitem{Flannery:etal:Science:1987}
+B.~Flannery, H.~Deckman, W.~Roberge, and K.~D'Amico.
+\newblock {Three-Dimensional X-Ray Microtomography}.
+\newblock {\em Science}, 237(4821):1439--1444, 1987.
+
+\bibitem{Flannery:Roberge:JAP:1987}
+B.~Flannery and W.~Roberge.
+\newblock {Observational strategies for three-dimensional synchrotron
+  microtomography}.
+\newblock {\em Journal of Applied Physiology}, 62:4668--4674, 1987.
+
+\bibitem{Flynn:etal:SPIE:1994}
+M.~J. Flynn, D.~A. Reimann, and S.~M. Hames.
+\newblock {Measurement of noise and resolution in x-ray computed
+  microtomograms}.
+\newblock In {\em Medical Imaging 1994: Physics of Medical Imaging}, volume
+  2163 of {\em Proceedings of SPIE}, pages 192--198, May 1994.
+
+\bibitem{Ford:etal:Med-Phys:2003}
+N.~Ford, M.~Thornton, and D.~Holdsworth.
+\newblock {Fundamental image quality limits for microcomputed tomography in
+  small animals}.
+\newblock {\em Medical Physics}, 30(11):2869--2877, 2003.
+
+\bibitem{Fouard:etal:ISBI:2004}
+C.~Fouard, G.~Malandian, S.~Prohaska, M.~Westerhoff, F.~Cassot, J.-P.
+  Marc-Vergnes, C.~Mazel, and D.~Asselot.
+\newblock {Skeletonization by blocks for large 3D datasets: Application to
+  brain microcirculation}.
+\newblock In {\em 2nd. IEEE International Symposium on Biomedical Imaging},
+  pages 89--92, 2004.
+
+\bibitem{Fox:etal:JNCI:2000}
+S.~Fox, K.~Gatter, R.~Leek, A.~Harris, K.~Chew, B.~Mayall, and D.~Moore.
+\newblock {More About: Tumor Angiogenesis as a Prognostoc Assay for Invasive
+  Ductal Breast Carcinoma}.
+\newblock {\em Journal of National Cancer Institute}, 92(2):161--162, 2000.
+
+\bibitem{Frangi:etal:MICCAI:1998}
+A.~Frangi, W.~Niessen, K.~Vincken, and M.~Viergever.
+\newblock {Multiscale vessel enhancement filtering}.
+\newblock In {\em Medical Image Computing and Computer-Assisted Intervention},
+  volume 1496 of {\em Lecture Notes in Computer Science}, pages 130--137.
+  Springer-Verlag, 1998.
+
+\bibitem{Frey:etal:RPN:2004}
+U.~Frey, A.~Hislop, and M.~Silverman.
+\newblock {Branching properties of the pulmonary arterial tree during pre- and
+  postnatal development}.
+\newblock {\em Respiratory Physiology and Neurobiology}, 139:179--189, 2004.
+
+\bibitem{Gan:etal:JAP:1993}
+R.~Gan, Y.~Tian, R.~Yen, and G.~Kassab.
+\newblock {Morphometry of the dog pulmonary venous tree}.
+\newblock {\em Journal of Applied Physiology}, 75(1):432--440, 1993.
+
+\bibitem{Garcia-Sanz:etal:Hypertension:1998}
+A.~Garcia-Sanz, A.~Rodriguez-Barbero, M.~Bentley, E.~Ritman, and J.~Romero.
+\newblock {Three-Dimensional Microcomputed Tomography of Renal Vasculature in
+  Rats}.
+\newblock {\em Hypertension}, 31:440--444, 1998.
+
+\bibitem{Gee:etal:AJP:2003}
+M.~Gee, W.~Procopio, S.~Makonnen, M.~Feldman, N.~Yeilding, and W.~Lee.
+\newblock {Tumor Vessel Development and Maturation Impose Limits on the
+  Effectiveness of Anti-Vascular Therapy}.
+\newblock {\em American Journal of Pathology}, 162(1):183--193, 2003.
+
+\bibitem{VanGeet:etal:Sedimentary-Geo:2000}
+M.~V. Geet, R.~Swennen, and M.~Wevers.
+\newblock {Quantitative analysis of reservoir rocks by microfocus X-ray
+  computerised tomography}.
+\newblock {\em Sedimentary Geology}, 132:25--36, 2000.
+
+\bibitem{Gerward:Radiat-Phys-Chem:1993}
+L.~Gerward.
+\newblock {X-Ray Attenuation Coefficients: Current State of Knowledge and
+  Availability}.
+\newblock {\em Radiat. Phys. Chem.}, 41:783--789, 1993.
+
+\bibitem{Gibson:Lanni:JOSAA:1989}
+S.~Gibson and F.~Lanni.
+\newblock {Diffraction by a circular aperture as a model for three-dimensional
+  optical microscopy}.
+\newblock {\em J. Opt. Soc. Am. A}, 6(9):1357--1367, 1989.
+
+\bibitem{Giersch:etal:NIMPR-A:2004}
+J.~Giersch, D.~Niederlohner, and G.~Anton.
+\newblock {The influence of energy weighting on X-ray imaging quality}.
+\newblock {\em Nuclear Instruments and MEthods in Physics Research A},
+  531:68--74, 2004.
+
+\bibitem{Giraudon:Deriche:CVPR:1991}
+G.~Giraudon and R.~Deriche.
+\newblock {On Corner and Vertex Detection}.
+\newblock In {\em Conference on Computer Vision and Pattern Recognition, Maui,
+  HI}, pages 650--655, June 1991.
+
+\bibitem{Gleason:etal:ITNS:1999}
+S.~Gleason, H.~Sari-Sarraf, M.~Paulus, D.~Johnson, S.~Norton, and M.~Abidi.
+\newblock {Reconstruction of Multi-Energy X-Ray Computed Tomography Images of
+  Laboratory Mice}.
+\newblock {\em IEEE Transactions on Nuclear Science}, 46(4):1081--1086, 1999.
+
+\bibitem{Greschus:etal:Neoplasia:2005}
+S.~Greschus, F.~Kiessling, M.~Lichy, J.~Moll, M.~Mueller, R.~Savai, F.~Rose,
+  C.~R. abd A.~Gunther, M.~Luecke, N.~Fusenig, W.~Semmler, and H.~Traupe.
+\newblock {Potential Applications of Flat-Panel Volumetric CT in Morphologic
+  and Functional Small Animal Imaging}.
+\newblock {\em Neoplasia}, 7(8):730--740, 2005.
+
+\bibitem{Gueziec:Ayache:IJCV:1994}
+A.~Gueziec and N.~Ayache.
+\newblock {Smoothing and Matching of 3-D Space Curves}.
+\newblock {\em International Journal of Computer Vision}, 12(1):79--104, 1994.
+
+\bibitem{Gueziec:etal:CSE:1997}
+A.~Gueziec, X.~Pennec, and N.~Ayache.
+\newblock {Medical Image Registration Using Geometric Hashing}.
+\newblock {\em IEEE Computational Science and Engineering, special issue on
+  Geometric Hashing}, 4:29--41, 1997.
+
+\bibitem{Guo:Richardson:CIC:1998}
+D.~Guo and P.~Richardson.
+\newblock {Automatic Vessel Extraction from Angiogram Images}.
+\newblock {\em IEEE Computers in Cardiology}, 25:441--444, 1998.
+
+\bibitem{Haddad:etal:Science:1994}
+W.~Haddad, I.~McNulty, J.~Trebes, E.~Anderson, R.~Levesque, and L.~Yang.
+\newblock {Ultrahigh-Resolution X-ray Tomography}.
+\newblock {\em Science}, 266(5188):1213--1215, 1994.
+
+\bibitem{Haddad:Trebes:SPIE:1997}
+W.~S. Haddad and J.~E. Trebes.
+\newblock {Developments in limited data image reconstruction techniques for
+  ultrahigh-resolution x-ray tomographic imaging of microchips}.
+\newblock volume 3149 of {\em Proceedings of SPIE}, pages 222--231, 1997.
+
+\bibitem{Hainfeld:etal:PMB:2004}
+J.~Hainfeld, D.~Slatkin, and H.~Smilowitz.
+\newblock {The use of gold nanoparticles to enhance radiotherapy in mice}.
+\newblock {\em Physics in Medicine and Biology}, 49:309--315, 2004.
+
+\bibitem{Hammersberg:Mangard:J-XRay-Sci-Technol:1998}
+P.~Hammersberg and M.~Mangard.
+\newblock {Correction for beam hardening artefacts in computerised tomography}.
+\newblock {\em Journal of X-Ray Science and Technology}, 8:75--93, 1998.
+
+\bibitem{Hammersberg:etal:J-XRay-Sci-Technol:1998b}
+P.~Hammersberg, M.~Stenstrom, H.~Hedtjarn, and M.~Mangard.
+\newblock {Image noise in X-ray imaging caused by radiation scattering and
+  source leakage, a qualitative and quantitative analysis}.
+\newblock {\em Journal of X-Ray Science and Technology}, 8:19--29, 1998.
+
+\bibitem{Hammersberg:etal:J-XRay-Sci-Technol:1998a}
+P.~Hammersberg, M.~Stenstrom, H.~Hedtjarn, and M.~Mangard.
+\newblock {Measurements of absolute energy spectra for an industrial micro
+  focal X-ray source under working conditions using a Compton scattering
+  spectrometer}.
+\newblock {\em Journal of X-Ray Science and Technology}, 8:5--18, 1998.
+
+\bibitem{Hansen:etal:CCR:2000}
+S.~Hansen, D.~Grabau, F.~Sorensen, M.~Bak, W.~Vach, and C.~Rose.
+\newblock {The Prognostic Value of Angiogenesis by Chalkley Counting in a
+  Conformatory Study Design on 836 Breast Cancer Patients}.
+\newblock {\em Clinical Cancer Research}, 6:139--146, 2000.
+
+\bibitem{Hart:etal:AMIA:1997}
+W.~Hart, M.~Goldbaum, B.~Kote, P.~Kube, and M.~Nelson.
+\newblock {Automated measurement of retinal vascular tortuosity}.
+\newblock In {\em Proc. AMIA Fall Conference}, 1997.
+
+\bibitem{Hasan:etal:BJC:2002}
+J.~Hasan, R.~Byers, and G.~Jayson.
+\newblock {Intra-tumoural microvessel density in human solid tumours}.
+\newblock {\em British Journal of Cancer}, 86:1566--1577, 2002.
+
+\bibitem{Herman:PMB:1979}
+G.~T. Herman.
+\newblock {Correction of Beam Hardening in Computed Tomography}.
+\newblock {\em Phys. Med. Biol.}, 24(1):81--106, 1979.
+
+\bibitem{Herman:Naparstek:SIAM-JAM:1977}
+G.~T. Herman and A.~Naparstek.
+\newblock {Fast Image Reconstruction Based on a Radon Inversion Formula
+  Appropriate for Rapidly Collected Data}.
+\newblock {\em SIAM Journal on Applied Mathematics}, 33(3):511--533, 1977.
+
+\bibitem{Higgins:etal:EMBC:1989}
+W.~Higgins, W.~Spyra, and E.~Ritman.
+\newblock {Automatic extraction of the Arterial Tree from 3-D Angiograms}.
+\newblock In {\em IEEE Conf. Eng. in Medicine and Bio.}, volume~2, pages
+  563--564, 1989.
+
+\bibitem{Higgins:etal:IEEE-TMI:1996}
+W.~E. Higgins, W.~J. Spyra, R.~A. Karwoski, and E.~L. Ritman.
+\newblock {System for Anlyzing High-Resolution Three-Dimensional Coronary
+  Angiograms}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 15(3):377--385, 1996.
+
+\bibitem{Hillman:etal:IR:1982}
+B.~Hillman, S.~Lee, P.~Tracey, W.~Swindell, and D.~Long.
+\newblock {CT determination of renal and hepatic microvasculature in
+  experimental acute renal failure}.
+\newblock {\em Investigative Radiology}, 17:41--45, 1982.
+
+\bibitem{Holdsworth:etal:Med-Phys:1993}
+D.~Holdsworth, M.~Drangova, and A.~Fenster.
+\newblock {A high-resolution XRII-based quantitative volume CT scanner}.
+\newblock {\em Medical Physics}, 20(2):449--462, 1993.
+
+\bibitem{Hoover:etal:IEEE-TMI:2000}
+A.~Hoover, V.~Kouznetsova, and M.~Goldbaum.
+\newblock {Locating Blood Vessels in Retinal Images by Piecewise Threshold
+  Probing of a Matched Filter Response}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 19(3):203--210, March
+  2000.
+
+\bibitem{Horsfield:Circ-Res:1978}
+K.~Horsfield.
+\newblock {Morphometry of the small pulmonary arteries in man}.
+\newblock {\em Circulation Research}, 42:593--597, 1978.
+
+\bibitem{Horsfield:Cumming:JAP:1968}
+K.~Horsfield and G.~Cumming.
+\newblock {Morphology of the bronchial tree in man}.
+\newblock {\em Journal of Applied Physiology}, 24(3):373--383, March 1968.
+
+\bibitem{Horsfield:Gordon:Lung:1981}
+K.~Horsfield and W.~Gordon.
+\newblock {Morphometry of Pulmonary Veins in Man}.
+\newblock {\em Lung}, 159:211--218, 1981.
+
+\bibitem{Hsieh:Med-Phys:1998}
+J.~Hsieh.
+\newblock {Adaptive streak artifact reduction in computed tomography resulting
+  from excessive x-ray photon noise}.
+\newblock {\em Medical Physics}, 25(11):2139--2147, 1998.
+
+\bibitem{Hubbell:PMB:1999}
+J.~Hubbell.
+\newblock {Reviwe of photon interaction cross section data in the medical and
+  biological context}.
+\newblock {\em Phys. Med. Biol.}, 44:R1--R22, 1999.
+
+\bibitem{Ito:etal:PRS:1998}
+K.~Ito, E.~Tanaka, H.~Mori, H.~Nakazawa, and R.~Tanino.
+\newblock {A Microangiographic Technique Using Synchrotron Radiation to
+  Visualize Dermal Circulation in Vivo}.
+\newblock {\em Plastic and Reconstructive Surgery}, 102(4):1128--1133, 1998.
+
+\bibitem{Jakubek:etal:NIMPR-A:2004}
+J.~Jakubek, T.~Holy, S.~Pospisil, and D.~Vavrik.
+\newblock {Tomography for XRDD}.
+\newblock {\em Nuclear Instruments and MEthods in Physics Research A},
+  531:307--313, 2004.
+
+\bibitem{Jakubek:etal:NIMPR-A:2003}
+J.~Jakubek, S.~Pospisil, D.~Vavrik, and J.~Visschers.
+\newblock {Resolution and stability tests of a Medipix-1 pixel detector for
+  X-ray dynamic defectoscopy}.
+\newblock {\em Nuclear Instruments and MEthods in Physics Research A},
+  509:294--301, 2003.
+
+\bibitem{Jakubek:etal:NIMPR-A:2005}
+J.~Jakubek, D.~Vavrik, S.~Pospisil, and J.~Uher.
+\newblock {Quality of X-ray transmission radiography based on single photon
+  counting pixel device}.
+\newblock {\em Nuclear Instruments and MEthods in Physics Research A},
+  546:113--117, 2005.
+
+\bibitem{Jennings:Med-Phys:1988}
+R.~J. Jennings.
+\newblock {A method for comparing beam-hardening filter materials for
+  diagnostic radiology}.
+\newblock {\em Medical Physics}, 15(4):588--599, 1988.
+
+\bibitem{Jiang:etal:JAP:1994}
+Z.~Jiang, G.~Kassab, and Y.~Fung.
+\newblock {Diameter-defined Strahler system and connectivity matrix of the
+  pulmonary arterial tree}.
+\newblock {\em Journal of Applied Physiology}, 76:882--892, 1994.
+
+\bibitem{Jin:etal:Virchows-Archiv:1995}
+Y.~Jin, G.~Tipoe, F.~White, and L.~Yang.
+\newblock {A quantitative investigation of immunocytochemically stained blood
+  vessels in normal, benign, premalignant and malignant human oral cheek
+  epithelium}.
+\newblock {\em Virchows Arch}, 427:145--151, 1995.
+
+\bibitem{Johnson:etal:JMR:1986}
+G.~Johnson, M.~Thompson, S.~Gewalt, and C.~Hayes.
+\newblock {Nuclear Magnetic Resonance Imaging at Microscopic Resolution}.
+\newblock {\em Journal of Magnetic Resonance}, 68:129--137, 1986.
+
+\bibitem{Johnson:etal:PMB:1998}
+R.~Johnson, H.~Hu, S.~Haworth, P.~Cho, C.~Dawson, and J.~Linehan.
+\newblock {Feldkamp and circle-and-line cone-beam reconstruction for 3D
+  micro-CT of vascular networks}.
+\newblock {\em Phys. Med. Biol.}, 43:929--940, 1998.
+
+\bibitem{Judy:etal:AAPM:1977}
+P.~Judy, S.~Balter, D.~Bassano, E.~McCullough, J.~Payne, and L.~Rothenberg.
+\newblock Phantoms for performance evaluation and quality assurance of ct
+  scanners.
+\newblock Technical Report~1, American Association of Physicists in Medicine,
+  1977.
+
+\bibitem{Kaczmarek:Becker:AQCH:1997}
+E.~Kaczmarek and J.~R.L.~Becker.
+\newblock {Three-dimensional modeling of renal glomerular capillary networks}.
+\newblock {\em Analytical and Quantitative Cytology and Histology},
+  19(2):93--101, April 1997.
+
+\bibitem{Karau:etal:AMJHPCP:2001}
+K.~Karau, R.~Johnson, R.~Molthen, A.~Dhyani, S.~Haworth, C.~Hanger, D.~Roerig,
+  and C.~Dawson.
+\newblock {Microfocal X-ray CT imaging and pulmonary arterial distensibility in
+  excised rat lungs}.
+\newblock {\em Am J Physiol Heart Circ Physiol}, 281:1447--1457, 2001.
+
+\bibitem{Karau:etal:AJP:2001}
+K.~Karau, R.~Molthen, A.~Dhyani, S.~Haworth, C.~Hanger, D.~L. Roerig,
+  R.~Johnson, and C.~Dawson.
+\newblock {Pulmonary arterial morphometry from microfocal X-ray computed
+  tomography}.
+\newblock {\em American Journal of Physiology}, 281:2747--2756, 2001.
+
+\bibitem{Kassab:etal:AMJHPCP:1993}
+G.~Kassab, C.~Rider, N.~Tang, and Y.~Fung.
+\newblock {Morphometry of pig coronary arterial trees}.
+\newblock {\em Am J Physiol Heart Circ Physiol}, 265:350--365, 1993.
+
+\bibitem{Kawata:etal:ICIP:1995}
+Y.~Kawata, N.~Niki, and T.~Kumazaki.
+\newblock {An Approach for Detecting Blood Vessel Diseases from Cone-Beam CT
+  Image}.
+\newblock In {\em IEEE International Conference on Image Processing}, volume~2,
+  pages 500--503, 1995.
+
+\bibitem{Kawata:etal:NSS-MIC:1995}
+Y.~Kawata, N.~Niki, and T.~Kumazaki.
+\newblock {Characteristics Measurement for Blood Vessels Diseases Detection
+  Based on Cone-Beam CT Images}.
+\newblock In {\em IEEE Nuclear Science Symposium and Medical Imaging
+  Conference}, volume~3, pages 1660--1664, 1995.
+
+\bibitem{Kay:etal:Prostate:1998}
+P.~A. Kay, R.~A. Robb, and D.~G. Bostwick.
+\newblock {Prostate Cancer Microvessels: A Novel Method for Three-Dimensional
+  Reconstruction and Analysis}.
+\newblock {\em The Prostate}, 37:270--277, 1998.
+
+\bibitem{Kerbel:Semin-Oncol:2004}
+R.~S. Kerbel.
+\newblock {Antiangiogenic Drugs and Current Strategies for the Treatment of
+  Lung Cancer}.
+\newblock {\em Seminars in Oncology}, 31(1):54--60, 2004.
+
+\bibitem{Ketcham:Carlson:Comp-Geosci:2001}
+R.~Ketcham and W.~Carlson.
+\newblock {Acquisition, optimization and interpretation of Xray computed
+  tomographic imagery: Applications to the geosciences}.
+\newblock {\em Computers and Geosciences}, 27:381--400, 2001.
+
+\bibitem{Khan:etal:Neoplasia:2002}
+M.~Khan, M.~Miller, J.~Taylor, N.~Gill, R.~Dick, K.~Golen, G.~Brewer, and
+  S.~Merajver.
+\newblock {Radiotherapy and Antiangiogenic TM in Lung Cancer}.
+\newblock {\em Neoplasia}, 4(2):164--170, 2002.
+
+\bibitem{Kiessling:etal:Nat-Med:2004}
+F.~Kiessling, S.~Greschus, M.~Lichy, M.~Bock, C.~Fink, S.~Vosseler, J.~Moll,
+  M.~Mueller, N.~Fusenig, H.~Traupe, and W.~Semmler.
+\newblock {Volumetric computed tomography (VCT): a new technology for
+  noninvasive, high-resolution monitoring of tumor angiogenesis}.
+\newblock {\em Nature Medicine}, 10:1133--1138, 2004.
+
+\bibitem{Kijewski:Judy:Med-Phys:1983}
+M.~Kijewski and P.~Judy.
+\newblock {The effects of miregistration of the projections}.
+\newblock {\em Medical Physics}, 10(2):169--175, 1983.
+
+\bibitem{Klein:etal:IEEE-TMI:1997}
+A.~K. Klein, F.~Lee, and A.~A. Amini.
+\newblock {Quantitative Coronary Angiography with Deformable Spline Models}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 16(5):468--482, October
+  1997.
+
+\bibitem{Kobayashi:etal:JMRI:2001}
+H.~Kobayashi, S.~Kawamoto, T.~Saga, N.~Sato, A.~Higara, J.~Konishi, K.~Togashi,
+  and M.~Brechbiel.
+\newblock {Micro-MR Angiography of Normal and Intratumoral Vessels in Mice
+  Using Dedicated Intravascular MR Contrast Agents With High Generation of
+  Polyamidoamine Dendrimer Core: Reference to Pharmacokinetic Properties of
+  Dendrimer-Based MR Contrast Agents}.
+\newblock {\em Journal of Magnetic Resonance Imaging}, 14:705--713, 2001.
+
+\bibitem{Kohlberger:etal:AJCP:1996}
+P.~Kohlberger, A.~Obermair, G.~Sliutz, H.~Heinzl, H.~Koelbl, G.~Breitenecker,
+  G.~Gitsch, and C.~Kainz.
+\newblock {Quantitative Immunohistochemistry of Factor VIII-Related Antigen in
+  Breast Carcinoma}.
+\newblock {\em American Journal of Clinical Pathology}, 105(6):705--710, 1996.
+
+\bibitem{Konerding:etal:Scan-Microsc:1995}
+M.~Konerding, A.~Miodonski, and A.~Lametschwandtner.
+\newblock {Microvascular corrosion casting in the study of tumor vascularity: a
+  review}.
+\newblock {\em Scanning Microsc.}, 9(4):1233--1243, 1995.
+
+\bibitem{Krissian:etal:BIA:1998}
+K.~Krissian, G.~Malandain, N.~Ayache, R.~Vaillant, and Y.~Trousset.
+\newblock {Model-Based Multiscale Detection of 3D Vessels}.
+\newblock {\em IEEE Workshop on Biomedical Image Analysis}, page 202, 1998.
+
+\bibitem{Krissian:etal:INRIA:1996}
+K.~Krissian, G.~Malandian, and N.~Ayache.
+\newblock Directional anisotropic diffusion applied to sehmentation of vessels
+  in 3d images.
+\newblock Technical Report 3064, INRIA, 1996.
+
+\bibitem{Kruft:etal:BMR:1994}
+M.~Kruft, A.~Benzina, F.~Bar, F.~an~der Veen, C.~Bastiaansen, R.~Blezer,
+  T.~Lindhout, and L.~Koole.
+\newblock {Studies on two new radiopaque polymeric biomaterials}.
+\newblock {\em Journal of Biomedical Materials Research}, 28:1259--1266, 1994.
+
+\bibitem{Kruft:etal:Biomaterials:1996}
+M.-A.~B. Kruft, A.~Benzina, R.~Blezer, and L.~H. Koole.
+\newblock {Studies on radio-opaque polymeric biomaterials with potential
+  applications to endovascular prostheses}.
+\newblock {\em Biomaterials}, 17:1803--1812, 1996.
+
+\bibitem{Kruft:etal:Biomaterials:1997}
+M.-A.~B. Kruft, F.~H. van~der Veen, and L.~H. Koole.
+\newblock {In vivo tissue compatibility of two radio-opaque polymeric
+  biomaterials}.
+\newblock {\em Biomaterials}, 18:31--36, 1997.
+
+\bibitem{Kruger:etal:Med-Phys:1977}
+R.~Kruger, S.~Riederer, and C.~Mistretta.
+\newblock {Relative properties of tomography, K-edge imaging, and K-edge
+  tomography}.
+\newblock {\em Medical Physics}, 4(3):244--249, 1977.
+
+\bibitem{Kumamoto:etal:Hum-Pathol:1995}
+M.~Kumamoto, Y.~Nakashima, and K.~Sueishi.
+\newblock {Intimal neovascularization in human coronary atherosclerosis: its
+  origin and pathophysiological significance}.
+\newblock {\em Hum. Pathol.}, 26(4):450--456, 1995.
+
+\bibitem{Lang:etal:JoProsth:2000}
+L.~Lang, P.~Mattie, and H.~Rawis.
+\newblock {The effect of triphenylbismuth on the radiopacity}.
+\newblock {\em Journal of Prosthodontics}, 9(1):23--29, 2000.
+
+\bibitem{Langheinrich:etal:Radiol:2004}
+A.~Langheinrich, B.~Leithauser, S.~Greschus, S.~von Gerlach, A.~Breithecker,
+  F.~Matthias, W.~Rau, and R.~Bohle.
+\newblock {Acute Rat Lung Injury: Feasibility of Assessment with Micro-CT}.
+\newblock {\em Radiology}, 233:165--171, 2004.
+
+\bibitem{Lawaczeck:etal:IR:2003}
+R.~Lawaczeck, F.~Diekmann, S.~Diekmann, H.~B, U.~Bick, W.-R. Press,
+  H.~Schirmer, K.~Schon, and H.-J. Weinmann.
+\newblock {New Contrast Media Designes for X-Ray energy Subtraction Imaging in
+  Digital Mammography}.
+\newblock {\em Investigative Radiology}, 38:602--608, 2003.
+
+\bibitem{Van-Leeuwen:etal:IEEE-TBE:1998}
+G.~M.~V. Leeuwen, A.~N. Kotte, and J.~J. Lagendijk.
+\newblock {A Flexible Algorithm for Construction of 3-D Vessel Networks for Use
+  in Thermal Modeling}.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, 45(5):596--604,
+  1998.
+
+\bibitem{Lehr:etal:JHC:1997}
+H.-A. Lehr, D.~Mankoff, D.~Corwin, G.~Santeusanio, and A.~Gown.
+\newblock {Application of Photoshop-based Image Analysis to Quantification of
+  Hormone Receptor Expression in Breast Cancer}.
+\newblock {\em The Journal of Histochemistry and Cytochemistry},
+  45(11):1559--1565, 1997.
+
+\bibitem{Leunig:etal:Cancer-Res:1992}
+M.~Leunig, F.~Yuan, M.~Menger, Y.~Boucher, A.~Goetz, K.~Messmer, and R.~Jain.
+\newblock {Angiogenesis, Microvascular Architecture, Microhemodynamics, and
+  Interstitial Fluid Pressure during Early Growth of Human Adenocarcinoma
+  LS174T in SCID Mice}.
+\newblock {\em Cancer Research}, 52:6553--6560, December 1992.
+
+\bibitem{Levine:Ravel:J-App-Physics:1999}
+Z.~H. Levine and B.~Ravel.
+\newblock {Identification of materials in integrated circuit interconnects
+  using x-ray absorption near-edge spectroscopy}.
+\newblock {\em Journal of Applied Physics}, 85(1):558--564, 1999.
+
+\bibitem{Lewin:etal:Radiol:2003}
+J.~Lewin, P.~Isaacs, V.~Vance, and F.~Larke.
+\newblock {Dual-Energy Cobtrast-enhanced Digital Subtraction Mammography:
+  Feasibility}.
+\newblock {\em Radiology}, 229:261--268, 2003.
+
+\bibitem{Liu:Ritman:JBME:1986}
+Y.~Liu and E.~Ritman.
+\newblock {Branching pattern of pulmonary arterial tree in anesthetized dogs}.
+\newblock {\em Journal of Biomechanical Engineering}, 108(3):289--293, August
+  1986.
+
+\bibitem{Liu:etal:IR:1987}
+Y.-H. Liu, E.~A. Hoffman, and E.~L. Ritman.
+\newblock {Measurement of Three-Dimensional Anatomy and Function of Pulmonary
+  Arteries with High-Speed X-Ray Computed Tomography}.
+\newblock {\em Investigative Radiology}, 22(1):28--36, 1987.
+
+\bibitem{Lorigo:etal:MIA:2001}
+L.~Lorigo, O.~Faugeras, W.~Grimson, R.~Keriven, R.~Kikinis, A.~Nabavi, and
+  C.-F. Westin.
+\newblock {CURVES: Curve evolution for vessel segmentation}.
+\newblock {\em Medical Image Analysis}, 5:195--206, 2001.
+
+\bibitem{Lorigo:etal:IPMI:1999}
+L.~M. Lorigo, O.~D. Faugeras, W.~E.~L. Grimson, R.~Keriven, R.~Kikinis, and
+  C.-F. Westin.
+\newblock Co-dimension 2 geodesic active contours for mra segmentation.
+\newblock In {\em Int'l Conf. Information Processing in Medical Imaging
+  (IPMI'99)}, pages 126--133, Visegr\'ad, Hungary, June 28 - July 2 1999.
+\newblock Best Paper Award.
+
+\bibitem{Maehara:Eur-Radiol:2003}
+N.~Maehara.
+\newblock {Experimental microcomputed tomography study of the 3D
+  microangioarchitecture of tumors}.
+\newblock {\em Eur. Radiol.}, 13:1559--1565, 2003.
+
+\bibitem{DeMan:etal:IEEE-TNS:2000}
+B.~D. Man, J.~Nuyts, P.~Dupont, G.~Marchal, and P.~Suetens.
+\newblock {Reduction of metal streak artifacts in x-ray computed tomography
+  using a transmission maximum a posteriori algorithm}.
+\newblock {\em IEEE Transactions on Nuclear Science}, 47(3):977--981, 2000.
+
+\bibitem{Mangard:etal:J-XRay-Sci-Technol:1998}
+M.~Mangard, P.~Hammersberg, and M.~Sandborg.
+\newblock {Modelling of an X-ray image-intensifier-based radiography system}.
+\newblock {\em Journal of X-Ray Science and Technology}, 8:31--50, 1998.
+
+\bibitem{Maniotis:etal:AJP:1999}
+A.~J. Maniotis, R.~Folberg, A.~Hess, E.~A. Seftor, L.~M. Gardner, J.~Pe’er,
+  J.~M. Trent, P.~S. Meltzer, and M.~J.~C. Hendrix.
+\newblock {Vascular Channel Formation by Human Melanoma Cells in Vivo and in
+  Vitro: Vasculogenic Mimicry}.
+\newblock {\em American Journal of Pathology}, 155(3):739--752, 1999.
+
+\bibitem{Marchal:Med-Phys:2005}
+J.~Marchal.
+\newblock {Extension of x-ray imaging linear systems analysis to detectors with
+  energy discrimination capability}.
+\newblock {\em Medical Physics}, 32(8):2717--2728, 2005.
+
+\bibitem{Mattie:etal:JoProsth:1994}
+P.~Mattie, H.~Rawls, and I.~Cabasso.
+\newblock {Development of a radiopaque, autopolymerizing dental acrylic resin}.
+\newblock {\em Journal of Prosthodontics}, 3(4):213--218, 1994.
+
+\bibitem{McDonald:etal:AJP:2000}
+D.~M. McDonald, L.~Munn, and R.~K. Jain.
+\newblock {Vasculogenic Mimicry: How Convincing, How Novel, and How
+  Significant?}
+\newblock {\em American Journal of Pathology}, 156(2):383--388, 2000.
+
+\bibitem{Minnich:etal:It-J-Anat-Embryol:2001}
+B.~Minnich, H.~Bartel, and A.~Lametschwandtner.
+\newblock {Quantitative microvascular corrosion casting by 2D- and
+  3D-morphometry}.
+\newblock {\em Italian Journal of Anatomy and Embryology}, 106:213--220, 2001.
+
+\bibitem{Mizeret:etal:SPIE:1995}
+J.~Mizeret, P.~Thielen, J.-F. Theumann, R.~Bays, G.~Wagnieres, J.-F. Savary,
+  P.~Monnier, and H.~van~den Bergh.
+\newblock {New Distributors for homogeneous and monitorable Light Delivery in
+  Photodynamic Therapy}.
+\newblock In {\em Proceedings of laser interaction with hard and soft tissue},
+  volume 2323 of {\em Proceedings of SPIE}, pages 58--69, 1995.
+
+\bibitem{Molthen:etal:JAP:2004}
+R.~C. Molthen, K.~K. Karau, and C.~A. Dawson.
+\newblock {Quantitative models of the rat pumonary arterial tree morphometry
+  applied to hypoxia-induced arterial remodeling}.
+\newblock {\em Journal of Applied Physiology}, 97:2372--2384, 2004.
+
+\bibitem{Monga:etal:CVIU:1997}
+O.~Monga, N.~Armande, and P.~Montesinos.
+\newblock {Thin Nets and Crest Lines: Application to Satellite Data and Medical
+  Images}.
+\newblock {\em Computer Vision and Image Understanding}, 67(3):285--295,
+  September 1997.
+
+\bibitem{Monga:Benayoun:CVPR:1992}
+O.~Monga and S.~Benayoun.
+\newblock {Using partial derivatives of 3D images to extract typical surface
+  features}.
+\newblock In {\em Conference on Computer Vision and Pattern Recognition,
+  Urbana-Champaign, Illinois}, pages 379--382, July 1992.
+
+\bibitem{Monga:Benayoun:CVPR:1993}
+O.~Monga and S.~Benayoun.
+\newblock {Using differential geometry in $R^4$ to extract typical features in
+  3D density images}.
+\newblock In {\em Conference on Computer Vision and Pattern Recognition, New
+  York}, pages 684--685, June 1993.
+
+\bibitem{Monga:etal:CVPR:October:1994}
+O.~Monga, R.~Lengagne, and R.~Deriche.
+\newblock {Crest lines extraction in volume 3D medical images: a multi-scale
+  approach}.
+\newblock In {\em Conference on Computer Vision and Pattern Recognition,
+  Jerusalem, Israel}, pages 553--555, October 1994.
+
+\bibitem{Monga:etal:CVPR:June:1994}
+O.~Monga, R.~Lengagne, and R.~Deriche.
+\newblock {Extraction of the zero-crossing of the curvature derivatives in
+  volumic 3D medical images: a multi-scale approach}.
+\newblock In {\em Conference on Computer Vision and Pattern Recognition,
+  Urbana-Champaign, Seattle}, pages 852--855, June 1994.
+
+\bibitem{Moszner:etal:AMCP:1994}
+N.~Moszner, U.~Salz, A.~Klester, and V.~Rheinberger.
+\newblock {Synthesis and polymerization of hydrophobic iodine-containing
+  methacrylates}.
+\newblock {\em Applied Macromolecular Chemistry and Physics}, 224(1):115--123,
+  1994.
+
+\bibitem{Murray:Proc-Natl-Acad-Sci-USA:1926}
+C.~D. Murray.
+\newblock {The Physiological Principle of Minimum Work I. The Vascular System
+  and the Cost of Blood Volume}.
+\newblock {\em Proc. Natl. Acad. Sci. USA}, 12(3):207--214, 1926.
+
+\bibitem{Nafe:Exp-Path:1991}
+R.~Nafe.
+\newblock {Planimetry in pathology-a method in its own right}.
+\newblock {\em Experimental pathology}, 43:239--246, 1991.
+
+\bibitem{Niki:etal:MIC:1993}
+N.~Niki, Y.~Kawata, H.~Satoh, and T.~Kumazaki.
+\newblock {3D Imaging of Blood Vessels using X-Ray Rotational Angiographic
+  System}.
+\newblock {\em IEEE Medical Imaging Conference}, 3:1873--1877, 1993.
+
+\bibitem{Norrby:Microvas-Res:1994}
+K.~Norrby.
+\newblock {Basic Fibroblast Growth Factor and de Novo Mammalian Angiogenesis}.
+\newblock {\em Microvascular Research}, 48:96--113, 1994.
+
+\bibitem{Norrby:Microvas-Res:1998}
+K.~Norrby.
+\newblock {Microvascular Density in Terms of Number and Length of Microvessel
+  Segments per Unit Tissue Volume in Mammalian Angiogenesis}.
+\newblock {\em Microvascular Research}, 55:43--53, 1998.
+
+\bibitem{Obert:etal:JCAT:2005}
+M.~Obert, B.~Ahlemeyer, E.~Baumgart-Vogt, and H.~Traupe.
+\newblock {Flat-Panel volumetric Computed Tomography}.
+\newblock {\em Journal of Computer Assisted Tomography}, 29:560--565, 2005.
+
+\bibitem{Oh:etal:Cell:2001}
+J.~Oh:etal.
+\newblock {The Membrane-Anchored MMP Inhibitor RECK Is a Key Regulator of
+  Extracellular Matrix Integrity and Angiogenesis}.
+\newblock {\em Cell}, 107:789--800, 2001.
+
+\bibitem{Parker:Med-Phys:1982}
+D.~Parker.
+\newblock {Optimal short scan convolution reconstruction for fanbeam CT}.
+\newblock {\em Medical Physics}, 9(2):254--257, 1982.
+
+\bibitem{Parker:etal:EMBC:1988}
+D.~L. Parker, J.~Wu, and R.~E. van Bree.
+\newblock {Three Dimensional Vascular Reconstruction From Projections: A
+  Theoretical Review}.
+\newblock In {\em IEEE Conf. Eng. in Medicine and Bio.}, 1988.
+
+\bibitem{Patan:etal:Circ-Res:2001a}
+S.~Patan, L.~L. Munn, S.~Tanda, S.~Roberge, R.~K. Jain, and R.~C. Jones.
+\newblock {Vascular Morphogenesis and Remodeling in a Model of Tissue Repair:
+  Blood Vessel Formation and Growth in the Ovarian Pedicle After Ovariectomy}.
+\newblock {\em Circulation Research}, 89:723--731, 2001.
+
+\bibitem{Patan:etal:Circ-Res:2001b}
+S.~Patan, S.~Tanda, S.~Roberge, R.~C. Jones, R.~K. Jain, and L.~L. Munn.
+\newblock {Vascular Morphogenesis and Remodeling in a Human Tumor Xenograft:
+  Blood Vessel Formation and Growth After Ovariectomy and Tumor Implantation}.
+\newblock {\em Circulation Research}, 89:732--739, 2001.
+
+\bibitem{Paulus:etal:Neoplasia:2000}
+M.~Paulus, S.~Gleason, S.~Kennel, P.~Hunsicker, and D.~Johnson.
+\newblock {High Resolution X-ray Computed Tomography: An emerging Tool for
+  Small Animal Cancer Research}.
+\newblock {\em Neoplasia}, 2(1-2):62--70, 2000.
+
+\bibitem{Poli:Valli:Comput-Meth-Prog-Bio:1997}
+R.~Poli and G.~Valli.
+\newblock {An algorithm for real-time vessel enhancement and detection}.
+\newblock {\em Computer Methods and Programs in Biomedicine}, 52(1):1--22,
+  January 1997.
+
+\bibitem{Ponce:Brady:IJCAI:1985}
+J.~Ponce and M.~Brady.
+\newblock {Toward a Surface Primal Sketch}.
+\newblock In {\em Proceedings, IJCAI 85}, pages 420--425, 1985.
+
+\bibitem{Prinet:etal:ICPR:1996}
+V.~Prinet, O.~Monga, C.~Ge, S.~Xie, and S.~Ma.
+\newblock {Thin Network Extraction in 3D Images: Application to Medical
+  Angiograms}.
+\newblock In {\em Proc. Int. Conf. Pattern Rec.}, pages 386--390, 1996.
+
+\bibitem{Rathee:etal:Med-Phys:2002}
+S.~Rathee, B.~Fallone, and D.~Robinson.
+\newblock {Modulation transfer function of digitally reconstructed radiographs
+  using helical computed tomography}.
+\newblock {\em Medical Physics}, 29(1):86--89, 2002.
+
+\bibitem{Rawls:etal:Dent-Mat:1992}
+H.~Rawls, M.~Marshall, H.~Cardenas, H.~Bhagat, and I.~Cabasso.
+\newblock {Cytotoxicity evaluation of a new radiopaque resin additive-triphenyl
+  bismuth}.
+\newblock {\em Dental Materials}, 8(1):54--59, 1992.
+
+\bibitem{Rawls:etal:Dent-Mat:1990}
+H.~Rawls, J.~Starr, F.~Kasten, M.~Murray, J.~Smid, and I.~Cabasso.
+\newblock {Radiopaque acrylic resins containing miscible heavy-metal
+  compounds}.
+\newblock {\em Dental Materials}, 6(4):250--255, October 1990.
+
+\bibitem{Reimann:etal:NSS-MIC:1995}
+D.~A. Reimann, M.~J. Flynn, and S.~M. Hames.
+\newblock {Direct Measurement of Resolution in Volumetric Imaging Systems}.
+\newblock In {\em IEEE Nuclear Science Symposium and Medical Imaging
+  Conference}, volume~3, pages 1784--1787, 1995.
+
+\bibitem{Riederer:etal:Med-Phys:1981}
+S.~Riederer, R.~Kruger, and C.~Mistretta.
+\newblock {Limitations to iodine isolation using a dual beam non-K-edge
+  approach}.
+\newblock {\em Medical Physics}, 8(1):54--61, 1981.
+
+\bibitem{Ritman:etal:Inverse-Prob-in-Wave-Prop:1996}
+E.~Ritman, J.~Dunsmuir, A.~Faridani, D.~Finch, K.~Smith, and P.~Thomas.
+\newblock {Local Reconstruction Applied to X-Ray Microtomography}.
+\newblock {\em The IMA volumes in mathematics and its applications: Inverse
+  Problems in Wave Propogation}, 90:443--452, 1996.
+
+\bibitem{Robinson:Curr-Opin-Pulm-Med:2004}
+T.~E. Robinson.
+\newblock {High-resolution CT scanning: potential outcome measure}.
+\newblock {\em Curr. Opin. Pulm. Med.}, 10(6):537--541, 2004.
+
+\bibitem{Roomans:SEM:1979}
+G.~Roomans.
+\newblock {Standards for X-ray microanalysis of biological specimens}.
+\newblock {\em Scanning Electron Microsc II}, pages 649--657, 1979.
+
+\bibitem{Rowe:Science:1996}
+T.~Rowe.
+\newblock {Coevolution of the Mammalian Middle Ear and Neocortex}.
+\newblock {\em Science}, 273(5275):651--654, 1996.
+
+\bibitem{Samei:etal:Med-Phys:1998}
+E.~Samei, M.~Flynn, and D.~Reimann.
+\newblock {A method for measuring the presampled MTF of digit}.
+\newblock {\em Medical Physics}, 25(1):102--113, 1998.
+
+\bibitem{Sandborg:Carlsson:PMB:1992}
+M.~Sandborg and G.~A. Carlsson.
+\newblock {Influence of X-ray energy spectrum, contrasting detail and detector
+  on the signal-to-noise ratio(SNR) and detective quantum efficiency(DQE) in
+  projection radiography}.
+\newblock {\em Phys. Med. Biol.}, 37(6):1245--11263, 1992.
+
+\bibitem{Saralidze:etal:Biomacromolecules:2003}
+K.~Saralidze, Y.~Aldenhoff, M.~Knetsch, and L.~Koole.
+\newblock {Injectable Polymeric Microspheres with X-ray Visibility.
+  Preparation, Properties, and Potential Utility as New Traceable Bulking
+  Agents}.
+\newblock {\em Biomacromolecules}, 4:793--798, 2003.
+
+\bibitem{Sarnelli:etal:PMB:2004}
+A.~Sarnelli, A.~Taibi, A.~Tuffanelli, G.~Baldazzi, D.~Bollini, A.~C. Rodriguez,
+  M.~Gombia, F.~Prino, L.~Ramello, E.~Tomassi, and M.~Gambaccini.
+\newblock {K-edge digital subtraction imaging based on a dichromatic and
+  compact x-ray source}.
+\newblock {\em Physics in Medicine and Biology}, 49:3291--3305, 2004.
+
+\bibitem{Sato:etal:IEEE-TMI:1997}
+Y.~Sato, T.~Araki, M.~Hanayama, H.~Naito, and S.~Tamura.
+\newblock {A Viewpoint Determination System for Stenosis Diagnosis and
+  Quantification in Coronary Angiographic Image Acquisition}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 17(1):121--137, February
+  1998.
+
+\bibitem{Sato:etal:CVRMed-MRCAS:1997}
+Y.~Sato, S.~Nakajima, H.~Atsumi, T.~Koller, G.~Gerig, S.~Yoshida, and
+  R.~Kikinis.
+\newblock 3d multi-scale line filter for segmentation and visualization of
+  curvilinear structures in medical images.
+\newblock In {\em CVRMed-MRCAS '97: Proceedings of the First Joint Conference
+  on Computer Vision, Virtual Reality and Robotics in Medicine and Medial
+  Robotics and Computer-Assisted Surgery}, pages 213--222. Springer-Verlag,
+  1997.
+
+\bibitem{Sato:etal:MIA:1998}
+Y.~Sato, S.~Nakajima, N.~Shiraga, H.~Atsumi, S.~Yoshida, T.~Koller, G.~Gerig,
+  and R.~Kikinis.
+\newblock {Three-dimensional multi-scale line filter for segmentation and
+  visualization of curvilinear structures in medical images}.
+\newblock {\em Medical Image Analysis}, 2(2):143--168, 1998.
+
+\bibitem{Sauer:Bouman:IEEE-TSP:1993}
+K.~Sauer and C.~Bouman.
+\newblock {A Local Update Strategy for Iterative Reconstruction from
+  Projections}.
+\newblock {\em IEEE Transactions on Signal Processing}, 41(2):534--548, 1993.
+
+\bibitem{Savai:etal:AJP:2005}
+R.~Savai, J.~Wolf, S.~Greschus, B.~Eul, R.~Schermuly, J.~Hanze, R.~Voswinckel,
+  A.~Langheinrich, F.~Grimminger, H.~Traupe, W.~Seeger, and F.~Rose.
+\newblock {Analysis of Tumor Vessel Supply in Lewis Lung Carcinoma in Mice by
+  Fluorescent Microsphere Distribution and Imaging with Micro- and Flat-Panel
+  Computed Tomography}.
+\newblock {\em American Journal of Pathology}, 167(4):937--946, 2005.
+
+\bibitem{Schlenger:etal:Nat-Med:1997}
+K.~Schlenger, M.~Hockel, and F.~Yuan.
+\newblock {Quantitative angiogenesis assays; progress and problems}.
+\newblock {\em Nature Medicine}, 3(11):1203--1208, 1997.
+
+\bibitem{Schmitt:etal:IEEE-TMI:2002}
+H.~Schmitt, M.~Grass, V.~Rasche, O.~Schramm, S.~Haehnel, and K.~Sartor.
+\newblock {An X-Ray-Based Method for the Determination of the Contrast Agent
+  Propogation in 3-D Vessel Structures}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 21(3):251--262, March
+  2002.
+
+\bibitem{Schoell:etal:Cancer:1997}
+W.~Schoell, D.~Pieber, O.~Reich, M.~Lahousen, M.~Janicek, F.~Guecer, and
+  R.~Winter.
+\newblock {Tumor angiogenesis as a prognostic factor in ovarian carcinoma:
+  quantification of endothelial immunoreactivity by image analysis}.
+\newblock {\em Cancer}, 80(12):2257--2262, 1997.
+
+\bibitem{Schoenfeld:J-Dent-Res:1977}
+C.~Schoenfeld, E.~Lautenschlager, B.~Moore, and J.~Rechtien.
+\newblock {Computerized prediction of optical density for diagnostic
+  radiology}.
+\newblock {\em J Dent Res.}, 56(9):1085--1092, September 1977.
+
+\bibitem{Schraufnagel:Ganesan:Scan-Microsc:1998}
+D.~Schraufnagel and D.~Ganesan.
+\newblock {Tracers in Vacular Casting Resins Enhance Backscattering
+  Brightness}.
+\newblock {\em Scanning Microsc.}, 12(4):631--639, 1998.
+
+\bibitem{Schraufnagel:Ganesan:Scanning:2002}
+D.~Schraufnagel and D.~Ganesan.
+\newblock {Tracers in Vascular Casting Resins Enhance Backscattering
+  Brightness}.
+\newblock {\em Scanning}, 24(3):121--126, 2002.
+
+\bibitem{Seibert:J-Nucl-Med-Technol:2004}
+J.~A. Seibert.
+\newblock {X-Ray Imaging Physics for Nuclear Medicine Technologists. Part1:
+  Basic Principles of X-Ray Production}.
+\newblock {\em J. Nucl. Med. Technol.}, 32:139--147, 2004.
+
+\bibitem{Seibert:Boone:J-Nucl-Med-Technol:2005}
+J.~A. Seibert and J.~M. Boone.
+\newblock {X-Ray Imaging Physics for Nuclear Medicine Technologists. Part2:
+  X-Ray Interactions and Image Formation}.
+\newblock {\em J. Nucl. Med. Technol.}, 33:3--18, 2005.
+
+\bibitem{Seifert:Flynn:SPIE:2002}
+A.~Seifert and M.~J. Flynn.
+\newblock {Resolving power of 3D x-ray microtomography systems}.
+\newblock In {\em Medical Imaging 2002: Physics of Medical Imaging}, volume
+  4682 of {\em Proceedings of SPIE}, pages 407--413, 2002.
+
+\bibitem{Shaw:Rawlins:JoM:1991}
+P.~Shaw and D.~Rawlins.
+\newblock {The point-spread function of a confocal microscope: its measurement
+  and use in deconvolution of 3-D data}.
+\newblock {\em Journal of Microscopy}, 163(2):151--165, 1991.
+
+\bibitem{Shikhaliev:etal:Med-Phys:2004}
+P.~Shikhaliev, T.~Xu, H.~Le, and S.~Molloi.
+\newblock {Scanning-slit photon counting x-ray imaging system using a
+  microchannel plate detector}.
+\newblock {\em Medical Physics}, 31(5):1061--1071, 2004.
+
+\bibitem{Shikhaliev:etal:Med-Phys:2005}
+P.~Shikhaliev, T.~Xu, and S.~Molloi.
+\newblock {Photon counting computed tomography: Concept and initial results}.
+\newblock {\em Medical Physics}, 32(2):427--436, 2005.
+
+\bibitem{Shikhaliev:PMB:2005}
+P.~M. Shikhaliev.
+\newblock {Beam hardening artefacts in computed tomography with photon
+  counting, charge integrating and energy weighting detectors: a simulation
+  study}.
+\newblock {\em Phys. Med. Biol.}, 50:5813--5827, 2005.
+
+\bibitem{Siewerdsen:etal:Med-Phys:1998}
+J.~Siewerdsen, L.~Antonuk, Y.~el~Mohri, J.~Yorkston, W.~Huang, and
+  I.~Cunningham.
+\newblock {Signal, noise power spectrum, and detective quantum efficiency of
+  indirect-detection flat-panel imagers for diagnostic radiology}.
+\newblock {\em Medical Physics}, 25(5):614--628, May 1998.
+
+\bibitem{Siewerdsen:Jaffray:Med-Phys:2001}
+J.~Siewerdsen and D.~Jaffray.
+\newblock {Cone-beam computed tomography with a flat-panel imager: Magnitude
+  and effects of x-ray scatter}.
+\newblock {\em Medical Physics}, 28(2):220--231, 2001.
+
+\bibitem{Simpson:etal:AJCP:1997}
+J.~Simpson, H.~Battifora, J.~Esteban, and C.~Ahn.
+\newblock {Computer-assisted image analysis of vascularity}.
+\newblock {\em American Journal of Clinical Pathology}, 107(1):132--133, 1997.
+
+\bibitem{Singhal:etal:Circ-Res:1973}
+S.~Singhal, R.~Henderson, K.~Horsfield, K.~Harding, and G.~Cumming.
+\newblock {Morphometry of the human pulmonary arterial tree}.
+\newblock {\em Circulation Research}, 33(2):190--197, 1973.
+
+\bibitem{Sobin:etal:Circ-Res:1972}
+S.~S. Sobin, Y.~Fung, H.~M. Tremer, and T.~H. Rosenquist.
+\newblock {Elasticity of the Pulmonary Alveolar Microvascular Sheet in the
+  Cat}.
+\newblock {\em Circulation Research}, 30:440--450, 1972.
+
+\bibitem{Song:etal:NSS:2001}
+X.~Song, E.~Frey, and B.~Tsui.
+\newblock {Development and Evaluation of a MicroCT System for Small Animal
+  Imaging}.
+\newblock In {\em IEEE Nuclear Science Symposium}, volume~3, pages 1600--1604,
+  2001.
+
+\bibitem{Sorantin:etal:IEEE-TMI:2002}
+E.~Sorantin, C.~Halmai, B.~Erdohelyi, K.~Palagyi, L.~Nyul, K.~Olle, B.~Geiger,
+  F.~Lindbichler, G.~Friedrich, and K.~Kiesler.
+\newblock {Spiral-CT-Based Assessment of Tracheal Stenoses Using
+  3-D-Skeletonization}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 21(3):263--273, March
+  2002.
+
+\bibitem{Steinberg:etal:Int-J-Radiat-Biol:1991}
+F.~Steinberg, M.~Konerding, A.~Sander, and C.~Streffer.
+\newblock {Vascularization, proliferation and necrosis in untreated human
+  primary tumours and untreated human xenografts}.
+\newblock {\em Int. J. Radiat. Biol.}, 60(1/2):161--168, 1991.
+
+\bibitem{Stenstrom:etal:Appl-Radiat-Isot:1998}
+M.~Stenstrom, B.~Olander, C.~Carlsson, G.~A. Carlsson, D.~Lehto-Axtelius, and
+  R.~Hakanson.
+\newblock {The Use of Computed Microtomography to Monitor Morphological Changes
+  in Small Animals}.
+\newblock {\em Appl. Radiat. Isot.}, 49:565--570, 1998.
+
+\bibitem{Stratas:etal:Arch-Opht:1986}
+B.~Stratas, J.~Weipert, R.~Reddick, D.~Perry, and J.~Risco.
+\newblock {Observations on the microvascular repair process after confluent
+  argon laser photocoagulation}.
+\newblock {\em Archieves of Ophthalmology}, 104(1):126--129, January 1986.
+
+\bibitem{Thirion:Gourdon:INRIA:1992}
+J.~Thirion and A.~Gourdon.
+\newblock The 3d marching lines algorithm and its applications to crest lines
+  extraction.
+\newblock Technical Report 1672, INRIA, 1992.
+
+\bibitem{Thirion:Gourdon:INRIA:1993}
+J.~Thirion and A.~Gourdon.
+\newblock The 3d marching lines algorithm: new results and proofs.
+\newblock Technical Report 1881, INRIA, 1993.
+
+\bibitem{Thirion:IJCV:1996}
+J.-P. Thirion.
+\newblock {The Extremal Mesh and the Understanding of 3D Surfaces}.
+\newblock {\em International Journal of Computer Vision}, 19(2):115--128, 1996.
+
+\bibitem{Toyota:etal:Circ-Res:2002}
+E.~Toyota, K.~Fujimoto, Y.~Ogasawara, T.~Kajita, F.~Shigeto, T.~Matsumoto,
+  M.~Goto, and F.~Kajiya.
+\newblock {Dynamic changes in three-dimensional architecture and vascular
+  volume of transmural coronary microvasculature between diastolicand
+  systolic-arrested rat hearts}.
+\newblock {\em Circulation Research}, 105:621--626, 2002.
+
+\bibitem{Tozaki:etal:NSS-MIC:1995}
+T.~Tozaki, Y.~Kawata, and N.~Niki.
+\newblock {3-D Visualizayion of Blood Vessels and Tumor Using Thin Slice CT
+  Images}.
+\newblock In {\em IEEE Nuclear Science Symposium and Medical Imaging
+  Conference}, volume~3, pages 1470--1474, 1995.
+
+\bibitem{Tozaki:etal:ICPR:1996}
+T.~Tozaki, Y.~Kawata, N.~Niki, H.~Ohmatsu, K.~Eguchi, and N.~Moriyama.
+\newblock {Three-Dimensional Analysis of Lung Areas Using Thin-Slice CT
+  Images}.
+\newblock In {\em Proc. Int. Conf. Pattern Rec.}, pages 548--552, 1996.
+
+\bibitem{Trousset:etal:EMBC:1992}
+Y.~Trousset, D.~Schieber, and J.~Knoplioch.
+\newblock {An Algorithm for Tracking Vessels in Three-Dimensional Angiograms}.
+\newblock In {\em IEEE Conf. Eng. in Medicine and Bio.}, pages 2053--2054,
+  October 1988.
+
+\bibitem{Tuccillo:etal:CCR:2005}
+C.~Tuccillo, M.~Romano, T.~Troiani, E.~Martinelli, F.~Morgillo, F.~D. Vita,
+  R.~Bianco, G.~Fontanini, R.~Bianco, G.~Tortora, and F.~Ciardiello.
+\newblock {Antitumor Activity of ZD6474, a Vascular Endothelial Growth Factor-2
+  and Epidermal Growth Factor Receptor Small Molecule Tyrosine Kinase
+  Inhibitor, in Combination with SC-236, a Cyclooxygenase-2 Inhibitor}.
+\newblock {\em Clinical Cancer Research}, 11:1268--1276, 2005.
+
+\bibitem{Umetani:etal:SPIE:2000}
+K.~Umetani, N.~Yagi, Y.~Suzuki, Y.~Ogasawara, F.~Kajiya, T.~Matsumoto,
+  H.~Tachibana, M.~Goto, T.~Yamashita, S.~Imai, and Y.~Kajihara.
+\newblock {Observation and analysis of microcirculation using
+  high-spatial-resolution image detectors and synchrotron radiation}.
+\newblock In {\em Medical Imaging 2001: Physics of Medical Imaging}, volume
+  3977 of {\em Proceedings of SPIE}, pages 522--533, April 2000.
+
+\bibitem{VanEijk:PMB:2002}
+C.~W. van Eijk.
+\newblock {Inorganic scintillators in medical imaging}.
+\newblock {\em Phys. Med. Biol.}, 47:R85--R106, 2002.
+
+\bibitem{Vermeulen:etal:EJC:2002}
+P.~Vermeulen, G.~Gasparini, S.~Fox, C.~Colpaert, L.~Marson, M.~Gion, J.~Belien,
+  R.~de~Waal, E.~V. Marck, E.~Magnani, N.~Weidner, A.~Harris, and L.~Dirix.
+\newblock {Second international consensus on the methodology and criteria of
+  evaluation of angiogenesis quantification in solid human tumours}.
+\newblock {\em European Journal of Cancer}, 38:1564--1579, 2002.
+
+\bibitem{Wagnieres:etal:PMB:1997}
+G.~Wagnieres, S.~Cheng, M.~Zellweger, N.~Utke, D.~Braichotte, J.~Ballini, and
+  H.~van~den Bergh.
+\newblock {An optical phantom with tissue-like properties in the visible for
+  use in PDT and fluorescence spectroscopy}.
+\newblock {\em Phys. Med. Biol.}, 42:1415--1426, 1997.
+
+\bibitem{Wang:etal:Acad-Radiol:2000}
+G.~Wang, T.~Frei, and M.~W. Vannier.
+\newblock {Fast Iterative Algorithm for Metal Artifact Reduction in X-ray CT}.
+\newblock {\em Acad. Radiol.}, 7:607--614, 2000.
+
+\bibitem{Weaver:MRT:1997}
+C.~Weaver.
+\newblock {Angioarchitecture of the atrophic pancreas}.
+\newblock {\em Microscopy Research and Technique}, 37(5-6):520--542, 1997.
+
+\bibitem{Weidner:BCRT:1995}
+N.~Weidner.
+\newblock {Current pathologic methods for measuring intratumoral microvessel
+  density within breast carcinoma and other solid tumors}.
+\newblock {\em Breast Cancer Research and Treatment}, 36:169--180, 1995.
+
+\bibitem{Weissleder:Nat-Rev-Cancer:2002}
+R.~Weissleder.
+\newblock {Scaling down imaging: molecular mapping of cancer in mice}.
+\newblock {\em Nat Rev Cancer}, 2:11--18, 2002.
+
+\bibitem{Wilson:Noble:IEEE-TMI:1999}
+D.~Wilson and J.~Noble.
+\newblock {An Adaptive Segmentation Algorithm for Time-of-Flight MRA Data}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 18(10):938--945, 1999.
+
+\bibitem{Wood:etal:JAP:1995}
+S.~Wood, E.~Zerhouni, J.~Hoford, E.~Hoffman, and W.~Mitzner.
+\newblock {Measurement of three-dimensional lung tree strcutures by using
+  computed tomography}.
+\newblock {\em Journal of Applied Physiology}, 79:1687--1697, 1995.
+
+\bibitem{Wood:etal:ICIP:1995}
+S.~L. Wood, G.~Qu, and L.~W. Roloff.
+\newblock {Detection and LAbeling of Retinal Vessels for Longitidunal Studies}.
+\newblock In {\em IEEE International Conference on Image Processing}, volume~3,
+  pages 164--167, 1995.
+
+\bibitem{Yaffe:Rowlands:PMB:1997}
+M.~Yaffe and J.~Rowlands.
+\newblock {X-ray detectors for digital radiography}.
+\newblock {\em Phys. Med. Biol.}, 42:1--39, 1997.
+
+\bibitem{Yen:etal:JAP:1983}
+R.~Yen, F.~Zhuang, Y.~Fung, H.~Ho, H.~Tremer, and S.~Robin.
+\newblock {Morphometry of cat pulmonary venous tree}.
+\newblock {\em Journal of Applied Physiology}, 55:236--242, 1983.
+
+\bibitem{Yen:etal:JBME:1984}
+R.~Yen, F.~Zhuang, Y.~Fung, H.~Ho, H.~Tremer, and S.~Sobin.
+\newblock {Morphometry of cat's pulmonary arterial tree}.
+\newblock {\em Journal of Biomechanical Engineering}, 106(2):131--136, May
+  1984.
+
+\bibitem{Yim:etal:IEEE-TMI:2000}
+P.~J. Yim, P.~L. Choyke, and R.~M. Summers.
+\newblock {Gray-Scale Skeletonization of Small Vessels in Magnetic Resonance
+  Angiography}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 19(6):568--576, June
+  2000.
+
+\bibitem{Zamir:JGP:1978}
+M.~Zamir.
+\newblock {Nonsymmetrical bifurcations in arterial branching}.
+\newblock {\em The Journal of General Physiology}, 72:837--845, 1978.
+
+\bibitem{Zamir:Sinclair:AJA:1988}
+M.~Zamir and P.~Sinclair.
+\newblock {Roots and calibers of the human coronary arteries}.
+\newblock {\em American Journal of Anatomy}, 183(3):226--234, 1988.
+
+\end{thebibliography}

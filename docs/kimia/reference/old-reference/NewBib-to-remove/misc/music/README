@@ -1,0 +1,27 @@
+This directory contains a compiled bibliography on the subject
+of Optical Music Recognition.
+
+Version of: Dec, 1992
+
+The BibTeX sources (ascii text, readable) are the three files 
+with .bib extension and can be used to create your own 
+bibliographies with TeX. 
+
+The final bibliography is aviable in three version as postscript
+file with extension .ps.
+
+All files are UNIX-compressed (ending with an additional .Z).
+If that's a problem for you, just mail me. On unix systems,
+you should be able to 'uncompress <file>', and print the 
+postscript files with 'lpr *.ps'. 
+
+- Currently, there are raw (uncompressed) files in the subdirectory
+  "uncompressed" in case you can't handle *.Z files.
+
+Make sure to set binary mode ('bin') before ftp'ing compressed
+files!
+
+Any questions, comments, additions are welcome!
+
+Martin Roth, Eng. Comp. Sci. (roth@ips.id.ethz.ch)
+ETH Zuerich, IPS RZ F16, Clausiusstr. 59, CH-8092 Zurich, Switzerland

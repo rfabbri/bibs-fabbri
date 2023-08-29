@@ -1,0 +1,260 @@
+%
+%	Baruch88	Segmentation of Two-Dimensional Boundaries...
+%	Eccles77	Analysis of the Digitized Boundaries...
+%	Freeman61	On the Encoding of Arbitrary Geometric...
+%	Freeman67	On the Classification of Line Drawing Data
+%	Freeman70	Boundary Encoding and Processing
+%	Freeman77	A Corner-Finding Algorithm...
+%	Freeman78	Generalized Chain Codes for Planar Curves
+%	Freeman78	Shape Description Via the Use of Critical Points
+%	Groen78		Freeman-code probabilities of object boundary...
+%	Meer88		Extraction of Trend Lines and Extrema...
+%	McKee77		Computer Recognition of Partial Views...
+%	Rosenfeld75	An Improved Method of Angle Detection...
+%	Saghri81	Analysis of the Precision of Generalized Chain Codes...
+%	Sriraman89	Tree Searched Chain Coding for Subpixel...
+%
+
+
+@Article{Baruch88Segment,
+  author = 	{O. Baruch and M. H. Loew},
+  title = 	{Segmentation of Two-Dimensional Boundaries Using the
+		 Chain Code},
+  journal = 	PattRec,
+  year = 	1988,
+  volume = 	21,
+  number = 	6,
+  pages = 	{581--589},
+  lib =		{BOUND/CHAIN},
+  keywords =	{Differential chain code and its integral --> Phi(s).
+		 Phi(s) is segmented recursively into approx. linear
+		 segments.}
+}
+
+@Article{Eccles77Analysis,
+  author = 	{M. J. Eccles and M. P. C. McQueen and D. Rosen},
+  title = 	{Analysis of the Digitized Boundaries of Planar
+		 Objects},
+  journal = 	PattRec,
+  year = 	1977,
+  volume = 	9,
+  number = 	1,
+  pages = 	{31--41},
+  lib =		{BOUND/CHAIN},
+  keywords =	{Automated flying spot microscope. Goal: detect sharp
+		 indentations (concavities) as the chief clues to the
+		 decomposition of objects into constituent parts.
+		 Local curvature measures from 2 successive chain codes.
+		 Smoothing of curvature: 2 filters considered:
+		 rectangular (Freeman) and triangular (Gallus).
+		 Frequency analysis in terms of bandwith, sidelobes,
+		 phase response and roll off.
+		}
+}
+
+@Article{Freeman61Encoding,
+  author = 	{H. Freeman},
+  title = 	{On the Encoding of Arbitrary Geometric
+		 Configuration},
+  journal = 	TransComp,
+  year = 	1961,
+  volume = 	10,
+  pages = 	{260--268}
+}
+
+@incollection( Freeman67Class,
+  crossref =	"WathenDunn67Models",
+  author =	{H. Freeman},
+  title =	{On the Classification of Line Drawing Data},
+  pages =	{408--412},
+  lib =		{BOUND/CHAIN},
+  keywords =	{Chain encoding. Translation invariance.}
+)
+
+@InBook{Freeman70Boundary,
+  author = 	{H. Freeman},
+  title = 	{Boundary Encoding and Processing},
+  crossref = 	"Picture70",
+  pages = 	{241--266},
+  lib =		{BOUND/CHAIN},
+  keywords =	{Chain codes. Grid intersect quantization scheme.
+		 Chain coding of straight lines. Rotating a chain.}
+}
+
+@article( Freeman77Corner, 
+  author =	{H. Freeman and L. Davis},
+  title =	{A Corner-Finding Algorithm for Chain-Coded Curves}, 
+  year =	1977, 
+  month =	mar, 
+  journal =	TransComp, 
+  volume =	{C-26}, 
+  pages =	{297--303}, 
+  lib =		{BOUND/CHAIN},
+  keywords =	{Local angle (curvature) computation:
+		      o Define a straight line segment L_{is} spanning
+			s chain links (C --> vectors):
+				L_{is} = {C_j}, j = i-s+1, ..., i
+		      o The x and y components of L are:
+				X_{is} = SUM C_jx
+				Y_{is} = SUM C_jy
+				C_jx, C_jy \in {-1,0,1}
+		      o Angle (wrt X axis) of L_{is}:
+				THETA_{is} = ArcTg [ Y_{is} / X_{is} ]
+					     if |X_{is}| >= |Y_{is}|
+				THETA_{is} = ArcTg [ X_{is} / Y_{is} ]
+					     if |X_{is}| < |Y_{is}|
+		 Incremental curvature:
+		      o Difference between adjacent angles:
+				k_{is} = THETA_{i+1,s} - THETA_{i-1,s}
+		      o Smoothing is a function of parameter s.
+			s > 4 to get "above chain quantization noise".
+		 Corner characterization:
+		      o 3 incremental curvature regions: 2 where
+			THETA_{is} fluctuates within narrow limits;
+			1 where SUM(THETA_{is}) takes a high value.
+		      o Cornerity defined 
+			 K_i = a * SUM(THETA_{js}), j = i, ..., i+s,
+				a = sqrt(t_1*t_2), t_1, t_2 are
+		 		lengths of THETA_{is} sequences on
+		 		either side of the discontinuity that
+				remain at a small mean value.
+		 Dominant points (corners):
+			Retain pts. where |K_i| >= |K_j|
+			for all j s.t. |i-j| <= s.
+		}
+)
+
+@InProceedings{Freeman78Generalized,
+  author = 	{H. Freeman and A. Saghri},
+  title = 	{Generalized Chain Codes for Planar Curves},
+  crossref = 	"ICPR78",
+  pages = 	{701--703},
+  lib =		{BOUND/CHAIN},
+  keywords =	{Ring probalities. Chain code and grid size selection.}
+}
+
+@article( Freeman78Shape, 
+  author =	{H. Freeman}, 
+  title =	{Shape Description Via the Use of Critical Points}, 
+  year =	1978, 
+  journal =	PattRec, 
+  volume =	10, 
+  pages =	{159--166}, 
+  lib =		{BOUND/CHAIN},
+  keywords =	{Incremental curvature. Chain quantization noise.
+		 "Cornerity" = prominence of a curvature
+		 discontinuity (see [Freeman--Davis] above).}
+)
+
+@Article{Groen78Freeman,
+  author = 	{F. C. A. Groen and P. W. Verbeek},
+  title = 	{Freeman-code probabilities of object boundary
+		 quantized contours},
+  journal = 	CVGIP,
+  year = 	1978,
+  month =	jun,
+  volume = 	7,
+  number =	3,
+  pages = 	{391--402},
+  lib =		{BOUND/CHAIN},
+  keywords =	{}
+}
+
+@article( McKee77Computer, 
+  author =	{J. W. McKee and J. K. Aggarwal},
+  title =	{Computer Recognition of Partial Views of Curved Objects},
+  year =	1977,
+  month =	aug,
+  journal =	TransComp,
+  volume =	{C-26},
+  number =	8,
+  pages =	{790--800},
+  lib =		{BOUND/CHAIN},
+  keywords =	{EXTENDED chain code: remove in chain sequences
+		 artificial discontinuities with modulo-8 operation.
+		 COMPENSATED chain code: for arc length distance along
+		 diagonal on the rectangular discrete grid (2 steps
+		 along horizontals (verticals); 3 steps along
+		 diagonals.
+		 SMOOTHED chain code: noise filtering.}
+)
+
+@article( Meer88Extraction, 
+  author =	{P. Meer and E. S. Baugher and A. Rosenfeld},
+  title =	{Extraction of Trend Lines and Extrema From Multiscale
+		 Curves},
+  journal =	PattRec, 
+  year =	1988,
+  volume =	21,
+  number =	3,
+  pages =	{217--226},
+  lib =		{BOUND/CHAIN},
+  keywords =	{Chain pyramid.}
+)
+
+@Article{Rosenfeld75Improved,
+  author = 	{A. Rosenfeld and J. S. Weszka},
+  title = 	{An Improved Method of Angle Detection on Digital
+		 Curves},
+  journal = 	TransComp,
+  volume = 	{C-24},
+  pages = 	{940--941},
+  year = 	1975,
+  month = 	sept,
+  lib =		{BOUND/CHAIN},
+  keywords =	{Chain-encoded curve. Maxima of the difference between
+		 successive nonoverlapping average slopes. Smoothed
+		 (averaged) k-cosines. Region of support (h_i).
+		 Computing curvature (k-cosine) at point i :
+			COS_{ik} == cosine of angle between the 2
+			 vectors a_{ik} (leading) and b_{ik} (trailing)
+			a_{ik} == (x_i - x_{i+k}, y_i - y_{i+k})
+			b_{ik} == (x_i - x_{i-k}, y_i - y_{i-k})
+		 Smoothing curvature:
+		      o Select a smoothing factor m (either n/10 or
+			n/15, for a boundary of n pts.) based on the
+			level of detail of the boundary. At each pt.
+			compute: COS_{ik} for k = 1, ..., m .
+		      o Smooth the k-cosines by averaging.
+		 Region of support:
+			Find the largest h (called h_i) s.t.:
+			 COS_{im} < COS_{i,m-1} < ... < COS_{i,h} and
+			 COS_{i,h} >= COS_{i,h-1}
+		 Dominant points:
+			Retain pts. where COS_{i,h_i} >= COS_{i,h_j}
+			for all j s.t. |i - j| <= h_i/2 .
+		}
+}
+
+@Article{Saghri81Analysis,
+  author = 	{A. Saghri and H. Freeman},
+  title = 	{Analysis of the Precision of Generalized Chain Codes
+		 for the Representation of Planar Curves},
+  journal = 	PAMI,
+  year = 	1981,
+  month = 	sept,
+  volume = 	3,
+  number = 	5,
+  pages = 	{533--539},
+  lib =		{BOUND/CHAIN}
+}
+
+@Article{Sriraman89Tree,
+  author = 	{R. Sriraman and J. Koplowitz and S. Mohan},
+  title = 	{Tree Searched Chain Coding for Subpixel
+		 Reconstruction of Planar Curves},
+  journal = 	PAMI,
+  year = 	1989,
+  volume = 	11,
+  number = 	1,
+  pages = 	{95--104},
+  month = 	jan,
+  lib =		{BOUND/CHAIN},
+  keywords =	{Subpixel accuracy reconstruction of line drawings.
+		 4 directional chain codes are considered.
+		 Reconstruction distortion can be reduced by looking
+		 ahead and choosing link sequences other than the
+		 original chain codes. Selected look-ahead algorithm:
+		 (M,L)-algorithm.}
+}
+

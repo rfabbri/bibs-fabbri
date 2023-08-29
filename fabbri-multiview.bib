@@ -1,0 +1,2657 @@
+% TODO
+% - A cite yuliang etal contours
+% - B go over emails which requested about 3D CSK - sample applications
+% - cite recent work on 3D line-based mvg, from astrom and ours etc.
+
+@inproceedings{Kuang:Astrom:ICCV2013,
+  title={Pose Estimation with Unknown Focal Length using Points, Directions and Lines},
+  author={Kuang, Yubin and {\AA}str{\"o}m, Kalle},
+  booktitle={International Conference on Computer Vision},
+  pages={529--536},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{Kuang:Astrom:etal:ICPR2014,
+  title={Revisiting Trifocal Tensor Estimation using Lines},
+  author={Kuang, Yubin and Oskarsson, Magnus and {\AA}str{\"o}m, Kalle},
+  booktitle={Pattern Recognition (ICPR), 2014 22nd International Conference on},
+  pages={2419--2423},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{Astrom:Kahl:PAMI1999,
+  title={Motion estimation in image sequences using the deformation of apparent contours},
+  author={Astrom, K. and Kahl, F.},
+  journal={Pattern Analysis and Machine Intelligence, IEEE Transactions on},
+  volume={21},
+  number={2},
+  pages={114--127},
+  year={1999},
+  publisher={IEEE}
+}
+
+% Quan AC
+% -- looks like it has some curve sketch stuff
+@misc{Quan:etal:2014,
+  title={Generating three-dimensional models from images},
+  author={Quan, L. and Xiao, J. and Fang, T. and Zhao, P.},
+  url={http://www.google.com/patents/US8798965},
+  year={2014},
+  month=aug # "~5",
+  publisher={Google Patents},
+  note={US Patent 8,798,965}
+}
+
+% as a system that produces point clouds to date then meshes
+% cited
+@inproceedings{Zhu:Luong:etal:CVPR2014, 
+  title={Local readjustment for high-resolution {3D} reconstruction},
+  author={Zhu, Siyu and Fang, Tian and Xiao, Jianxiong and Quan, Long},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on},
+  pages={3938--3945},
+  year={2014},
+  organization={IEEE}
+}
+
+
+
+
+% -- cites our stuff:
+
+% Recently, Fabbri et al. [38] developed an algorithm which allows for
+% reconstruct- ing curves in the structure. Although not done here, this
+% approach could provide cues to help tackle the problem of concavities in the
+% structure.
+@inproceedings{Kowdle:etal:ECCV10,
+ author = {Kowdle, Adarsh and Batra, Dhruv and Chen, Wen-Chao and Chen, Tsuhan},
+ title = {iModel: Interactive Co-segmentation for Object of Interest {3D} Modeling},
+ booktitle = {Proceedings of the 11th European Conference on Trends and Topics in Computer Vision - Volume Part II},
+ series = {ECCV'10},
+ year = {2012},
+ isbn = {978-3-642-35739-8},
+ location = {Heraklion, Crete, Greece},
+ pages = {211--224},
+ numpages = {14},
+ doi = {10.1007/978-3-642-35740-4_17},
+ acmid = {2435030},
+ publisher = {Springer-Verlag},
+} 
+
+
+
+% - Good one to cite to argue that curves are 1) more structured than points 2)
+% better for recognition
+% - Cite also as Visual SLAM algo using curve primitives
+% - The paper appreciates our CVPR results as impressive
+% cited
+@INPROCEEDINGS{Rao:etal:IROS2012, 
+author={Rao, D. and Soon-Jo Chung and Hutchinson, S.}, 
+booktitle={IEEE/RSJ Intelligent Robots and Systems (IROS)}, 
+title={{CurveSLAM}: An approach for vision-based navigation without point features}, 
+year={2012}, 
+month={Oct}, 
+pages={4198-4204}, 
+keywords={SLAM (robots);computational geometry;feature extraction;image matching;image representation;image sensors;mobile robots;optimisation;path planning;pose estimation;robot vision;stereo image processing;6DOF pose estimation;CurveSLAM;cubic Bézier curves;curve information extraction;feature point detector;landmark representation;noisy edge measurements;optimization procedure;point utilization;point-based stereo matching;simultaneous localization-and-mapping;stereo camera;stereo vision primitives;structured uncluttered maps;vision-based navigation;visual feature primitives;Cameras;Image edge detection;Navigation;Simultaneous localization and mapping;Vectors;Vehicles;Visualization}, 
+doi={10.1109/IROS.2012.6385764}, 
+ISSN={2153-0858},
+}
+
+@mastersthesis{rao2012curveslam:Masters2012,
+  title={CurveSLAM: utilizing higher level structure in stereo vision-based navigation},
+  author={Rao, Dushyant},
+  year={2012},
+  institution={DTIC Document}
+}
+
+
+% Cites my thesis as the main source of inspiration
+% Uses first-order differential-geometric info for updating terrain models from
+% monocular images with less error.
+%
+@INPROCEEDINGS{Abuhashim:Sukkarieh:IROS2012, 
+author={Abuhashim, T. and Sukkarieh, S.}, 
+booktitle={Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ International Conference on}, 
+title={Incorporating geometric information into Gaussian Process terrain models from monocular images}, 
+year={2012}, 
+month={Oct}, 
+pages={4162-4168}, 
+keywords={Gaussian processes;autonomous aerial vehicles;image processing;regression analysis;terrain mapping;GDP formulation;GPR;Gaussian derivative process;Gaussian process regression;Gaussian process terrain models;UAV;camera motion;depth estimation;geometric information;image pixel;monocular images;unmanned aerial vehicle;Cameras;Estimation;Gaussian processes;Geometry;Joints;Measurement uncertainty;Uncertainty}, 
+doi={10.1109/IROS.2012.6386160}, 
+ISSN={2153-0858},
+}
+
+
+% Proposes a very similar system to the 3D CS, but results look worse somewhat.
+% Their purpose is to do curve fragment 3D object rec intead of in 2D, to
+% eliminate sensitivity to viewpoint.
+% cited
+%
+% - ``the determination of long and salient 3D contour fragments is a rather
+% difficult task''.
+@inproceedings{Wendel:etal:CVWW2011,
+  title={{3D} Geometric Shape Modeling by `{3D} Contour Cloud’ Reconstruction from Stereo Videos},
+  author={Kerstin P\"{o}tsch and Axel Pinz},
+  booktitle={16th Computer Vision Winter Workshop},
+  pages={99},
+  year={2011},
+  organization={Citeseer}
+}
+
+
+% does the same as ours and tries to put surface on top, but use correlation to
+% match curves
+%
+% using a cloud of points and curves they show meshing is more accurate for
+% buildings
+%
+% cited
+@inproceedings{Litvinov:etal:IC3D2012,
+  title={2-manifold reconstruction from sparse visual features},
+  author={Litvinov, Vadim and Yu, Shuda and Lhuillier, Maxime},
+  booktitle={{3D} Imaging (IC3D), 2012 International Conference on},
+  pages={1--8},
+  year={2012},
+  organization={IEEE}
+}
+
+
+% As can be seen, the market is still open for a rapid robot programming method
+% that requires no prior knowledge of the work piece geometry and does not rely on
+% perfect work piece reconstruction, which is based on costly and time consuming
+% reverse engineering. 
+% cited
+@inproceedings{Carlson:etal:ICRA2014,
+  title={Polynomial reconstruction of {3D} sampled curves using auxiliary surface data},
+  author={Carlson, Fredrik Bagge and Vuong, Ngoc Dung and Johansson, Rolf},
+  booktitle={Robotics and Automation (ICRA), 2014 IEEE International Conference on},
+  pages={4411--4416},
+  year={2014},
+  organization={IEEE}
+}
+
+% Cite contour-based alignment of 3D scans as a way of using 3D contours as an
+% efficient shape descriptor for matching.
+
+
+% Cite Yang:Ahuja:TIP2012 as a paper that 
+% - addresses low-texture regions,
+% by starting from contours of the region
+% - says that intensity variations are more robustly captured by contour
+% approaches in stereo
+@article{Yang:Ahuja:TIP2012,
+  title={Stereo matching using epipolar distance transform},
+  author={Yang, Qingxiong and Ahuja, Narendra},
+  journal={Image Processing, IEEE Transactions on},
+  volume={21},
+  number={10},
+  pages={4410--4419},
+  year={2012},
+  publisher={IEEE}
+}
+
+
+% Cite: Chen:Klette: as nonphotorealistic rendering application for 3D contours,
+% since 3D contours can potentially generate a rendered video in a temporally consistent manner.
+@inproceedings{Chen:Klette:IVT2014,
+  title={Animated Non-photorealistic Rendering in Multiple Styles},
+  author={Chen, Ting-Yen and Klette, Reinhard},
+  booktitle={Image and Video Technology--PSIVT 2013 Workshops},
+  pages={12--23},
+  year={2014},
+  organization={Springer}
+}
+
+% - 3D curve drawings for branching structures[Mattingly:etal:JVLC2015]
+% this paper is on 3D modeling but serves to be cited as an importance
+% of recovering junctions
+@article{Mattingly:etal:JVLC2015,
+title = "{3D} modeling of branching structures for anatomical instruction ",
+journal = "Journal of Visual Languages \& Computing ",
+volume = "29",
+number = "0",
+pages = "54 - 62",
+year = "2015",
+note = "",
+issn = "1045-926X",
+doi = "http://dx.doi.org/10.1016/j.jvlc.2015.02.006",
+url = "http://www.sciencedirect.com/science/article/pii/S1045926X15000191",
+author = "William A. Mattingly and Julia H. Chariker and Richard Paris and Dar-jen Chang and John R. Pani"
+}
+
+
+% To get:
+% http://link.springer.com/article/10.1007/s11263-014-0780-y?wt_mc=alerts.TOCjournals
+% http://link.springer.com/referenceworkentry/10.1007/978-0-387-31439-6_780
+% http://dl.acm.org/citation.cfm?id=2620723
+% http://www.sciencedirect.com/science/article/pii/S1474034615000245
+% http://link.springer.com/chapter/10.1007/978-3-642-53926-8_16
+%
+% not directly to ICCV
+% http://link.springer.com/article/10.1007/s10851-014-0528-x?no-access=true
+% 
+
+% Cite as an example application of man-made objects in uncontrolled acquisition
+% cited
+@article{Simoes:etal:SVR2014,
+  author = {Simoes, F. and Almeida, M. and Pinheiro, M. and dos Anjos, R.},
+  title = {Challenges in {3D} Reconstruction from Images for Difficult Large-Scale Objects},
+  journal ={2014 XVI Symposium on Virtual and Augmented Reality},
+  volume = {0},
+  isbn = {978-1-4673-1929-4},
+  year = {2012},
+  pages = {74-83},
+  doi = {http://doi.ieeecomputersociety.org/10.1109/SVR.2012.5},
+  publisher = {IEEE},
+  address = {Los Alamitos, CA, USA},
+}
+
+% Classification and Reconstruction of Surfaces from Point Clouds of Man-made Objects
+% Cite this as an attempt to do surface rec from point clouds
+
+
+% Kanatani
+@incollection{Kanatani:etal:PSIVT2013,
+year={2014},
+isbn={978-3-642-53925-1},
+booktitle={Image and Video Technology – PSIVT 2013 Workshops},
+volume={8334},
+series={Lecture Notes in Computer Science},
+editor={},
+doi={10.1007/978-3-642-53926-8_16},
+title={Initializing 3-D Reconstruction from Three Views Using Three Fundamental Matrices},
+url={http://dx.doi.org/10.1007/978-3-642-53926-8_16},
+publisher={Springer},
+keywords={Initialization of 3-D reconstruction; imaginary focal length degeneracy; three views; three fundamental matrices},
+author={Kanazawa, Yasushi and Sugaya, Yasuyuki and Kanatani, Kenichi},
+pages={169-180},
+language={English}
+}
+
+@article{Kanazawa:Kanatani:etal:IPSJTCVA2014,
+  title={Decomposing Three Fundamental Matrices for Initializing 3-D Reconstruction from Three Views},
+  author={Kanazawa, Yasushi and Sugaya, Yasuyuki and Kanatani, Kenichi},
+  journal={IPSJ Transactions on Computer Vision and Applications},
+  volume={6},
+  pages={120--131},
+  year={2014},
+  publisher={一般社団法人 情報処理学会}
+}
+
+
+@inproceedings{Fabbri:Giblin:Kimia:ECCV12,
+    Author         = {Ricardo Fabbri and Peter J. Giblin and Benjamin B. Kimia},
+    Booktitle      = {Proceedings of the IEEE European Conference in Computer Vision},
+    Crossref       = {ECCV2012},
+    Title          = {Camera Pose Estimation Using First-Order Curve Differential Geometry},
+    Year           = {2012}
+}
+
+@proceedings{ECCV2012,
+  title     = {Computer Vision - ECCV 2012, 12th European Conference on
+               Computer Vision, Firenze, Italy, October 7-13,
+               2012, Proceedings},
+  booktitle = {12th European Conference on
+               Computer Vision, Firenze, Italy, October 7-13,
+               2012},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  year      = {2012}
+}
+
+@proceedings{ECCV2016,
+  title     = {Computer Vision - ECCV 2016, 14th European Conference on
+               Computer Vision, Amsterdam, Netherlands, October 8-16,
+               2016, Proceedings},
+  booktitle = {14th European Conference on
+               Computer Vision, Amsterdam, Netherlands, October 8-16,
+               2016},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  year      = {2016}
+}
+
+@InProceedings{Usumezbas:Fabbri:Kimia:CVPR:2017,
+  author = {Usumezbas, Anil and Fabbri, Ricardo and Kimia, Benjamin B.}, title = {The Surfacing of Multiview 3D Drawings via Lofting and Occlusion Reasoning},
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {July},
+  year = {2017}
+}
+
+@INPROCEEDINGS{Usumezbas:Fabbri:Kimia:ECCV16,
+    Author         = {Anil Usumezbas and Ricardo Fabbri and Benjamin B. Kimia},
+    Booktitle      = {Proceedings of the European Conference in Computer Vision},
+    Title          = {From multiview image curves to {3D} drawings},
+    Year           = {2016},
+}
+
+@PROCEEDINGS{CVPR2016,
+  title = {CVPR'16: IEEE Conference on Computer Vision and
+    Pattern Recognition},
+  year = {2016},
+  address = {Las Vegas, Nevada, USA},
+  publisher = {IEEE Computer Society Press},
+  month = {},
+  author = {Proceedings},
+  booktitle = {Proceedings of the IEEE Computer Society Conference on Computer Vision
+    and Pattern Recognition},
+  key = {CVPR2016}
+}
+
+
+@inproceedings{Fabbri:Kimia:EMMCVPR2005,
+  title={High-order differential geometry of curves for multiview reconstruction and matching},
+  author={Fabbri, Ricardo and Kimia, Benjamin B},
+  booktitle={Energy Minimization Methods in Computer Vision and Pattern Recognition},
+  pages={645--660},
+  year={2005},
+  organization={Springer}
+}
+
+% Frahm reconstructing the world in six days as a system that still produces
+% point clouds to date
+% cited
+@inproceedings{Heinly:Frahm:etal:CVPR2015,
+	title = {Reconstructing the World in Six Days},
+	author = {Jared Heinly and Johannes Lutz Sch\"{o}nberger and Enrique Dunn and Jan-Michael Frahm},
+	booktitle = {Computer Vision and Pattern Recognition},
+	year = {2015}
+}
+
+% Crucial competitor to the 3D drawing paper
+@inproceedings{Teney:Piater:3DIMPVT12,
+ author = {Teney, Damien and Piater, Justus},
+ title = {Sampling-Based Multiview Reconstruction Without Correspondences for {3D} Edges},
+ booktitle = {Proceedings},
+ series = {3DIMPVT '12},
+ year = {2012},
+ isbn = {978-0-7695-4873-9},
+ pages = {160--167},
+ numpages = {8},
+ url = {http://dx.doi.org/10.1109/3DIMPVT.2012.28},
+ doi = {10.1109/3DIMPVT.2012.28},
+ acmid = {2415838},
+ publisher = {IEEE},
+ address = {Washington, DC, USA},
+} 
+
+% to cite about use of line primitives
+% cited
+@phdthesis{Zhang:line:PHDThesis2013,
+  title={Line Primitives and Their Applications in Geometric Computer Vision},
+  author={Zhang, Lilian},
+  year={2013},
+  school={Department of Computer Science, Univ.}
+}
+
+% cites zhang:line
+% cited
+@inproceedings{Lebeda:etal:ACCV2014,
+  title={{2D} Or Not {2D}: Bridging the Gap Between Tracking and Structure from Motion},
+  author={Lebeda, Karel and Hadfield, Simon and Bowden, Richard},
+  booktitle={Proc. of ACCV},
+  year={2014}
+}
+
+
+% AC
+% cite saying that we will examine new contour detections as well
+% cited
+@article{Bertasius:Shi:Torresani:CVPR2015,
+  title={DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection},
+  author={Bertasius, Gedas and Shi, Jianbo and Torresani, Lorenzo},
+  journal={CVPR 2015, to appear, arXiv preprint arXiv:1412.1123},
+  year={2014}
+}
+
+% Orientation important
+% cited
+@article{Fleming:etal:PNAS2011,
+  title={Estimation of {3D} shape from image orientations},
+  author={Fleming, Roland W and Holtmann-Rice, Daniel and B{\"u}lthoff, Heinrich H},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={108},
+  number={51},
+  pages={20438--20443},
+  year={2011},
+  publisher={National Acad Sciences}
+}
+
+
+% Perceptually shading is imporrant only near curves (Koenderink papers plus the
+% picasso one saying no shading is often needed:
+% TODO: search for this and look for citation to Koenderink to check opinion
+@incollection{Kunsberg:Zucker:LNM2014,
+  year={2014},
+  isbn={978-3-642-34443-5},
+  booktitle={Neuromathematics of Vision},
+  series={Lecture Notes in Morphogenesis},
+  editor={},
+  doi={10.1007/978-3-642-34444-2_3},
+  title={Why Shading Matters along Contours},
+  publisher={Springer},
+  author={Kunsberg, Benjamin and Zucker, Steven W.},
+  pages={107-129},
+  language={English}
+}
+% Abstract:
+% Shape from shading is a classical inverse problem in computer vision. It is
+% inherently ill-defined and, in different formulations, it depends on the assumed
+% light source direction. In contrast to these mathematical difficulties, we
+% introduce a novel mathematical formulation for calculating local surface shape
+% based on covariant derivatives of the shading flow field, rather than the
+% customary integral minimization or P.D.E approaches.Working with the shading
+% flow field rather than the original image intensities is important to both
+% neurogeometry and neurophysiology. To make the calculations concrete we assume a
+% Lambertian model for image formation, butwe do not make global light source
+% positional assumptions. In particular, for smooth surfaces in generic position,
+% we show that second derivatives of brightness are independent of the light
+% sources and can be directly related to surface properties. We use these
+% measurements to define the matching local family of surfaces that could result
+% from a given shading patch. In total our results change the emphasis from
+% seeking a single, well-define solution to an ill-posed problem to characterizing
+% the ambiguity in possible solutions to this problem. The result is relevant both
+% mathematically and perceptually, because we then show how the equations simplify
+% and the ambiguity reduces are certain critical points of intensity. We conclude
+% with a discussion of image reconstruction at these critical points.
+
+
+% cited by the above zucker paper as examples where contours trump shading info
+@article{Koenderink:Wagemans:etal:iPerception2013,
+  title={{SfS?} Not likely\dots},
+  author={Koenderink, Jan and van Doorn, Andrea and Wagemans, Johan},
+  journal={i-Perception},
+  volume={4},
+  number={5},
+  pages={299},
+  year={2013},
+  publisher={Pion Publications}
+}
+
+% Generic zucker paper to cite among curve stereo
+% cites the above sfs papers
+@article{Zucker:PIEEE2014,
+        AUTHOR = "Zucker, S.W.",
+        TITLE = "Stereo, Shading, and Surfaces: Curvature Constraints Couple Neural Computations",
+        JOURNAL = "Proceedings of the IEEE",
+        VOLUME = "102",
+        YEAR = "2014",
+        NUMBER = "5",
+        MONTH = "May",
+        PAGES = "812-829",
+        BIBSOURCE = "http://www.visionbib.com/bibliography/shapefrom374.html#TT44695"
+}
+
+@inproceedings{Diskin:Asari:ICSMC2013,
+  title={3D scene reconstruction for aiding unmanned vehicle navigation},
+  author={Diskin, Yakov and Asari, Vijayan K},
+  booktitle={Proceedings of the 2013 IEEE International Conference on Systems, Man, and Cybernetics},
+  pages={243--248},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{Diskin:Asari:SPIEDSS2012,
+  title={Dense point-cloud creation using superresolution for a monocular {3D} reconstruction system},
+  author={Diskin, Yakov and Asari, Vijayan K},
+  booktitle={Defense, Security, and Sensing},
+  pages={83990N--83990N},
+  year={2012},
+  organization={SPIE}
+}
+
+@article{Diskin:Vijayan:JEI2015,
+  author = {Diskin, Yakov and Asari, Vijayan},
+  title = {Dense point-cloud representation of a scene using monocular vision},
+  journal = {Journal of Electronic Imaging},
+  volume = {24},
+  number = {2},
+  pages = {023003},
+  year = {2015},
+  isbn = {1017-9909},
+  doi = {10.1117/1.JEI.24.2.023003},
+  URL = { http://dx.doi.org/10.1117/1.JEI.24.2.023003},
+  eprint = {}
+}
+
+
+@mastersthesis{Diskin:MscThesis2013,
+  title={Dense {3D} Point Cloud Representation of a Scene Using Uncalibrated Monocular Vision},
+  author={Diskin, Yakov},
+  year={2013},
+  school={University of Dayton}
+}
+
+% cited
+@inproceedings{Ruizhe:Medioni:CVPR2014,
+  title={{3D} modeling from wide baseline range scans using contour coherence},
+  author={Wang, Ruizhe and Choi, Jongmoo and Medioni, G{\'e}rard},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on},
+  pages={4018--4025},
+  year={2014},
+  organization={IEEE}
+}
+
+% recent one that uses 3D curve reconstruction
+@incollection{Carrasco:etal:LNCS2012,
+  year={2012},
+  isbn={978-3-642-31148-2},
+  booktitle={Pattern Recognition},
+  volume={7329},
+  series={Lecture Notes in Computer Science},
+  editor={},
+  doi={10.1007/978-3-642-31149-9_13},
+  title={Vision System for {3D} Reconstruction with Telecentric Lens},
+  publisher={Springer},
+  author={Rico Espino, JoséGuadalupe and Gonzalez-Barbosa, José-Joel and Gómez Loenzo, RobertoAugusto and Córdova Esparza, DianaMargarita and Gonzalez-Barbosa, Ricardo},
+  pages={127-136},
+  language={English}
+}
+
+% cite as application of transmittng models,
+% and as failure of keypoints for man-made such as cars
+@inproceedings{Shinozuka:Saito:VRIC14,
+ author = {Shinozuka, Yukiko and Saito, Hideo},
+ title = {Sharing {3D} Object with Multiple Clients via Networks Using Vision-based {3D} Object Tracking},
+ booktitle = {Proceedings of the 2014 Virtual Reality International Conference},
+ series = {VRIC '14},
+ year = {2014},
+ isbn = {978-1-4503-2626-1},
+ location = {Laval, France},
+ pages = {34:1--34:4},
+ articleno = {34},
+ numpages = {4},
+ url = {http://doi.acm.org/10.1145/2617841.2620723},
+ doi = {10.1145/2617841.2620723},
+ acmid = {2620723},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {3D object tracking, augmented reality, networks},
+}
+
+
+@article{Fathi:etal:AEI2015,
+  title = "Automated as-built {3D} reconstruction of civil infrastructure using computer vision: Achievements, opportunities, and challenges",
+  journal = "Advanced Engineering Informatics ",
+  year = "2015",
+  note = "",
+  issn = "1474-0346",
+  doi = "http://dx.doi.org/10.1016/j.aei.2015.01.012",
+  url = "http://www.sciencedirect.com/science/article/pii/S1474034615000245",
+  author = "Habib Fathi and Fei Dai and Manolis Lourakis",
+  keywords = "Structure from motion",
+  keywords = "Civil infrastructure",
+  keywords = "Image-based {3D} reconstruction",
+  keywords = "Spatial data collection",
+  keywords = "Point cloud "
+}
+
+@article{Zia:Stark:Schindler:IJCV2015,
+  year={2015},
+  issn={0920-5691},
+  journal={International Journal of Computer Vision},
+  volume={112},
+  number={2},
+  doi={10.1007/s11263-014-0780-y},
+  title={Towards Scene Understanding with Detailed {3D} Object Representations},
+  url={http://dx.doi.org/10.1007/s11263-014-0780-y},
+  publisher={Springer US},
+  author={Zia, M.Zeeshan and Stark, Michael and Schindler, Konrad},
+  pages={188-203},
+  language={English}
+}
+
+
+@inproceedings{Feng:Medioni:etal:SIGGRAPH14,
+ author = {Feng, Andrew and Shapiro, Ari and Ruizhe, Wang and Bolas, Mark and Medioni, Gerard and Suma, Evan},
+ title = {Rapid Avatar Capture and Simulation Using Commodity Depth Sensors},
+ booktitle = {ACM SIGGRAPH 2014 Talks},
+ series = {SIGGRAPH '14},
+ year = {2014},
+ isbn = {978-1-4503-2960-6},
+ location = {Vancouver, Canada},
+ pages = {16:1--16:1},
+ articleno = {16},
+ numpages = {1},
+ url = {http://doi.acm.org/10.1145/2614106.2614182},
+ doi = {10.1145/2614106.2614182},
+ acmid = {2614182},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Kinect, animation, image capture},
+} 
+
+
+% ------------------------------------
+% -- Voxel world --
+
+@article{Restrepo:etal:JPRS2014,
+  title={Evaluation of feature-based 3-{D} registration of probabilistic volumetric scenes},
+  author={Restrepo, Maria I and Ulusoy, Ali O and Mundy, Joseph L},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={98},
+  pages={1--18},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@inproceedings{Restrepo:etal:ICPRAM2012,
+  title={Object Recognition in Probabilistic 3-{D} Volumetric Scenes.},
+  author={Restrepo, Maria I and Mayer, Brandon A and Mundy, Joseph L},
+  booktitle={ICPRAM (2)},
+  pages={180--190},
+  year={2012}
+}
+
+@article{Restrepo:etal:JSTSP2012,
+  title={Characterization of 3-{D} volumetric probabilistic scenes for object recognition},
+  author={Restrepo, Maria I and Mayer, Brandon A and Ulusoy, Ali O and Mundy, Joseph L},
+  journal={Selected Topics in Signal Processing, IEEE Journal of},
+  volume={6},
+  number={5},
+  pages={522--537},
+  year={2012},
+  publisher={IEEE}
+}
+
+@inproceedings{Restrepo:Mundy:BMVC12,
+  title={An Evaluation of Local Shape Descriptors in Probabilistic Volumetric Scenes.},
+  author={Restrepo, Maria I and Mundy, Joseph L},
+  booktitle={BMVC},
+  pages={1--11},
+  year={2012}
+}
+
+@inproceedings{Calakli:etal:3DIMPVT2012,
+  title={High resolution surface reconstruction from multi-view aerial imagery},
+  author={Calakli, Fatih and Ulusoy, Ali O and Restrepo, Maria I and Taubin, Gabriel and Mundy, Joseph L},
+  booktitle={3DIMPVT'12},
+  pages={25--32},
+  year={2012},
+  organization={IEEE}
+}
+
+% ! -- Voxel world --
+% ------------------------------------
+
+@INPROCEEDINGS{Strecha:etal:CVPR2008, 
+  author={Strecha, C. and von Hansen, W. and Van Gool, L. and Fua, P. and Thoennessen, U.}, 
+  booktitle={Computer Vision and Pattern Recognition, 2008. CVPR 2008. IEEE Conference on}, 
+  title={On benchmarking camera calibration and multi-view stereo for high resolution imagery}, 
+  year={2008}, 
+  month={June}, 
+  pages={1-8}, 
+  keywords={calibration;cameras;image resolution;pose estimation;solid modelling;stereo image processing;3D modelling;LIDAR;camera calibration;camera parameter;high resolution imagery;multiview stereo;pose estimation;Calibration;Cameras;Clouds;Data acquisition;Image resolution;Laser radar;Layout;Rendering (computer graphics);Shape measurement;Three dimensional displays}, 
+  doi={10.1109/CVPR.2008.4587706}, 
+  ISSN={1063-6919},
+}
+
+
+@inproceedings{Jensen:etal:CVPR14,
+  title = {Large Scale Multi-view Stereopsis Evaluation},
+  author = {Jensen, R. and Dahl, A. and Vogiatzis, G. and Tola, E. and Aan\ae s H.},
+  booktitle = {CVPR'14},
+  year = {2014},
+}
+
+@inproceedings{Baatz:Pollefeys:etal:ECCV12,
+ author = {Baatz, Georges and Saurer, Olivier and K\"{o}ser, Kevin and Pollefeys, Marc},
+ title = {Large Scale Visual Geo-localization of Images in Mountainous Terrain},
+ booktitle = {Proceedings of the 12th European Conference on Computer Vision - Volume Part II},
+ series = {ECCV'12},
+ year = {2012},
+ isbn = {978-3-642-33708-6},
+ location = {Florence, Italy},
+ pages = {517--530},
+ numpages = {14},
+ doi = {10.1007/978-3-642-33709-3_37},
+ acmid = {2403045},
+ publisher = {Springer-Verlag},
+ address = {Berlin, Heidelberg},
+} 
+
+@article{Damon:Giblin:etal:IJCV2009,
+  title={Local image features resulting from 3-dimensional geometric features, illumination, and movement: I},
+  author={Damon, James and Giblin, Peter and Haslinger, Gareth},
+  journal={International journal of computer vision},
+  volume={82},
+  number={1},
+  pages={25--47},
+  year={2009},
+  publisher={Springer}
+}
+
+@inproceedings{Yuliang:etal:CVPR14,
+  title={A Multi-stage Approach to Curve Extraction},
+  author={Guo, Yuliang and Kumar, Naman and Narayanan, Maruthi and Kimia, Benjamin},
+  booktitle = {CVPR'14},
+  year = {2014}
+}
+
+@inproceedings{Guo:etal:CVPR14,
+  title={A Multi-stage Approach to Curve Extraction},
+  author={Guo, Yuliang and Kumar, Naman and Narayanan, Maruthi and Kimia, Benjamin},
+  booktitle = {CVPR'14},
+  year = {2014}
+}
+
+@article{Guo:etal:PAMI2017:submitted,
+  title={A Multi-stage Approach to Curve Extraction},
+  author={Guo, Yuliang and Narayanan, Maruthi and Kimia, Benjamin},
+  journal={Pattern Analysis and Machine Intelligence, IEEE Transactions on},
+  volume={},
+  number={},
+  pages={},
+  year={2017},
+  publisher={IEEE},
+  note={submitted}
+}
+
+@book{Yee:architectural:book,
+  title={Architectural Drawing: A Visual Compendium of Types and Methods},
+  author={Yee, R.},
+  isbn={9781118310403},
+  url={https://books.google.com/books?id=UwWai1uM-HsC},
+  year={2012},
+  publisher={Wiley}
+}
+
+@book{Leggitt:drawing:book,
+  title={Drawing Shortcuts: Developing Quick Drawing Skills Using Today's Technology},
+  author={Leggitt, J.},
+  isbn={9780470639139},
+  url={https://books.google.com/books?id=ZrDzCQAAQBAJ},
+  year={2015},
+  publisher={Wiley}
+}
+
+@article{Aan:Pedersen:etal:IJCV2012,
+  title={Interesting Interest Points},
+  author={Aan, H. and Dahl, A.~L. and Pedersen, K.},
+  journal={International journal of computer vision},
+  year={2012},
+  publisher={Springer}
+}
+
+@article{Li:Zucker:IJCV2006,
+  title={Contextual inference in contour-based stereo correspondence},
+  author={Li, Gang and Zucker, Steven W},
+  journal={International Journal of Computer Vision},
+  volume={69},
+  number={1},
+  pages={59--75},
+  year={2006},
+  publisher={Springer}
+}
+
+@inproceedings{Zhuang:Haralick:CAIA1984,
+  title={Rigid body motion and the optic flow image},
+  author={Zhuang, Xinhua and Haralick, Robert M},
+  booktitle={Proceedings of the First Conference on Artificial Intelligence Applications, IEEE Computer Society},
+  pages={366--375},
+  year={1984}
+}
+
+@inproceedings{Vieville:Faugeras:ICCV1995,
+  title={Motion analysis with a camera with unknown, and possibly varying intrinsic parameters},
+  author={Vi{\'e}ville, Thierry and Faugeras, Olivier D},
+  booktitle={Computer Vision, 1995. Proceedings., Fifth International Conference on},
+  pages={750--756},
+  year={1995},
+  organization={IEEE}
+}
+
+@Article{Valgaerts:etal:IJCV2012,
+author="Valgaerts, Levi
+and Bruhn, Andr{\'e}s
+and Mainberger, Markus
+and Weickert, Joachim",
+title="Dense versus Sparse Approaches for Estimating the Fundamental Matrix",
+journal="International Journal of Computer Vision",
+year="2012",
+volume="96",
+number="2",
+pages="212--234",
+abstract="There are two main strategies for solving correspondence problems in computer vision: sparse local feature based approaches and dense global energy based methods. While sparse feature based methods are often used for estimating the fundamental matrix by matching a small set of sophistically optimised interest points, dense energy based methods mark the state of the art in optical flow computation. The goal of our paper is to show that this separation into different application domains is unnecessary and can be bridged in a natural way. As a first contribution we present a new application of dense optical flow for estimating the fundamental matrix. Comparing our results with those obtained by feature based techniques we identify cases in which dense methods have advantages over sparse approaches. Motivated by these promising results we propose, as a second contribution, a new variational model that recovers the fundamental matrix and the optical flow simultaneously as the minimisers of a single energy functional. In experiments we show that our coupled approach is able to further improve the estimates of both the fundamental matrix and the optical flow. Our results prove that dense variational methods can be a serious alternative even in classical application domains of sparse feature based approaches.",
+issn="1573-1405",
+doi="10.1007/s11263-011-0466-7",
+url="http://dx.doi.org/10.1007/s11263-011-0466-7"
+}
+
+@incollection{Schneevoigt:etal:PR2014,
+  title={A Dense Pipeline for 3D Reconstruction from Image Sequences},
+  author={Schneevoigt, Timm and Schroers, Christopher and Weickert, Joachim},
+  booktitle={Pattern Recognition},
+  pages={629--640},
+  year={2014},
+  publisher={Springer}
+}
+
+@Article{Astrom:Heyden:IJCV1998,
+author="{\AA}str{\"o}m, Kalle
+and Heyden, Anders",
+title="Continuous Time Matching Constraints for Image Streams",
+journal="International Journal of Computer Vision",
+volume="28",
+number="1",
+pages="85--96",
+year="1998",
+abstract="Corresponding image points of a rigid object in a discrete sequence of images fulfil the so-called multilinear constraint. In this paper the continuous time analogue of this constraint, for a continuous stream of images, is introduced and studied. The constraint links the Taylor series expansion of the motion of the image points with the Taylor series expansion of the relative motion and orientation between the object and the camera. The analysis is done both for calibrated and uncalibrated cameras. Two simplifications are also presented for the uncalibrated camera case. One simplification is made using an affine reduction and the so-called kinetic depths. The second simplification is based upon a projective reduction with respect to the image of a planar configuration. The analysis shows that the constraint involving second-order derivatives are needed to determine camera motion. Experiments with real and simulated data are also presented.",
+issn="1573-1405",
+doi="10.1023/A:1008006815607",
+url="http://dx.doi.org/10.1023/A:1008006815607"
+}
+
+
+@inproceedings{Stewenius:etal:CVPR2007,
+  title={An efficient minimal solution for infinitesimal camera motion},
+  author={Stew{\'e}nius, Henrik and Engels, Chris and Nist{\'e}r, David},
+  booktitle={Computer Vision and Pattern Recognition, 2007. CVPR'07. IEEE Conference on},
+  pages={1--8},
+  year={2007},
+  organization={IEEE}
+}
+
+@Article{Lin:etal:IJCV2009,
+author="Lin, Wen-Yan
+and Tan, Geok-Choo
+and Cheong, Loong-Fah",
+title="When Discrete Meets Differential",
+journal="International Journal of Computer Vision",
+year="2009",
+volume="86",
+number="1",
+pages="87--110",
+abstract="We provide a theoretical proof showing that under a proportional noise model, the discrete eight point algorithm behaves similarly to the differential eight point algorithm when the motion is small. This implies that the discrete algorithm can handle arbitrarily small motion for a general scene, as long as the noise decreases proportionally with the amount of image motion and the proportionality constant is small enough. This stability result extends to all normalized variants of the eight point algorithm. Using simulations, we show that given arbitrarily small motions and proportional noise regime, the normalized eight point algorithms outperform their differential counterparts by a large margin. Using real data, we show that in practical small motion problems involving optical flow, these discrete structure from motion (SFM) algorithms also provide better estimates than their differential counterparts, even when the motion magnitudes reach sub-pixel level. The better performance of these normalized discrete variants means that there is much to recommend them as differential SFM algorithms that are linear and normalized.",
+issn="1573-1405",
+doi="10.1007/s11263-009-0260-y",
+url="http://dx.doi.org/10.1007/s11263-009-0260-y"
+}
+
+
+@inproceedings{Tian:etal:CVPR1996,
+  title={Comparison of approaches to egomotion computation},
+  author={Tian, Tina Y and Tomasi, Carlo and Heeger, David J},
+  booktitle={Computer Vision and Pattern Recognition, 1996. Proceedings CVPR'96, 1996 IEEE Computer Society Conference on},
+  pages={315--320},
+  year={1996},
+  organization={IEEE}
+}
+
+@Article{Kanatani:IJCV1993,
+author="Kanatani, Kenichi",
+title="3-D interpretation of optical flow by renormalization",
+journal="International Journal of Computer Vision",
+volume="11",
+number="3",
+pages="267--282",
+year ="1993",
+abstract="This article studies 3-D interpretation of optical flow induced by a general camera motion relative to a surface of general shape. First, we describe, using the ``image sphere representation,'' an analytical procedure that yields an exact solution when the data are exact: we solve theepipolar equation written in terms of theessential parameters and thetwisted optical flow. Introducing a simple model of noise, we then show that the solution is ``statistically biased.'' In order to remove the statistical bias, we propose an algorithm calledrenormalization, which automatically adjusts to unknown image noise. A brief discussion is also given to thecritical surface that yields ambiguous 3-D interpretations and the use of theimage plane representation.",
+issn="1573-1405",
+doi="10.1007/BF01469345",
+url="http://dx.doi.org/10.1007/BF01469345"
+}
+
+@article{Ponce:Genc:IJCV2998,
+  title={Epipolar geometry and linear subspace methods: a new approach to weak calibration},
+  author={Ponce, Jean and Genc, Yakup},
+  journal={International Journal of Computer Vision},
+  volume={28},
+  number={3},
+  pages={223--243},
+  year={1998},
+  publisher={Springer}
+}
+@article{Brooks:etal:JOSA1997, 
+author = {Michael J. Brooks and Wojciech Chojnacki and Luis Baumela}, 
+journal = {J. Opt. Soc. Am. A}, 
+keywords = {},
+number = {10}, 
+pages = {2670--2677}, 
+publisher = {OSA},
+title = {Determining the egomotion of an uncalibrated camera from instantaneous optical flow}, 
+volume = {14}, 
+month = {Oct},
+year = {1997},
+url = {http://josaa.osa.org/abstract.cfm?URI=josaa-14-10-2670},
+doi = {10.1364/JOSAA.14.002670},
+abstract = {A procedure is described for self-calibration of a moving camera from instantaneousoptical flow. Under certain assumptions this procedure allows the egomotionand some intrinsic parameters of the camera to be determined solely from theinstantaneous positions and velocities of a set of image features. The proposedmethod relies on the use of a differential epipolar equation that relatesoptical flow to the egomotion and the internal geometry of the camera. A detailedderivation of this equation is presented. This aspect of the work may be seenas a recasting into an analytical framework of the pivotal research of {\textless}author order$=$"1"{\textgreater}  {\textless}name{\textgreater}    {\textless}last{\textgreater}Vi\'{e}ville{\textless}/last{\textgreater}  {\textless}/name{\textgreater}{\textless}/author{\textgreater}{\textless}author order$=$"2"{\textgreater}  {\textless}name{\textgreater}    {\textless}last{\textgreater}Faugeras{\textless}/last{\textgreater}  {\textless}/name{\textgreater}{\textless}/author{\textgreater} \[Proceedings of the Fifth International Conference on Computer Vision (IEEE Computer Society Press, Los Alamitos, Calif., 1995), pp. 750--756\].The information about the camera's egomotion and internal geometry entersthe differential epipolar equation via two matrices. It emerges that the opticalflow determines the composite ratio of some of the entries of the two matrices.It is shown that a camera with unknown focal length undergoing arbitrary motioncan be self-calibrated by means of closed-form expressions in the compositeratio. The corresponding formulas specify five egomotion parameters as wellas the focal length and its derivative. A procedure is presented for reconstructingthe viewed scene, up to a scale factor, from the derived self-calibrationdata and the optical flow data. Experimental results are given to demonstratethe correctness of the approach.},
+}
+
+@Inbook{Faugeras:ECCV1990,
+author="Faugeras, Olivier",
+editor="Faugeras, O.",
+chapter="On the motion of 3D curves and its relationship to optical flow",
+title="Computer Vision --- ECCV 90: First European Conference on Computer Vision Antibes, France, April 23--27, 1990 Proceedings",
+year="1990",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="105--117",
+isbn="978-3-540-47011-3",
+doi="10.1007/BFb0014856",
+url="http://dx.doi.org/10.1007/BFb0014856"
+}
+
+@book{cipolla1996active,
+  title={Active visual inference of surface shape},
+  author={Cipolla, Roberto},
+  volume={1016},
+  year={1996},
+  publisher={Springer New York}
+}
+
+@PHDTHESIS{Cipolla:PHD:1991,
+    Address        = {Univesity of Oxford},
+    Author         = {Roberto Cipolla},
+    Address        = {Univesity of Oxford},
+    Title          = {Active Visual Inference of Surface Shape},
+    Type           = {{Ph.D.} Dissertation},
+    Year           = {1991}
+}
+
+@article{Giblin:Weiss:IVC1995,
+  title={Epipolar curves on surfaces},
+  author={Giblin, Peter J and Weiss, Richard S},
+  journal={Image and Vision Computing},
+  volume={13},
+  number={1},
+  pages={33--44},
+  year={1995},
+  publisher={Elsevier}
+}
+
+@incollection{Faugeras:Papadopoulo:Chapter1992,
+ author = {Faugeras, Olivier and Papadopoulo, Th{\'e}o},
+ chapter = {Disambiguating Stereo Matches with Spatio-temporal Surfaces},
+ title = {Geometric Invariance in Computer Vision},
+ editor = {Mundy, Joseph L. and Zisserman, Andrew},
+ year = {1992},
+ isbn = {0-262-13285-0},
+ pages = {310--331},
+ numpages = {22},
+ url = {http://dl.acm.org/citation.cfm?id=153634.153650},
+ acmid = {153650},
+ publisher = {MIT Press},
+ address = {Cambridge, MA, USA},
+} 
+
+@article{Fabbri:Kimia:IJCV2016,
+  title={Multiview Differential Geometry of Curves},
+  author={Fabbri, Ricardo and Kimia, Benjamin B},
+  journal={International Journal of Computer Vision},
+  pages={1--23},
+  year={2016},
+  volume = {117},
+  doi="10.1007/s11263-016-0912-7",
+  url="http://dx.doi.org/10.1007/s11263-016-0912-7",
+  publisher={Springer}
+}
+
+
+@article{Furukawa:Ponce:PAMI2010,
+ author = {Furukawa, Yasutaka and Ponce, Jean},
+ title = {Accurate, Dense, and Robust Multiview Stereopsis},
+ journal = {IEEE Trans. Pattern Anal. Mach. Intell.},
+ issue_date = {August 2010},
+ volume = {32},
+ number = {8},
+ month = aug,
+ year = {2010},
+ issn = {0162-8828},
+ pages = {1362--1376},
+ numpages = {15},
+ url = {http://dx.doi.org/10.1109/TPAMI.2009.161},
+ doi = {10.1109/TPAMI.2009.161},
+ acmid = {1830134},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+ keywords = {3D/stereo scene analysis, Computer vision, Computer vision, 3D/stereo scene analysis, modeling and recovery of physical attributes, motion, shape., modeling and recovery of physical attributes, motion, shape.},
+} 
+
+@inproceedings{Furukawa:Ponce:CVPR2007,
+  author    = {Yasutaka Furukawa and
+               Jean Ponce},
+  title     = {Accurate, Dense, and Robust Multi-View Stereopsis},
+  booktitle = {2007 {IEEE} Computer Society Conference on Computer Vision and Pattern Recognition {(CVPR} 2007), 18-23 June 2007, Minneapolis, Minnesota, {USA}},
+  year      = {2007},
+  url       = {http://dx.doi.org/10.1109/CVPR.2007.383246},
+  doi       = {10.1109/CVPR.2007.383246},
+  timestamp = {Tue, 25 Nov 2014 17:05:17 +0100},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/cvpr/FurukawaP07},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@inproceedings{Habbecke:Kobbelt:CVPR2007,
+  author    = {Martin Habbecke and
+               Leif Kobbelt},
+  title     = {A Surface-Growing Approach to Multi-View Stereo Reconstruction},
+  booktitle = {2007 {IEEE} Computer Society Conference on Computer Vision and Pattern Recognition {(CVPR} 2007), 18-23 June 2007, Minneapolis, Minnesota, {USA}},
+  year      = {2007},
+  url       = {http://dx.doi.org/10.1109/CVPR.2007.383195},
+  doi       = {10.1109/CVPR.2007.383195},
+  timestamp = {Tue, 25 Nov 2014 17:05:17 +0100},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/cvpr/HabbeckeK07},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@article{Hernandez:Schmitt:CVIU04,
+ author = {Esteban, Carlos Hern\'{a}ndez and Schmitt, Francis},
+ title = {Silhouette and Stereo Fusion for 3D Object Modeling},
+ journal = {Comput. Vis. Image Underst.},
+ issue_date = {December 2004},
+ volume = {96},
+ number = {3},
+ month = dec,
+ year = {2004},
+ issn = {1077-3142},
+ pages = {367--392},
+ numpages = {26},
+ url = {http://dx.doi.org/10.1016/j.cviu.2004.03.016},
+ doi = {10.1016/j.cviu.2004.03.016},
+ acmid = {1052098},
+ publisher = {Elsevier Science Inc.},
+ address = {New York, NY, USA},
+ keywords = {3D reconstruction, deformable model, multigrid gradient vector flow, texture, visual hull},
+} 
+
+@inproceedings{Goesele:etal:ICCV07,
+  author    = {Michael Goesele and
+               Noah Snavely and
+               Brian Curless and
+               Hugues Hoppe and
+               Steven M. Seitz},
+  title     = {Multi-View Stereo for Community Photo Collections},
+  booktitle = {{IEEE} 11th International Conference on Computer Vision, {ICCV} 2007,
+               Rio de Janeiro, Brazil, October 14-20, 2007},
+  pages     = {1--8},
+  year      = {2007},
+  url       = {http://dx.doi.org/10.1109/ICCV.2007.4408933},
+  doi       = {10.1109/ICCV.2007.4408933},
+  timestamp = {Thu, 12 May 2016 10:37:23 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/iccv/GoeseleSCHS07},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@article{Berthilsson:etal:IJCV2001,
+  author    = {Rikard Berthilsson and
+               Kalle {\AA}str{\"{o}}m and
+               Anders Heyden},
+  title     = {Reconstruction of General Curves, Using Factorization and Bundle Adjustment},
+  journal   = {International Journal of Computer Vision},
+  volume    = {41},
+  number    = {3},
+  pages     = {171--182},
+  year      = {2001},
+  url       = {http://dx.doi.org/10.1023/A:1011104020586},
+  doi       = {10.1023/A:1011104020586},
+  timestamp = {Tue, 24 May 2011 14:17:28 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/ijcv/BerthilssonAH01},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@article{Liu:Cooper:etal:PAMI07,
+  author    = {Shubao Liu and
+               Kongbin Kang and
+               Jean{-}Philippe Tarel and
+               David B. Cooper},
+  title     = {Free-Form Object Reconstruction from Silhouettes, Occluding Edges
+               and Texture Edges: {A} Unified and Robust Operator Based on Duality},
+  journal   = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
+  volume    = {30},
+  number    = {1},
+  pages     = {131--146},
+  year      = {2008},
+  url       = {http://dx.doi.org/10.1109/TPAMI.2007.1143},
+  doi       = {10.1109/TPAMI.2007.1143},
+  timestamp = {Sat, 12 Mar 2016 09:04:09 +0100},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/pami/LiuKTC08},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@inproceedings{Crispell:etal:LNCS2009,
+  author    = {Gabriel Taubin and
+               Daniel E. Crispell and
+               Douglas Lanman and
+               Peter G. Sibley and
+               Yong Zhao},
+  title     = {Shape from Depth Discontinuities},
+  booktitle = {Emerging Trends in Visual Computing, {LIX} Fall Colloquium, {ETVC}
+               2008, Palaiseau, France, November 18-20, 2008. Revised Invited Papers},
+  pages     = {216--237},
+  year      = {2008},
+  doi       = {10.1007/978-3-642-00826-9_9},
+  timestamp = {Mon, 30 Mar 2009 13:07:13 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/etvc/TaubinCLSZ08},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@article{Cole:etal:SIGGRAPH09,
+ author = {Cole, Forrester and Sanik, Kevin and DeCarlo, Doug and Finkelstein, Adam and Funkhouser, Thomas and Rusinkiewicz, Szymon and Singh, Manish},
+ title = {How Well Do Line Drawings Depict Shape?},
+ journal = {ACM Trans. Graph.},
+ issue_date = {August 2009},
+ volume = {28},
+ number = {3},
+ month = jul,
+ year = {2009},
+ issn = {0730-0301},
+ pages = {28:1--28:9},
+ articleno = {28},
+ numpages = {9},
+ url = {http://doi.acm.org/10.1145/1531326.1531334},
+ doi = {10.1145/1531326.1531334},
+ acmid = {1531334},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {line drawings, non-photorealism, shape perception},
+} 
+
+
+@inproceedings{Strecha:etal:CVPR08,
+  author    = {Christoph Strecha and
+               Wolfgang von Hansen and
+               Luc J. Van Gool and
+               Pascal Fua and
+               Ulrich Thoennessen},
+  title     = {On benchmarking camera calibration and multi-view stereo for high
+               resolution imagery},
+  booktitle = {2008 {IEEE} Computer Society Conference on Computer Vision and Pattern
+               Recognition {(CVPR} 2008), 24-26 June 2008, Anchorage, Alaska, {USA}},
+  year      = {2008},
+  url       = {http://dx.doi.org/10.1109/CVPR.2008.4587706},
+  doi       = {10.1109/CVPR.2008.4587706},
+  timestamp = {Tue, 25 Nov 2014 17:05:17 +0100},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/cvpr/StrechaHGFT08},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@article{Ferguson:Grandine:ACMTOG1990,
+ author = {Ferguson, David R. and Grandine, Thomas A.},
+ title = {On the Construction of Surfaces Interpolating Curves. I. A Method for Handling Nonconstant Parameter Curves},
+ journal = {ACM Trans. Graph.},
+ issue_date = {April 1990},
+ volume = {9},
+ number = {2},
+ month = apr,
+ year = {1990},
+ issn = {0730-0301},
+ pages = {212--225},
+ numpages = {14},
+ url = {http://doi.acm.org/10.1145/78956.78961},
+ doi = {10.1145/78956.78961},
+ acmid = {78961},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+@article{Bole:STR2015,
+  title={Revisiting Traditional Curve Lofting to Improve the Hull Surface Design Process},
+  author={Bole, Marcus},
+  journal={Ship Technology Research},
+  year={2015},
+  publisher={Maney Publishing Suite 1C, Joseph's Well, Hanover Walk, Leeds LS3 1AB, UK}
+}
+
+@INPROCEEDINGS{Tustison:etal:CVPR2004, 
+author={N. J. Tustison and D. Abendschein and A. A. Amini}, 
+booktitle={Computer Vision and Pattern Recognition, 2004. CVPR 2004. Proceedings of the 2004 IEEE Computer Society Conference on}, 
+title={Biventricular myocardial kinematics based on tagged MRI from anatomical NURBS models}, 
+year={2004}, 
+volume={2}, 
+pages={II-514-II-519 Vol.2}, 
+doi={10.1109/CVPR.2004.1315207}, 
+ISSN={1063-6919}, 
+month={June},
+}
+
+@article{Lin:etal:CII1997,
+title = "A surface-lofting approach for smooth-surface reconstruction from 3D measurement data",
+journal = "Computers in Industry",
+volume = "34",
+number = "1",
+pages = "73 - 85",
+year = "1997",
+note = "",
+issn = "0166-3615",
+doi = "http://dx.doi.org/10.1016/S0166-3615(96)00082-6",
+url = "http://www.sciencedirect.com/science/article/pii/S0166361596000826",
+author = "Chih-Young Lin and Chung-Shan Liou and Jiing-Yih Lai",
+keywords = "Reverse engineering",
+keywords = "Surface lofting",
+keywords = "Curve fitting"
+}
+
+@article{Bui:etal:CNG2015,
+title = "3D-look shading from contours and hatching strokes ",
+journal = "Computers and Graphics ",
+volume = "51",
+number = "",
+pages = "167 - 176",
+year = "2015",
+note = "International Conference Shape Modeling International ",
+issn = "0097-8493",
+doi = "http://dx.doi.org/10.1016/j.cag.2015.05.026",
+url = "http://www.sciencedirect.com/science/article/pii/S0097849315000734",
+author = "Minh Tuan Bui and Junho Kim and Yunjin Lee",
+keywords = "Non-photorealistic rendering",
+keywords = "3D-look shading",
+keywords = "3D normal estimation",
+keywords = "2D sketches "
+}
+
+@article{Sadri:Singh:ACMTOG2014,
+  author    = {Bardia Sadri and
+               Karan Singh},
+  title     = {Flow-complex-based shape reconstruction from 3D curves},
+  journal   = {{ACM} Trans. Graph.},
+  volume    = {33},
+  number    = {2},
+  pages     = {20:1--20:15},
+  year      = {2014},
+  url       = {http://doi.acm.org/10.1145/2560328},
+  doi       = {10.1145/2560328},
+  timestamp = {Wed, 29 Apr 2015 17:56:49 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/tog/SadriS14},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@article{Pan:etal:ACMTOG2015,
+ author = {Pan, Hao and Liu, Yang and Sheffer, Alla and Vining, Nicholas and Li, Chang-Jian and Wang, Wenping},
+ title = {Flow Aligned Surfacing of Curve Networks},
+ journal = {ACM Trans. Graph.},
+ issue_date = {August 2015},
+ volume = {34},
+ number = {4},
+ month = jul,
+ year = {2015},
+ issn = {0730-0301},
+ pages = {127:1--127:10},
+ articleno = {127},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/2766990},
+ doi = {10.1145/2766990},
+ acmid = {2766990},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {curve networks, flow lines, surfacing},
+} 
+
+@article{Beccari:etal:CAD2010,
+title = "A fast interactive reverse-engineering system ",
+journal = "Computer-Aided Design ",
+volume = "42",
+number = "10",
+pages = "860 - 873",
+year = "2010",
+note = "",
+issn = "0010-4485",
+doi = "http://dx.doi.org/10.1016/j.cad.2010.06.001",
+url = "http://www.sciencedirect.com/science/article/pii/S0010448510000990",
+author = "C.V. Beccari and E. Farella and A. Liverani and S. Morigi and M. Rucci",
+keywords = "Computer-aided design",
+keywords = "Subdivision surfaces",
+keywords = "Interactive 3D input device "
+}
+
+@inproceedings{Nealen:etal:SIGGRAPH2007,
+ author = {Nealen, Andrew and Igarashi, Takeo and Sorkine, Olga and Alexa, Marc},
+ title = {FiberMesh: Designing Freeform Surfaces with 3D Curves},
+ booktitle = {ACM SIGGRAPH 2007 Papers},
+ series = {SIGGRAPH '07},
+ year = {2007},
+ location = {San Diego, California},
+ articleno = {41},
+ url = {http://doi.acm.org/10.1145/1275808.1276429},
+ doi = {10.1145/1275808.1276429},
+ acmid = {1276429},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {deformations, differential representations, fair surface design, sketch based interfaces and modeling, sketching},
+} 
+
+@article{Nam:Chai:CNG2012,
+title = "SPACESKETCH: Shape modeling with 3D meshes and control curves in stereoscopic environments ",
+journal = "Computers and Graphics ",
+volume = "36",
+number = "5",
+pages = "526 - 533",
+year = "2012",
+note = "Shape Modeling International (SMI) Conference 2012 ",
+issn = "0097-8493",
+doi = "http://dx.doi.org/10.1016/j.cag.2012.03.012",
+url = "http://www.sciencedirect.com/science/article/pii/S0097849312000519",
+author = "Sanghun Nam and Youngho Chai",
+keywords = "3D shape modeling",
+keywords = "Spatial sketching",
+keywords = "Mesh-based modeling",
+keywords = "Control curve",
+keywords = "Grid-based modeling",
+keywords = "Sketch-based interfaces",
+keywords = "Stereoscopic environment "
+}
+
+@inproceedings{Morigi:Rucci:SBIM2011,
+ author = {Morigi, S. and Rucci, M.},
+ title = {Reconstructing Surfaces from Sketched 3D Irregular Curve Networks},
+ booktitle = {Proceedings of the Eighth Eurographics Symposium on Sketch-Based Interfaces and Modeling},
+ series = {SBIM '11},
+ year = {2011},
+ isbn = {978-1-4503-0906-6},
+ location = {Vancouver, British Columbia, Canada},
+ pages = {39--46},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/2021164.2021171},
+ doi = {10.1145/2021164.2021171},
+ acmid = {2021171},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+@inproceedings{Grimm:Joshi:SBIM2012,
+ author = {Grimm, Cindy and Joshi, Pushkar},
+ title = {Just DrawIt: A 3D Sketching System},
+ booktitle = {Proceedings of the International Symposium on Sketch-Based Interfaces and Modeling},
+ series = {SBIM '12},
+ year = {2012},
+ isbn = {978-3-905674-42-2},
+ location = {Annecy, France},
+ pages = {121--130},
+ numpages = {10},
+ url = {http://dl.acm.org/citation.cfm?id=2331067.2331084},
+ acmid = {2331084},
+ publisher = {Eurographics Association},
+ address = {Aire-la-Ville, Switzerland, Switzerland},
+} 
+
+@article{Wu:etal:1977,
+ author = {Wu, Sheng-Chuan and Abel, John F. and Greenberg, Donald P.},
+ title = {An Interactive Computer Graphics Approach to Surface Representation},
+ journal = {Commun. ACM},
+ issue_date = {Oct. 1977},
+ volume = {20},
+ number = {10},
+ month = oct,
+ year = {1977},
+ issn = {0001-0782},
+ pages = {703--712},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/359842.359848},
+ doi = {10.1145/359842.359848},
+ acmid = {359848},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {computer graphics, finite element input methods, lofting, splines, three-dimensional surface representation},
+} 
+
+@inproceedings{Abbasinejad:etal:SOCG2012,
+ author = {Abbasinejad, Fatemeh and Joshi, Pushkar and Amenta, Nina},
+ title = {Surface Patches from Unorganized Space Curves},
+ booktitle = {Proceedings of the Twenty-eighth Annual Symposium on Computational Geometry},
+ series = {SoCG '12},
+ year = {2012},
+ isbn = {978-1-4503-1299-8},
+ location = {Chapel Hill, North Carolina, USA},
+ pages = {417--418},
+ numpages = {2},
+ url = {http://doi.acm.org/10.1145/2261250.2261314},
+ doi = {10.1145/2261250.2261314},
+ acmid = {2261314},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {curve network, face identification, minimum cycle basis},
+} 
+
+@inproceedings {Das:etal:SBIM2005,
+booktitle = {Eurographics Workshop on Sketch-Based Interfaces and Modeling},
+editor = {Joaquim Armando Pires Jorge and Takeo Igarashi},
+title = {{Sketching Free-form Surfaces Using Network of Curves}},
+author = {Das, Koel and Diaz-Gutierrez, Pablo and Gopi, M.},
+year = {2005},
+publisher = {The Eurographics Association},
+ISSN = {1812-3503},
+ISBN = {3-905673-30-4},
+DOI = {10.2312/SBM/SBM05/127-134}
+}
+
+@article{Zhuang:etal:ACMTOG2013,
+title={A general and efficient method for finding cycles in 3D curve networks},
+author={Zhuang, Yixin and Zou, Ming and Carr, Nathan and Ju, Tao},
+journal={ACM Transactions on Graphics (TOG)},
+volume={32},
+number={6},
+pages={180},
+year={2013},
+publisher={ACM}
+}
+
+@article{Maekawa:Ko:GM2002,
+title = "Surface construction by fitting unorganized curves ",
+journal = "Graphical Models ",
+volume = "64",
+number = "5",
+pages = "316 - 332",
+year = "2002",
+note = "",
+issn = "1524-0703",
+doi = "http://dx.doi.org/10.1016/S1077-3169(02)00006-0",
+url = "http://www.sciencedirect.com/science/article/pii/S1077316902000060",
+author = "T. Maekawa and K.H. Ko",
+keywords = "Curves on the surface",
+keywords = "Reverse engineering",
+keywords = "Surface approximation",
+keywords = "Surface creation",
+keywords = "Aesthetic shape design",
+keywords = "Surface reconstruction "
+}
+
+@inproceedings{Schaefer:etal:SGP2004,
+ author = {Schaefer, S. and Warren, J. and Zorin, D.},
+ title = {Lofting Curve Networks Using Subdivision Surfaces},
+ booktitle = {Proceedings of the 2004 Eurographics/ACM SIGGRAPH Symposium on Geometry Processing},
+ series = {SGP '04},
+ year = {2004},
+ isbn = {3-905673-13-4},
+ location = {Nice, France},
+ pages = {103--114},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/1057432.1057447},
+ doi = {10.1145/1057432.1057447},
+ acmid = {1057447},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+}  
+
+@INPROCEEDINGS{Suzuki:etal:CGA1999, 
+author={H. Suzuki and S. Takeuchi and T. Kanai}, 
+booktitle={Computer Graphics and Applications, 1999. Proceedings. Seventh Pacific Conference on}, 
+title={Subdivision surface fitting to a range of points}, 
+year={1999}, 
+pages={158-167, 322}, 
+doi={10.1109/PCCGA.1999.803359}, 
+month={},
+}
+
+@inproceedings{Hoppe:etal:SIGGRAPH1994,
+ author = {Hoppe, Hugues and DeRose, Tony and Duchamp, Tom and Halstead, Mark and Jin, Hubert and McDonald, John and Schweitzer, Jean and Stuetzle, Werner},
+ title = {Piecewise Smooth Surface Reconstruction},
+ booktitle = {Proceedings of the 21st Annual Conference on Computer Graphics and Interactive Techniques},
+ series = {SIGGRAPH '94},
+ year = {1994},
+ isbn = {0-89791-667-0},
+ pages = {295--302},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/192161.192233},
+ doi = {10.1145/192161.192233},
+ acmid = {192233},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {geometric modeling, range data analysis, shape recovery, subdivision surfaces, surface fitting},
+} 
+
+@article{Peters:Reif:ACMTOG1997,
+ author = {Peters, J\"{o}rg and Reif, Ulrich},
+ title = {The Simplest Subdivision Scheme for Smoothing Polyhedra},
+ journal = {ACM Trans. Graph.},
+ issue_date = {Oct. 1997},
+ volume = {16},
+ number = {4},
+ month = oct,
+ year = {1997},
+ issn = {0730-0301},
+ pages = {420--431},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/263834.263851},
+ doi = {10.1145/263834.263851},
+ acmid = {263851},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {arbitrary topology, box-spline, characteristic map, simplest smooth subdivision, surface},
+} 
+
+@inproceedings{DeRose:etal:SIGGRAPH1998,
+ author = {DeRose, Tony and Kass, Michael and Truong, Tien},
+ title = {Subdivision Surfaces in Character Animation},
+ booktitle = {Proceedings of the 25th Annual Conference on Computer Graphics and Interactive Techniques},
+ series = {SIGGRAPH '98},
+ year = {1998},
+ isbn = {0-89791-999-8},
+ pages = {85--94},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/280814.280826},
+ doi = {10.1145/280814.280826},
+ acmid = {280826},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+@INPROCEEDINGS{Takeuchi:etal:2000, 
+author={S. Takeuchi and T. Kanai and H. Suzuki and K. Shimada and F. Kimura}, 
+booktitle={Computer Graphics and Applications, 2000. Proceedings. The Eighth Pacific Conference on}, 
+title={Subdivision surface fitting with QEM-based mesh simplification and reconstruction of approximated B-spline surfaces}, 
+year={2000}, 
+pages={202-212}, 
+doi={10.1109/PCCGA.2000.883942}, 
+month={},
+}
+
+@article{Ma:etal:CAD2004,
+title = "A direct approach for subdivision surface fitting from a dense triangle mesh ",
+journal = "Computer-Aided Design ",
+volume = "36",
+number = "6",
+pages = "525 - 536",
+year = "2004",
+note = "",
+issn = "0010-4485",
+doi = "http://dx.doi.org/10.1016/S0010-4485(03)00160-X",
+url = "http://www.sciencedirect.com/science/article/pii/S001044850300160X",
+author = "Weiyin Ma and Xiaohu Ma and Shiu-Kit Tso and Zhigeng Pan",
+keywords = "Subdivision surfaces",
+keywords = "Loop subdivision",
+keywords = "Topological modeling",
+keywords = "Mesh simplification",
+keywords = "Surface fitting "
+}
+
+@article{Nasri:CAGD1997,
+title = "Curve interpolation in recursively generated B-spline surfaces over arbitrary topology",
+journal = "Computer Aided Geometric Design",
+volume = "14",
+number = "1",
+pages = "13 - 30",
+year = "1997",
+note = "",
+issn = "0167-8396",
+doi = "http://dx.doi.org/10.1016/S0167-8396(96)00018-0",
+url = "http://www.sciencedirect.com/science/article/pii/S0167839696000180",
+author = "A. Nasri",
+keywords = "Recursive subdivision",
+keywords = "Curve interpolation",
+keywords = "B-spline",
+keywords = "Arbitrary topology"
+}
+
+@article{Nasri:CAGD2000,
+title = "Recursive subdivision of polygonal complexes and its applications in computer-aided geometric design",
+journal = "Computer Aided Geometric Design",
+volume = "17",
+number = "7",
+pages = "595 - 619",
+year = "2000",
+note = "",
+issn = "0167-8396",
+doi = "http://dx.doi.org/10.1016/S0167-8396(00)00015-7",
+url = "http://www.sciencedirect.com/science/article/pii/S0167839600000157",
+author = "Ahmad H. Nasri",
+keywords = "Recursive subdivision",
+keywords = "Curve interpolation",
+keywords = "B-spline",
+keywords = "Arbitrary curve networks",
+keywords = " -sided regions"
+}
+
+@article{Nasri:CGF2003,
+  author    = {Ahmad H. Nasri},
+  title     = {Interpolating an Unlimited Number of Curves Meeting at Extraordinary
+               Points on Subdivision Surfaces},
+  journal   = {Comput. Graph. Forum},
+  volume    = {22},
+  number    = {1},
+  pages     = {87--98},
+  year      = {2003},
+  url       = {http://dx.doi.org/10.1111/1467-8659.t01-1-00648},
+  doi       = {10.1111/1467-8659.t01-1-00648},
+  timestamp = {Sat, 14 Apr 2012 16:35:26 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/cgf/Nasri03},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@inproceedings{Nasri:etal:SMI2001,
+  author    = {Ahmad H. Nasri and
+               Tae{-}wan Kim and
+               Kunwoo Lee},
+  title     = {Fairing Recursive Subdivision Surfaces with Curve Interpolation Constraints},
+  booktitle = {2001 International Conference on Shape Modeling and Applications {(SMI}
+               2001), 7-11 May 2001, Genoa, Italy},
+  pages     = {49},
+  year      = {2001},
+  doi       = {10.1109/SMA.2001.923375},
+  timestamp = {Fri, 01 Apr 2016 12:26:50 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/smi/NasriKL01},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@inproceedings{Nasri:Abbas:GMP2002,
+  author    = {Ahmad H. Nasri and
+               Abdulwahed M. Abbas},
+  title     = {Lofted Catmull-Clark Subdivision Surfaces},
+  booktitle = {2002 Geometric Modeling and Processing {(GMP} 2002), Theory and Applications,
+               10-12 July 2002, Wako, Saitama, Japan},
+  pages     = {83--93},
+  year      = {2002},
+  doi       = {10.1109/GMAP.2002.1027499},
+  timestamp = {Tue, 30 Sep 2014 17:11:25 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/gmp/NasriA02},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@incollection{Catalano:subdivision:book,
+	author="Catalano, Chiara Eva
+	and Ivrissimtzis, Ioannis
+	and Nasri, Ahmad",
+	editor="De Floriani, Leila
+	and Spagnuolo, Michela",
+	title="Subdivision Surfaces and Applications",
+	bookTitle="Shape Analysis and Structuring",
+	year="2008",
+	publisher="Springer Berlin Heidelberg",
+	address="Berlin, Heidelberg",
+	pages="115--143",
+	isbn="978-3-540-33265-7",
+	doi="10.1007/978-3-540-33265-7_4",
+}
+
+@inproceedings{Levin:SIGGRAPH1999,
+ author = {Levin, Adi},
+ title = {Interpolating Nets of Curves by Smooth Subdivision Surfaces},
+ booktitle = {Proceedings of the 26th Annual Conference on Computer Graphics and Interactive Techniques},
+ series = {SIGGRAPH '99},
+ year = {1999},
+ isbn = {0-201-48560-5},
+ pages = {57--64},
+ numpages = {8},
+ url = {http://dx.doi.org/10.1145/311535.311541},
+ doi = {10.1145/311535.311541},
+ acmid = {311541},
+ publisher = {ACM Press/Addison-Wesley Publishing Co.},
+ address = {New York, NY, USA},
+ keywords = {combined subdivision schemes, interpolation, net of curves, subdivision},
+} 
+
+@article{Levin:CAGD1999,
+title = "Combined subdivision schemes for the design of surfaces satisfying boundary conditions",
+journal = "Computer Aided Geometric Design",
+volume = "16",
+number = "5",
+pages = "345 - 354",
+year = "1999",
+note = "",
+issn = "0167-8396",
+doi = "http://dx.doi.org/10.1016/S0167-8396(98)00051-X",
+url = "http://www.sciencedirect.com/science/article/pii/S016783969800051X",
+author = "Adi Levin",
+keywords = "Subdivision schemes",
+keywords = "Combined subdivision schemes",
+keywords = "Boundary conditions"
+}
+
+@inproceedings{Zorin:SIGGRAPH2006,
+ author = {Zorin, Denis},
+ title = {Modeling with Multiresolution Subdivision Surfaces},
+ booktitle = {ACM SIGGRAPH 2006 Courses},
+ series = {SIGGRAPH '06},
+ year = {2006},
+ isbn = {1-59593-364-6},
+ location = {Boston, Massachusetts},
+ pages = {30--50},
+ numpages = {21},
+ url = {http://doi.acm.org/10.1145/1185657.1185673},
+ doi = {10.1145/1185657.1185673},
+ acmid = {1185673},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+@article{Piegl:Tiller:CAD1996,
+title = "Algorithm for approximate nurbs skinning",
+journal = "Computer-Aided Design",
+volume = "28",
+number = "9",
+pages = "699 - 706",
+year = "1996",
+note = "",
+issn = "0010-4485",
+doi = "http://dx.doi.org/10.1016/0010-4485(95)00084-4",
+url = "http://www.sciencedirect.com/science/article/pii/0010448595000844",
+author = "Les Piegl and Wayne Tiller",
+keywords = "",
+keywords = "surface skinning",
+keywords = "curves and surfaces",
+keywords = "algorithms"
+}
+
+@article{Kaklis:Ginnis:CAGD1996,
+title = "Sectional-curvature preserving skinning surfaces",
+journal = "Computer Aided Geometric Design",
+volume = "13",
+number = "7",
+pages = "601 - 619",
+year = "1996",
+note = "",
+issn = "0167-8396",
+doi = "http://dx.doi.org/10.1016/0167-8396(95)00048-8",
+url = "http://www.sciencedirect.com/science/article/pii/0167839695000488",
+author = "P.D. Kaklis and A.I. Ginnis",
+keywords = "Shape preserving surfaces",
+keywords = "Sectional-curvature preserving (scp) interpolatory surfaces",
+keywords = "Skinning surfaces",
+keywords = "Polynomial splines of nonuniform degree"
+}
+
+@inproceedings{Loop:SGP2004,
+ author = {Loop, Charles},
+ title = {Second Order Smoothness over Extraordinary Vertices},
+ booktitle = {Proceedings of the 2004 Eurographics/ACM SIGGRAPH Symposium on Geometry Processing},
+ series = {SGP '04},
+ year = {2004},
+ isbn = {3-905673-13-4},
+ location = {Nice, France},
+ pages = {165--174},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/1057432.1057454},
+ doi = {10.1145/1057432.1057454},
+ acmid = {1057454},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+@inproceedings{Nasri:etal:CGA2003,
+ author = {Nasri, A. and Abbas, A. and Hasbini, I.},
+ title = {Skinning Catmull-Clark Subdivision Surfaces with Incompatible Cross-Sectional Curves},
+ booktitle = {Proceedings of the 11th Pacific Conference on Computer Graphics and Applications},
+ series = {PG '03},
+ year = {2003},
+ isbn = {0-7695-2028-6},
+ pages = {102--},
+ url = {http://dl.acm.org/citation.cfm?id=946250.946981},
+ acmid = {946981},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+ keywords = {Recusive Subdivision, Curve Interpolation, B-spline, Cross curvature, Lofting or Skinning},
+} 
+
+@article{Garcia:CSDA2010,
+title = "Robust smoothing of gridded data in one and higher dimensions with missing values ",
+journal = "Computational Statistics and Data Analysis ",
+volume = "54",
+number = "4",
+pages = "1167 - 1178",
+year = "2010",
+note = "",
+issn = "0167-9473",
+doi = "http://dx.doi.org/10.1016/j.csda.2009.09.020",
+url = "http://www.sciencedirect.com/science/article/pii/S0167947309003491",
+author = "Damien Garcia"
+}
+
+@Article{Garcia:EIF2011,
+author="Garcia, Damien",
+title="A fast all-in-one method for automated post-processing of PIV data",
+journal="Experiments in Fluids",
+year="2011",
+volume="50",
+number="5",
+pages="1247--1259",
+issn="1432-1114",
+doi="10.1007/s00348-010-0985-y",
+url="http://dx.doi.org/10.1007/s00348-010-0985-y"
+}
+
+@article{Qin:Wright:CAD2006,
+ author = {Qin, Shengfeng and Wright, David K.},
+ title = {Progressive Surface Modelling Scheme from Unorganised Curves},
+ journal = {Comput. Aided Des.},
+ issue_date = {October, 2006},
+ volume = {38},
+ number = {10},
+ month = oct,
+ year = {2006},
+ issn = {0010-4485},
+ pages = {1113--1122},
+ numpages = {10},
+ url = {http://dx.doi.org/10.1016/j.cad.2006.06.002},
+ doi = {10.1016/j.cad.2006.06.002},
+ acmid = {1649821},
+ publisher = {Butterworth-Heinemann},
+ address = {Newton, MA, USA},
+ keywords = {Boundary curves, Conceptual design, Interior curves, Motion sketch, Progressive surface modelling, Unorganised curves},
+} 
+
+@book{Glassner:raytracing:book,
+ editor = {Glassner, Andrew S.},
+ title = {An Introduction to Ray Tracing},
+ year = {1989},
+ isbn = {0-12-286160-4},
+ publisher = {Academic Press Ltd.},
+ address = {London, UK, UK},
+} 
+
+@inproceedings{Hadsell:etal:3DIMPVT2012,
+  author    = {Raia Hadsell and
+               Bogdan Matei and
+               Garbis Salgian and
+               Aveek Das and
+               Taragay Oskiper and
+               Supun Samarasekera},
+  title     = {Complex Terrain Mapping with Multi-camera Visual Odometry and Realtime
+               Drift Correction},
+  booktitle = {2012 Second International Conference on 3D Imaging, Modeling, Processing,
+               Visualization {\&} Transmission, Zurich, Switzerland, October
+               13-15, 2012},
+  pages     = {493--500},
+  year      = {2012},
+  url       = {http://dx.doi.org/10.1109/3DIMPVT.2012.76},
+  doi       = {10.1109/3DIMPVT.2012.76},
+  timestamp = {Tue, 18 Aug 2015 20:06:11 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/3dim/HadsellMSDOS12},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@inproceedings{Matei:etal:CVPR2008,
+  author    = {Bogdan C. Matei and
+               Harpreet S. Sawhney and
+               Supun Samarasekera and
+               Janet Kim and
+               Rakesh Kumar},
+  title     = {Building segmentation for densely built urban regions using aerial
+               {LIDAR} data},
+  booktitle = {2008 {IEEE} Computer Society Conference on Computer Vision and Pattern
+               Recognition {(CVPR} 2008), 24-26 June 2008, Anchorage, Alaska, {USA}},
+  year      = {2008},
+  url       = {http://dx.doi.org/10.1109/CVPR.2008.4587458},
+  doi       = {10.1109/CVPR.2008.4587458},
+  timestamp = {Tue, 25 Nov 2014 17:05:17 +0100},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/cvpr/MateiSSKK08},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@inproceedings{Aldoma:etal:DAGM2012,
+  author    = {Aitor Aldoma and
+               Federico Tombari and
+               Radu Bogdan Rusu and
+               Markus Vincze},
+  title     = {{OUR-CVFH} - Oriented, Unique and Repeatable Clustered Viewpoint Feature
+               Histogram for Object Recognition and 6DOF Pose Estimation},
+  booktitle = {Pattern Recognition - Joint 34th {DAGM} and 36th {OAGM} Symposium,
+               Graz, Austria, August 28-31, 2012. Proceedings},
+  pages     = {113--122},
+  year      = {2012},
+  doi       = {10.1007/978-3-642-32717-9_12},
+  timestamp = {Mon, 20 Aug 2012 15:29:48 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/dagm/AldomaTRV12},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@inproceedings{Rusu:etal:RSJ2010,
+  author    = {Radu Bogdan Rusu and
+               Gary R. Bradski and
+               Romain Thibaux and
+               John M. Hsu},
+  title     = {Fast 3D recognition and pose using the Viewpoint Feature Histogram},
+  booktitle = {2010 {IEEE/RSJ} International Conference on Intelligent Robots and
+               Systems, October 18-22, 2010, Taipei, Taiwan},
+  pages     = {2155--2162},
+  year      = {2010},
+  url       = {http://dx.doi.org/10.1109/IROS.2010.5651280},
+  doi       = {10.1109/IROS.2010.5651280},
+  timestamp = {Mon, 11 May 2015 16:37:25 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/iros/RusuBTH10},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@inproceedings{Rusu:etal:ICRA2009,
+  author    = {Radu Bogdan Rusu and
+               Nico Blodow and
+               Michael Beetz},
+  title     = {Fast Point Feature Histograms {(FPFH)} for 3D registration},
+  booktitle = {2009 {IEEE} International Conference on Robotics and Automation, {ICRA}
+               2009, Kobe, Japan, May 12-17, 2009},
+  pages     = {3212--3217},
+  year      = {2009},
+  url       = {http://dx.doi.org/10.1109/ROBOT.2009.5152473},
+  doi       = {10.1109/ROBOT.2009.5152473},
+  timestamp = {Thu, 28 Jan 2010 14:37:00 +0100},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/icra/RusuBB09},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@inproceedings{Miller:etal:GPGPU2011,
+ author = {Miller, Andrew and Jain, Vishal and Mundy, Joseph L.},
+ title = {Real-time Rendering and Dynamic Updating of 3-d Volumetric Data},
+ booktitle = {Proceedings of the Fourth Workshop on General Purpose Processing on Graphics Processing Units},
+ series = {GPGPU-4},
+ year = {2011},
+ isbn = {978-1-4503-0569-3},
+ location = {Newport Beach, California, USA},
+ pages = {8:1--8:8},
+ articleno = {8},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/1964179.1964190},
+ doi = {10.1145/1964179.1964190},
+ acmid = {1964190},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {OpenCL, dynamic restructuring of octrees, reconstructing volumetric data, volumetric data rendering},
+} 
+
+@inproceedings{Wu:etal:CVPR2011,
+  author    = {Chenglei Wu and
+               Bennett Wilburn and
+               Yasuyuki Matsushita and
+               Christian Theobalt},
+  title     = {High-quality shape from multi-view stereo and shading under general
+               illumination},
+  booktitle = {The 24th {IEEE} Conference on Computer Vision and Pattern Recognition,
+               {CVPR} 2011, Colorado Springs, CO, USA, 20-25 June 2011},
+  pages     = {969--976},
+  year      = {2011},
+  url       = {http://dx.doi.org/10.1109/CVPR.2011.5995388},
+  doi       = {10.1109/CVPR.2011.5995388},
+  timestamp = {Tue, 25 Nov 2014 17:05:17 +0100},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/cvpr/WuWMT11},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@article{Yoon:etal:IJCV2010,
+  author    = {Kuk{-}Jin Yoon and
+               Emmanuel Prados and
+               Peter F. Sturm},
+  title     = {Joint Estimation of Shape and Reflectance using Multiple Images with
+               Known Illumination Conditions},
+  journal   = {International Journal of Computer Vision},
+  volume    = {86},
+  number    = {2-3},
+  pages     = {192--210},
+  year      = {2010},
+  url       = {http://dx.doi.org/10.1007/s11263-009-0222-4},
+  doi       = {10.1007/s11263-009-0222-4},
+  timestamp = {Tue, 19 May 2015 17:01:19 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/ijcv/YoonPS10},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@article{Jin:etal:IJCV2008,
+  author    = {Hailin Jin and
+               Daniel Cremers and
+               Dejun Wang and
+               Emmanuel Prados and
+               Anthony J. Yezzi and
+               Stefano Soatto},
+  title     = {3-D Reconstruction of Shaded Objects from Multiple Images Under Unknown
+               Illumination},
+  journal   = {International Journal of Computer Vision},
+  volume    = {76},
+  number    = {3},
+  pages     = {245--256},
+  year      = {2008},
+  url       = {http://dx.doi.org/10.1007/s11263-007-0055-y},
+  doi       = {10.1007/s11263-007-0055-y},
+  timestamp = {Tue, 11 Mar 2008 14:37:28 +0100},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/ijcv/JinCWPYS08},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@TechReport{Lavoue:etal:techreport,
+  title         = {{Subdivision surface watermarking}},
+  author        = {Guillaume {Lavoué} and Florence {Denis} and Florent 
+    {Dupont}},
+  year          = {2006},
+  month         = jun,
+  institution   = {LIRIS UMR 5205 CNRS/INSA de Lyon/Université Claude Bernard 
+    Lyon 1/Université Lumière Lyon 2/École Centrale de Lyon},
+  number        = {RR-LIRIS-2006-011},
+   language      = {en},
+  url           = {http://liris.cnrs.fr/publis/?id=2407}
+}
+
+@inproceedings{Kraevoy:etal:SBIM2009,
+  author    = {Vladislav Kraevoy and
+               Alla Sheffer and
+               Michiel van de Panne},
+  title     = {Modeling from Contour Drawings},
+  booktitle = {Sketch Based Interfaces and Modeling, New Orleans, Louisiana, USA,
+               2009. Proceedings},
+  pages     = {37--44},
+  year      = {2009},
+  doi       = {10.2312/SBM/SBM09/037-044},
+  timestamp = {Tue, 01 Dec 2015 14:58:57 +0100},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/sbm/KraevoySP09},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@article{Chiyokura:Fumihiko:SIGGRAPH1983,
+ author = {Chiyokura, Hiroaki and Kimura, Fumihiko},
+ title = {Design of Solids with Free-form Surfaces},
+ journal = {SIGGRAPH Comput. Graph.},
+ issue_date = {July 1983},
+ volume = {17},
+ number = {3},
+ month = jul,
+ year = {1983},
+ issn = {0097-8930},
+ pages = {289--298},
+ numpages = {10},
+ acmid = {801160},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+@inproceedings{Sorkine:Cohenor:SMI2004,
+  author    = {Olga Sorkine and
+               Daniel Cohen{-}Or},
+  title     = {Least-Squares Meshes},
+  booktitle = {2004 International Conference on Shape Modeling and Applications {(SMI}
+               2004), 7-9 June 2004, Genova, Italy},
+  pages     = {191--199},
+  year      = {2004},
+  timestamp = {Fri, 01 Apr 2016 13:07:04 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/smi/SorkineC04},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@inproceedings{Welch:Witkin:SIGGRAPH1994,
+ author = {Welch, William and Witkin, Andrew},
+ title = {Free-form Shape Design Using Triangulated Surfaces},
+ booktitle = {Proceedings of the 21st Annual Conference on Computer Graphics and Interactive Techniques},
+ series = {SIGGRAPH '94},
+ year = {1994},
+ isbn = {0-89791-667-0},
+ pages = {247--256},
+ numpages = {10},
+ doi = {10.1145/192161.192216},
+ acmid = {192216},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Delaunay triangulation, adaptive meshing, fair surface design, functional minimization, polygonal models},
+} 
+
+@inproceedings{Bobenko:Schroder:SGP2005,
+ author = {Bobenko, Alexander I. and Schr\"{o}der, Peter},
+ title = {Discrete Willmore Flow},
+ booktitle = {Proceedings of the Third Eurographics Symposium on Geometry Processing},
+ series = {SGP '05},
+ year = {2005},
+ isbn = {3-905673-24-X},
+ location = {Vienna, Austria},
+ articleno = {101},
+ acmid = {1281937},
+ publisher = {Eurographics Association},
+ address = {Aire-la-Ville, Switzerland, Switzerland},
+ keywords = {Willmore energy, digital geometry processing, discrete differential geometry, geometric flow, variational surface modeling},
+} 
+
+@inproceedings{Moreton:Sequin:SIGGRAPH1992,
+ author = {Moreton, Henry P. and S{\'e}quin, Carlo H.},
+ title = {Functional Optimization for Fair Surface Design},
+ booktitle = {Proceedings of the 19th Annual Conference on Computer Graphics and Interactive Techniques},
+ series = {SIGGRAPH '92},
+ year = {1992},
+ isbn = {0-89791-479-1},
+ pages = {167--176},
+ numpages = {10},
+ doi = {10.1145/133994.134035},
+ acmid = {134035},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+@article{Woodward:CAD1988,
+ author = {Woodward, C. D.},
+ title = {Skinning Techniques for Interactive B-spline Surface Interpolation},
+ journal = {Comput. Aided Des.},
+ issue_date = {Oct. 1988},
+ volume = {20},
+ number = {10},
+ month = oct,
+ year = {1988},
+ issn = {0010-4485},
+ pages = {441--451},
+ numpages = {11},
+ doi = {10.1016/0010-4485(88)90002-4},
+ acmid = {55187},
+ publisher = {Butterworth-Heinemann},
+ address = {Newton, MA, USA},
+} 
+
+@Article{Park:etal:IJAMT2004,
+author="Park, H.
+and Jung, H. B.
+and Kim, K.",
+title="A new approach for lofted B-spline surface interpolation to serial contours",
+journal="The International Journal of Advanced Manufacturing Technology",
+year="2004",
+volume="23",
+number="11",
+pages="889--895",
+}
+
+@article{Parent:Zucker:PAMI1989,
+ author = {Parent, P. and Zucker, S. W.},
+ title = {Trace Inference, Curvature Consistency, and Curve Detection},
+ journal = {IEEE Trans. Pattern Anal. Mach. Intell.},
+ issue_date = {August 1989},
+ volume = {11},
+ number = {8},
+ month = aug,
+ year = {1989},
+ issn = {0162-8828},
+ pages = {823--839},
+ numpages = {17},
+ acmid = {67192},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+ keywords = {artificial images, cocircularity, curvature consistency, curvature information, curve detection, curve inference, inference mechanisms, natural images, pattern recognition, picture processing, tangent, trace points},
+} 
+
+@inproceedings{Usumezbas:Fabbri:Kimia:CVPR17,
+    Author         = {Anil Usumezbas and Ricardo Fabbri and Benjamin B. Kimia},
+    Booktitle      = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+    Crossref       = {CVPR2017},
+    Title          = {The Surfacing of Multiview {3D} Drawings via Lofting and Occlusion Reasoning},
+    Year           = {2017}
+}
+
+@proceedings{CVPR2017,
+  title     = {CVPR'2017: IEEE Computer Society Conference on Computer Vision and
+  Pattern Recognition, Honolulu, Hawaii},
+  year      = {2017},
+  address   = {Honolulu, Hawaii, USA},
+  publisher = {IEEE Computer Society Press},
+  month     = {},
+  author    = {Proceedings},
+  booktitle = {Proceedings of the IEEE Computer Society Conference on Computer Vision and
+  Pattern Recognition},
+  key       = {CVPR2017},
+}
+
+@inproceedings{Fabbri:WaterWaves2017,
+    Author         = {Ricardo Fabbri},
+    Booktitle      = {Second International Brazilian Symposium on Water Waves (invited talk)},
+    Crossref       = {BrazilWaterWaves2017},
+    Title          = {Current techniques for the 3D photogrammetry of water waves},
+    Year           = {2017}
+}
+
+@inproceedings{Fabbri:WaterWaves2016,
+    Author         = {Ricardo Fabbri},
+    Booktitle      = {First International Brazilian Symposium on Water Waves (invited talk)},
+    Crossref       = {BrazilWaterWaves2016},
+    Title          = {Image-based fluid modeling},
+    Year           = {2016}
+}
+
+
+@inproceedings{Souza:Fabbri:WaterWaves2017,
+    Author         = {Caio Souza and Ricardo Fabbri},
+    Booktitle      = {International Brazilian Symposium on Water Waves (poster)},
+    Crossref       = {BrazilWaterWaves2017},
+    Title          = {Low-level machine learning for tracking curves in water wave videos},
+    Year           = {2017}
+}
+
+@proceedings{BrazilWaterWaves2017,
+  title     = {Second International Brazilian Symposium on Water Waves},
+  year      = {2017},
+  address   = {Rio de Janeiro, Brazil},
+  publisher = {},
+  month     = {},
+  author    = {Proceedings},
+  booktitle = {Proceedings of the Second International Brazilian Symposium on Water Waves},
+  key       = {International Brazilian Symposium on Water Waves 2017},
+}
+
+@proceedings{BrazilWaterWaves2016,
+  title     = {First International Brazilian Symposium on Water Waves},
+  year      = {2017},
+  address   = {Rio de Janeiro, Brazil},
+  publisher = {},
+  month     = {},
+  author    = {Proceedings},
+  booktitle = {Proceedings of the Second International Brazilian Symposium on Water Waves},
+  key       = {International Brazilian Symposium on Water Waves 2016},
+}
+
+
+@article{Amorim:Fabbri:etal:IRCE2013,
+  title={An Image-Based Fluid Surface Pattern Model},
+  author={de Amorim, Mauro and Fabbri, Ricardo and Pinto, Lucia Maria dos Santos and Neto, Francisco Duarte Moura},
+  journal={International Review of Chemical Engineering},
+  volume={5},
+  number={5},
+  year={2013}
+}
+
+@article{Benetazzo:CE2006,
+  title={Measurements of short water waves using stereo matched image sequences},
+  author={Benetazzo, Alvise},
+  journal={Coastal engineering},
+  volume={53},
+  number={12},
+  pages={1013--1032},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{Benetazzo:CE2012,
+  title={Offshore stereo measurements of gravity waves},
+  author={Benetazzo, Alvise and Fedele, Francesco and Gallego, Guillermo and Shih, P-C and Yezzi, Anthony},
+  journal={Coastal Engineering},
+  volume={64},
+  pages={127--138},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{Gallego:etal:TGRS201,
+  title={A variational stereo method for the three-dimensional reconstruction of ocean waves},
+  author={Gallego, Guillermo and Yezzi, Anthony and Fedele, Francesco and Benetazzo, Alvise},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={49},
+  number={11},
+  pages={4445--4457},
+  year={2011},
+  publisher={IEEE}
+}
+
+@article{Fedele:etal:OM2013,
+  title={Space--time measurements of oceanic sea states},
+  author={Fedele, Francesco and Benetazzo, Alvise and Gallego, Guillermo and Shih, Ping-Chang and Yezzi, Anthony and Barbariol, Francesco and Ardhuin, Fabrice},
+  journal={Ocean Modelling},
+  volume={70},
+  pages={103--115},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{Fedele:etal:MCS2012,
+  title={Euler characteristics of oceanic sea states},
+  author={Fedele, Francesco and Gallego, Guillermo and Yezzi, Anthony and Benetazzo, Alvise and Cavaleri, Luigi and Sclavo, Mauro and Bastianini, Mauro},
+  journal={Mathematics and Computers in Simulation},
+  volume={82},
+  number={6},
+  pages={1102--1111},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{Benetazzo:etal:CE2016,
+  title={Stereo wave imaging from moving vessels: Practical use and applications},
+  author={Benetazzo, Alvise and Barbariol, Francesco and Bergamasco, Filippo and Torsello, Andrea and Carniel, Sandro and Sclavo, Mauro},
+  journal={Coastal Engineering},
+  volume={109},
+  pages={114--127},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{Gallego:etal:TIP2013,
+  title={Variational stereo imaging of oceanic waves with statistical constraints},
+  author={Gallego, Guillermo and Yezzi, Anthony and Fedele, Francesco and Benetazzo, Alvise},
+  journal={IEEE Transactions on Image Processing},
+  volume={22},
+  number={11},
+  pages={4211--4223},
+  year={2013},
+  publisher={IEEE}
+}
+
+@article{Bergamasco:etal:CG2016,
+  title={Multi-view horizon-driven sea plane estimation for stereo wave imaging on moving vessels},
+  author={Bergamasco, Filippo and Benetazzo, Alvise and Barbariol, Francesco and Carniel, Sandro and Sclavo, Mauro},
+  journal={Computers \& Geosciences},
+  volume={95},
+  pages={105--117},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@inproceedings{Nurutdinova:Fitzgibbon:ICCV2015,
+  title={Towards Pointless Structure from Motion: 3D reconstruction and camera parameters from general 3D curves},
+  author={Nurutdinova, Irina and Fitzgibbon, Andrew},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={2363--2371},
+  year={2015}
+}
+
+@article{Rapizo:etal:JCR2015,
+  title={Simple Techniques for Retrieval of Wind Wave Periods and Directions from Optical Images Sequences in Wave Tanks},
+  author={Rapizo, Henrique and d'Avila, Victor and Violante-Carvalho, Nelson and Pinho, Uggo and Parente, Carlos Eduardo and Nascimento, Fabio},
+  journal={Journal of Coastal Research},
+  volume={32},
+  number={5},
+  pages={1227--1234},
+  year={2015},
+  publisher={The Coastal Education and Research Foundation}
+}
+
+@unpublished{AppleKeynote:2018,
+title= {Understanding ARKit Tracking and Detection},
+author = {{Apple ARKit Team}},
+year = {2018},
+note= {{WWDC}},
+URL= {https://developer.apple.com/videos/play/wwdc2018/610},
+}
+
+@article{Liu:etal:ACMTOG17,
+ author = {Liu, Lingjie and Ceylan, Duygu and Lin, Cheng and Wang, Wenping and Mitra, Niloy J.},
+ title = {Image-based Reconstruction of Wire Art},
+ journal = {ACM Trans. Graph.},
+ issue_date = {July 2017},
+ volume = {36},
+ number = {4},
+ month = jul,
+ year = {2017},
+ issn = {0730-0301},
+ pages = {63:1--63:11},
+ articleno = {63},
+ numpages = {11},
+ url = {http://doi.acm.org/10.1145/3072959.3073682},
+ doi = {10.1145/3072959.3073682},
+ acmid = {3073682},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {delicate structure, image-based reconstruction, wire art},
+} 
+
+@inproceedings{Astrom:etal:ICCV1999,
+author = "Åström, Kalle and Heyden, Anders and Kahl, Fredrik and Oskarsson, Magnus",
+title = "Structure and Motion from Lines Under Affine Projections",
+booktitle ="International Conference on Computer Vision",
+year = "1999"
+}
+
+@article{Bianco:Ciocca:Marelli:JI2018,
+  title={Evaluating the performance of structure from motion pipelines},
+  author={Bianco, Simone and Ciocca, Gianluigi and Marelli, Davide},
+  journal={Journal of Imaging},
+  volume={4},
+  number={8},
+  pages={98},
+  year={2018}j
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@InProceedings{Persson:Nordberg:P3P:ECCV2018,
+author = {Persson, Mikael and Nordberg, Klas},
+title = {Lambda Twist: An Accurate Fast Robust Perspective Three Point (P3P) Solver},
+booktitle = {The European Conference on Computer Vision (ECCV)},
+month = {September},
+year = {2018}
+
+@article{Kasten:Galun:Basri:Arxiv2019,
+  author    = {Yoni Kasten and
+               Meirav Galun and
+               Ronen Basri},
+  title     = {Resultant Based Incremental Recovery of Camera Pose from Pairwise
+               Matches},
+  journal   = {CoRR},
+  volume    = {abs/1901.09364},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1901.09364},
+  archivePrefix = {arXiv},
+  eprint    = {1901.09364},
+  timestamp = {Sat, 02 Feb 2019 16:56:00 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1901-09364},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+@InProceedings{Adlane:etal:ECCV2012,
+author="Habed, Adlane
+and Ismaeil, Kassem Al
+and Fofi, David",
+editor="Fitzgibbon, Andrew
+and Lazebnik, Svetlana
+and Perona, Pietro
+and Sato, Yoichi
+and Schmid, Cordelia",
+title="A New Set of Quartic Trivariate Polynomial Equations for Stratified Camera Self-calibration under Zero-Skew and Constant Parameters Assumptions",
+booktitle="Computer Vision -- ECCV 2012",
+year="2012",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="710--723",
+abstract="This paper deals with the problem of self-calibrating a moving camera with constant parameters. We propose a new set of quartic trivariate polynomial equations in the unknown coordinates of the plane at infinity derived under the no-skew assumption. Our new equations allow to further enforce the constancy of the principal point across all images while retrieving the plane at infinity. Six such polynomials, four of which are independent, are obtained for each triplet of images. The proposed equations can be solved along with the so-called modulus constraints and allow to improve the performance of existing methods.",
+isbn="978-3-642-33783-3"
+}
+
+@Article{Petitjean:JMIV1999,
+author="Petitjean, S.",
+title="Algebraic Geometry and Computer Vision: Polynomial Systems, Real and Complex Roots",
+journal="Journal of Mathematical Imaging and Vision",
+year="1999",
+month="May",
+day="01",
+volume="10",
+number="3",
+pages="191--220",
+abstract="We review the different techniques known for doing exact computations on polynomial systems. Some are based on the use of Gr{\"o}bner bases and linear algebra, others on the more classical resultants and its modern counterparts. Many theoretical examples of the use of these techniques are given. Furthermore, a full set of examples of applications in the domain of artificial vision, where many constraints boil down to polynomial systems, are presented. Emphasis is also put on very recent methods for determining the number of (isolated) real and complex roots of such systems.",
+issn="1573-7683",
+doi="10.1023/A:1008348724781",
+url="https://doi.org/10.1023/A:1008348724781"
+}
+}
+
+@inproceedings{Barath:CVPR2018,
+  title={Five-point fundamental matrix estimation for uncalibrated cameras},
+  author={Barath, Daniel},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={235--243},
+  year={2018}
+}
+
+@article{Duff:Hill:Jensen:Lee:Leykin:Sommars:Monodromy:IMA2018,
+  title={Solving polynomial systems via homotopy continuation and monodromy},
+  author={Duff, Timothy and Hill, Cvetelina and Jensen, Anders and Lee, Kisun and Leykin, Anton and Sommars, Jeff},
+  journal={IMA Journal of Numerical Analysis},
+  year={2018}
+  
+}
+
+ % OBSOLETE NO UPDATE USE THE ABOVE 
+@article{Duff-Monodromy,
+  title={Solving polynomial systems via homotopy continuation and monodromy},
+  author={Duff, Timothy and Hill, Cvetelina and Jensen, Anders and Lee, Kisun and Leykin, Anton and Sommars, Jeff},
+  journal={IMA Journal of Numerical Analysis},
+  year={2018}
+  
+}
+
+
+@InProceedings{Barath:Kukelova:ICCV2019,
+author = {Barath, Daniel and Kukelova, Zuzana},
+title = {Homography From Two Orientation- and Scale-Covariant Features},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2019}
+}
+@Article{Bianco:etal:JI2018,
+AUTHOR = {Bianco, Simone and Ciocca, Gianluigi and Marelli, Davide},
+TITLE = {Evaluating the Performance of Structure from Motion Pipelines},
+JOURNAL = {Journal of Imaging},
+VOLUME = {4},
+YEAR = {2018},
+NUMBER = {8},
+ARTICLE-NUMBER = {98},
+URL = {https://www.mdpi.com/2313-433X/4/8/98},
+ISSN = {2313-433X},
+DOI = {10.3390/jimaging4080098}
+}
+
+
+@inproceedings{Fabbri:Kimia:etal:CVPR2020,
+  title={TRPLP-Trifocal Relative Pose From Lines at Points},
+  author={Fabbri, Ricardo and Duff, Timothy and Fan, Hongyi and Regan, Margaret H and Pinho, David da Costa de and Tsigaridas, Elias and Wampler, Charles W and Hauenstein, Jonathan D and Giblin, Peter J and Kimia, Benjamin and Pajdla, Tomas},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12073--12083},
+  year={2020 (first avaliable at ArXiv on 23 Mar 2019 04:26:57 UTC)}
+}
+
+@article{Fabbri:Giblin:Kimia:PAMI2020,
+  author={R. {Fabbri} and P. {Giblin} and B. {Kimia}},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Camera Pose Estimation Using First-Order Curve Differential Geometry}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TPAMI.2020.2985310}
+}
+
+@article{Fabbri:Kimia:etal:PAMI2022,
+  author={Fabbri, Ricardo and Duff, Timothy and Fan, Hongyi and Regan, Margaret H and Pinho, David da Costa de and Tsigaridas, Elias and Wampler, Charles W and Hauenstein, Jonathan D and Giblin, Peter J and Kimia, Benjamin and Pajdla, Tomas},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Camera Pose Estimation Using First-Order Curve Differential Geometry}, 
+  year={2022, Accepted},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={}
+}
+
+
+@PHDTHESIS{Fabbri:PHD:2010,
+    Address        = {Providence, RI, 02912},
+    Author         = {Ricardo Fabbri},
+    Institution    = {Division Of Engineering, Brown University},
+    School         = {Division Of Engineering, Brown University},
+    Month          = {July},
+    Title          = {Multiview Differential Geometry in Application to Computer Vision},
+    Type           = {{Ph.D.} Dissertation},
+    Year           = {2010}
+}
+
+@article{Qi:Fitzgibbon:etal:CoRR2017,
+  author    = {Liu{-}Yin Qi and
+               Rui Yu and
+               Lourdes Agapito and
+               Andrew W. Fitzgibbon and
+               Chris Russell},
+  title     = {Better Together: Joint Reasoning for Non-rigid 3D Reconstruction with
+               Specularities and Shading},
+  journal   = {CoRR},
+  volume    = {abs/1708.01654},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1708.01654},
+  archivePrefix = {arXiv},
+  eprint    = {1708.01654},
+  timestamp = {Tue, 05 Sep 2017 10:03:46 +0200},
+  biburl    = {http://dblp.org/rec/bib/journals/corr/abs-1708-01654},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+@article{Cashman:Fitzgibbon:PAMI2013,
+  title={What shape are dolphins? building 3d morphable models from 2d images},
+  author={Cashman, Thomas J and Fitzgibbon, Andrew W},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={35},
+  number={1},
+  pages={232--244},
+  year={2013},
+  publisher={IEEE}
+}
+
+@article{Fabbri:NSF:Highlight2020,
+  title={Algebraic Computer Vision Advances the 3D Reconstruction of Curves and Surfaces from Multiple Views},
+  author={Ricardo Fabbri},
+  url={mathinstitutes.org/highlights/algebraic-computer-vision-advances-the-3d-reconstruction-of-curves-and-surfaces-from-multiple-views},
+  year={2020},
+  month={May},
+  journal={Research Highlight, NSF Mathematical Sciences Institutes},
+}
+
+@article{Fabbri:Kimia:NSF:Grant,
+  title={A Differential Geometry Paradigm for Constructing a Semantic
+Mid-Level Representation for Multinocular Pose Estimation and
+Reconstruction},
+  author={Benjamin Kimia},
+  url={www.nsf.gov/awardsearch/showAward?AWD_ID=1910530},
+  year={2019--2022},
+  month={August},
+  journal={NSF Grant}
+}
+
+@inproceedings{Schoenberger:etal:colmap:CVPR2016,
+    author={Sch\"{o}nberger, Johannes Lutz and Frahm, Jan-Michael},
+    title={Structure-from-Motion Revisited},
+    booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year={2016},
+}
+
+@inproceedings{Moulon:etal:OpenMVG:IWRRPR2016,
+  title={{OpenMVG}: Open multiple view geometry},
+  author={Moulon, Pierre and Monasse, Pascal and Perrot, Romuald and Marlet, Renaud},
+  booktitle={International Workshop on Reproducible Research in Pattern Recognition},
+  pages={60--74},
+  year={2016},
+  organization={Springer}
+}
+
+@misc{Artmann:Benno},
+  title = {"projective geometry". Encyclopedia Britannica},
+  howpublished = {\url{https://www.britannica.com/science/projective-geometry}},
+  note = {Accessed: 2022-05-01}
+}
+
+@misc{Ivo:Terek},
+  title = {Um mini-curso sobre tensores},
+  howpublished = {\url{https://www.ime.usp.br/~terek/textos/tensores.pdf}},
+  note = {Accessed: 2022-05-04}
+}
+@Book{Darcoso:Netto:Rocha:Leal,
+  author =       "Cesar Dacorso Netto; Nilza Rocha Leal",
+  title =        "Elementos de Geometria Diferencial",
+  publisher =    "Interciência",
+  year =         "1978",
+  
+}
+@article{Moisan:Moulon:etal:ACRANSAC:IPOnline2012,
+  title={Automatic homographic registration of a pair of images, with a contrario elimination of outliers},
+  author={Moisan, Lionel and Moulon, Pierre and Monasse, Pascal},
+  journal={Image Processing OnLine},
+  volume={2},
+  pages={56--73},
+  year={2012}
+}
+
+@inproceedings{Trager:Hebert:Ponce:2019,
+  title={Coordinate-Free Carlsson-Weinshall Duality and Relative Multi-View Geometry},
+  author={Trager, Matthew and Hebert, Martial and Ponce, Jean},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={225--233},
+  year={2019}
+}
+
+@misc{Argawal:Duff:etal:arxiv:jun2022,
+  doi = {10.48550/ARXIV.2206.13468},
+  url = {https://arxiv.org/abs/2206.13468},
+  author = {Agarwal, Sameer and Duff, Timothy and Lieblich, Max and Thomas, Rekha},
+  keywords = {Algebraic Geometry (math.AG), Computer Vision and Pattern Recognition (cs.CV), Commutative Algebra (math.AC), FOS: Mathematics, FOS: Mathematics, FOS: Computer and information sciences, FOS: Computer and information sciences, 14Q25, 94A08},
+  title = {An Atlas for the Pinhole Camera},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+
+@unpublished{Trager:etal:TechReport2018,
+  TITLE = {{In Defense of Relative Multi-View Geometry}},
+  AUTHOR = {Trager, Matthew and Ponce, Jean},
+  URL = {https://hal.inria.fr/hal-01676732},
+  NOTE = {working paper or preprint},
+  YEAR = {2018},
+  MONTH = Aug,
+  KEYWORDS = {Multi-view geometry ; Reduced trilinearities ; Carlsson-Weinshall duality},
+  PDF = {https://hal.inria.fr/hal-01676732v2/file/draft-signed-new.pdf},
+  HAL_ID = {hal-01676732},
+  HAL_VERSION = {v2},
+}
+@InProceedings{Chien:Fan:Tsigaridas:Kimia:etal:CVPR2022,
+    author    = {Chien, Chiang-Heng and Fan, Hongyi and Abdelfattah, Ahmad and Tsigaridas, Elias and Tomov, Stanimire and Kimia, Benjamin},
+    title     = {GPU-Based Homotopy Continuation for Minimal Problems in Computer Vision},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {15765-15776}
+}
+

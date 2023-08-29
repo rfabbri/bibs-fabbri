@@ -1,0 +1,81 @@
+%
+%	Arcelli88	Finding Local Maxima... (in Authors\Arcelli)
+%	Dorst86		Pseudo-{E}uclidean Skeletons
+%	Niblack90	Generating Skeletons and Centerlines...
+%	Montanari68	A Method for Obtaining Skeletons Using...
+%
+
+@inproceedings( Dorst86Pseudo,
+  crossref =	"ICPR86",
+  author =	{L. Dorst},
+  title =	{Pseudo-{E}uclidean Skeletons},
+  pages =	{286--288},
+  lib =		{SKEL\WDT},
+  keywords =	{Dorst86a Paris}
+)
+
+@inproceedings( Niblack90Generating,
+  crossref =	"ICPR90",
+  author =	{C. W. Niblack and D. W. Capson	and P. B. Gibbons},
+  title =	{Generating Skeletons and Centerlines From the Medial
+		 Axis Transform},
+  volume =	1,
+  pages =	{881--885},
+  lib =		{SKEL\WDT},
+  keywords =	{Based on (integer) Chamfer-DT (2-3 or 3-4)}
+)
+
+@article( Montanari68Method,
+  author =	{U. Montanari},
+  title =	{A Method for Obtaining Skeletons Using a
+		 Quasi--{E}uclidean Distance},
+  year =	1968,
+  month =	oct,
+  journal =	JACM,
+  volume =	15,
+  number =	4,
+  pages =	{600--624},
+  lib =		{WDT},
+  keywords =	{DT as an ``optimal policy problem''. Reticular
+		 networks define a hierarchy of methods: method 0 =
+		 city block metric; method 1 = Chamfer 1 - sqrt(2)
+		 metric; method 2 = Chamfer 1 - sqrt(2) - sqrt(5)
+		 metric; ... . Determination of optimal (minimal
+		 length) paths trhough the network. Two types of
+		 algorithms are proposed: "read" and "write" methods.
+		 Useful links are determined by the Farey sequences of
+		 order n (for a squared neighborhood of size 2n + 1).
+		 The determination of the optimal policy == solution
+		 of a system of functional eqns (dynamic programming).
+		 On the reticular network, a minimal path between any
+		 two distinct pts always consists of two straight line
+		 segments.
+		 The READ methods are similar to Chamfer DT's for
+		 neighborhoods of increasing sizes. The ``read''
+		 algorithm consists of a sequential raster scan in two
+		 passes ``a la Rosenfeld'' \cite{Rosenfeld66Sequential}.
+		 The WRITE method consists of a ``simplified Dantzig
+		 algorithm''. Each vertex is considered only once.
+		 Distances are computed by increasing order: similar
+		 to a Discrete Wavefront Propagation. In the case of
+		 method 0 it becomes a ``peeling off'' process.
+		 SKELETAL pts are pixels not on the optimal path of
+		 any other pixels (skeleton not necessarily
+		 connected).
+		 The INVERSE GRASSFIRE transformation is discussed and
+		 an algorithm is proposed: iterative using the
+		 ``read'' methods.
+		 BRANCH SIGNIFICANCE criterion proposed in terms of
+		 the (discrete) directional derivative along the
+		 skeletal branch: -1 <= f_i < K <= 1, where f_i is the
+		 approximated derivative and K is a threshold.
+		 SPURIOUS SKELETAL PTS.
+		 Along the image boundaries it is proposed to add an
+		 external rectangular ``sausage'' of size n (for
+		 method n) and compute a new skeleton S^*. Compare the
+		 two skeletons S and S^*. At the locus of the original
+		 boundaries only skeletal points both in S and S^* are
+		 significant.
+		 Along the object's boundary eliminate noise pts with
+		 a severe enough threshold K on branch sigificance.}
+)

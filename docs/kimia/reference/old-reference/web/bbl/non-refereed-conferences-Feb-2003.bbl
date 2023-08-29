@@ -1,0 +1,69 @@
+\begin{thebibliography}{10}
+
+\bibitem{Kimia:etal:British}
+Benjamin~B. Kimia, Allen~R. Tannenbaum, and Steven~W. Zucker.
+\newblock Reaction-diffusion equations and shape.
+\newblock In {\em Proceedings of the British Conference on Computer Vision},
+  Britain, 1990.
+
+\bibitem{Kimia:etal:Intelligent}
+Benjamin~B. Kimia, Allen~R. Tannenbaum, and Steven~W. Zucker.
+\newblock Conservation minded evolution of shape.
+\newblock In {\em Proceedings of the fifth IEEE International Symposium on
+  Intelligent Control}, pages 185--190, September 1990.
+
+\bibitem{Kimia:etal:SPIE93}
+Benjamin~B. Kimia, Allen~R. Tannenbaum, and Steven~W. Zucker.
+\newblock Nonlinear shape approximation via the entropy scale space.
+\newblock In {\em Proceedings of the {SPIE}'s Geometric Methods in Computer
+  Vision {II}}, volume 2031, pages 218--233, San Diego, California, July 1993.
+
+\bibitem{Tek:Kimia:Bubbles:CAR95}
+Huseyin Tek and Benjamin~B. Kimia.
+\newblock Automatic volumetric segmentation of three-dimensional medical
+  images.
+\newblock In {\em Proceedings of the Computer Assisted Radiology, 9th
+  International Symposium and Exhibition}, Berlin, Germany, June 21--24 1995.
+  Society for Computer Applications in Radiology.
+
+\bibitem{Jayaraman:etal:bubbles:poster97}
+Mahesh Jayaraman, Benjamin Kimia, Huseyin Tek, Glenn Tung, and Jeffrey Rogg.
+\newblock Semi-automatic image segmentation of primary brain tumors based on
+  deformable bubbles.
+\newblock In {\em Brown Brain Research}, April 1997.
+
+\bibitem{Kimia:etal:SPIE97}
+Benjamin~B. Kimia, Jacky Chan, Dale Bertrand, Seth Coe, Zachary Roadhouse, and
+  H\"useyin Tek.
+\newblock A shock-based approach for indexing of image databases using shape.
+\newblock In {\em Proceedings of the {SPIE}'s Multimedia Storage and Archiving
+  Systems {II}}, volume 3229, pages 288--302, Dallas, Texas, November 1997.
+
+\bibitem{Sharvit:etal:SPIE98}
+Srikanta Tirthapura, Daniel Sharvit, Philip Klein, and Benjamin~B. Kimia.
+\newblock Indexing based on edit-distance matching of shape graphs.
+\newblock In {\em SPIE Inter. Symposium on Voice, Video, and Data
+  Communications, Boston}, pages 25--36, November 1998.
+
+\bibitem{Qian:Kimia:SPIE98}
+Wei Qian and Benjamin~B. Kimia.
+\newblock On the perceptual notion of scale for halftone representations:
+  Nonlinear diffusion.
+\newblock In {\em SPIE Proceedings of the Conference on Human Vision and and
+  Electronic Imaging III}, volume 3299, pages 473--481, San Jose, California,
+  January 1998.
+
+\bibitem{Rodehorst:Kimia:2001}
+Michael~J. Rodehorst and Benjamin~B. Kimia.
+\newblock Subpixel polygonization of discrete implicit surfaces using {ENO}
+  interpolation.
+\newblock Technical Report LEMS-194, LEMS, Brown University, Providence, RI,
+  02912, September 2001.
+
+\bibitem{Wazir:Kimia:Intrinsic2D:2002}
+Rania Wazir and Benjamin Kimia.
+\newblock Intrinsic shock computations for piecewise circular arcs.
+\newblock Technical Report LEMS-196, LEMS, Brown University, Providence, RI,
+  02912, March 2002.
+
+\end{thebibliography}

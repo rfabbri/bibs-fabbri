@@ -1,0 +1,152 @@
+\begin{thebibliography}{10}
+
+\bibitem{Hummel:etal:Deblurring}
+Robert Hummel, Benjamin~B. Kimia, and Steven~W. Zucker.
+\newblock Deblurring {G}aussian blur.
+\newblock {\em Computer Vision, Graphics, and Image Processing}, 38:66--80,
+  1987.
+
+\bibitem{Kimia:Conservation:Math}
+Benjamin~B. Kimia, Allen~R. Tannenbaum, and Steven~W. Zucker.
+\newblock On the evolution of curves via a function of curvature, {I}: The
+  classical case.
+\newblock {\em JMAA}, 163(2):438--458, January 1992.
+
+\bibitem{Kimia:etal:Symbolic:Inverse}
+Benjamin~B. Kimia and Steven~W. Zucker.
+\newblock Analytic inverse of discrete {G}aussian blur.
+\newblock {\em Optical Engineering}, 32(1):166--176, January 1993.
+
+\bibitem{Sapiro:etal:Morphology}
+G.~Sapiro, B.~B. Kimia, R.~Kimmel, D.~Shaked, and A.M. Bruckstein.
+\newblock Implementing continuous-scale morphology.
+\newblock {\em Pattern Recognition}, 26(9):1363--1372, 1993.
+
+\bibitem{Kimmel:Shape:Shading}
+Ronnie Kimmel, Kaleem Siddiqi, Benjamin~B. Kimia, and Alfred~M. Bruckstein.
+\newblock Shape from shading: Level set propagation and viscosity solutions.
+\newblock {\em IJCV}, 16(2), October 1995.
+
+\bibitem{Kimia:etal:Shape:Series:I}
+Benjamin~B. Kimia, Allen~R. Tannenbaum, and Steven~W. Zucker.
+\newblock Shapes, shocks, and deformations,~{I}: The components of shape and
+  the reaction-diffusion space.
+\newblock {\em IJCV}, 15(3):189--224, 1995.
+
+\bibitem{Siddiqi:Kimia:Parts:PAMI}
+Kaleem Siddiqi and Benjamin~B. Kimia.
+\newblock Parts of visual form: Computational aspects.
+\newblock {\em PAMI}, 17(3):239--251, March 1995.
+
+\bibitem{Kimia:Siddiqi:Geometric:CVGIP}
+Benjamin~B. Kimia and Kaleem Siddiqi.
+\newblock Geometric heat equation and nonlinear diffusion of shapes and images.
+\newblock {\em Computer Vision Graphics and Image Processing: Image
+  Understanding}, 64(3):305--322, November 1996.
+
+\bibitem{Siddiqi:etal:Parts:Perception}
+Kaleem Siddiqi, Kathryn~J. Tresness, and Benjamin~B. Kimia.
+\newblock Parts of visual form: Ecological and psychophysical aspects.
+\newblock {\em Perception}, 25:399--424, 1996.
+
+\bibitem{Tek:Kimia:3DBubbles:CVIU}
+Huseyin Tek and Benjamin~B. Kimia.
+\newblock Volumetric segmentation of medical images by three-dimensional
+  bubbles.
+\newblock {\em Computer Vision and Image Understanding}, 64(2):246--258,
+  February 1997.
+
+\bibitem{Siddiqi:etal:GENO:GMIP}
+Kaleem Siddiqi, Benjamin~B. Kimia, and {Chi-Wang} Shu.
+\newblock Geometric shock-capturing {ENO} schemes for subpixel interpolation,
+  computation and curve evolution.
+\newblock {\em Graphical Models and Image Processing}, 59(5):278--301,
+  September 1997.
+
+\bibitem{Sharvit:etal:JVIS:1998}
+Daniel Sharvit, Jacky Chan, H\"useyin Tek, and Benjamin~B. Kimia.
+\newblock Symmetry-based indexing of image databases.
+\newblock {\em Journal of Visual Communication and Image Representation},
+  9(4):366--380, December 1998.
+
+\bibitem{Siddiqi:etal:Wiggles:IVC99}
+Kaleem Siddiqi, Benjamin Kimia, Allen Tannenbaum, and Steven Zucker.
+\newblock Shocks, shapes, and wiggles.
+\newblock {\em Image and Vision Computing}, 17(5-6):365--373, 1999.
+
+\bibitem{Siddiqi:etal:VR2001}
+Kaleem Siddiqi, Benjamin~B. Kimia, Allen~R. Tannenbaunm, and Steven~W. Zucker.
+\newblock On the psychophysics of the shape triangle.
+\newblock {\em Vision Research}, 41(9):1153--1178, 2001.
+
+\bibitem{Tek:Kimia:JMIV2001}
+Huseyin Tek and Benjamin~B. Kimia.
+\newblock Boundary smoothing via symmetry transforms.
+\newblock {\em Journal of Mathematical Imaging and Vision}, 14(3):211--223, May
+  2001.
+
+\bibitem{Cyr:Kimia:IJCV01}
+Christopher~M. Cyr and Benjamin~B. Kimia.
+\newblock A similarity-based aspect-graph approach to 3{D} object recognition.
+\newblock {\em IJCV}, 2003.
+\newblock Accepted - To Appear.
+
+\bibitem{Tek:Wave:Propagation:IJCV02}
+Huseyin Tek and Benjamin~B. Kimia.
+\newblock Symmetry maps of free-form curve segments via wave propagation.
+\newblock {\em IJCV}, pages 35--81, August 2003.
+
+\bibitem{Giblin:Kimia:IJCV03}
+Peter.~J. Giblin and Benjamin.~B. Kimia.
+\newblock On the local form and transitions of symmetry sets, medial axes, and
+  shocks.
+\newblock {\em IJCV}, pages 143--156, August 2003.
+
+\bibitem{Kimia:Euler:Spiral:IJCV02}
+Benjamin~B. Kimia, Ilana Frankel, and Ana-Maria Popescu.
+\newblock Euler spiral for shape completion.
+\newblock {\em IJCV}, pages 157--180, August 2003.
+
+\bibitem{Giblin:Kimia:3DForm:PAMI02}
+P.~J. Giblin and B.~B. Kimia.
+\newblock A formal classification of {3D} medial axis points and their local
+  geometry.
+\newblock {\em PAMI}, 2003.
+\newblock Accepted - To Appear.
+
+\bibitem{Giblin:Kimia:Reconstruction:PAMI02}
+P.~J. Giblin and B.~B. Kimia.
+\newblock On the intrinsic reconstruction of shape from its symmetries.
+\newblock {\em PAMI}, July 2003.
+\newblock Accepted - To Appear.
+
+\bibitem{Sebastian:etal:MIA03}
+Thomas Sebastian, Joseph Crisco, and Benjamin Kimia.
+\newblock Segmentation of carpal bones for accurate measurement of {3D} {\em in
+  vivo} carpal kinematics.
+\newblock {\em Medical Image Analysis}, 7(1):21--45, March 2003.
+
+\bibitem{Sebastian:etal:Curves:PAMI2003}
+Thomas Sebastian, Philip Klein, and Benjamin Kimia.
+\newblock On aligning curves.
+\newblock {\em PAMI}, 25(1):116--125, January 2003.
+
+\bibitem{Sebastian:etal:Shocks:PAMI2003}
+Thomas Sebastian, Philip Klein, and Benjamin Kimia.
+\newblock Recognition of shapes by editing their shock graphs.
+\newblock {\em PAMI}, 2003.
+\newblock Accepted - To Appear.
+
+\bibitem{Sebastian:Kimia:Signal03}
+Thomas~B. Sebastian and Benjamin~B. Kimia.
+\newblock Curves vs skeletons in object recognition.
+\newblock {\em Signal Processing}, 2003.
+\newblock Under Minor Revision.
+
+\bibitem{Kimia:JPhyiology:2003}
+Benjamin~B. Kimia.
+\newblock On the role of medial geometry in human vision.
+\newblock {\em Journal of Physiology}, 2003.
+\newblock Accepted - To Appear.
+
+\end{thebibliography}

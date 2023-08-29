@@ -1,0 +1,15 @@
+#! /bin/sh
+#
+# Find keyword
+#
+# check # of arguments to script
+case $# in
+	1)	;;
+	*)	echo "Usage: $0 <keyword>" 1>&2
+		exit 1
+		;;
+esac
+
+find /vision/docs/kimia/reference/bib -type f -name '*.bib' -print | \
+ egrep -v \^/vision/docs/kimia/reference/bib/other/rosenfeld/ | \
+	egrep -v \^/vision/docs/kimia/reference/friends/ | xargs grep -i $1 | more

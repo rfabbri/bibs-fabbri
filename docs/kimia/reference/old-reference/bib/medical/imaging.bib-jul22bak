@@ -1,0 +1,322 @@
+@article{Bedell:etal:MRI,
+  author = {B.J. Bedell and P.A. Narayana and D.A. Johnston},
+  title = {Three-dimensional MR image registration of the human brain},  
+  journal = {Magnetic Resonance in Medicine},
+  volume = {35},
+  pages = {384-390},
+  year = {1996},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Belliveau:etal:MRI,
+  author = {J.W. Belliveau and D.N. Kennedy and R.C. McKinstry and
+		  B.R. Buchbinder and R.M. Weisskoff and M.S. Cohen
+		  and J.M. Jeeva and T.J. Brady and B.R. Rosen},
+  title = {Functional mapping of the human visual cortex by magnetic resonance imaging},  
+  journal = {Science},
+  volume = {254},
+  pages = {859-871},
+  year = {1991},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Bensaid:etal:Clustering,
+  author = {A.M. Bensaid and L.O. Hall and J.C. Bedzeck and L.P.Clarke},
+  title = {Partially supervised clustering for image segmentation},  
+  journal = {Pattern Recognition},
+  volume = {29},
+  pages = {859-871},
+  year = {1996},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Biederman:Recognition:Components,
+  author = {I. Biederman},
+  title = {Recognition-by-components: A theory of human image understanding},  
+  journal = {Psychological Review},
+  volume = {94},
+  pages = {115-147},
+  year = {1987},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Boecker:etal:FMRI,
+  author = {H. Boecker and D. Khorram-Sefat and A. Kleischmidt and
+		  K.D. Merboldt and W. Hanicke and J. Frahm},
+  title = {High-resolution functional magnetic resonance imaging of
+		  cortical activation during tactile exploration},  
+  journal = {Human Brain Mapping},
+  volume = {3},
+  pages = {236-244},
+  year = {1995},
+  keyword={Magnetic Resonance Imaging},
+}
+
+
+@article{Brandt:etal:Brain:MRI,
+  author = {M.E. Brandt and T.P. Bohan and L.A. Kramer and J.M. Fletcher},
+  title = {Estimation of CSF, white and gray matter volumes in
+		  hydrocephalic children using fuzzy clustering of MR
+		  images },  
+  journal = {Computerized Medical Imaging and Graphics},
+  volume = {18},
+  pages = {25-34},
+  year = {1994},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Buonocore:Coronary:MRI,
+  author = {M.H. Buonocore},
+  title = {Estimation of total coronary artery flow using measurements
+		  of flow in the ascending aorta },  
+  journal = {Magnetic Resonance in Medicine},
+  volume = {32},
+  number = {},
+  pages = {602-611},
+  year = {1994},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Cheng:Chisquare:MRI,
+  author = {K.H. Cheng},
+  title = {In vivo tissue characterization of human brain by
+		  chisquares parmeter maps: Multiparameter proton
+		  T2-relaxation analysis },  
+  journal = {Magnetic Resonance Imaging},
+  volume = {12},
+  number = {},
+  pages = {1099-1109},
+  year = {1994},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Cline:etal:Cerebral:MRI,
+  author = {H.E. Cline and W.E.Lorensen and W.J. Schroeder},
+  title = {3D phase contrast MRI of cerebral blood flow and surface anatomy},  
+  journal = {Journal of Computer Assisted Tomography},
+  volume = {17},
+  number = {},
+  pages = {173-177},
+  year = {1993},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Cohen:etal:Overview:FMRI,
+  author = {J.D. Cohen and D.C. Noll and W.Schneider},
+  title = {Functional magnetic resonance imaging: Overview and methods
+		  for psychological research},  
+  journal = {Behavior Research methods, Instruments, \& Computers},
+  volume = {25},
+  number = {},
+  pages = {101-113},
+  year = {1993},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Dempster:etal:EM,
+  author = {A.P. Dempster N.M. Laird and D. Rubin},
+  title = {Maximum likelihood from incomplete data via the EM algorithm},  
+  journal = {Journal of Royal Statistical Society},
+  volume = {Series B, 39},
+  number = {},
+  pages = {1-38},
+  year = {1977},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Elster:Gradient-echo:MRI,
+  author = {A.D. Elster},
+  title = {Gradient-echo MR imaging: Techniques and acronyms},  
+  journal = {Radiology},
+  volume = {186},
+  number = {},
+  pages = {1-8},
+  year = {1993},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Feinberg:Oshio:GRASE:MRI,
+  author = {D.A. Feinberg and K. Oshio},
+  title = {GRASE (Gradient-and Spin-Echo MR imaging: A new fast
+		  clinical imaging technique },  
+  journal = {Radiology},
+  volume = {181},
+  number = {},
+  pages = {597-602},
+  year = {1991},
+  keyword={Magnetic Resonance Imaging},
+}
+@article{Friston:etal:FMRI,
+  author = {K.J. Friston J. Ashburner and C.D. Frith and J.B. Poline
+		  and R.S.J. Frackowiak},
+  title = {Anaylsis of functional MRI time-series},  
+  journal = {Human Brain Mapping},
+  volume = {3},
+  number = {},
+  pages = {165-189},
+  year = {1995},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Friston:etal:Registration,
+  author = {K.J. Friston and P. Jezzard and R. Turner},
+  title = {Spatial registration and normalization of images},  
+  journal = {Human Brain Mapping},
+  volume = {1},
+  number = {},
+  pages = {151-171},
+  year = {1994},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Gerig:etal:Segmentation:MRI,
+  author = {G. Gerig and J. Martin and R. Kikinis and O. Kubler and
+		  M.Shenton and F.A. Jolesz},
+  title = {Unsupervised tissue type segmentaton of 3D dual-echo MR
+		  head data },  
+  journal = {Image and Vision Computing},
+  volume = {10},
+  number = {},
+  pages = {349-360},
+  year = {1992},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Hajnal:etal:Registration:MRI,
+  author = {J.V. Hajnal and N. Saeed and A. Oatridge and E.J.Williams
+		  and I.R. Young and G.M. Bydder},
+  title = {Detection of subtle brain changes using subvoxel
+		  registration and subtraction of serial MR images },  
+  journal = {Journal of Computer Assisted Tomography},
+  volume = {19},
+  number = {},
+  pages = {677-791},
+  year = {1995},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Hajnal:etal:Interpolation:MRI,
+  author = {J.V. Hajnal and N. Saeed and E.J. Soar and A. Oatridge
+		  and I.R. Young and G.M. Bydder },
+  title = {A registration and interpolation procedure for subvoxel
+		  matching of serially acquired MR images },  
+  journal = {Journal of Assisted Tomography},
+  volume = {19},
+  number = {},
+  pages = {289-296},
+  year = {1995},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Lundervold:Segmentation:Multispectral:MRI,
+  author = {A. Lundervold and G. Storvik},
+  title = {Segmentation of brain parenchyma and cerebrospinal fluid in
+		  multispectral magnetic resonance images },  
+  journal = {IEEE Transactions on Medical Imaging},
+  volume = {14},
+  number = {},
+  pages = {339-349},
+  year = {1995},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Schad:etal:Radiosurgical:MRI,
+  author = {L.R. Schad and H. Bluml and S. Hawighorst and F. Wenz and
+		  W. J. Lorenz},
+  title = {Radiosurgical treatment planning of brain metases based on
+		  a fast, three-dimensional MR imaging technique },  
+  journal = {Magnetic Resonance Imaging},
+  volume = {12},
+  number = {},
+  pages = {811-819},
+  year = {1994},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Schad:etal:Stimulation:FMRI,
+  author = {L.R. Schad and F. Wenz M.V. Knopp and K. Baudendistel and
+		  E. Muller  and  W. J. Lorenz},},
+  title = {Functional 2D and 3D magnetic resonance imaging of motor
+		  cortex stimulation at high spatial resolution using
+		  standard 1.5 T imager },  
+  journal = {Magnetic Resonance Imaging},
+  volume = {12},
+  number = {},
+  pages = {9-15},
+  year = {1994},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Soltanian-Zadeh:Eigenimage:MRI,
+  author = {H. Soltanian-Zadeh and R.Saigal and J.P. Windham and
+		  A.E. Eagle and D. O. Hearshen},
+  title = {Optimization of MRI protocols and pulse sequence parameters for eigenimage filtering},  
+  journal = {IEEE Transactions on Medical Imaging},
+  volume = {13},
+  number = {},
+  pages = {161-175},
+  year = {1994},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Taxt:Lundervold:Multispectral:MRI,
+  author = {T.M. Taxt A. Lundervold },
+  title = {Multispectral analysis of the brain using magnetic resonance imaging},  
+  journal = {IEEE Transactions on Medical Imaging},
+  volume = {13},
+  number = {},
+  pages = {470-481},
+  year = {1994},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Wong:etal:LipidMRI,
+  author = {W.F. Wong and S.R. Northup and R.C. Herrick and
+		  A.P. Glombicki and R.P. Wood and J.D. Morrisett},
+  title = {Quantitation of lipid in biological tissue by chemical
+		  shift magnetic resonance imaging },  
+  journal = {Magnetic Resonance in Medicine},
+  volume = {32},
+  number = {},
+  pages = {440-446},
+  year = {1994},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@inbook{Wood:Fourier:Imaging,
+  author = {M.L. Wood},
+  title = {Fourier imaging},  
+  booktitle = {Magnetic Resonance in Imaging},
+  volume = {1},
+  chapter = {2},
+  pages = {21-66},
+  year = {1992},
+  publisher = {Mosby-Year book},
+  city = {St. Louis, MO},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@inbook{Young:Bydder:Phase:Imaging,
+  author = {I.R. Young and G.M. Bydder},
+  title = {Phase Imaging},  
+  booktitle = {Magnetic Resonance in Imaging},
+  volume = {1},
+  chapter = {9},
+  publisher = {Mosby-Year book},
+  city = {St. Louis, MO},
+  pages = {219-232},
+  year  ={1992},
+  keyword={Magnetic Resonance Imaging},
+}
+
+@article{Yvert:etal:Mesh:EEG,
+  author = {B.Yvert and O. Bertrand and J.F. Echallier and J. Pernier},
+  title = {Improved forward EEG calculations using local mesh
+		  refinement of realistic head geometries },  
+  journal = {Electroencephalography and clinical Neurophysiology},
+  volume = {95},
+  number = {},
+  pages = {381-392},
+  year  = {1995},
+  keyword={Magnetic Resonance Imaging},
+}

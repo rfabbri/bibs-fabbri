@@ -1,0 +1,128 @@
+\begin{thebibliography}{10}
+
+\bibitem{agarwal:roth:sparse:representation}
+S.~Agarwal and D.~Roth.
+\newblock Learning a sparse representation for object detection.
+\newblock In {\em Proceedings of the 7th European Conference on Computer
+  Vision}, volume~4, pages 113--130, 2002.
+
+\bibitem{bose:lenhart:liotta:characterizing}
+P.~Bose, W.~Lenhart, and G.~Liotta.
+\newblock Characterizing proximity trees.
+\newblock In G.~{Di Battista}, P.~Eades, H.~d. Fraysseix, P.~Rosenstiehl, and
+  R.~Tamassia, editors, {\em Proc. {ALCOM} Int. Work. Graph Drawing, {GD}},
+  pages 9--11. Centre D'Analyse et de Math{\'e}matique Sociales, Paris
+  Sorbonne, 1993.
+
+\bibitem{forsyth:fleck:body:plans}
+D.~A. Forsyth and M.~M. Fleck.
+\newblock Body plans.
+\newblock In {\em Proc. of IEEE Conference on Computer Vision and Pattern
+  Recognition {CVPR}}, 1997.
+
+\bibitem{hahn:chater:similarity}
+U.~Hahn and N.~Chater.
+\newblock Understanding similarity: A joint project for psychology, case-based
+  reasoning, and law.
+\newblock {\em Artificial Intelligence Review}, 12(5):393--427, 1998.
+
+\bibitem{and-proximity}
+S.~Kapoor and X.-Y. Li.
+\newblock Proximity structures for geometric graphs.
+
+\bibitem{keselman:dickinson:abstraction}
+Y.~Keselman and S.~Dickinson.
+\newblock Generic model abstraction from examples.
+\newblock In {\em Proc. of IEEE Conference on Computer Vision and Pattern
+  Recognition {CVPR}}, 2001.
+
+\bibitem{lowe:object}
+D.~G. Lowe.
+\newblock Object recognition from local scale-invariant features.
+\newblock In {\em Proc. of the International Conference on Computer Vision
+  {ICCV}}, pages 1150--1157, 1999.
+
+\bibitem{needham:infants}
+A.~Needham.
+\newblock Object recognition and object segregation in 4.5-month-old infants.
+\newblock {\em Journal of Experimental Child Psychology}, 78(1):3--22, 2001.
+
+\bibitem{nelson:selinger:cubist}
+R.~C. Nelson and A.~Selinger.
+\newblock A cubist approach to object recognition.
+\newblock In {\em Proc. of the International Conference on Computer Vision
+  {ICCV}}, 1998.
+
+\bibitem{nelson:selinger:object}
+R.~C. Nelson and A.~Selinger.
+\newblock Large-scale tests of a keyed, appearance-based 3d object recognition
+  system.
+\newblock {\em Vision Research}, 38(16):2469--2488, 1998.
+
+\bibitem{palmer:rock:organizational:Peterson}
+S.~Palmer and I.~Rock.
+\newblock On the nature and order of organizational processing: A reply to
+  peterson.
+\newblock {\em Psychonomic Bulletin and Review}, 1(4):515--519, 1994.
+
+\bibitem{palmer:rock:perceptual:connectedness}
+S.~Palmer and I.~Rock.
+\newblock Rethinking perceptual organization: The role of uniform
+  connectedness.
+\newblock {\em Psychonomic Bulletin and Review}, 1(1):29--55, 1994.
+
+\bibitem{papageorgiou:poggio:trainable:object}
+C.~Papageorgiou and T.~Poggio.
+\newblock A trainable system for object detection.
+\newblock {\em International journal of computer vision}, 38(1):15--33, 2000.
+
+\bibitem{salzberg:delcher:heath:kasif:bestcase}
+S.~Salzberg, A.~L. Delcher, D.~G. Heath, and S.~Kasif.
+\newblock Best-case results for nearest-neighbor learning.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  17(6):599--608, 1995.
+
+\bibitem{sanchez:pla:ferri:prototype}
+J.~S. Sanchez, F.~Pla, and F.~J. Ferri.
+\newblock Prototype selection for the nearest neighbour rule through proximity
+  graphs.
+\newblock {\em Pattern Recognition Letters}, 18(6):507--603, 1997.
+
+\bibitem{schneiderman:kanade:object:detection}
+H.~Schneiderman and T.~Kanade.
+\newblock A statistical method for 3d object detection applied to faces and
+  cars.
+\newblock In {\em Proc. of IEEE Conference on Computer Vision and Pattern
+  Recognition {CVPR}}, 2000.
+
+\bibitem{tomonaga:matsuzawa:chimpanzees:humans}
+M.~Tomonaga and T.~Matsuzawa.
+\newblock Perception of complex geometric figures in chimpanzees (pan
+  troglodytes) and humans (homo sapiens): Analyses of visual similarity on the
+  basis of choice reaction time.
+\newblock {\em Journal of Comparative Psychology}, 106(1):43--52, 1992.
+
+\bibitem{toussaint:proximity}
+G.~Toussaint.
+\newblock Proximity graphs for nearest neighbor decision rules: Recent
+  progress.
+
+\bibitem{vecera:oreilly:figure:ground}
+S.~P. Vecera and R.~C. O'Reilly.
+\newblock Figure-ground organization and object recognition processes: An
+  interactive account.
+\newblock {\em Journal of Experimental Psychology}, 24(2):441--462, 1998.
+
+\bibitem{weber:welling:perona:models:recognition}
+M.~Weber, M.~Welling, and P.~Perona.
+\newblock Unsupervised learning of models for recognition.
+\newblock In {\em Proceedings of the 6th European Conference on Computer
+  Vision}, pages 18--32, 2000.
+
+\bibitem{yu:shi:segregation}
+S.~X. Yu and J.~Shi.
+\newblock Object-specific figure-ground segregation.
+\newblock In {\em In Proceedings of IEEE International Conference on Computer
+  Vision and Pattern Recognition}, 2003.
+
+\end{thebibliography}

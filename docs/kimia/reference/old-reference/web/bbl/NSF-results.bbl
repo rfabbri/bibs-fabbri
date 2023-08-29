@@ -1,0 +1,163 @@
+\begin{thebibliography}{10}
+
+\bibitem{Tek:Kimia:JMIV2001}
+Huseyin Tek and Benjamin~B. Kimia.
+\newblock Boundary smoothing via symmetry transforms.
+\newblock {\em Journal of Mathematical Imaging and Vision}, 14(3):211--223, May
+  2001.
+
+\bibitem{Cyr:Kimia:IJCV01}
+Christopher~M. Cyr and Benjamin~B. Kimia.
+\newblock A similarity-based aspect-graph approach to 3{D} object recognition.
+\newblock {\em IJCV}, 2002.
+\newblock Accepted, Under Revision.
+
+\bibitem{Tek:Wave:Propagation:IJCV02}
+Huseyin Tek and Benjamin~B. Kimia.
+\newblock Symmetry maps of free-form curve segments via wave propagation.
+\newblock {\em IJCV}, 2003.
+\newblock To Appear.
+
+\bibitem{Kimia:Euler:Spiral:IJCV02}
+Benjamin~B. Kimia, Ilana Frankel, and Ana-Maria Popescu.
+\newblock Euler spiral for shape completion.
+\newblock {\em IJCV}, 2003.
+\newblock Under Second revision.
+
+\bibitem{Giblin:Kimia:3DForm:PAMI02}
+P.~J. Giblin and B.~B. Kimia.
+\newblock A formal classification of {3D} medial axis points and their local
+  geometry.
+\newblock {\em IEEE Trans.~Pattern Analysis and Machine Intelligence}, 2003.
+\newblock To Appear.
+
+\bibitem{Giblin:Kimia:Reconstruction:PAMI02}
+P.~J. Giblin and B.~B. Kimia.
+\newblock On the intrinsic reconstruction of shape from its symmetries.
+\newblock {\em IEEE Trans.~Pattern Analysis and Machine Intelligence}, 2003.
+\newblock To Appear.
+
+\bibitem{Sebastian:etal:MIA03}
+Thomas Sebastian, Joseph Crisco, and Benjamin Kimia.
+\newblock Segmentation of carpal bones for accurate measurement of {3D} {\em in
+  vivo} carpal kinematics.
+\newblock {\em Medical Image Analysis}, 7(1):21--45, March 2003.
+
+\bibitem{Sebastian:etal:Curves:PAMI2003}
+Thomas Sebastian, Philip Klein, and Benjamin Kimia.
+\newblock On aligning curves.
+\newblock {\em PAMI}, 25(1):116--125, January 2003.
+
+\bibitem{Sebastian:etal:Shocks:PAMI2003}
+Thomas Sebastian, Philip Klein, and Benjamin Kimia.
+\newblock Recognition of shapes by editing their shock graphs.
+\newblock {\em IEEE Trans.~Pattern Analysis and Machine Intelligence}, 2003.
+\newblock Under minor revision.
+
+\bibitem{Klein:etal:SODA2000}
+Philip Klein, Srikanta Tirthapura, Daniel Sharvit, and Benjamin Kimia.
+\newblock A tree-edit distance algorithm for comparing simple, closed shapes.
+\newblock In {\em Tenth Annual ACM-SIAM Symposium on Discrete Algorithms
+  (SODA)}, pages 696--704, San Francisco, California, January 9-11 2000.
+
+\bibitem{Leymarie:Kimia:ISMM2000}
+F.~F. Leymarie and B.~B. Kimia.
+\newblock Discrete {3D} wave propagation for computing morphological operations
+  from surface patches and unorganized points.
+\newblock In J.~Goutsias, L.~Vincent, and D.~Bloomberg, editors, {\em Math.
+  Morphology and its Applications to Image and Signal Processing}, volume~18 of
+  {\em Computational Imaging and Vision}, pages 351--360, Palo Alto, CA, USA,
+  June 2000. Kluwer Academic.
+\newblock Proceedings of International Symposium on Mathematical Morphology
+  (ISMM).
+
+\bibitem{Giblin:Kimia:CVPR2000}
+P.~J. Giblin and B.~B. Kimia.
+\newblock On the local form of symmetry sets, and medial axes, and shocks in
+  3{D}.
+\newblock In {\em Proceedings of the IEEE Computer Society Conference on
+  Computer Vision and Pattern Recognition}, pages 566--573, Hilton Head Island,
+  South Carolina, USA, June 13-15 2000. IEEE Computer Society Press.
+
+\bibitem{Sebastian:etal:MMBIA2000}
+Thomas~B. Sebastian, Joseph~J. Crisco, Philip~N. Klein, and Benjamin~B. Kimia.
+\newblock Constructing 2{D} curve atlases.
+\newblock In {\em Proceedings of Mathematical Methods in Biomedical Image
+  Analysis}, pages 70--77, 2000.
+
+\bibitem{Cyr:etal:MMBIA2000}
+Christopher~M. Cyr, Ahmed~F. Kamal, Thomas~B. Sebastian, and Benjamin~B. Kimia.
+\newblock 2{D}-3{D} registration based on shape matching.
+\newblock In {\em Proceedings of Mathematical Methods in Biomedical Image
+  Analysis}, pages 198--203, 2000.
+
+\bibitem{Klein:etal:SODA2001}
+Philip Klein, Thomas Sebastian, and Benjamin Kimia.
+\newblock Shape matching using edit-distance: an implementation.
+\newblock In {\em Twelfth Annual ACM-SIAM Symposium on Discrete Algorithms
+  (SODA)}, pages 781--790, Washington, D.C., January 7-9 2001.
+
+\bibitem{Cyr:Kimia:ICCV2001}
+Christopher~M. Cyr and Benjamin~B. Kimia.
+\newblock 3{D} object recognition using shape similarity-based aspect graph.
+\newblock In ICCV2001 \cite{ICCV2001}, pages 254--261.
+
+\bibitem{Sebastian:etal:ICCV2001}
+Thomas~B. Sebastian, Philip~N. Klein, and Benjamin~B. Kimia.
+\newblock Recognition of shapes by editing shock graphs.
+\newblock In ICCV2001 \cite{ICCV2001}, pages 755--762.
+
+\bibitem{Sebastian:etal:IWVF2001}
+Thomas~B. Sebastian, Philip~N. Klein, and Benjamin~B. Kimia.
+\newblock Alignment-based recognition of shape outlines.
+\newblock In Carlo Arcelli, Luigi Cordella, and Gabriella~Sanniti di~Baja,
+  editors, {\em Proceedings of the International Workshop on Visual Form},
+  pages 606--618, Capri, Italy, May 2001. Springer.
+
+\bibitem{Sebastian:Kimia:ICIP2001}
+Thomas~B. Sebastian and Benjamin~B. Kimia.
+\newblock Curves vs skeletons in object recognition.
+\newblock In {\em Proceedings of the IEEE International Conference on Image
+  Processing}, pages 22--25, Thessaloniki, Greece, October 2001. IEEE Computer
+  Society Press.
+
+\bibitem{Johannes:POCV2001}
+Marc~S. Johannes, Thomas~B. Sebastian, Huseyin Tek, and Benjamin~B. Kimia.
+\newblock Perceptual organization as object recognition divided by two.
+\newblock In {\em Workshop on Perceptual Organization in Computer Vision},
+  pages 41--46, 2001.
+
+\bibitem{Giblin:Kimia:ECCV2002}
+P.~J. Giblin and B.~B. Kimia.
+\newblock Transitions of the 3{D} medial axis under a one-parameter family of
+  deformations.
+\newblock In ECCV2002 \cite{ECCV2002}, pages 718--724.
+
+\bibitem{Sebastian:etal:ECCV2002}
+Thomas~B. Sebastian, Philip~N. Klein, and Benjamin~B. Kimia.
+\newblock Shock-based indexing into large shape databases.
+\newblock In ECCV2002 \cite{ECCV2002}, pages Part III:731 -- 746.
+
+\bibitem{Sebastian:Kimia:ICPR2002}
+Thomas~B. Sebastian and Benjamin~B. Kimia.
+\newblock Metric-based shape retrieval in large databases.
+\newblock In {\em Proceedings of International Conference on Pattern
+  Recognition}, volume~3, pages 30291--30296, Quebec City, Quebec, Canada,
+  August 11-15,2002 2002. Computer Society Press.
+
+\bibitem{Dhandapani:Kimia:ICIP2002}
+Raghavan Dhandapani and Benjamin~B. Kimia.
+\newblock Role of scale in partitioning shape.
+\newblock In {\em Proceedings of the IEEE International Conference on Image
+  Processing}, volume~II, pages 565--568, Rochester, New York, Sepetember 2002.
+  IEEE Computer Society Press.
+
+\bibitem{ICCV2001}
+{\em Eighth International Conference on Computer Vision, Vancouver, Canada July
+  9-12, 2001}, Vancouver, Canada, July 9-12 2001. IEEE Computer Society Press.
+
+\bibitem{ECCV2002}
+{\em Seventh European Conference on Computer Vision, Copenhagen, Denmark},
+  Copenhagen, Denmark, May 28-31 2002. Springer Verlag.
+
+\end{thebibliography}

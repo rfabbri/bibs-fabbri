@@ -1,0 +1,27 @@
+@inproceedings{ achlioptas:database:2001,
+    author = "Dimitris Achlioptas",
+    title = "Database-friendly random projections",
+    booktitle = "Symposium on Principles of Database Systems",
+    year = "2001",
+    url = "citeseer.nj.nec.com/achlioptas01databasefriendly.html" }
+
+@INPROCEEDINGS{Bing:ICKDDM:2001,
+  AUTHOR = {E. Bingham and H. Mannila},
+  TITLE = {Random projection in dimensionality reduction:
+                  Applications to image and text data},
+  BOOKTITLE = {Proceedings of the {ACM SIGKDD} International Conference on Knowledge Discovery and Data Mining},
+  YEAR = 2001,
+  ADDRESS = {San Francisco, CA},
+  MONTH = AUG,
+  PAGES = {245--250}
+}
+
+@Book{Gershenfeld:CU:99,
+  author =   {N.~Gershenfeld},
+  title =    {The Nature of Mathematical Modelling},
+  publisher =    {Cambridge University Press},
+  year =     1999,
+  address =  {Cambridge},
+    folder =   {happ}
+}
+

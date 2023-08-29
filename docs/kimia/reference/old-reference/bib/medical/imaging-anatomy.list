@@ -1,0 +1,353 @@
+From buck@goya.gris.informatik.uni-tuebingen.de Wed Aug 19 01:31:14 1992
+Return-Path: <buck@goya.gris.informatik.uni-tuebingen.de>
+Received: from CAMIS.Stanford.EDU by HPP.Stanford.EDU (4.1/inc-1.0)
+	id AA16543; Wed, 19 Aug 92 01:31:11 PDT
+Received: from medisg.Stanford.EDU by CAMIS.Stanford.EDU (4.1/inc-1.0)
+	id AA17179; Wed, 19 Aug 92 01:31:08 PDT
+Received: from vuse.vanderbilt.edu by medisg.Stanford.EDU (4.1/1.34)
+	id AA02843; Wed, 19 Aug 92 01:30:45 PDT
+Received: from mailserv.zdv.uni-tuebingen.de by vuse.vanderbilt.edu (4.1/SMI-4.1/VUSE-1.6)
+	id AA05090; Wed, 19 Aug 92 03:30:45 CDT
+Received: from goya.gris.informatik.uni-tuebingen.de (reynaldo.gris.informatik.uni-tuebingen.de) by mailserv.zdv.uni-tuebingen.de (4.1/ZDV-Uni-Tuebingen-1.0)
+	id AA22461; Wed, 19 Aug 92 10:29:53 +0200
+Message-Id: <9208190829.AA22461@mailserv.zdv.uni-tuebingen.de>
+Received: by goya.gris.informatik.uni-tuebingen.de
+	(16.6/15.6) id AA00786; Wed, 19 Aug 92 10:28:27 +0200
+From: Thomas Buck <buck@goya.gris.informatik.uni-tuebingen.de>
+Subject: About some medical references ... (part 2 - LONG)
+To: 'ai-medicine@vuse.vanderbilt.edu' (user alias)
+Date: Wed, 19 Aug 92 10:28:24 MESZ
+Cc: buck@goya.gris.informatik.uni-tuebingen.de
+Mailer: Elm [revision: 66.25]
+
+
+Dear folk:
+
+here I will send "all" the literature that I have about
+applying an anatomical atlas to medical images. Indeed it is not
+actual anymore. In the last IEEE Computer Graphics and Applications
+Magazine, July 1992 (I think), there are two articles about this theme:
+one from the Chapel Hill research group and another one from the
+Hamburg group.
+
+Follows a LaTeX file, just a simple text (please excuse me :-)),
+and then a BibTeX file, with the literature. Enjoy.
+
+Of course are new more articles also welcomed.
+
+
+
+ -----< begin LaTeX included file >-----
+
+\documentstyle{article}
+\begin{document}
+
+\section*{Introduction}
+
+Arun \cite{Fitting-3D-Sets-Arun:1987}
+and Vandermeulen \cite{Vandermeulen-PhD:1991}.
+
+\section*{Articles for building an atlas}
+
+Mori \cite{Mori-MRI-Atlas:1991},
+Kufer \cite{Kufer-CT:1990},
+Kendall \cite{Kendall-Kopf:1987} and
+Kretschmann \cite{Kretschmann_Atlas:1991}
+
+\section*{Articles for rigid matching}
+
+Steinbrecher \cite{Rainer-PhD:1992},
+Pellizzari \cite{Pellizzari:1989} and
+Kretschmann \cite{Kretschmann-Radiologe:1991}
+
+\section*{Articles for elastic matching}
+
+Bajcsy \cite{ElasticBajcsy:1983},
+Chen \cite{Chen-CAR:1989},
+Burr \cite{Elastic-Lines-Burr:1981}
+    and \cite{DynamicalBurr:1981},
+Terzopoulos \cite{Snakes:1987} and
+Ayache \cite{Ayache-Medical-Representation:1989}
+      and \cite{Ayache-CVPR:1991}
+
+\section*{Others}
+
+De Castro \cite{Registration-FFT-DeCastro:1987},
+Schad \cite{Schad-Correlation:1987},
+Herman \cite{Regis-Med-Imag-Herman:1990} and
+Krestel \cite{ErichKrestel:1990}
+
+\bibliographystyle{plain}
+\bibliography{medical_reference}
+\end{document}
+
+ -----< end LaTeX included file >-----
+
+
+
+ -----< begin BibTeX included file >-----
+
+%%%
+%%%   Medical References
+%%%   Thomas Buck (c) 1992
+%%%   ----------------------------------------------------------
+%%%
+%%%
+%%%
+
+
+@STRING{ SPRINGER=
+          {Springer Verlag}
+ }
+
+
+@STRING{ CAR-89=
+          {Computer Aided Radiology - CAR 89}
+ }
+
+
+@STRING{ IEEE-SMC=
+          {IEEE Transactions on Systems, Man and Cybernetics}
+ }
+
+
+@STRING{ IEEE-PAMI=
+          {IEEE Transactions on Pattern Analysis and Machine Intelligence}
+ }
+
+
+@STRING{ IEEE-CGA=
+          {IEEE Computer Graphics and Applications}
+ }
+
+
+@STRING{ IEEE-PRESS=
+          {IEEE Computer Society Press}
+ }
+
+
+@STRING{ ACADEMIC-PRESS=
+          {Academic Press}
+ }
+
+
+@STRING{ IJCV=
+          {Int'l J. C. V.}
+ }
+
+
+@STRING{ JCAT=
+          {Journal of Computer Assisted Tomography}
+ }
+
+
+@STRING{ CGIP=
+          {C. G. I. P.}
+ }
+
+
+@ARTICLE{ ElasticBajcsy:1983,
+  AUTHOR={R. Bajcsy and R. Lieberson and M. Reivich},
+  TITLE={A computerized system for elastic matching of deformed radiographic
+         images to idealized atlas images},
+  JOURNAL=JCAT,
+  YEAR={1983},
+  VOLUME={7},
+  NUMBER={?},
+  PAGES={618 -- 625}
+ }
+
+@ARTICLE{ Pellizzari:1989,
+  AUTHOR={C. A. Pellizzari et alii},
+  TITLE={Accurate 3D Registration of CT, PET and MR Images of the Brain},
+  JOURNAL=JCAT,
+  YEAR={1989},
+  VOLUME={13},
+  NUMBER={?},
+  PAGES={20 -- 26}
+ }
+
+@ARTICLE{ Fitting-3D-Sets-Arun:1987,
+  AUTHOR={K. S. Arun and T. S. Huang and S. D. Blostein},
+  TITLE={Least squares fitting of two 3D sets},
+  JOURNAL=IEEE-PAMI,
+  YEAR={1987},
+  VOLUME={9},
+  NUMBER={5},
+  PAGES={698 -- 699},
+  MONTH={September}
+ }
+
+@ARTICLE{ Registration-FFT-DeCastro:1987,
+  AUTHOR={E. de Castro and C. Morandi},
+  TITLE={Registration of translated and rotated images using finite fourier
+         transforms},
+  JOURNAL=IEEE-PAMI,
+  YEAR={1987},
+  VOLUME={9},
+  NUMBER={5},
+  PAGES={700 -- 703},
+  MONTH={September}
+ }
+
+@ARTICLE{ Elastic-Lines-Burr:1981,
+  AUTHOR={D. J. Burr},
+  TITLE={Elastic matching of line drawings},
+  JOURNAL=IEEE-PAMI,
+  YEAR={1981},
+  VOLUME={3},
+  NUMBER={6},
+  PAGES={708 -- 713}
+ }
+
+@ARTICLE{ DynamicalBurr:1981,
+  AUTHOR={D. J. Burr},
+  TITLE={A dynamical model for image registration},
+  JOURNAL=CGIP,
+  YEAR={1981},
+  VOLUME={15},
+  NUMBER={?},
+  PAGES={102 -- 112}
+ }
+
+@ARTICLE{ Snakes:1987,
+  AUTHOR={M. Kass and A. Witkin and D. Terzopoulos},
+  TITLE={Snakes: active contour models},
+  JOURNAL=IJCV,
+  YEAR={1987},
+  VOLUME={1},
+  NUMBER={?},
+  PAGES={321 -- 331}
+ }
+
+@BOOK{ Mori-MRI-Atlas:1991,
+  AUTHOR={K. Mori (Ed.)},
+  TITLE={MRI of the Central Nervous System - A Pathology Atlas},
+  PUBLISHER=SPRINGER,
+  YEAR={1991}
+ }
+
+@BOOK{ Kufer-CT:1990,
+  AUTHOR={R. Schwarsow and H. Kufer},
+  TITLE={Praktische Computertomographie},
+  PUBLISHER={F. K. Schattaner Verlag},
+  YEAR={1990}
+ }
+
+@BOOK{ Kendall-Kopf:1987,
+  AUTHOR={E. W. Rad\"u and B. E. Kendall and I. F. Moseley},
+  TITLE={Computertomographie des Kopfes},
+  PUBLISHER={Thieme Verlag},
+  YEAR={1987}
+ }
+
+@BOOK{ Kretschmann_Atlas:1991,
+  AUTHOR={Hans-Joachim Kretschmann and Wolfgang Weinrich},
+  TITLE={Klinische Neuroanatomie und kranielle Bilddiagnostik},
+  PUBLISHER={Georg Thieme Verlag -- Stuttgart},
+  YEAR={1991},
+  EDITION={2., neubearbeitete und erweiterte Auflage}
+ }
+
+@INPROCEEDINGS{ Chen-CAR:1989,
+  AUTHOR={Shiuh Yung Chen and Wei Chung Lin and Cheng Chung Liang and Chin
+          Tu Chen},
+  TITLE={Improvement on dynamic elastic interpolation technique for
+         reconstructing 3D objects from serial cross sections},
+  BOOKTITLE={Computer Assisted Radiology (CAR) 89},
+  YEAR={1989},
+  EDITOR={H. U. Lemke and M. L. Rhodes and C. C. Jaffe and R. Felix},
+  PAGES={702 -- 706}
+ }
+
+@ARTICLE{ Schad-Correlation:1987,
+  AUTHOR={Lothar R. Schad and Robert Boesecke and Wolfgang Schlegel and
+          G\"unther H. Hartmann and Volker Sturm and Ludwig G. Strauss and
+          Walter J. Lorenz},
+  TITLE={Three dimensional image correlation of CT, MR, and PET studies in
+         radiotherapy treatment planning of brain tumors},
+  JOURNAL=JCAT,
+  YEAR={1987},
+  VOLUME={11},
+  NUMBER={6},
+  PAGES={948 -- 954}
+ }
+
+@ARTICLE{ Regis-Med-Imag-Herman:1990,
+  AUTHOR={Klaus D. Toennis and Jayaram K. Udupa and Gabor T. Herman and
+          Isaac L. Wornom and Steven R. Buchman},
+  TITLE={Registration of 3D Objects and Surfaces},
+  JOURNAL=IEEE-CGA,
+  YEAR={1990},
+  VOLUME={10},
+  NUMBER={3},
+  PAGES={52 -- 62},
+  MONTH={May}
+ }
+
+@PHDTHESIS{ Vandermeulen-PhD:1991,
+  AUTHOR={Dirk Vandermeulen},
+  TITLE={Methods for registration, interpolation and interpretation of
+         three-dimensional medical image data for use in 3-D display, 3-D
+         modelling and therapy planning},
+  SCHOOL={Katholieke Universiteit Leuven},
+  YEAR={1991}
+ }
+
+@ARTICLE{ Ayache-Medical-Representation:1989,
+  AUTHOR={N. Ayache and J. D. Boissonnat and E. Brunet and L. Cohen and J.
+          P. Chi\`eze and B. Geiger and O. Monga and J. M. Rocchisani and P.
+          Sander},
+  TITLE={Building highly structured volume representations
+         in 3D medical images},
+  JOURNAL=CAR-89,
+  YEAR={1989},
+  PAGES={765 -- 772}
+ }
+
+@ARTICLE{ Ayache-CVPR:1991,
+  AUTHOR={Isaac Cohen and Laurent D. Cohen and Nicholas Ayache},
+  TITLE={Introducing new deformable surfaces to segment 3D images},
+  JOURNAL={CVPR-91},
+  YEAR={1991}
+ }
+
+@ARTICLE{ Kretschmann-Radiologe:1991,
+  AUTHOR={H.-J. Kretschmann and H. Vogt and T. Sch\"utz and M. Gerke and A.
+          Riedel and C. Buhmann and M. Wesemann and D. M\"uller},
+  TITLE={Dreidimensionale Rekonstruktion in der Neuroanatomie},
+  JOURNAL={Radiologe},
+  YEAR={1991},
+  VOLUME={31},
+  NUMBER={?},
+  PAGES={481 -- 488}
+ }
+
+@PHDTHESIS{ Rainer-PhD:1992,
+  AUTHOR={Rainer Steinbrecher},
+  TITLE={TURIST -- ein oberfl\"achenorientiertes System zur 3D Rekonstruktion},
+  SCHOOL={Universit\"at T\"ubingen},
+  YEAR={1992},
+  MONTH={February}
+ }
+
+@BOOK{ ErichKrestel:1990,
+  AUTHOR={Erich Krestel},
+  TITLE={Imaging Systems for Medical Diagnostics},
+  PUBLISHER={Siemens Aktiengesellschaft},
+  YEAR={1990}
+ }
+
+ -----< end BibTeX included file >-----
+
+
+
+Best regards,
+Thomas
+
+ --
+THOMAS DE ARAUJO BUCK   [Internet] buck@goya.gris.informatik.uni-tuebingen.de
+Universitaet Tuebingen             Wilhelm Schickard Institut fuer Informatik
+Auf der Morgenstelle 10, C-9                 7400 Tuebingen 1  -  DEUTSCHLAND
+Phone: +49 (0) 7071 / 29-5464                     Fax: +49 (0) 7071 / 29-5466
+

@@ -1,0 +1,92 @@
+%
+%	Lindeberg90	Scale-Space for Discrete Signals
+%
+
+@article( Lindeberg90Scale, 
+  author =	{T. Lindeberg}, 
+  title =	{Scale-Space for Discrete Signals}, 
+  year =	1990, 
+  month =	mar, 
+  journal =	PAMI,
+  volume =	12, 
+  number =	3, 
+  pages =	{234--254}, 
+  keywords =	{1D Scale-Space Kernels:
+		    (1)	Positivity and unimodality in the spatial
+		 	domain. (p. 236)
+		    (2)	Generating functions: generalized binomial
+		 	kernels. (p. 237)
+		    (3)	No real negative eigenvalues of the
+		 	convolution (Toeplitz) matrix.
+		    (4)	Positivity and unimodality in the frequency domain.
+		    (5)	Convolution: decomposition into convolution
+		 	with kernels having two strictly positive
+		 	consecutive filter coefficients. (p.239)
+		 1D Scale-Space Construction:
+		    (1)	Use a continuous scale-space parameter to have
+		 	a representation at any level of scale
+		 	accessible. (p. 239)
+		    (2)	Semigroup property required: T(.;s) * T(.;t) =
+		 	T(.;s+t); ensures that the scale-space property
+		  	holds between any 2 levels of scale. (p.240)
+		    (3)	Theorem (uniqueness; in the discrete domain):
+			One parameter family of symmetric functions
+		 	satisfying the semigroup property and the
+		 	normalization criterion: T(n;t) = exp(-at) In(at).
+			Where In: modified Bessel functions of integer order.
+		    (4)	Theorem (uniqueness; in the continuous domain):
+			T(x;t) = Gaussian kernel. (p. 241)
+		 1D Numerical Implementations:
+		    (1)	Truncation: finite convolution sum.
+		    (2)	Filter coefficient generation: recurrence
+		 	relation + Miller's algorithm. (p. 242)
+		    (3)	Perform the convolutions in the frequencey
+		 	(Fourier) domain.
+		 1D Numerical Approximations:
+		    (1)	Sampled Gaussian kernel (p. 242)
+			N.B.: transformation from a an arbitrary low
+		 	level (t1) to an arbitrary high level (t2) is
+		 	a scale-space transformation iff t1 = 0 or
+	 		t1/t2 = odd integer. The semigroup property of
+		 	the Gaussian kernel is not preserved after
+		 	discretization.
+		    (2)	Discretized diffusion equation:
+			The discrete scale-space representation =
+		 	solution of the system of diff. eqns obtained
+		 	by discretizing the diffusion equ. in space and time. 
+		 2D Discrete Scale-Space Formulation:
+		    (1)	Local extrema should not be "enhanced" when
+		 	the scale parameter is increased continuously
+		 	= no new gray-level surfaces [isosurfaces z = z_o]
+			should be created. (p. 244)
+		   (1b) One cannot prevent the number of local extrema
+		 	from ever being increased.
+		 Key Sentences:
+		    (1)	... convolution with a discrete scale-space
+		 	kernel can really be regarded as a smoothing
+		 	operation. (p. 236) 
+		    (2)	... an operator which naively can be
+		 	apprehended as a smoothing operator, might
+		 	actually give a less smooth result. ... it can
+		 	really matter if one averages over 3 instead
+		 	of 2 points and how the averaging is
+		 	performed. (p. 236)
+		    (3)	... properties derived in the continuous case
+		 	might be violated after discretization. (p. 242)
+		    (4)	The natural way to apply the scale-space
+		 	theory to discrete signals is apparently by
+		 	discretization of the diffusion equ., not the
+		 	convolution integral. (p. 242)
+		    (5)	... it is possible to show that there does not
+		 	exist any nontrivial kernel on R^2 or Z^2 with
+		 	the property that it never introduces new local
+			extrema. (p. 243)
+		    (6)	In 1D the number of local extrema is a good
+		 	measure of structure on which a theory can be
+		 	founded -- in 2D obviously not.
+		    (7)	... involved operators [sampled Gaussian
+		 	kernels], which commute in the continuous
+		 	domain, do not commute when the discretization
+		 	operator is involved. (p. 247)
+		}
+)

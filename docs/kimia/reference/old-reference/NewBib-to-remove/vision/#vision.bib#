@@ -1,0 +1,2635 @@
+@book{Barlow:Blakemore,
+  title = {Visual Coding and Efficiency},
+  publisher = {Cambridge University Press},
+  editor = {Blakemore, Colin},
+  address = {Cambridge, England},
+  year = {1989},
+}
+
+
+@book{Mortenson:Geometric,
+  author = {Michael E. Mortensen},
+  title = {Geometric Modeling},
+  publisher = {Wiley},
+  year = {1997},
+}
+
+@inproceedings{Bajcsy:Solina:Representation,
+  author = {R. Bajcsy and F. Solina},
+  title = {Three-Dimensional Object Representation Revisited},
+  crossref = {ICCV1987},
+  pages = {231--240},
+}
+ 
+@inproceedings{Basri:Ullman:Alignment,
+  author = {Ronen Basri and Shimon Ullman},
+  title = {The Alignment of Objects with Smooth Surfaces},
+  institution = {Weizmann/MIT},
+  crossref = {ICCV1988},
+  pages = {482--488},
+  year = {1988},
+}
+
+
+
+@inproceedings{Binford:Visual:Perception,
+  author = {T. O. Binford},
+  title = {Visual Perception by Computer},
+  booktitle = {IEEE Conference on Systems and Control},
+  city = {Miami, Florida},
+  month = {December},
+  year = {1971},
+}
+
+@article{Binford:Inferring,
+  author = {Tom Binford},
+  title = {Inferring Surfaces From Images},
+  journal = {Artificial Intelligence},
+  volume = {17},
+  pages = {205--244},
+  year = {1981},
+}
+
+@article{Bolles:Cain:Focus:Feature,
+  author = {R.C. Bolles and R.A. Cain}, 
+  title = {Recognizing and Locating Partially Visible Objects:
+		The local-feature-focus method},
+  journal = {International Journal of Robotics Research},
+  volume = {1}, 
+  number = {3}, 
+  pages = {57--82}, 
+  year = {1982}, 
+}
+
+@article{Brooks:Symbolic,
+  author = {R.A. Brooks},
+  title = {Symbolic Reasoning among 3-D models and 2-D Images},
+  journal = {Artificial Intelligence},
+  volume = {17},
+  pages = {285-348},
+  year = {1981},
+}
+
+@techreport{Bruckstein:etal:Affine,
+  author = {A. M. Bruckstein and G. Sapiro and D. Shaked},
+  title = {Affine-Invariant Evolutions of Planar Polygons},
+  institution = {Israel Inst. of Tech.},
+  city = {Haifa},
+}
+
+@techreport{Bruckstein:etal:Signature,
+  author = {Alfred M. Bruckstein and Robert J. Holt and Arun N. Netravali and
+		  Thomas J. Richardson},
+  title = {Invariant Signatures for Planar Shape Recognition under Partial
+		  Occlusion},
+  institution = {AT\&T Bell Laboratories},
+  city = {Murray Hill, NJ},
+  year = {1991},
+}@techreport{Bruckstein:etal:Signature,
+  author = {Alfred M. Bruckstein and Robert J. Holt and Arun N. Netravali and
+		  Thomas J. Richardson},
+  title = {Invariant Signatures for Planar Shape Recognition under Partial
+		  Occlusion},
+  institution = {AT\&T Bell Laboratories},
+  city = {Murray Hill, NJ},
+  year = {1991},
+}
+
+@article{Onn:Bruckstein:Integrability,
+  author = {Ruth Onn and Alfred Bruckstein},
+  title = {Integrability Disambiguates Surface Recovery in 
+	Two-Image Photometric Stereo},
+  journal = {International Journal of Computer Vision},
+  volume = {5:1},
+  number = { },
+  pages = {105-113},
+  month = { },
+  year = {1990},
+}
+
+
+@article{Bruckstein:Cover:Monotinicity,
+  author = {Alfred M. Bruckstein and Thomas M. Cover},
+  title = {Monotonicity of Linear Separability Under Translation},
+  journal = {IEEE},
+  volume = {PAM1-7},
+  number = {3},
+  pages = {355-358},
+  month = {May},
+  year = {1985},
+}
+
+@article{Border:etal:1985,
+  author = {Andrei Z. Broder and Alfred M. Bruckstein and Jack Koplowitz},
+  title = {On the Performance of Edited Nearest Neighbor Rules in
+		  High Dimensions},
+  journal = {IEEE},
+  volume = {SMC-15},
+  number = {1},
+  pages = {136-139},
+  month = {January/February},
+  year = {1985},
+}
+
+@article{Bruckstein:Ants,
+  author = {Alfred M. Bruckstein},
+  title = {Why The Ant Trails Look So Straight And Nice},
+  journal = {Center for Intelligent Systems Report},
+  volume = { },
+  number = { },
+  pages = {1-13},
+  month = {January},
+  year = {1991},
+}
+
+@article{Burt:Adelson:Laplacian,
+  author = {P. J. Burt and E. H. Adelson},
+  title = {The Laplacian Pyramid as a Compact Image Code},
+  journal = {IEEE Transactions on Communications},
+  volume = {31}, 
+  number = {4}, 
+  pages = {532--540},
+  month = {April}, 
+  year = {1983}, 
+}
+
+@article{Canny:Edge:Detection,
+  author = {J. Canny},
+  title = {A Computational Approach to Edge Detection},
+  journal = PAMI,
+  volume = {8},
+  institution = {MIT},
+  pages = {679--698},
+  year = {1986},
+}
+
+@article{Cox:Etal:Registration,
+  author = {I. J. Cox and J. B. Kruskal and D. A. Wallach},
+  title = {Predicting and Estimating the Accuracy of a Subpixel Registration Algorithm},
+  journal = PAMI,
+  volume = {12},
+  number = {8},
+  pages = {721--734},
+  year = {1990},
+}
+
+@inproceedings{Deriche:Giraudon:Corner,
+  author =      {R. Deriche and G. Giraudon},
+  title =       {Accurate Corner Detection: An Analytical Study},
+  crossref =    {ICCV3},
+  pages =       {66--70},
+  lib =         {ICCV},
+  keywords =    {Corner model: 2D step function. Gaussian curvature.
+                 Scale-space analysis.}
+}
+
+
+@Proceedings{ICCV3,
+  key =         {ICCV3},
+  title =       {The Third International Conference on Computer Vision},
+  booktitle =   {The Proceedings of Third International Conference on Computer Vision},
+  address =     {Osaka, Japan},
+  publisher =   {IEEE CS Press},
+  month =       {December},   
+  year =        {1990},
+}
+
+
+@article{Dobbins:etal:Nature,
+  author = {Dobbins, Allan and Zucker, Steven Warren and Cynader, Max S.},
+  title = {Endstopped Neurons in the Visual Cortex as a Substrate
+		 	for Calculating Curvature},
+  journal = {Nature},
+  volume = {329},
+  pages = {438--441},
+  year = {1987},
+}
+
+@article{Dobbins:etal:Endstopping,
+  author = {Dobbins, Allan and Zucker, Steven Warren and Cynader, Max S.},
+  title = {Endstopping and Curvature},
+  journal = {Vision Research},
+  volume = {29},
+  pages = {1371--1387},
+  year = {1989},
+}
+
+
+@article{Elder:Zucker:Closure,
+  author = {James Elder and Steven W. Zucker}, 
+  title = {The Effect of Contour Closure on the Rapid Discrimination of
+		Two-Dimensional Shapes}, 
+  journal = {Vision Research},
+  volume = {33},
+  number = {7},
+  pages = {981--991},
+  year = {1993},
+}
+
+@article{Faugeras:Hebert:Range,
+  author = {Olivier D. Faugeras and M. Hebert},
+  title = {The Representation, Recognition, and Positioning of 3-D Shapes
+		from Range Data},
+  pages = {13--51},
+  crossref = {Rosenfeld:Techniques:3D},
+}
+
+@article{Faugeras:Hebert:Robotics,
+  author = {Olivier D. Faugeras and M. Hebert},
+  title = {The Representation, Recognition, and location of 3-D Objects},
+  journal = {The International Journal of Robotics Research},
+  volume = {5},
+  number = {3},
+  pages = {27--52},
+  year = {1986}, 
+}
+
+@article{Feng:Pavlidis:Syntactic,
+  author = {H.F. Feng and T. Pavlidis}, 
+  title = {Decomposition of Polygons into Simpler Components:
+	Fetaure Generation for Syntactic Pattern Recognition},
+  journal = {IEEE Transaction on Computing},
+  volume = {C-24},
+  pages = {636--650},
+  year = {1975},
+}
+
+@article{Ferrie:Levine:Shading,
+  author = {Frank P. Ferrie and Martin D. Levine},
+  title = {Where and Why Local Shading Analysis Works},
+  journal = PAMI,
+  volume = {11}, 
+  number = {2}, 
+  pages = {198--206},
+  month = {february},
+  year = {1989},
+}
+
+@article{Ferrie:etal:Cell,
+  author = {Frank P. Ferrie and Martin D. Levine and Steven W. Zucker},
+  title = {Cell Tracking: A Modeling and Minimization Approach},
+  journal = PAMI,
+  volume = {4}, 
+  pages = {277--291}, 
+  year = {1982},
+
+}
+
+@article{Fischler:Elschlager:Pictorial,
+  author = {M.A. Fischler and R. Elschlager},
+  title = {The Representation and Matching of Pictorial Structures},
+  journal = T-COMP,
+  volume = {22},
+  pages = {67--92},
+  year = {1973},
+}
+
+@article{Fischler:Bolles:Partitioning,
+  author = {M.A. Fischler and R.C. Bolles},
+  title = {Perceptual Organization and Curve Partitioning},
+  journal = PAMI,
+  volume = {8},
+  pages = {100--105},
+  year = {1986},
+}
+
+@article{Fischler:Wolf:Partitioning,
+  author = {M.A. Fischler and H. C. Wolf},
+  title = { Locating perceptually salient points on planar curves}, 
+  journal = PAMI,
+  volume = {16},
+  pages = {113--129},
+  year = {1994},
+}
+
+@article{Fleet:Jepson:1990,
+  author = {David Fleet and Allan D. Jepson},
+  title = {Computation of Component Image Velocity from Local Phase
+  Information},
+  journal = {International Journal of Computer Vision},
+  volume = {5},
+  number = {1}, 
+  pages = {77--104},
+  year = {1990},
+}
+
+@article{Fleet:etal:1991,
+  author = {David Fleet and Allan D. Jepson and Michael R. M. Jenkin},
+  title = {Phase-Based Disparity Measurement},
+  journal = CVGIP,
+  volume = {53},
+  number = {2},
+  pages = {198--210},
+  year = {1991},
+}
+
+@article{Fleet:Jepson:1991,
+  author = {David J. Fleet and Allan D. Jepson},
+  title = {Stability of Phase Information},
+  institution = {Queen's University},
+  number = {RPL-TR-9105},
+  city = {Ontario},
+  year = {1991},
+}
+
+@article{Freeman:Chain:Code,
+  author = {H. Freeman},
+  title = {Computer Processing of Line Drawing Images},
+  journal = {Computer Surveys},
+  volume = 6,
+  number = 1,
+  pages = {57--98},
+  month = {March},
+  year = 1974,
+}
+
+@article{Bruce:etal:Symmetry,
+  author = {J. W. Bruce and P. J. Giblin and C. G. Gibson},
+  title = {Symmetry Sets},
+  journal = {Proceedings of the Royal Society of Edinburgh},
+  volume = {101A},
+  pages = {163--186},
+  year = {1985},
+}
+
+@article{Glass:RDMP,
+  author = {Leon Glass},
+  title = {Perception of random dot interference patterns},
+  journal = {Nature},
+  volume = {246},
+  pages = {360--362},
+  year = {1973},
+}
+
+@article{Grimson:Constrained:Search,
+  author = {W. Eric L. Grimson},
+  title = {The cost of choosing the wrong model in object recognition 
+			by constrained search},
+  journal = {International Journal of Computer Vision},
+  volume = {7}, 
+  number = {3},
+  pages = {195--210},
+  month = {April}, 
+  year = {1992}, 
+}
+
+@inproceedings{Gueziec:Ayache:Matching,
+  author = {A. Gueziec and N. Ayache}, 
+  title = {Smoothing and Matching of 3{D} space curves}, 
+  crossref = {ECCV:1992}, 
+  pages = {620--629},
+}
+
+@inbook{Guzman:Decomposition,
+  author = {A. Guzman}, 
+  title = {Decomposition of a visual scene into
+			three-dimensional bodies}, 
+  editor = {A Grasseli}, 
+  booktitle = {Automatic Interpretation and Classification of Images},
+  publisher = {Academic Press}, 
+  city = {New York},
+  year = {1969},
+}
+
+@inproceedings{Hayes:Leyton:Discontinuites:IJCAI,
+  author = {Patrick J. Hayes and Michael Leyton},
+  title = {Processes at Discontinuites},
+  crossref = {IJCAI90},
+  pages = {1267--1272},
+}
+
+
+@article{Herman:Topology:Image,
+  author = {Gabor T. Herman},
+  title = {On Topology as Applied to Image Analysis},
+  journal = {Computer Vision},
+  volume = {52},
+  year = {1990},
+  pages = {409--415},
+}
+
+
+@article{Heydt:etal:Fuzzy,
+  author = {L. van der Heydt and F. Dom and H van den Berghe},
+  title = {Two-Dimensional Shape Decomposition Using Fuzzy Subset
+		Theory Applied to Automated Chromosome Analysis},
+  journal = {Pattern Recognition},
+  volume = {12},
+  number = {2}, 
+  pages = {147--157},
+  year = {1981}, 
+}
+
+@article{Hochberg:Machines:1987,
+  author = {Julian Hochberg},
+  title = {Machines should not see as people do, 
+		but must know how people see},
+  journal = CVGIP,
+  volume = {37},
+  pages = {221--237},
+  year = {1987},
+}
+
+@inbook{Horn:Shading:75,
+  author = {Berthold Horn},
+  title = {Obtaining Shape from Shading},
+  booktitle = {The Psychology of Computer Vision},
+  editor = {Patrick Henry Winston},
+  publisher = {McGraw-Hill},
+  year = {1975}, 
+}
+
+@article{Horn:Schunck:Optical:Flow,
+  author = {Berthold K. P. Horn and Brian G. Schunck},
+  title = {Determining Optical Flow},
+  journal = {Artificial Intelligence},
+  volume = {17},
+  number = {1-3}, 
+  pages = {85--203},
+  year = {1981},
+}
+
+@techreport{Horn:Schunck:Flow:Techrep,
+  author = {Berthold K. P. Horn and Brian G. Schunck},
+  title = {Determining Optical Flow},
+  institution = {MIT},
+  number = {572},
+  city = {Cambridge, MA},
+  year = {1980},
+}
+
+@article{Hummel:Zucker:Foundations,
+  author = {Robert Hummel and Steven Warren Zucker},
+  title = {On the foundations of relaxation labeling processes},
+  journal = PAMI,
+  volume = {6},
+  pages = {267--287},
+  year = {1983},
+}
+
+@techreport{Iverson:Zucker:Logical:Linear,
+  author = {Lee Iverson and Steven Warren Zucker}, 
+  title = {Logical/Linear Operators for Measuring Orientation and Curvature}, 
+  institution = {McGill Research Center for Intelligent Machines}, 
+  number = {TR-CIM-90-06},
+  address = {Montreal, Canada},
+  month = {July}, 
+  year = {1990},
+}
+
+@techreport{Iverson:Zucker:LL,
+  author = {Lee A. Iverson and Steven W. Zucker},
+  title = {Logical/Linear Operators for Image Curves},
+  institution = {McGill University},
+  number = {TR-CIM-92-12},
+  city = {Montreal},
+  year = {1992},
+}
+
+@article{Iverson:Zucker:LL:PAMI,
+  author = {Lee A. Iverson and Steven W. Zucker},
+  title = {Logical/Linear Operators for Image Curves},
+  journal = PAMI,
+  pages = {982-996},
+  month = {October},
+  year = {1995},
+  volume = {17},
+  number ={10},
+}
+
+@article{Kass:etal:Snakes,
+  author = {Michael Kass and Andrew Witkin and Demetri Terzopoulos},
+  title = {Snakes: Active Contour Models},
+  journal = {International Journal of Computer Vision},
+  volume = {1},
+  number = {4},
+  pages = {321-331},
+  year = {1988},
+}
+
+@techreport{Kimmel:Bruckstein:Shape:Offsets,
+  author = {R. Kimmel and A. M. Bruckstein},
+  title = {Shape Offsets via Level Sets},
+  institution = {Israel Inst. of Tech},
+  number = {9204},
+  city = {Haifa},
+  year = {1992},
+}
+
+@article{Kiryati:Bruckstein:Digitizers,
+  author = {N. Kiryati and A. Bruckstein},
+  title = {Gray Levels Can Improve the Performance of Binary Image Digitizers},
+  journal = {Academic Press, Inc.},
+  volume = {53},
+  number = {1},
+  pages = {31-39},
+  month = {January},
+  year = {1991},
+}
+
+@article{Kiryati:Bruckstein:Antialiasing,
+  author = {N. Kiryati and A. M. Brucstein},
+  title = {Antialiasing the {H}ough Transform},
+  journal = {Academic Press, Inc.},
+  volume = {53},
+  number = {3},
+  pages = {213-222},
+  month = {May},
+  year = {1991},
+}
+
+@article{Koenderink:VanDoorn:Photometric,
+  author = {Jan J. Koenderink and A. J. van Doorn},
+  title = {Photometric Invariants Related to Solid Shape},
+  journal = {Optica Acta},
+  volume = {27},
+  pages = {981--996},
+  year = {1980},
+}
+
+@article{Koenderink:VanDooran:Contrast,
+  author = {Jan J. Koenderink and A. J. van Doorn},
+  title = {Visual Detection of Spatial Contrast: Influence of Location in
+	the Visual Field, Target Extent and Illuminance Level},
+  journal = {Biological Cybernetics},
+  volume = {30},
+  pages = {157--167},
+  year = {1978},
+}
+
+@article{Koenderink:VanDooran:Contours:End,
+  author = {Jan J. Koenderink and A. J. van Doorn},
+  title = {The shape of smooth objects and the way contours end},
+  journal = {Perception},
+  volume = {11},
+  pages = {129--137},
+  year = {1982},
+}
+
+@article{Koenderink:occluding:contours,
+  author = {Jan J Koenderink},
+  title = {What does the occluding contour tell us about solid shape?},
+  journal = {Perception},
+  volume = {13},
+  pages = {321-330},
+  year = {1984},
+}
+
+
+@article{Koenderink:Structure:84,
+  author = {Jan J. Koenderink},
+  title = {The Structure of Images},
+  journal = {Biological Cybernetics},
+  volume = {50},
+  pages = {363--370},
+  year = {1984},
+}
+
+@article{Koenderink:Scale:Time,
+  author = {Jan J. Koenderink},
+  title = {Scale-Time},
+  journal = {Biological Cybernetics},
+  volume = {58},
+  pages = {159-162},
+  year = {1988},
+}
+
+@techreport{Kumar:Etal:Stereo,
+  author = {Arun Kumar and Allen R. Tannenbaum and Steven W. Zucker},
+  title = {${L^1}$ Minimization for Stereo Disparity},
+  institution = {Dept. of Electrical Engineering, University of Minnesota},
+  year = {1995},
+}
+
+@article{Leclerc:MLD:IJCV,
+  author = {Yvan Gilbert Leclerc},
+  title = {Constructing Simple Stable Descriptions for Image Partitioning},
+  journal = {International Journal of Computer Vision},
+  volume = {3},
+  number = {1},
+  pages = {73--102},
+  year = {1989},
+}
+
+@article{Levine:Nazif:Measurement,
+  author = {M.D. Levine and A.M. Nazif},
+  title = {Dynamic Measurement of Computer Generated Image Segmentations},
+  journal = PAMI,
+  volume = {7},
+  number = {2},
+  pages = {155--164},
+  year = {1985},
+}
+
+@article{Lindenbaum:Bruckstein:Convex,
+  author = {M. Lindenbaum and A. Bruckstein},
+  title = {Reconstructing A Convex Polygon From Binary Perspective Projections},
+  journal = {Pergamon Press},
+  volume = {23},
+  number = {12},
+  pages = {1343-1350},
+  month = {March},
+  year = {1990},
+}
+
+@article{Link:Zucker:Corners,
+  author = {Norah K. Link and Steven W. Zucker},
+  title = {Sensitivity to Corners in Flow Patterns},
+  journal = {Spatial Vision},
+  volume = {12},
+  number = {3},
+  pages = {233--244},
+  year = {1987}, 
+}
+
+@article{Lowe:Viewpoint:87,
+  author = {Lowe, David G.},
+  title = {The Viewpoint Consistency Constraint},
+  journal = IJCV,
+  volume = {1},
+  number = {1},
+  year = {1987},
+  pages = {57--72}
+}
+
+@inproceedings{Mallat:Scale:1987,
+	AUTHOR = {S.G. Mallat},
+	TITLE = {Scale Change Versus Scale Space Representation},
+	YEAR = 1987,
+	CROSSREF = {ICCV1987},
+	INSTITUTION = {U Pa},
+	PAGES = {592--596},
+	KEYWORDS = {IMAGE PROCESSING, DIGITAL}
+}
+
+@article{Mallat:Multiresolution:Wavelet,
+  author = {Stephane G. Mallat},
+  title = {A Theory of Multiresolution Signal Decomposition:
+				The Wavelet Representation},
+  journal = PAMI,
+  volume = {11},
+  number = {7},
+  pages = {674--693},
+  month = {July},
+  year = {1989},
+}
+
+@techreport{Marr:Hildreth:Edge,
+  author = {David Marr and Ellen Hildreth},
+  title = {Theory of Edge Detection},
+  institution = {MIT AI Lab}, 
+  number = {MIT AI Memo 518}, 
+  city = {Cambridge, Mass.},
+  year = {1979},
+}
+
+
+@inbook{Marr:Visual:1978,
+  author = {David Marr},
+  title = {Representation Visual Information},
+  booktitle = {Computer Vision Systems},
+  editor = {A. R. Hanson and E. M. Riseman},
+  year = {1978},
+}
+
+@article{Marr:Nishihara:Representation,
+  author = {David Marr and Keith H. Nishihara},
+  title = {Representation and Recognition of the Spatial organization
+	of three dimensional structure}, 
+  journal = {Proceedings of the Royal Society of London},
+  volume = {B 200},
+  pages = {269--294},
+  year = {1978},
+}
+
+@article{Marr:Poggio:Stereo,
+  author = {David Marr and T. Poggio},
+  title = {A Theory of Human Stereo Vision},
+  journal = {Proceedings of the Royal Society of London},
+  volume = {B 204},
+  pages = {301--328},
+  year = {1979},
+}
+
+@article{Martines:etal:Thinning,
+  author = {M.P. Mart\'ines-P\'erez and J. Jim\'enez and J. Naval\'on},
+  title = {A Thinning Algorithm Based on the Contours},
+  journal = CVGIP,
+  volume = {39},
+  pages = {186--201},
+  year = {1987},
+}
+
+@article{Mayhew:Frisby:Stereopsis,
+  author = {John E. W. Mayhew and John P. Frisby},
+  title = {Psychophysical and Computational Studies towards a Theory of
+  Human Stereopsis},
+  journal = {Artificial Intelligence},
+  volume = {17},
+  number = { },
+  pages = {349-385},
+  month = {March},
+  year = {1981},
+}
+
+@book{Mumford:etal:Face,
+  editor = {P. Hallinan and G. Gordon and A. Yuille and  P. Giblin and D.Mumford},
+  title = {Two and Three Dimensional Patterns of the Face},
+  year = {1998},
+}
+
+@article{Szeliski89b,
+  author = {L. Matthies and T. Kanade and R. Szeliski},
+  title = {Kalman Filter-Based Algorithms for Estimating Depth From Image Sequences},
+  volume = 3,
+  pages = {209--236},
+  institution = {CMU/SPAR/DEC},
+  journal = IJCV,
+  keywords = {IMAGE MULTIPLICITY COMPARISON, TIME},
+  year = {1989},
+}
+ 
+@article{Szeliski:Kang:Streams,
+  author = {Richard Szeliski and Sing Bing Kang},
+  title = {Recovering 3D Shape and Motion from Image Streams 
+                 Using Nonlinear Least Squares},
+  journal = {Journal of Visual communication and Image Representation},
+  volume = {5},
+  number = {1},
+  pages = {10--28},
+  month = {March},
+  year = {1994},
+}
+
+@article{Szeliski:Tonnesen:Particle,
+  author = {Richard Szeliski and David Tonnesen},
+  title = {Surface Modeling with Oriented Particle Systems},
+  journal = {Proc. ACM SIGGRAPH},
+  volume = {26},
+  number = {2},
+  pages = {185--194},
+  month = {July},
+  year = {1992},
+}
+
+@article{Szeliski:Lavallee:Octree,
+  author = {Richard Szeliski and Stephane Lavallee},
+  title = {Matching 3-D Anatomical Surfaces with Non-Rigid Deformations
+                  using Octree-Splines},
+  journal = {Proceedings SPIE},
+  volume = {2031},
+  number = {},
+  pages = {306--315},
+  month = {},
+  year = {},
+}
+
+@article{Lavallee:etal:Distance,
+  author = {Stephane Lavallee and Richard Szeliski and Lionel Brunie},
+  title = {Matching 3-D Smooth Surfaces with their 2-D Projections using 
+                 3-D Distance Maps},
+  journal = {Proceedings SPIE},
+  volume = {},
+  number = {},
+  pages = {322--336},
+  month = {},
+  year = {1991},
+}
+
+@techreport{Szeliski:Weiss:Occluding,
+  author = {Richard Szeliski and Richard Weiss},
+  title = {Robust Shape Recovery from Occluding Contours using a Linear Smoother},
+  institution = {Cambridge Research Laboratory},
+  number = {CRL93/7},
+  address = {Cambridge, MA},
+  month = {December},
+  year = {1993},
+}
+
+@article{Medioni:Yasumoto:Corner,
+  author =      {G. Medioni and Y. Yasumoto},
+  title =       {Corner Detection and Curve Representation Using Cubic
+                 B-Splines},
+  year =        {1987},
+  journal =     CVGIP,
+  volume =      {39},
+  number =      {3},
+  pages =       {267--278},
+  keywords =    {}
+}
+
+@article{Mohr:Bajcsy:Spheres,
+  author = {R. Mohr and R. Bajcsy},
+  title = {Packing Volumes by Spheres},
+  journal = PAMI,
+  volume = {5},
+  pages = {111--116},
+  year = {1983},
+}
+
+@article{Forsyth:etal:Invariant,
+  author =        {D. Forsyth and J.L. Mundy and A. Zisserman and
+ 	             C. Coelho and A. Heller and C. Rothwell},
+  title =         {Invariant Descriptors for 3D Object
+                 Recognition and Pose},
+  volume =        {13},
+  pages =         {971--992},
+  month = {October}, 
+  year =          {1991},
+}
+
+@article{Nevatia:Binford:Curved,
+  author = {R. Nevatia and T. O. Binford},
+  title = {Description and Recognition of Curved Objects},
+  journal = {Artificial Intelligence},
+  volume = {8},
+  pages = {77--98},
+  year = {1977},
+}
+
+@article{Niall:Macnamara:Invariance,
+  author = {Keith K Niall and John Macnamara},
+  title = {Projective Invariance and Picture Perception}, 
+  journal = {Perception}, 
+  volume = {19}, 
+  pages = {637--660},
+  year = {1990}, 
+}
+
+@article{Niall:Projective:KDE,
+  author = {Keith K. Niall},
+  title = {Projective invariance and the kinetic depth effect},
+  journal = {Acta Psychologica},
+  volume = {81},
+  year = {1992},
+  pages = {127--168},
+}
+
+@inproceedings{Novak:etal:Color,
+  author = {Carol L. Novak and Steven A. Shafer and Reg G. Willson},
+  title = {Obtaining Accuracte Color Images for Machine Vision Research},
+  crossref = {SPIEColor90},
+}
+
+@inproceedings{OGorman:Etal:Registration,
+   author = {L. O'Gorman and A. M. Bruckstein and C. B. Bose and I. Amir},
+   title = {Subpixel Registration Using a Concentric Ring Fiducial},
+   booktitle = {International Conference on Pattern Recognition},
+   pages  =   {249--253},
+   year   =   {1990},
+}
+
+@article{Parent:Zucker:Trace,
+  author = {Pierre Parent and Steven Warren Zucker},
+  title =  {Trace Inference, Curvature Consistency and Curve Detection},
+  journal = "PAMI",
+  volume = {11}, 
+  number = {8}, 
+  pages = {823--839}, 
+  month = {August}, 
+  year = {1989}, 
+}
+
+@article{Pavlidis:Ali:Syntactic,
+  author = {T. Pavilidis and F. Ali},
+  title = {A Hierarchical Syntactic Shape Analyzer},
+  journal = PAMI, 
+  volume = {1},
+  pages = {2--9},
+  year = {1979}, 
+}
+
+@inproceedings{Pednault:IJCAI:1990,
+  author = {Edwin P.D. Pednault},
+  title = {Some Experiments in Applying Inductive Inference
+	Principles to Surface Reconstruction},
+  crossref = {IJCAI90},
+  pages = {1603--1609},
+}
+
+@inproceedings{Pentland:Shading:ICCV,
+  author = {Alex Pentland},
+  title = {Shape Information from Shading: A Theory about Human Perception},
+  crossref = {ICCV2},
+  pages = {404--413},
+}
+
+@article{Pentland:Local:Shading,
+  author = {Alex Pentland},
+  title = {Local Shading Analysis},
+  journal = PAMI,
+  volume = {6},
+  pages = {170--187},
+  month = {March}, 
+  year = {1984}, 
+}
+
+@inproceedings{Pentland:Depth:IJCAI,
+  author = {Alex Pentland},
+  title = {A New Sense for Depth of Field},
+  crossref = {IJCAI9},
+  pages = {988-994},
+}
+
+@inproceedings{Pentland:Williams:IJCAI,
+  author = {Alex Pentland and John Williams},
+  title = {Perception of Non-Rigid Motion: Inference of Shape,
+				Material, and Force},
+  crossref = {IJCAI90},
+  pages = {1565-1570},
+}
+
+@article{Poggio:etal:Regularization,
+  author = {Tomasso Poggio and Vincent Torre and Christof Koch}, 
+  title = {Computational Vision and Regularization Theory},
+  journal = {Nature},
+  volume = {317},
+  pages = {314--319}, 
+  month = {September},
+  year = {1985},
+}
+
+
+@inbook{Ramachandran:Utilitarian,
+  author = {Ramachandran, V.S.},
+  title = {Interaction between Motion, Depth, Color, and Form},
+  pages = {},
+  crossref = {Barlow:Blakemore},
+}
+
+@article{Ramer:Polygon,
+  author = {Urs Ramer},
+  title = {An Iterative Procedure for the Polygonal Approximation of Plane Curves},
+  journal = CVGIP,
+  volume = {1},
+  number = {3},
+  pages = {244--256},
+  year = {1972},
+}
+
+
+@article{Riol:Vetterli:Wavelets,
+  author = {Olivier Rioul and Martin Vetterli},
+  title  = {Wavelets and Signal Processing},
+  journal = {IEEE SP Magazine},
+  month = {October},
+  year = {1991},
+}
+
+@article{Rissanen:MLD,
+  author = {J. Rissanen},
+  title = {Minimum Description Length Principle},
+  journal = {Encyclopedia of Statistical Sciences},
+  volume = {5},
+  publisher = {Wiley}, 
+  address = {New York}, 
+  pages = {523--527},
+  year = {1983}, 
+}
+
+@techreport{Ronse:Fourier:Morphology,
+  author = {C. Ronse},
+  title = {Fourier Analysis, Mathematical Morphology, and Vision},
+  institution = {Philips Research Laboratory Brussels},
+  address = {Avenue Van Becelaere, Box 8, B-1170 Brussels, Belgium},
+  month = {June},
+  year = {1989}
+}
+
+@article{Rosenfeld:Thurston:Edge,
+  author = {Azriel Rosenfeld and M. Thurston},
+  title = {Edge and Curve Detection for Visual Scene Analysis},
+  journal = {IEEE Trans. Comput.},
+  volume = {C-20},
+  pages = {562--569},
+  year = {1971},
+}
+
+@article{Rosenfeld:Thurston:Coarse:Fine,
+  author = {Azriel Rosenfeld and M. Thurston},
+  title = {Course-Fine Template Matching},
+  journal = {IEEE Trans. Syst. Man. Cybern.},
+  volume = {SMC-7},
+  pages = {104-107},
+  year = {1977},
+}
+
+
+@inproceedings{Rosenfeld:Quadtrees,
+  author = {Azriel Rozenfeld},
+  title = {Quadtrees and pyramids for
+			pattern recognition and image processing},
+  crossref = {ICPR5}, 
+  pages = {802--807},
+  year = {1980}, 
+}
+
+
+@book{Rosenfeld:Multiresolution,
+  editor = {Azriel Rozenfeld},
+  title = {Multiresolution Image Processing and Analysis},
+  publisher = {Springer Verlag}, 
+  city = {New York}, 
+  year = {1984},
+}
+
+@book{Rosenfeld:Techniques:3D,
+  editor = {Azriel Rozenfeld},
+  title = {Techniques for 3D Machine Perception},
+  publisher = {Elsevier Science Publishers B.V.}, 
+  year = {1986},
+}
+
+@inproceedings{Saroka:Bajcsy:Generalized:Cylinders,
+  author = {B.I. Saroka and R. K. Bajcsy},
+  title = {Generalized Cylinders from Serial Sections},
+  booktitle = {Proceedings of the Third IJCPR},
+  pages = {734--735}, 
+  month = {November},
+  year = {1976}, 
+}
+
+@article{Scott:etal:Wave:Diffusion,
+  author = {Guy L. Scott and S.C. Turner and Andrew Zisserman},
+  title = {Using a Mixed Wave/Diffusion Process to Elicit the Symmetry Set},
+  journal = {Image and Vision Computing},
+  volume = 7,
+  number = 1,
+  pages = {63--70},
+  month = {February},
+  year = {1989}
+}
+
+@article{Shafer:etal:Physics,
+  author = {Steven A. Shafer and Takeo Kanade and Gudrun J. Klinker
+			and Carol L. Novak},
+  title = {Physics-Based Models for Early Vision by Machine},
+  crossref = {SPIEColor90},
+}
+
+@article{Shapiro:Haralick:Graph,
+  author = {L.G. Shapiro and R.M. Haralick},
+  title = {Decomposition of Two-Dimensional Shapes by Graph-Theoretic Clustering},
+  journal = PAMI,
+  volume = {1},
+  pages = {10--20}, 
+  year = {1979}, 
+}
+
+@article{Shapiro:Structural,
+  author = {L.G. Shapiro},
+  title = {A Structural Model of Shape},
+  journal = PAMI,
+  volume = {2},
+  pages = {111--126}, 
+  year = {1980}, 
+}
+
+@article{Shapiro:Haralick:Metric,
+  author = {L.G. Shapiro and R.M. Haralick},
+  title = {A Metric for Comparing Relational Descriptions}, 
+  journal = PAMI,
+  volume = {7},
+  pages = {90--94}, 
+  year = {1985}, 
+}
+
+ 
+@inproceedings{Shaashua:Ullman:Saliency,
+  author = {Amnon Sha'ashua and Shimon Ullman},
+  title = {Structural Saliency: The Detection of Globally Salient
+		  Structures Using a Locally Connected Network},
+  institution = {The Weizmann Institute of Sciece},
+  crossref = {ICCV1988}, 
+  year = {1988},
+}
+
+@inproceedings{Shoham:Ullman:Alignment,
+  author = {D. Shoham and S. Ullman},
+  title = {Aligning a Model to an Image Using Minimal Information},
+  crossref = {ICCV1988},
+  institution = {Weizmann/MIT},
+  pages = {259--263},
+  year = {1988},
+}
+
+@techreport{Seiki:Shibata:Synthesis,
+  author = {Seiki Inoue and Masahiro Shibata},
+  title = {Component Image Database for Scene Synthesis},
+  institution = {NHK Science and Technical Research Laboratories},
+  number = {385},
+  city = {Tokyo},
+  year = {1990},
+}
+
+@article{Seiki:Masahiro:HDTV,
+  author = {Seiki Inoue and Masahiro Shibata},
+  title = {Spatiotemporal Editing for HDTV Program Production},
+  journal = {USENIX},
+  year = {1991},
+  pages = {95--103},
+}
+
+@article{Seiki:Synthesis:1991,
+  author = {Seiki Inoue},
+  title = {An Object Extraction Method for Image Synthesis},
+  journal = {SPIE},
+  volume = {1606},
+  year = {1991},
+  pages = {43--54},
+}
+
+@article{Solina:Bajcsy:Superquadrics,
+  author = {Franc Solina and Ruzena Bajcsy},
+  title = {Recovery of parametric models from range images:  
+	The case for superquadrics with global deformations},
+  journal = PAMI,
+  volume = {12},
+  pages = {131--147}, 
+  year = {1990},
+}
+
+@techreport{Szeliski:Octree:1990,
+  author = {Richard Szeliski},
+  title = {Real-Time Octree Generation from Rotating Objects},
+  institution = {Digital},
+  city = {Cambridge, MA},
+  year = {1990},
+}
+
+@techreport{Szeliski:Rotation:1990,
+  author = {Richard Szeliski},
+  title = {Shape from Rotation},
+  institution = {Digital},
+  city = {Cambridge, MA},
+  year = {1990},
+}
+
+@techreport{Sapiro:Tannenbaum:Affine:Techrep,
+  author = {G. Sapiro and A. Tannenbaum},
+  title = {On affine plane curve evolution},
+  number = {EE Publication 821},
+  institution = {Department of Electrical Engineering, Technion},
+  address = {Technion, I. I. T., Haifa 32000, Israel}, 
+  month = {February},
+  year = {1992},
+}
+ 
+@article{Sapiro:Tannenbaum:Affine1,
+  author = {G. Sapiro and A. Tannenbaum},
+  title = {On affine plane curve evolution},
+  journal = {Journal of Functional Analysis},
+  volume = {119},
+  pages = {79--120},
+  year = {1994}, 
+}
+
+@article{Sapiro:Tannenbaum:Affine2,
+  author = {G. Sapiro and A. Tannenbaum},
+  title = {Affine invariant scale-space},
+  journal = {International Journal of Computer Vision},
+  volume = {10}, 
+  pages = {25--44}, 
+  year = {1993},  
+}
+
+@inproceedings{Sapiro:Tannenbaum:ECCV,
+  author = {G. Sapiro and A. Tannenbaum},
+  title = {Area and Length Preserving Geometric Invariant Scale-Spaces},
+  crossref = {ECCV3},
+  pages = {449--458},
+  year = {1994}, 
+}
+
+@inproceedings{Delingette:Intrinsic:ECCV,
+  author = {H. Delingette},
+  title = {Intrinsic Stabilizers of Planar Curves},
+  crossref = {ECCV3},
+  pages = {427--436},
+  year = {1994}, 
+}
+
+@article{Sapiro:Tannenbaum:Affine,
+  author = {G. Sapiro and A. Tannenbaum},
+  title = {On affine plane curve evolution},
+  journal = {Journal of Functional Analysis},
+  volume = {To Appear},
+  year = {1993},
+}
+
+@article{Sapiro:Tannenbaum:Invariant,
+  author = {G. Sapiro and A. Tannenbaum},
+  title = {On invariant curve evolution and image analysis},
+  journal = {Indiana Univ. Journal of Mathematics},
+  volume = {To Appear},
+  year = {1993},
+}
+ 
+@article{Sapiro:Tannenbaum:Scale:Space,
+  author = {G. Sapiro and A. Tannenbaum},
+  title = {Affine invariant scale-space},
+  journal = {International Journal of Computer Vision},
+  volume = {11},
+  number = {1},
+  year = {1993},
+}
+
+@article{Tannenbaum:Yomdin,
+  author = {Allen Tannenbaum and Yosef Yomdin},
+  title = {Robotic manipulators and the Geometry of Real Semialgebraic Sets},
+  journal = {IEEE Journal of Robotics and Automation},
+  volume = 3,
+  number = 4,
+  pages = {301-307},
+  month = {August},
+  year = {1987}
+}
+
+ 
+@techreport{Taubin:Smoothing:Shinkage,
+  author = {Gabriel Taubin}, 
+  title = {Curve and Surface Smoothing Without Shinkage},
+  Institution = {IBM T.J. Watson Research Center},
+  number = {RC-19536 84981},
+  address = {Yorktown Heights, NY},
+  month = {September},
+  year = {1994},
+}
+ 
+@techreport{Taubin:Smoothing:ICCV95,
+  author = {Gabriel Taubin}, 
+  title = {Curve and Surface Smoothing Without Shinnkage},
+  crossref = {ICCV95},
+  pages = {852--857},
+}
+ 
+@techreport{Terzopoulos:Multilevel,
+  author = {Demetri Terzopoulos},
+  title = {Multi-level Reconstruction of Visual Surfaces},
+  institution = {MIT AI}, 
+  number = {MIT AI Memo 671},
+  year = {1982},
+}
+
+@article{Terzopolous:Regularization:Discontinuities,
+  author = {Demetri Terzopoulos},
+  title = {Regularization of Inverse Visual Problems Involving Discontinuities},
+  journal = PAMI,
+  volume = {8},
+  pages = {413--424},
+  month = {July},
+  year = {1986},
+}
+
+@article{Tikhonov:Regularization,
+  author = {A.N. Tikhonov}, 
+  title = {??}, 
+  journal = {Sov. Math. Dokl.},
+  volume = {4},
+  pages = {1035--1038},
+  year = {1963}, 
+}
+
+% Winston, Washinton DC
+@article{Tikhonov:Arsenin:Ill:posed,
+  author = {A.N. Tikhonov and V. Y. Arsenin},
+  title = {Solutions of Ill-Posed Problems },
+  journal = {??}, 
+  year = {1977},
+}
+
+
+@inproceedings{Tomasi:Kanade,
+  author = {Carlo Tomasi and Takeo Kanade},
+  title = {Shape and Motion without Depth},
+  crossref = {ICCV90},
+}
+
+@book{Wandell:Vision:1995,
+  author = {B. A. Wandell},
+  title = {Foundations of Vision},
+  year = {1995},  
+  publisher = 	 {Sinauer Associates, Inc.},
+  address = 	 {Sunderland MA}
+}
+
+@article{Tominaga:Wandell,
+  author = {Shoji Tominaga and Brain A. Wandell},
+  title = {Standard Surface-Reflectence Model and Illuminant Estimation},
+  journal = {Journal of the Optical Society of America A},
+  volume = 6,
+  number = 4,
+  pages = {576-584},
+  month = {April},
+  year = {1989}
+}
+
+@article{Turk:Pentland:Eigenfaces,
+  author = {Matthew Turk and Alex Pentland},
+  title = {Eigenfaces for Recognition},
+  journal = {Journal of Cognitive Neuroscience},
+  year = {1990},
+}
+
+
+@inproceedings{Ulupinar:Nevatia:Shape,
+  author = {F. Ulupinar and R. Nevatia},
+  title = {Recovering shape from contour for constant cross section 
+		generalized cylinders},
+  crossref = {CVPR1991},
+  pages = {674--676},
+  year = {1990}, 
+}
+
+@inproceedings{Vaselle:Etal:Corner,
+  author =      {B. Vaselle and G. Giraudon and M. Berthod},
+  title =       {Following Corners on Curves and Surfaces in Scale Space},
+  crossref =    {ECCV3},
+  pages =       {},
+  lib =         {ECCV},
+}
+
+@inbook{Waltz:Line:Drawing,
+  author = {D. Waltz},
+  title = {Understanding Line Drawings of Scenes with Shadows},
+  editor = {Patrick Winston},
+  booktitle = {The Psychology of Computer Vision},
+  publisher = {McGraw-Hill},
+  city = {New York},
+  year = {1975}, 
+}
+
+@inproceedings{Wiess:Algebraic:Invariants,
+  author = {Isaac Weiss and Peter Meer and Stanley M. Dunn},
+  title = {Robustness of Algebraic Invariants},
+  booktitle = {First DARPA-ESPRIT  Workshop on Invariance}, 
+  pages = {345--357},
+  address = {Iceland},
+  month = {March},
+  year = {1991},
+}
+ 
+@inproceedings{Weiss:Invariants:1991,
+  author = {Isaac Weiss},
+  title = {Noise-Resistant Invariants of Curves},
+  booktitle = {First DARPA-ESPRIT  Workshop on Invariance}, 
+  pages = {319--343},
+  address = {Iceland},
+  month = {March},
+  year = {1991},
+}
+ 
+@inproceedings{Witkin:Scale:Space, 
+  author =	{Andrew P. Witkin},
+  title =	{Scale-Space Filtering}, 
+  booktitle =	{Proceedings of the $8^{th}$ International
+			Joint Conference on Artificial Intelligence},
+  pages =	{1019--1022}, 
+  address =	{Karlsruhe, West Germany}, 
+  month =	aug, 
+  year =	1983, 
+}
+
+@article{Witkin:Scale:87,
+  author = {Andrew Witkin and Demetri Terzopoulos and Michael Kass},
+  title = {Signal Matching Through Scale Space},
+  journal = {International Journal of Computer Vision},
+  volume = {1},
+  number = {2},
+  year = {1987},
+  pages = {133--144},
+}
+
+@article{Witkin:Texture,
+  author = {Andrew Witkin},
+  title = {Recovering surface shape and orientation from texture},
+  journal = {Artificial Intelligence},
+  volume = {17}, 
+  pages = {17--47}, 
+  year = {1981}, 
+}
+
+@article{Yanowitz:Bruckstein:Segmentation:Book,
+  author = {S. D. Yanowitz and A. M. Bruckstein},
+  title = {A New Method for Image Segmentation},
+  journal = {Academic Press, Inc.},
+  volume = {46},
+  number = { },
+  pages = {82-95},
+  month = {September},
+  year = {1988},
+}
+
+@article{Yanowitz:Bruckstein:Segmentation,
+  author = {S. D. Yanowitz and A. M. Bruckstein},
+  title = {A New Method for Image Segmentation},
+  journal = {Computer Vision, Graphics, and Image Processing},
+  volume = {46},
+  pages = {82--95},
+  year = {1989},
+}
+
+@article{Yokoya:Levine:1989,
+  author = {Naokazu Yokoya and Martin D. Levine},
+  title = {Range Image Segmentation Based on Differential Geometry: A Hybrid
+		  Approach},
+  journal = {IEEE},
+  volume = {11},
+  number = {6},
+  pages = {643-649},
+  year = {1989},
+}
+
+@article{Zucker:Computational:Connection,
+  author = {Steven Warren Zucker},
+  title = {The Computation connection in vision},
+  journal = {Behaviour Research Methods, Instruments, and Computers},
+  volume = {18},
+  number = {6},
+  pages = {608--617},
+  year = {1986},
+}
+
+@article{Zucker:etal:TwoStages,
+  author = {Steven Warren Zucker and Allan Dobbins and Lee Iverson},
+  title = {Two stages of curve detection suggest two styles of visual computation},
+  journal = {Neural Computation},
+  volume = {1},
+  pages = {68--81},
+  year = {1989},
+}
+
+@inproceedings{Zucker:etal:General,
+  author = {Steven Warren Zucker and Azriel Rosenfeld and Larry S. Davies},
+  title = {General Purpose Models: Expectations about the Unexpected},
+  crossref = {IJCAI4}, 
+}
+
+@article{Zucker:Hummel:Receptive,
+  author = {Steven Warren Zucker and Robert Hummel},
+  title = {Receptive Fields and the Representation of Visual Information},
+  journal = {Human Neurobiology},
+  volume = {5},
+  pages = {121--128},
+  year = {1986},
+}
+
+@inbook{Zucker:Early:Vision,
+  author = {Steven Warren Zucker},
+  title = {Early Vision},
+  crossref = {Encyclopedia:AI},
+  pages = {1131--1151}, 
+}
+
+@book{Encyclopedia:AI,
+  editor = {S. Shapiro},
+  booktitle = {Enclyclopedia of Artifical Intelligence},
+  publisher = {John Wiley and Sons},
+  city = {New York},
+  year = {1987},
+}
+@article{Mohan:Perceptual:Organization,
+  author = {R. Mohan and R. Nevatia},
+  title = {Perceptual Organization for Scene Segmentation and
+Description},
+  journal = {IEEE Transactions on Pattern Analysis},
+  volume = {14},
+  number = {6},
+  pages = {616-634},
+  year = {1992},
+}
+
+@techreport{Gold:Rangarajan:Graduated:Assignment,
+  author = {Steven Gold and Anand Rangarajan},
+  title = {A graduated assignment algorithm for graph matching},
+  institution = {Yale University},
+  number = {TR1062},
+  city = {New Haven CT},
+  year = {1995},
+}
+
+@article{Almohamad:Duffuaa:Weighted:Graph,
+  author = {H. A. Almohamad and S. O. Duffua},
+  title = {A linear programming approach for the weighted graph matching problem},
+  journal = PAMI,
+  volume = {15},
+  pages = {522-525},
+  year = {1993},
+}
+
+@article{Eshera:Fu:Distance:Graph,
+  author = {M. A. Eshera and K. S. Fu},
+  title = {A graph distance measure for image analysis},
+  journal = {IEEE Transactions Systems Man And Cybernetics},
+  volume = {14(3)},
+  pages = {398-407},
+  year = {1984},
+}
+
+@article{Eshera:Fu:Attributed:Graph,
+  author = {M. A. Eshera and K. S. Fu},
+  title = {An image understanding system using attributed symbolic representation and
+		inexact  graph matching},
+  journal = PAMI,
+  volume = {8(5)},
+  pages = {604-619},
+  year = {1986},
+}
+
+@article{Mjolness:Rangarajan:Lagrangian:Graph,
+  author = {Eric Mjolness and Anand Rangarajan},
+  title = {A Lagrangian relaxation network for graph matching},
+  booktitle = {IEEE International Conference on Neural Networks},
+  volume = {7},
+  year = {1994},
+}
+@article{Shapiro:Haralick:Structural:Inexact,
+  author = {L. G. Shapiro and R. M. Haralick},
+  title = {Structural descriptions and inexact matching},
+  journal = PAMI,
+  volume = {3(5)},
+  pages = {504-519},
+  year = {1981},
+}
+
+@techreport{Fua:Leclerc:Reconstruction:Stereo,
+  author = {P. Fua and Y. G. Leclerc},
+  title = {Object-Centered Surface Reconstruction: Combining Multi-Image Stereo and Shading},
+  institution = {SRI International},
+  city = {Menlo Park CA},
+  year = {1995},
+}
+@techreport{Fua:Reconstruction:Stereo:Complex,
+  author = {P. Fua},
+  title = {Reconstructing Complex Surfaces from Multiple Stereo Views},
+  institution = {SRI International},
+  city = {Menlo Park CA},
+  year = {1995},
+}
+@techreport{Fua:Brechbuhler:Soft:Snakes,
+  author = {P. Fua and C. Brechbuhler},
+  title = {Imposing Hard Constraints on Soft Snakes},
+  institution = {SRI International},
+  city = {Menlo Park CA},
+  year = {1995},
+}
+
+@article{Huertas:etal:Subpixel:Edge,
+  author = {Andres Huertas and Gerard Medioni},
+  title = {Detection of Intensity Changes with Subpixel Accuracy Using
+		  Laplacian-Gaussian Masks},
+  journal = PAMI,
+  volume = {8},
+  pages = {651--664},
+  year = {1986},
+}
+
+@article{Lyvers:etal:Subpixel:Moment,
+  author = {Edward P. Lyvers and Owen Robert Micthell and Mark L. Akey
+		  and Anthony P. Reeves},
+  title = {Subpixel Measurements using a Moment-Based Operator},
+  journal = PAMI,
+  volume = {11},
+  pages = {1293--1309},
+  year = {1989},
+}
+
+@article{Micheli:etal:Localization:Edge,
+  author = {DeMicheli, E. and Caprile, B. and Ottonello, P. and Torre, V.},
+  title = {Localization and Noise in Edge Detection},
+  journal = PAMI,
+  volume = {11},
+  pages = {1106-1117},
+  year = {1989},
+}
+
+@article{Tabatabai:Mitchell:Subpixel:Edge,
+  author = {Tabatabai, A.J. and Mitchell, O.R.},
+  title = {Edge Location to Subpixel Values in Digital Imagery},
+  journal = PAMI,
+  volume = {6},
+  pages = {188-200},
+  year = {1984},
+}
+
+@article{Liu:Ehrich:Subpixel:Edge,
+  author = {Liu, X.D. and Ehrich, R.W.},
+  title = {Subpixel Edge Location in Binary Images Using Dithering},
+  journal = PAMI,
+  volume = {17},
+  pages = {629-634},
+  year = {1995},
+}
+
+@article{Haralick:Edge:Directional,
+  author = {Robert M. Haralick},
+  title = {Digital Step Edges from Zero Crossing of Second Directional Derivatives},
+  journal = PAMI,
+  volume = {6},
+  pages = {58-68},
+  year = {1984},
+}
+
+@article{Monchal:Aubry:3Dgeometrical,
+  keyword = {computer vision, sequence of images, interactive
+		  modelling, geometrical primitives reconstruction},
+  author = {Laurent Monchal, Pascal Aubry},
+  title = {3D geometrical shape modelling from Image sequence in an
+		  interactive context},  
+  journal = {SPIE},
+  volume = {2588},
+  number = {},
+  pages = {337-347},
+  year = {1995},
+}
+
+@article{Caudell:Virtual:Reality,
+  keyword = {augmented reality, virtual reality, head-mounted display},
+  author = {Thomas P. Caudell},
+  title = {Introduction to augmented and virtual reality},  
+  journal = {SPIE},
+  volume = {2351},
+  number = {},
+  pages = {272-281},
+  year = {},
+}
+
+@article{Ahlers:etal:Vision:System,
+  keywords = {augmented reality, object-oriented graphics, computer
+		  vision, calibration, tracking},
+  author = {Klaus Ahlers, David Breen, Chris Crampton, Eric Rose,
+		   Mihran Tuceryan, Ross Whitaker, Douglas Greer},
+  title = {An augmented vision system for industrial applications},  
+  journal = {SPIE},
+  volume = {2351},
+  number = {},
+  pages = {345-359},
+  year = {1994},
+}
+
+@article{Xu:Uberbacher:Minimum:Spannning,
+  keyword = {Image segmentation, minimum spanning trees, tree
+		  partitioning, dynamic programming},
+  author = {Ying Xu, Edward C. Uberbacher},
+  title = {2D image segmentation using minimum spanning trees},  
+  journal = {Image and Vision Computing},
+  volume = {15},
+  number = {},
+  pages = {47-57},
+  year = {1997},
+}
+
+@article{Zhu:etal:Edge:linking,
+  keyword = {Edge linking, directional potential function, boundary lines, algorithm},
+  author = {Quiming Zhu, Matt Payne, Victoria Riordan},
+  title = {Edge linking by a directional potential function (DPF)},  
+  journal = {Image and Vision Computing},
+  volume = {14},
+  number = {},
+  pages = {59-70},
+  year = {1996},
+}
+
+@article{Kutulakos:Vallino:AffineObject,
+  author = {Kiriakos N. Kutulakos, James Vallino},
+  title = {Affine Object Representationa for Calibration-Free Augmented Reality},  
+  journal = {IEEE Proceedings of VRAIS'96},
+  pages = {25-36},
+  year = {1996},
+}
+
+@article{Stanney:Virtual:Reality:Human,
+  author = {Kay Stanney},
+  title = {Realizing the Full Potential of Virtual Reality: Human
+		  factors Issues That Could Stand in the Way},  
+  journal = {IEEE},
+  volume = {},
+  number = {},
+  pages = {28-34},
+  year = {1996},
+}
+
+@article{Huddleston:Ben-Aire:Grouping:Edgels,
+  author = {James N. Huddelston, Jezekiel Ben-Aire},
+  title = {Gouping Edgels into Structural Entities Using Circular
+		  Symmetry, the Distributed {H}ough Transform, and
+		  Probabilistic Non-accidentalness},  
+  journal = {CVGIP: Image Understanding},
+  volume = {57},
+  number = {2},
+  pages = {227-242},
+  year = {1993},
+}
+
+@article{Gunsel:etal:Reconstruction:MRF,
+  author = {Bilge Gunsel, Anil K. Jain, Erdal Panayirci },
+  title = {Reconstruction and Boundary Detection of Range and
+		  Intensity Images Using Multiscale MRF Representations},  
+  journal = {Computer Vision and Image Understanding},
+  volume = {63},
+  number = {2},
+  pages = {353-366},
+  year = {1996},
+}
+
+@article{Cheng:Affine:Invariants,
+  author = {Yu Cheng},
+  title = {Analysis of Affine Invariants as Approximate Perspective Invariants},  
+  journal = {Computer Vision and Image Understanding},
+  volume = {63},
+  number = {2},
+  pages = {1970297},
+  year = {1996},
+}
+
+@article{Liang:Todhunter:Recognition:Range,
+  author = {Ping Liang, John S. Todhunter},
+  title = {Representation and Recognition of Surface Shapes in Range
+		  Images: A Differential Geometry Approach},  
+  journal = {Computer Vision, Graphics and Image Processing},
+  volume = {52},
+  pages = {78-109},
+  year = {1990},
+}
+
+@article{Hill:etal:Active:Shape,
+  author = {A. Hill and T.F. Cootes and C.J. Taylor},
+  title = {Active Shape Models and the shape approximation problem},  
+  journal = {Image and Vision Computing},
+  volume = {14},
+  pages = {601-607},
+  year = {1996},
+}
+
+@article{Heap:Hogg:Point:Distribution,
+  author = {Tony Heap, David Hogg},
+  title = {Extending the Point Distribution Model using polar coordinates},  
+  journal = {Image and Vision Computing},
+  volume = {14},
+  pages = {589-599},
+  year = {1996},
+}
+@article{Cootes:etal:Flexible:3Dmodels,
+  author = {T.F. Cootes and E.C. DiMauro and C.J. Taylor and A. Lanitis},
+  title = {Flexible 3{D} models from uncalibrated cameras},  
+  journal = {Image and Vision Computing},
+  volume = {14},
+  pages = {581-587},
+  year = {1996},
+}
+
+@article{Brzakovic:Vujovic:random:patterns,
+  author = {D. Brzakovic, N. Vujovic},
+  title = {Authentication of random patterns by finding a match in an image database},  
+  journal = {Image and Vision Computing},
+  volume = {14},
+  number = {},
+  pages = {485-499},
+  year = {1996},
+}
+
+@article{Wright:etal:Convex:hulls,
+  author = {M. Wright, A. Fitzgibbon, P.J. Giblin, R.B. Fisher},
+  title = {Convex hulls, occulding contours, aspect graphs and the {H}ough transform},  
+  journal = {Image and Vision Computing},
+  volume = {14},
+  number = {},
+  pages = {627-634},
+  year = {1996},
+}
+
+@article{Bulpitt:Efford:self-optimising:mesh,
+  author = {Andrew J. Bulpitt, Bucgikas D. Efford},
+  title = {An efficient 3D deformable model with a self-optimising mesh},  
+  journal = {Image and Vision Computing},
+  volume = {14},
+  pages = {573-580},
+  year = {1996},
+}
+
+@article{Christmas:etal:Probabilistic:feature-labelling,
+  author = {W.J. Christmas, J. Kittler, M. Petrou},
+  title = {Probabilistic feature-labelling schemes: modelling
+		  compatability coefficient distributions},  
+  journal = {Image and Vision Computing},
+  volume = {14},
+  number = {},
+  pages = {617-625},
+  year = {},
+}
+
+@article{Johnson:Hogg:event:recognition,
+  author = {Neil Johnson, David Hogg},
+  title = {Learning the distribution of object trajectories for event recognition},  
+  journal = {Image and Vision Computing},
+  volume = {14},
+  number = {},
+  pages = {609-615},
+  year = {1996},
+}
+
+
+@article{Das:Generic:recognition:multiple,
+  author = {Subhodev Das, Bir Bhanu, Chih-Cheng Ho},
+  title = {Generic object recognition using multiple representations},  
+  journal = {Image and Vision Computing},
+  volume = {14},
+  number = {},
+  pages = {323-338},
+  year = {1996},
+}
+
+@article{Verri:Uras:Metric-topological,
+  author = {Allesandro Verri, Claudio Uras},
+  title = {Metric-topological approach to shape representation and recognition},  
+  journal = {Image and Vision Computing},
+  volume = {14},
+  number = {},
+  pages = {189-207},
+  year = {1996},
+}
+
+@article{Wood:etal:Real-Time:Rendering,
+  author = {Christopher Wood, Chen Ling, Chi-Yin Lee},
+  title = {Real Time 3D Rendering of Volumes on a 64 bit Architecture},  
+  journal = {SPIE},
+  volume = {},
+  number = {},
+  pages = {},
+  year = {1997},
+}
+
+@article{Zhang:Sullivan:1993,
+  keyword = {geometrical reasoning, model-based vision, model
+		  construciton, object recognition, relational
+		  models},  
+  author = {Shujun Zhang, Geoff D. Sullivan, Keith D. Baker},
+  title = {The Automatic Construction of a View-Independent Relational
+		  Model for 3-D Object Recognition}, 
+  journal = {IEEE Transactions on Pattern Analysis and Machine
+		  Intelligence}, 
+  volume = {15},
+  number = {6},
+  pages = {532--544},
+  year = {1993}
+}
+@article{Barzohar:Cooper:PAMI,
+        AUTHOR = "Barzohar, M. and Cooper, D.B.",
+        TITLE = "Automatic Finding of Main Roads in Aerial Images by
+Using Geometric-Stochastic Models And Estimation",
+        JOURNAL = "PAMI",
+        VOLUME = "18",
+        YEAR = "1996",
+        NUMBER = " 7",
+        MONTH = "July",
+        PAGES = "707-721"
+}
+
+@article{Koch:Surface:1995,
+  keyword = {}, 
+  author = {Reinhard Koch},
+  title = {3-D Surface Reconstruction from Stereoscopic Image Sequences},  
+  journal = {ICCV95},
+  volume = {},
+  number = {},
+  pages = {109--114},
+  year = {1995}
+}
+
+@article{Vieville:Robust:1992,
+  keyword = {}, 
+  author = {Thierry Vieville, Olivier D. Faugeras},
+  title = {Robust and fast computation of unbiased intensity
+		  derivatives in images},   
+  journal = {ECCV92},
+  volume = {},
+  number = {},
+  pages = {203--211},
+  year = {1992}
+}
+
+@article{Zhang:Finding:1992,
+  keyword = {}, 
+  author = {Zhengyou Zhang, Olivier, D. Faugeras},
+  title = {Finding Clusters and Planes from 3D Line Segment with
+		  Application to 3D Motion Determination},   
+  journal = {ECCV92},
+  volume = {},
+  number = {},
+  pages = {227--236},
+  year = {1992}
+}
+
+@article{Beardsley:Camera:1992,
+  keyword = {}, 
+  author = {Paul Beardsley, David Murray, Andrew Zisserman},
+  title = {Camera Calibration Using Multiple Images},  
+  journal = {SCCV92},
+  volume = {},
+  number = {},
+  pages = {312--320},
+  year = {1992}
+}
+
+@article{Faugeras:Camera:1992,
+  keyword = {}, 
+  author = {O.D. Faugeras, Q.-T. Luong, S.J. Maybank},
+  title = {Camera Self-Calibration: Theory and Experiments},  
+  journal = {ECCV92},
+  volume = {},
+  number = {},
+  pages = {321--334},
+  year = {1992}
+}
+
+@article{DeMenthon:Model-Based:1992,
+  keyword = {}, 
+  author = {Daniel F. DeMenthon, Larry S. Davis},
+  title = {Model-Based Object Pose in 25 Liens of Code},  
+  journal = {ECCV92},
+  volume = {},
+  number = {},
+  pages = {335--343},
+  year = {1992}
+}
+
+@article{Faugeras:What:1992,
+  keyword = {}, 
+  author = {Olivier D. Faugeras},
+  title = {What can be seen in three dimensions with an uncalibrated
+		  stereo rig?},   
+  journal = {ECCV92},
+  volume = {},
+  number = {},
+  pages = {563--578},
+  year = {1992}
+}
+
+@article{Hartley:Estimation:1992,
+  keyword = {}, 
+  author = {Richard I. Hartley},
+  title = {Estimation of Relative Camera Positions for Uncalibrated
+		  Cameras},   
+  journal = {ECCV92},
+  volume = {},
+  number = {},
+  pages = {579--587},
+  year = {1992}
+}
+
+@article{Olivier:Reconstruction:1992,
+  keyword = {}, 
+  author = {Paolo Olivieri, Maurizio Gatti, Marco Straforim, Vincent
+		  Torre}, 
+  title = {A method for the 3D reconstruction of indoor scenes from
+		  monocular images},   
+  journal = {ECCV92},
+  volume = {},
+  number = {},
+  pages = {696--700},
+  year = {1992}
+}
+
+@article{Robinson:Integrated:1992,
+  keyword = {}, 
+  author = {Glynn P. Robinson, Alan C.F. Colchester, Lewis D. Griffin,
+		  David J. Hawkes}, 
+  title = {Integrated Skeleton and Boundary Shape Representation for
+		  Medical Image Interpretation},   
+  journal = {ECCV92},
+  volume = {},
+  number = {},
+  pages = {725--729},
+  year = {1992}
+}
+
+@article{Rothwell:Canonical:1992,
+  keyword = {}, 
+  author = {Charles A. Rothwell, Andrew Zisserman, David A. Forsyth,
+		  Joseph L. Mundy}, 
+  title = {Canonical Frames for Planar Object Recognition},  
+  journal = {ECCV92},
+  volume = {},
+  number = {},
+  pages = {757--772},
+  year = {1992}
+}
+
+@article{Moses:Limitations:1992,
+  keyword = {}, 
+  author = {Yael Moses, Shimon Ullman},
+  title = {Limitations of Non Model-Based Recognition Schemes},  
+  journal = {ECCV92},
+  volume = {},
+  number = {},
+  pages = {820--828},
+  year = {1992}
+}
+
+@article{Mohr:Projective:1996,
+  keyword = {}, 
+  author = {Roger Mohr, Bill Triggs},
+  title = {Projective Geometry for Image Analysis},  
+  journal = {ISPRS},
+  volume = {},
+  number = {},
+  pages = {},
+  year = {1996}
+}
+
+@article{Triggs:Autocalibration:1997,
+  keyword = {autocalibration, absolute quadric, multiple images, Euclidean reconstruction, constrained optimization}, 
+  author = {Bill Triggs},
+  title = {Autocalibration and the Absolute Quadric},  
+  journal = {to appear CVPR97},
+  volume = {},
+  number = {},
+  pages = {},
+  year = {1997}
+}
+
+@technicalreport{Pollefeys:Self-Calibration:1997,
+  keyword = {motion and stereo, self-calibration, uncalibrated 3D
+		  reconstruction, multiple-view geometry},  
+  author = {Marc Pollefeys, Reinhard Koch, Luc Van Gool},
+  title = {Self-Calibration and metric reconstruction in spite of
+		  Varying and Unknown Internal Camera Parameters},   
+  journal = {},
+  volume = {},
+  number = {},
+  pages = {},
+  year = {1997}
+}
+
+@article{Ullmann:Algorithm:1976,
+  keyword = {graph isomorphism, clique detection, tree search,
+		  parallel processing, special purpose computer,
+		  asynchronous sequential circuits, Boolean matrices},
+		  
+  author = {J.R. Ullmann},
+  title = {An Algorithm for Subgraph Isomorphism},  
+  journal = {Journal of the Association for Computing Machinery},
+  volume = {23},
+  number = {1},
+  pages = {32--42},
+  year = {1976}
+}
+
+@article{Chassery:Segmentation,
+  keyword = {}, 
+  author = {J.M. Chassery, M. Melkemi},
+  title = {A Segmentation method using voronoi diagrams in a split and merge environment},  
+  journal = {TIM3-IMAG Laboratory},
+  volume = {},
+  number = {},
+  pages = {44--48},
+  year = {}
+}
+
+@article{Kunii:Hieracrhic:1994,
+  keyword = {}, 
+  author = {T.L. Kunii, A.G. Belyaev, E.V. Anoshkina, S. Takahashi,
+		  R. Huang, O.G. Okunev}, 
+  title = {Hierarchic shape description via singularity and multiscaling},  
+  journal = {IEEE},
+  volume = {},
+  number = {},
+  pages = {242--251},
+  year = {1994}
+}
+
+@article{Bertrand:Algebra:1989,
+  keyword = {}, 
+  author = {Dale Bertrand},
+  title = {Algebra i analiz},  
+  journal = {},
+  volume = {},
+  number = {},
+  pages = {1--17},
+  year = {1989}
+}
+
+@article{Koepfler:Multiscale:1994,
+  keyword = {variational methods, nonnumerical algorithm, image
+		  processing, texture discrimination},  
+  author = {G. Koepfler, C. Lopez, J.M. Morel},
+  title = {A multiscale algorithm for image segmentation by
+		  variational method},   
+  journal = {SIAM J. Numer. Anal.},
+  volume = {31},
+  number = {1},
+  pages = {282--299},
+  year = {1994}
+}
+
+@article{Ahuja:Shape:1996,
+  keyword = {generalized potential, Newtonian potential, topology,
+		  medial asix, skeletonization, distance transform},  
+  author = {Narenda Ahuja, Jen-Hui Chuang},
+  title = {Shape representation using a generalized potential field model},  
+  journal = PAMI,
+  volume = {19},
+  number = {2},
+  pages = {169--176},
+  year = {1997}
+}
+
+@article{Strong:Relation:1996,
+  keyword = {}, 
+  author = {David M. Strong, Tony F. Chan},
+  title = {relation of regularization parameter and scale in total
+		  variation based image denoising},   
+  journal = {},
+  volume = {},
+  number = {},
+  pages = {},
+  year = {1996}
+}
+
+@article{Vincken:Probabilistic:1997,
+  keyword = {image segmentation, multiscale analysis, probability
+		  maps, partial volume artifact, object definition},  
+  author = {Koen L. Vincken, Andre S.E. Koster, Max A. Viergever},
+  title = {Probabilistic multiscale image segmentation},  
+  journal = PAMI,
+  volume = {19},
+  number = {2},
+  pages = {109--120},
+  year = {1997}
+}
+
+@article{Jacobs:Matching,
+  keyword = {}, 
+  author = {David W. Jacobs},
+  title = {Matching 3-D models to 2-D images},
+  journal = {to appear, Int. J. of Comp. Vis.},
+  volume = {},
+  number = {},
+  pages = {},
+  year = {}
+}
+
+@article{Jacobs:Robust:1996,
+  keyword = {grouping, perceptual organization, convexity, proximity,
+		  nonaccidental properties, robust, efficiency,
+		  recognition},  
+  author = {David W. Jacobs}, 
+  title = {Robust and efficient detection of salient convex groups},  
+  journal = PAMI,
+  volume = {18},
+  number = {1},
+  pages = {23--37},
+  year = {1996}
+}
+
+
+
+@article{Mehrota:etal:Industrial:identification:iconic,
+  keyword = {industrial vison, part recognition, object identification, iconic index, shape matching}, 
+  author = {Rajiv Mehrota, Fu K. Kung, William I. Grosky},
+  title = {Industrial part recognition using a component-index},  
+  journal = {Image and Vision Computing},
+  volume = {8},
+  number = {3},
+  pages = {225-232},
+  year = {1990},
+}
+
+
+@article{Groski:etal:Index:Pictorial:Management,
+  keyword = {}, 
+  author = {William I. Groski, Rajiv Mehrota},
+  title = {Index-Based Object Recognition in Pictorial Data Management},  
+  journal = {Computer Vision, Graphics, and Image Processing},
+  volume = {52},
+  number = {},
+  pages = {416-436},
+  year = {1990},
+}
+
+@article{Kolovson:Segment:Indexes:Interval:Dynamic,
+  keyword = {}, 
+  author  = {Curtis P. Kolovson, Michael Stonebraker },
+  title   = {Segment Indexes: Dynamic Indexing Techniques for Multi-Dimensional Interval Data},  
+  journal = {ACM},
+  volume = {},
+  number = {},
+  month ={June},
+  address= {Denver}, 
+  pages = {138-147},
+  year = {1991},
+}
+
+
+@article{Liu:Boundary:Detection:Dimensional,
+  keyword = {}, 
+  author = {Hsun K. Liu},
+  title = {Two-and Three-Dimensional Boundary Detection},  
+  journal = {Computer Graphics and Image Processing},
+  volume = {6},
+  number = {},
+  pages = {123-134},
+  year = {1977},
+}
+
+@article{Shaked:Bruckstein:Curve:Axis,
+  author = {Shaked, D. and Bruckstein, A.M.},
+  title = {The Curve Axis},
+  journal = {CVIU},
+  volume = {63},
+  year = {1996},
+  number = {2},
+  month = {March},
+  pages = {367-379},
+}
+		  
+@article{Udupa:etal:multidimensions:tomography:varying:imagery,
+  keyword = {adjacency and connectivity in multidimensions, boundary detection, computerized tomography, image processing algorithms, time-varying imagery}, 
+  author = {Jayaram K. Udupa, Sargur N. Srihari, Gabor T. herman},
+  title = {Boundary Detection in Multidimensions},  
+  journal = PAMI,
+  volume = {PAMI-4},
+  number = {1},
+  pages = {41-50},
+  year = {1982},
+}
+
+
+
+@article{Zhan:Zero:etal:Crossing:Optimal:Detector,
+  keyword = {}, 
+  author = {Shiming Zhan, Rajiv Mehrota},
+  title = {A Zero-Crossing-Based Optimal Three-Dimensional Edge Detector},  
+  journal = {CVGIP Image Understanding},
+  volume = {2},
+  number = {},
+  pages = {242-253},
+  year = {1994},
+}
+
+@article{Zucker:etal:Edge:Operator:Three:Dimensional,
+  keyword = {Computerized tomography (CT), edge detection, feature detection, three-dimensional edge operators, three-dimensional modeling}, 
+  author = {Steven W. Zucker, Robert A. Hummel},
+  title = {A Three-Dimensional Edge Operator},  
+  journal = PAMI,
+  volume = {PAMI-3},
+  number = {3},
+  pages = {324-331},
+  year = {1981},
+}
+
+
+@article{Rosin:etal:Segmentation,
+  keyword = {}, 
+  author = {Paul L. Rosin, Geoff A.W. West},
+  title = {Segmentation of edges into lines and arcs},  
+  journal = {Image and Vision Computing},
+  volume = {7},
+  number = {2},
+  pages = {109-114},
+  year = {1989},
+}
+
+
+
+
+@article{Koenen:MPEG-4:1997,
+  keyword = {Standarization, multimedia, content-based interactivity, synthetic and natural data integration}, 
+  author = {Rob Koenen, Fernando Pereira, Leonardo Chiariglione},
+  title = {MPEG-4: context and objectives},  
+  journal = {Signal Processing:Image Communication},
+  volume = {9},
+  number = {},
+  pages = {295--304},
+  year = {1997}
+}
+
+@article{Azarbayejani:Vision-based:1997,
+  keyword = {}, 
+  author = {Ali Azarbayejani, Chris Perry, Alex Pentland},
+  title = {Vision-based modeling for film and multimedia production},  
+  journal = {Applied Artificial Intelligence},
+  volume = {11},
+  number = {},
+  pages = {307--330},
+  year = {1997}
+}		  
+		
+@article{Tuceryan:Calibration:1995,
+  keyword = {}, 
+  author = {Mihran Tuceryan, Douglas S. Greer, Ross T. Whitaker, David E. Breen, Chris Crampton, Eric Rose, Klaus H. Ahlers},
+  title = {Calibration requirements and procedures for a monitor-based augmented reality system},  
+  journal = {IEEE Trans. on Vis. \& Comp. Graphics},
+  volume = {1},
+  number = {3},
+  pages = {255--273},
+  year = {1995}
+}
+
+@article{Caudell:Augmented:1992,
+  keyword = {}, 
+  author = {Thomas P. Caudell, David W. Mizell},
+  title = {Augmented reality: an application of heads-up display technology to manual manufacturing processes},  
+  journal = {IEEE},
+  volume = {},
+  number = {},
+  pages = {659--669},
+  year = {1992}
+}		  
+
+@inProceedings{Mullikin:Methods:1994,
+  keyword = {}, 
+  author = {J.C. Mullikin, L.J. van Vliet, H. Netten, F.R. Boddeke, G. van der Feltz, I.T. Young},
+  title = {Methods for CCD Camera Characterization},  
+  journal = {SPIE},
+  volume = {2173},
+  number = {},
+  pages = {73--84},
+  year = {1994}
+}
+		  
+@article{Vliet:Digital:1998,
+  keyword = {}, 
+  author = {Lucas J. van Vliet, Damir Sudar, Ian T. Young},
+  title = {Digital Fluorescence Imagine Using Cooled Charge-coupled device array cameras},  
+  journal = {Cell Biology:A Laboratory Handbook},
+  volume = {Second Edition - 3},
+  number = {},
+  pages = {109--120},
+  year = {1998}
+}
+
+@inbook{Bloomenthal:Implicit:Surfaces:Book,
+  editor = {Jules Bloomenthal},
+  title = {Introduction to Implicit Surfaces},
+  publisher = {Morgan Kaufmann Inc.},
+  year = {1997},
+}
+%  author = {Jules Bloomenthal and Chandrajit Bajaj and Jim Blinn and
+%            Marie-Paule Cani-Gascuel and Alyn Rockwood and Brian Wyvill
+%            and Geoff Wyvill},
+
+@Article{Smith:etal:SUSAN:image,
+  author =       {S.M. Smith and J. Brady},
+  title =        {{SUSAN}:  {A} new approach to low level image processing},
+  journal =	 {Int. Journal of Computer Vision},
+  year =	 1997
+}
+
+		  
+@inproceedings{Bowyer:etal:edge:cvpr99,
+  author = {K. Bowyer and C. Kranenburg and S. Dougherty},
+  title = {Edge detector evaluation using empirical {ROC} Curves},
+  crossref = {CVPR1999},
+  pages = {356--359},
+}
+
+@inproceedings{Shin:etal:comparison:cvpr99,
+  author = {M. C. Shin and D. Goldgof and K. Bowyer}, 
+  title = {Comparison of edge detector using an object recognition task},
+  crossref = {CVPR1999},
+  pages = {360--365},
+}
+		  
+@inproceedings{Malik:etal:Textons:iccv99,
+  author = {J. Malik and S. Belongie and J. Shi and T. Leung},
+  title = {Textons, contours and regions: {C}ue integration in image
+		  segmentation},
+  crossref = {ICCV1999},
+  pages = {918--925},
+}
+		  
+@Book{Boehm94Geom,
+  author =       "Wolfgang Boehm and Hartmut Prautzsch",
+  title =        "Geometric concepts for geometric design",
+  publisher =    "A.K. Peters",
+  year =         1994,
+  address =      {Wellesley, MA, USA},
+  note =         {424 p., ISBN 1-56881-004-0},
+}
+
+@Book{Hoffmann89,
+  author =   "Christoph M. Hoffmann",
+  title =   "Geometric and Solid Modeling - An Introduction",
+  publisher =   "Morgan Kaufmann",
+  year =   1989,
+  editor =  "Brian A. Barsky",
+  series =  "Series in Computer Graphics and Geometric Modeling",
+  address =  "San Mateo, CA",
+  note =  "338 pages."
+}
+
+@article{Montanari:Curves:CACM71,
+        AUTHOR = "Montanari, U.",
+        TITLE = "On the Optimal Detection of Curves in Noisy Pictures",
+        JOURNAL = "CACM",
+        VOLUME = "14",
+        YEAR = "1971",
+        NUMBER = "5",
+        MONTH = "May",
+        PAGES = "335-345"}
+		  
+		  
+		  
+@INPROCEEDINGS{Seitz:Kutulakos:Editing:ICCV98,
+  author = {S. M. Seitz and K. N. Kutulakos},
+  title = {Plenoptic Image Editing},
+  crossref = {ICCV1998},
+  note = {Available from ftp.cs.wisc.edu}
+}
+		  
+@inproceedings{Cham:Cipolla:BSpline:BMVC96,
+        AUTHOR = "Cham, T.J. and Cipolla, R.",
+        TITLE = "Automated {B}-Spline Curve Representation with {MDL}-based Active Contours",
+        BOOKTITLE = "BMVC96",
+        YEAR = "1996",
+        PAGES = "Deformable Models"}
+		  
+@article{Medioni:Yasumoto:Corner:CVGIP87,
+        AUTHOR = "Medioni, G.G. and Yasumoto, Y.",
+        TITLE = "Corner Detection and Curve Representation Using Cubic {B}-Splines",
+        JOURNAL = CVGIP,
+        VOLUME = "39",
+        YEAR = "1987",
+        NUMBER = "3",
+        MONTH = "September",
+        PAGES = "267-278"}
+
+@inproceedings{Gu:Gui:Recognition:SSAB97,
+        AUTHOR = "Gu, I.Y.H. and Gui, V.",
+        TITLE = "Object Recognition and Motion Estimation via Joint Segmentation
+and {B}-Spline Contour Matching",
+        BOOKTITLE = "Symposium on Image Analysis",
+        YEAR = "1997",
+        PAGES = "Computer Vision"}
+
+		  
+		  
+@incollection{Kimia:etal:Optimal:Control,
+  author = {Benjamin B. Kimia and Allen R. Tannenbaum and Steven W. Zucker},
+  title = {On Optimal Control Methods in Computer Vision and Image Processing},
+  editor = {Bart M. ter Haar Romeny}, 
+  booktitle = {Geometry-Driven Diffusion in Computer Vision}, 
+  publisher = {Kluwer},
+  month = {September}, 
+  pages = {307--338},
+  year = {1994},
+}
+		  
+		  
+@Proceedings{Romeny:Geometry:Diffusion:Book94,
+  title = 	 "Geometry-Driven Diffusion in Computer Vision",
+  year = 	 1994,
+  editor =	 "Bart M. ter Haar Romeny",
+  publisher =	 "Kluwer",
+  month =	 "September"
+}
+
+@article{Burt:Adelson:Laplacian:Pyramid:TCOMM83,
+        AUTHOR = "Burt, P.J. and Adelson, E.H.",
+        TITLE = "The Laplacian Pyramid as a Compact Image Code",
+        JOURNAL = "T-COMM",
+        VOLUME = "31",
+        YEAR = "1983",
+        NUMBER = "4",
+        MONTH = "April",
+        PAGES = "532-540"}
+
+@article{Mallet:etal:Wavelets:PAMI97,
+        AUTHOR = "Mallet, Y. and Coomans, D. and Kautsky, J. and DeVel, O.",
+        TITLE = "Classification Using Adaptive Wavelets for Feature-Extraction",
+        JOURNAL = "PAMI",
+        VOLUME = "19",
+        YEAR = "1997",
+        NUMBER = "10",
+        MONTH = "October",
+        PAGES = "1058-1066"}
+@article{Pentland:Deformable:Parts:IJCV90,
+        AUTHOR = "Pentland, A.P.",
+        TITLE = "Automatic Extraction of Deformable Part Models",
+        JOURNAL = IJCV,
+        VOLUME = "4",
+        YEAR = "1990",
+        NUMBER = "2",
+        MONTH = "March",
+        PAGES = "107-126"}
+		  
+@article{Pentland:Segmentation:Parts:NeuralComp89,
+        AUTHOR = "Pentland, A.P.",
+        TITLE = "Part Segmentation for Object Recognition",
+        JOURNAL = "Neural Computation",
+        VOLUME = "1",
+        YEAR = "1989",
+        PAGES = "82-91"}
+
+@InProceedings{Kendall:Shape:1984,
+  author = {Kendall, D. G.},
+  title = {Shape manifolds, Procrustean metrics and complex projective spaces},    booktitle = {Bulletin of the London Mathematical Society, 16},
+  pages = {81-121},
+  year = {1984},
+}
+		  
+@Book{Hallinan:Mumford:face:book,
+  author = 	 "P.L. Hallinan and  G.G. Gordon and A.L. Yuille and P. Giblin and D. Mumford",
+  title = 	 "Two and three dimensional patterns of the face",
+  publisher = 	 "A.K.Peters",
+  year = 	 1999,
+  address =	 "Natick, Massachusetts"
+}
+
+
+
+
+@InBook{Sotomayor:etal:Curvatures:1999,
+  author = 	 "J.Sotomayor and D.Siersma and R.Garcia",
+  title = 	 "Geometry and Topology of Caustics",
+  chapter = 	 "Curvatures of conflict surfaces in {E}uclidean 3-space",
+  publisher =	 "Banach Center Publications",
+  year =	 1999,
+  pages =	 "277--285",
+  volume =	 50
+}
+
+@InBook{Siersma:Caustics:1999,
+  author = 	 "J.Sotomayor and D.Siersma and R.Garcia",
+  title = 	 "Geometry and Topology of Caustics",
+  chapter = 	 "Properties of conflict sets in the plane",
+  publisher =	 "Banach Center Publications",
+  year =	 1999,
+  pages =	 "267--276",
+  volume =	 50
+}
+
+@InProceedings{Giblin:MofS2000,
+  author = 	 "P.J.Giblin",
+  title = 	 "Symmetry sets and medial axes in two and three dimensions",
+  booktitle =	 "Proceedings of Mathematics of Surfaces conference",
+  year =	 2000,
+  address =	 "Cambridge"
+}
+
+
+@InBook{Shen:Thalmann:Implicit95,
+  author =	 {J. Shen  and D. Thalmann  },
+  title = 	 {Implicit Surfaces},
+  chapter = 	 {Interactive Shape Design Using Metaballs and Splines},
+  publisher = 	 {Genoble},
+  year = 	 1995
+}
+
+@InProceedings{Shen:Thalmann:VR96,
+  author = 	 {J. Shen and D. Thalmann},
+  title = 	 {Fast Realistic Human Body Deformation for Animation and {VR} Applications},
+  booktitle = 	 {Computer Graphics International},
+  pages =	 {166--174},
+  year =	 1996,
+  address =	 {Pohang, Korea}
+}
+
+@article{Swain:Ballard:Color:IJCV91,
+        AUTHOR = "Swain, M.J. and Ballard, D.H.",
+        TITLE = "Color Indexing",
+        JOURNAL = IJCV,
+        VOLUME = 7,
+        YEAR = 1991,
+        NUMBER = 1,
+        MONTH = "November",
+        PAGES = "11-32"}
+
+@article{Slater:Healey:Invariant:PAMI96,
+        AUTHOR = "Slater, D.A. and Healey, G.",
+        TITLE = "The Illumination-Invariant Recognition of 3D Objects Using Local
+Color Invariants",
+        JOURNAL = PAMI,
+        VOLUME = "18",
+        YEAR = "1996",
+        NUMBER = "2",
+        MONTH = "February",
+        PAGES = "206-210"}
+@article{Funt:Finlayson:Color:PAMI95,
+        AUTHOR = "Funt, B.V. and Finlayson, G.D.",
+        TITLE = "Color Constant Color Indexing",
+        JOURNAL = PAMI,
+        VOLUME = "17",
+        YEAR = "1995",
+        NUMBER = "5",
+        MONTH = "May",
+        PAGES = "522-529"}
+
+
+
+@InProceedings{Cook:Delp:MSEL:ICIP95,
+  author = 	 {G. W. Cook and E. J. Delp},
+  title = 	 {Multiresolution Sequential Edge Linking},
+  booktitle = 	 {IEEE International Conference on Image Processing},
+  pages =	 {41-44},
+  year =	 1995
+}
+@Article{Plankers:Fua:Modeling:CVIU2001,
+  author = 	 {R. Plankers and P. Fua},
+  title = 	 {Tracking and Modeling People in Video Sequences},
+  journal = 	 {Computer Vision and Image Understanding},
+  year = 	 2001,
+  volume =	 {81(3)}
+}
+

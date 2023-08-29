@@ -1,0 +1,330 @@
+Date: 24 Sep 92 07:52:14 GMT
+From: edelman@wisdom.weizmann.ac.il (Edelman Shimon)
+Organization: Weizmann Institute of Science, Dept. of Applied Math & CS
+Subject: visually guided grasping: summary
+
+Thanks to all who responded to my query. A summary of the responses
+follows.
+
+Shimon
+
+*****
+Date: Sun, 13 Sep 92 12:13:46 CDT
+From: krao@ra.csc.ti.com (Kashi Rao)
+
+ > Date: 20 Aug 92 17:02:58 GMT
+ > From: johnson@akula.llnl.gov (  Robert Johnson          )
+ > Organization: Lawrence Livermore National Laboratory
+ > Subject: 3D Grasp Planning
+
+ >    I am looking for references (and/or software) on 3D representations
+ > and algorithms suitable for robot grasp planning from range (or stereo)
+ > images.
+
+ > [ ... ]
+
+We did some work on these lines. The reference below describes the
+work.
+
+@ARTICLE(Rao-etal89,
+	AUTHOR = "K. Rao and G. Medioni and H. Liu and G. Bekey",
+	TITLE = "Shape Description and Grasping for Robot Hand-Eye Coordination",
+	JOURNAL = "IEEE Control Systems Magazine: Special Issue on Robotics and Automation",
+	YEAR  	= "1989",
+	MONTH   = feb,
+        VOLUME  = 9,
+        NUMBER  = 2,
+        PAGES   = "22-29"
+	)
+
+ Kashi Rao
+ Image Understanding
+ Corporate Research, Texas Instruments
+ Dallas, Texas 75265
+ krao@csc.ti.com
+ 214-995-0335
+
+*****
+Date: Fri, 18 Sep 92 10:00:30 METDST
+From: Franc.Solina@ninurta.fer.yu
+University of Ljubljana
+Faculty of Electrical and Computer Engineering, Ljubljana
+
+[ ... ] I am aware about some work on grasping that involved my method
+of recovering superquadric volumetric models from range data (IEEE
+PAMI-12(2):131-147, 1990).  I am afraid that I don't have their papers
+at hand but one group that worked on the problem of grasping is at
+Columbia University (dr. Peter Allen) and another at Carnegie_Mellon
+University (dr. Eric Krotkov). I am sure that they would be happy to
+send you their latest work on that subject.
+
+-Franc Solina
+
+*****
+Date: Fri, 18 Sep 92 08:45:24 -0400
+From: "sal" <sal@touch.cis.upenn.edu>
+
+[ ... ]
+My dissertation (which I will defend next Friday)
+"Learning and Forgetting for Perception Action: A Projection Pursuit
+and Density Adaptive Approach," deals with learning
+to grasp based on shape descriptors (superquadrics) and object pose
+using  memory-based learning approaches.
+
+[ ... ] There is very little other work in _shape_ driven
+grasping that I have found. [ ... ]
+
+Marcos Salganicoff
+GRASP Lab
+University of Pennsylvania
+Philadelpha, PA
+
+*****
+Date: Fri, 18 Sep 1992 09:06:08 -0500
+From: Whoi-Yul Kim <wyk@utdallas.edu>
+
+I know the professor Seth Hutchinson at Univ. of Illinois has done
+quite a bit of research in this area. He may be reached via e-mail at
+seth@mingus.cs.uiuc.edu.
+
+yura
+
+*****
+Date: Fri, 18 Sep 1992 12:16:11 -0400
+From: Haim Levkowitz <haim@cs.ulowell.edu>
+
+[ ... ]
+Sharon Stansfield (formerly of UPenn, now at Sandia Nat'l Labs) did
+some work on grasping in the mid-late eighties. Her's was more (I
+think) from the tactile point of view but you might want to check how
+much attention she paid to aspects of visual processing.  Also, I
+don't know what exactly she's been doing in the last 4-5 years, so
+check it out.
+
+Haim Levkowitz, Ph. D.
+Assistant Professor
+Institute for Visualization and Perception Research
+Graphics Research Laboratory
+Department of Computer Science				
+University of Massachusetts Lowell
+One University Avenue					
+Lowell, MA 01854					
+								
+*****
+
+Date: 	Fri, 18 Sep 1992 15:50:31 -0400
+From: Michael Julian Black <black@vis.toronto.edu>
+
+You might look at the following:
+
+@INPROCEEDINGS{cipolla,
+	AUTHOR = {R.~Cipolla and A.~Blake},
+	TITLE = {Surface orientation and time to contact from image
+divergence and deformation},
+	BOOKTITLE = {Proc.~of Second European Conference on Computer
+Vision, ECCV-92},
+	EDITOR = {G.~Sandini},
+	SERIES = {LNCS-Series},
+	VOLUME = {588},
+	PUBLISHER = {Springer-Verlag},
+	MONTH = may,
+	PAGES = {187--202},
+	YEAR = {1992}}
+
+Hope it helps.
+
+Michael Black
+Department of Computer Science
+University of Toronto
+
+*****
+
+Date: Fri, 18 Sep 92 17:14:48 EDT
+From: jhc@watson.ibm.com
+
+Sharon Stansfield published several papers on qualitative shape for
+object locating and grasp pre-forming. Below are two references.   -- Jon
+
+"Knowledge-based Robotic Grasping", Sharon Stansfield, Proceedings of the
+1990 IEEE Conference on Robotics and Automation, pp. 1270-1275.
+
+"A Robotic Perceptual System Utilizing Passive Vision and Active Touch",
+Sharon Stansfield, The International Journal of Robotics Research,
+vol. 7, No. 6, December 1988, pp. 138-161.
+
+*****
+
+Date: Sat, 19 Sep 92 14:34:16 bst
+From: rbf@aifh.edinburgh.ac.uk
+
+[ ... ]
+I would also be interested in the references that you have collected.
+[ ... ]
+I have received some from other sources and these are included below.
+
+
+Dr. Robert Fisher
+Dept. of Artif. Intel., Univ. of Edinburgh
+
+[ REF LIST FOLLOWS ]
+
+Date: Sat, 22 Aug 92 00:19:00 +0200
+From: tmb@idiap.ch (Thomas M. Breuel)
+
+I think people at the MIT AI lab have done a lot of work on this.
+
+Try sending mail to "publications@ai.mit.edu" to get a list of
+technical reports (your library may also have them on microfilm).
+
+					Thomas.
+
+*****
+Date: Fri, 21 Aug 92 21:05:50 EDT
+From: Sing.Bing.Kang@IUS4.IUS.CS.CMU.EDU
+
+I'm afraid I can give you only very sketchy references (based on memory) as
+I am away this summer, but I can think of three possibilities:
+
+1. Octree representation
+   You should check out IROS 91 proceedings; it has a paper on grasp planning
+   that you might be interested in. Basically the approach is to slice the
+   volume and from analysis of adjacent slices, produces possible grasp sites.
+   The authors are from Italy, if I am not mistaken.
+2. Boundary/surface extraction
+   Stansfield of Sandia Labs did her Ph.D. on grasp planning using range
+   data. She has a paper in ICRA 87 or 88.
+3. Superquadric representation
+   This has been used at CMU. The project involves modeling rocks using
+   superquadrics and aligning the gripper parallel to the major axis prior to
+   picking up the rock. If you require more information, you can e-mail
+   ki@cs.cmu.edu (Katsushi Ikeuchi).
+
+SIng Bing Kang
+The RObotics Institute
+Carnegie Mellon University
+Pittsburgh, PA 15213
+
+NOTE:
+     IROS = COnference on Intelligent Robots and Systems
+ ?      1. Conference on Intelligent Robotic Systems for Space Exploration (3rd : 1991
+           : Rensselaer Polytechnic Institute)
+             Proceedings / Third Annual Conference on Intelligent Robotic Systems for
+           Space Exploration, Rensselaer Polytechnic Institute, Troy, New York,
+           November 18-19, 1991 ; sponsored by NASA Center for Intelligent...  Los
+           Alamitos, Calif. : IEEE Computer Society Press, c1991.
+               UCB   Engin     TL875 .C67 1991
+               UCSC  Science   TL875.C67 1991
+               UCSD  S & E     TL875 .C67 1991
+
+     ICRA = Int'l conf. on robotics and automation
+        2 ROBOTICS AND AUTOMATION        INTERNATIONAL CONFE  TJ211 I5 1986
+        3 ROBOTICS AND AUTOMATION        INTERNATIONAL CONFE  TJ211 I5 1987
+
+*****
+
+Date: Mon, 24 Aug 92 9:31:55 PDT
+From: Kenneth Goldberg <goldberg@iris.usc.edu>
+
+[ ... ]  I have been working in this area for several years
+and recently received a 3-year NSF award for "Reduced Complexity Manipulation
+with the Parallel-Jaw Gripper".  I would like to discuss your problem
+further so that I can send you some relevant papers.  Also, there may
+be an opportunity for us to collaborate.  Please give me a call at
+
+Ken Goldberg
+Asst. Prof, CS and EE-Systems
+USC
+
+*****
+
+Date: Mon, 24 Aug 92 16:13:20 -0400
+From: John S. Zelek  <zelek@Thunder.McRCIM.McGill.EDU>
+Subject: Re:  response
+
+international journal of robotics reserch. vol.8, no.4,
+pp. 92-112, aug. 1989.
+Ronald C. Arkin 'Motor Schema Based Mobile robot Navigation
+
+also look at the last few years of ieee Robotics and automation
+conference proceedings
+
+*****
+Date: Tue, 25 Aug 92 15:13:19 BST
+From: ph@physiology.oxford.ac.uk (Patrick Haggard)
+
+I'm well out of touch with this area, but every time I open
+IEEE robotics and automation I seem to see something on this.
+The work of Kumar and Waldron always seems conceptually good
+to me, and Cutkosky is worth reading to.  He wrote an
+introductory book a few years ago, which has a lot of interesting
+ideas.
+1. Cutkosky, Mark R.
+     Robotic grasping and fine manipulation / Mark R. Cutkosky.  Boston :
+   Kluwer Academic Publishers, c1985.
+     Series title:  Kluwer international series in engineering and computer
+   science ; SECS 6.
+     Series title:  The Kluwer international series in engineering and computer
+   science ; Robotics.
+       UCB   Engin     TJ211 .C871 1985
+       UCD   Phys Sci  TJ211 .C87 1985
+       UCLA  Engr/Math TJ 211 C87 1985
+       UCSB  Library   TJ211 .C87 1985 Sci-Engrg
+       UCSC  Science   TJ211.C87 1985
+       UCSD  S & E     TJ211 .C87 1985
+
+Patrick Haggard,
+Oxford University Laboratory of Physiology,
+Parks Road,
+Oxford,
+OX1 3PT
+England
+
+*****
+Date: Wed, 26 Aug 92 11:44:42 +0200
+From: zadel@fides.neuroinformatik.ruhr-uni-bochum.de (Stefan Zadel)
+
+[ ... ]
+
+I have started some work related to this, but I will use a simulation
+of a multifingered robot hand, and I will use algorithms of the
+domain of neural computation.
+You are tackling a very difficult problem that has not been solved
+yet. But for references you should check the last years' issues of
+the Proceedings of the IEEE International Conference of Robotics and
+Automation and try to find something with the Science Citation Index
+(SCI).
+Good luck!
+
+Stefan Zadel
+(zadel@neuroinformatik.ruhr-uni-bochum.de)
+Inst. f. Neuroinformatik, ND 03 -- Ruhr-Universitaet Bochum
+   Universitaetsstr. 150 -- D-W 4630 Bochum 1 -- Germany
+
+*****
+Date: Wed, 26 Aug 92 19:13:32 MDT
+From: Lance Gatrell (303) 977-2052 <gatrell@saturn.den.mmc.com>
+
+I saw your request for info on 3D grasp planning.
+I did my MS thesis on CAD based grasp planning.  They were
+3D models.  The parallel jaw gripper had to be able to plan a
+grasp from any orientation.  What I did (to simplify the computations),
+was to rotate the model as needed so that the pair of faces that I was
+planning a grasp on were parallel to the XY plane.  After determining
+the "quality" of the grasp, I unrotated the gripper.  This gives you
+what you were asking for, I believe.
+
+You can read about in the proceedings of the 1989 IEEE Conference on
+Robotics and Automation, Vol. 1 (as I recall), entitled something like
+"CAD-Based Grasp Planning Using Polygons, Edges, and Vertexes," author
+Lance B. Gatrell.
+
+I'm curious to know if this helps, and what happens with your work.
+
+Lance B. Gatrell
+
+**********************************************************************
+Dr. Shimon Edelman             Internet: edelman@wisdom.weizmann.ac.il
+Dept. of Applied Mathematics and Computer Science
+The Weizmann Institute of Science
+Rehovot 76100, ISRAEL
+

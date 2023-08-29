@@ -1,0 +1,222 @@
+\begin{thebibliography}{10}
+
+Y.~Amit and K.~Manbeck.
+\newblock Deformable template models for emission tomography.
+\newblock {\em IEEE Transactions on Medical Imaging}, 12:260--268, June 1993.
+
+B.~Bai, Q.~Li, C.~Holdsworth, E.~Asma, Y.~Tai, A.~Chatziioannou, and R.~Leahy.
+\newblock Model-based normalization for iterative 3{D} pet image
+  reconstruction.
+\newblock {\em Phys Med Biol}, 4(47):2773--8, 2002.
+
+X.~Battle, Y.~Bizais, C.~le~Rest, A.~Turzo, and K.~Hanson.
+\newblock Tomographic reconstruction using free-form deformation models.
+\newblock {\em Proc. SPIE Medical Imaging: Image Processing}, 3661:356--367,
+  1999.
+
+X.~Battle, G.~Cunningham, and K.~Hanson.
+\newblock 3{D} tomographic reconstruction using geometric models.
+\newblock {\em Proceedings SPIE}, 3034:346--357, 1997.
+
+X.~Battle, G.~Cunningham, and K.~Hanson.
+\newblock Tomographic reconstruction using 3{D} deformable models.
+\newblock {\em Phys. Med. Biol.}, 43:983--990, 1998.
+
+J.~Besag.
+\newblock On the statistical analysis of dirty pictures.
+\newblock {\em Journal of the Royal Statistical Soc.B}, 48(3), 1986.
+
+C.~A. Bouman and K.~Sauer.
+\newblock A generalized gaussian image model for edge-preserving map
+  estimation.
+\newblock {\em IEEE Trans. on Image Processing}, 2(3):296--310, July 1993.
+
+C.~A. Bouman and K.~Sauer.
+\newblock A unified approach to statistical tomography using coordinate decent
+  optimization.
+\newblock {\em IEEE Trans. on Image Processing}, 5(3):480--492, March 1996.
+
+J.~G. Brankov, Y.~Yang, and M.~N. Wernick.
+\newblock Tomographic image reconstruction using content-adaptive mesh
+  modeling.
+\newblock {\em IEEE ICIP}, pages 7--10, Oct. 2001.
+
+Y.~Bresler, J.~A. Fessler, and A.~Macovski.
+\newblock A bayesian approach to reconstruction from incomplete projections of
+  a multiple object 3{D} domain.
+\newblock {\em IEEE Trans. PAMI}, 11(8):840--858, 1989.
+
+Y.~Bresler and A.~Macovski.
+\newblock 3-d reconstruction from projections based on dynamic object models.
+\newblock {\em Proc. IEEE int. Conf. Acoust. Speech and Sig. Proc.}, pages
+  12A.1.1--12A.1.4, March 1984.
+
+Y.~Bresler and A.~Macovski.
+\newblock 3{D} reconstruction from projections with incomplete and noisy data
+  by object estimation.
+\newblock {\em IEEE Trans. Acoust., Speech, Signal Processing},
+  ASSP-35(1):1139--1152, Aug. 1987.
+
+G.~S. Cunningham, K.~M. Hanson, and X.~L. Battle.
+\newblock Three-dimensional reconstructions from low-count spect data using
+  deformable models.
+\newblock {\em IEEE NSS Medical Imaging Conf.}, pages 1469--1474, 1998.
+
+O.~Dorn, E.~Miller, and C.~Rappaport.
+\newblock A shape reconstruction method for electromagnetic tomography using
+  adjoint fields and level sets.
+\newblock {\em Inverse Problems}, 16:1119--1156, 2000.
+
+V.~Elangovan and R.~T. Whitaker.
+\newblock From sinograms to surfaces: {A} direct approach to the segmentation
+  of tomographic data.
+\newblock {\em IJCV}, 29(3):203--231, 1998.
+
+H.~Feng.
+\newblock {\em Image Reconstruction using Object-Based Regularization and
+  Tomographic Flow}.
+\newblock PhD thesis, Boston University, October 2000.
+
+H.~Feng, D.~Castanon, and W.~C. Karl.
+\newblock Tomographic reconstruction using curve evolution.
+\newblock {\em Proceedings IEEE Conference Vision Pattern Recognition},
+  1:361--366, 2000.
+
+H.~Feng, D.~A. Castanon, and W.~C. Karl.
+\newblock Underground imaging based on edge-preserving regularization.
+\newblock In {\em Underground Imaging Based on Edge-Preserving Regularization},
+  pages 460--464. Proc. of the IEEE International Conference on Information,
+  Intelligence and Systems, 1999.
+
+J.~A. Fessler and A.~Macovski.
+\newblock Object-based 3{D} reconstruction of arterial trees from magnetic
+  resonance angiograms.
+\newblock {\em IEEE Trans. on Medical Imaging}, 10(1):25--39, 1991.
+
+P.~C. Fishburn, J.~C. Lagarias, J.~A. Reeds, and L.~A. Shepp.
+\newblock Sets uniquely determined by projection i. continuous case.
+\newblock {\em SIAM J. Applied Math.}, 50:288--306, 1990.
+
+K.~Hanson, G.~Cunningham, and R.~McKee.
+\newblock Uncertainty assessment for reconstructions based on deformable
+  models.
+\newblock {\em Int. J. Imaging Syst. Technol.}, 8:506--512, 1997.
+
+K.~M. Hanson.
+\newblock Bayesian reconstruction based on flexible prior models.
+\newblock {\em J. Opt. Soc. Amer. A}, 10:997--1004, 1993.
+\newblock (LA-UR-92-2334).
+
+K.~M. Hanson, G.~S. Cunningham, G.~R.~J. Jr., and D.~R. Wolf.
+\newblock Tomographic reconstruction based on flexible geometric models.
+\newblock {\em ICIP}, 2:145--147, 1994.
+
+G.~Herman.
+\newblock {\em Image Reconstruction from Projections. The Fundamentals of
+  Computerized Tomography}.
+\newblock Academic Press, 1980.
+
+T.~Inouye.
+\newblock Image reconstruction with limited-angle projection data.
+\newblock {\em IEEE Trans.Nucl.Sci.}, NS-26:2666--2669, 1979.
+
+A.~Kak and M.~Slaney.
+\newblock {\em Principles of Computerized Tomographic Imaging}.
+\newblock IEEE Press, New York, 1988.
+
+A.~Lele, S.~Kulkarni, and A.~Willsky.
+\newblock Convex polygon estimation from support line measurements and
+  applications to target reconstruction from laser radar data.
+\newblock {\em Journal of the Optical Society of America A}, 9(10):1693--1714,
+  Oct. 1992.
+
+P.~Milanfar, W.~Karl, and A.~Willsky.
+\newblock A moment-based variational approach to tomographic reconstruction.
+\newblock {\em IEEE Transactions on Image Processing}, 5(3):459--470, 1996.
+
+P.~Milanfar, W.~C. Karl, and A.~S. Willsky.
+\newblock Moment-based geometric image reconstruction.
+\newblock {\em ICIP}, 2:825--829, 1994.
+
+E.~Miller, M.~Kilmer, and C.~Rappaport.
+\newblock A new shape-based method for object localization and characterization
+  from scattered field data.
+\newblock {\em IEEE Transactions on Geoscience and Remote Sensing}, 38(4),
+  2000.
+
+A.~Mohammad-Djafari.
+\newblock Binary polygonal shape image reconstruction from a small number of
+  projections.
+\newblock {\em ELEKTRIK}, 5(1):127--138, 1997.
+
+F.~Natterer.
+\newblock {\em The Mathematics of Computerized Tomography}.
+\newblock Teubner-Wiley, 1986.
+
+M.~Nikolova and A.~Mohammad-Djafari.
+\newblock Eddy current tomography using a binary markov model.
+\newblock {\em Signal Processing}, 49:119--132, 1996.
+
+J.~Prince and A.~Willsky.
+\newblock Hierarchical reconstruction using geometry and sinogram restoration.
+\newblock {\em IEEE Transactions on Image Processing}, 2(3):401--416, 1993.
+
+J.~L. Prince and A.~S. Willsky.
+\newblock Reconstructing convex sets from support line measurements.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  12(3):377--389, 1990.
+
+D.~Rossi and A.~Willsky.
+\newblock Multiresolution markov models for signal and image processing.
+\newblock {\em Trans.Acoust.Speech Sig.Proc.}, 32(4):886--904, 1984.
+
+D.~Rossi, A.~S. Willsky, and D.~M. Spielman.
+\newblock Object shape estimation from tomographic measurements---a performance
+  evaluation.
+\newblock {\em Signal Processing}, 18:63--88, Sept. 1989.
+
+F.~Santosa.
+\newblock A level set approach for inverse problems involving obstacles.
+\newblock {\em European Series in Applied and Industrial Mathematics: Control
+  Optimization and Calculus of Variations}, 1:17--33, 1996.
+
+K.~Sauer and C.~Bouman.
+\newblock A local update strategy for iterative reconstruction from
+  projections.
+\newblock {\em IEEE Trans. on Sig. Proc}, 41(2):534--548, Feb 1993.
+
+K.~Sauer and B.~Liu.
+\newblock Image reconstruction from a limited number of projections using
+  multiple object detection/estimation.
+\newblock {\em Proc.ICASSP '90}, 4:1861--1864, 1990.
+
+C.~Soussen and A.~Mohammad-Djafari.
+\newblock Multiresolution approach to the estimation of the shape of a 3{D}
+  compact object from its radiographic data.
+\newblock {\em SPIE}, 3816:150--160, July 1999.
+
+C.~Soussen and A.~Mohammad-Djafari.
+\newblock Contour-based models for 3{D} binary reconstruction in x-ray
+  tomography.
+\newblock In {\em Bayesian Inference and Maximum Entropy Methods in Sciences
+  and Engineering}. American Institute of Physics (AIP), July 8-13 2000.
+
+N.~Srinivasa, K.~Ramakrishnan, and K.~Rajgopal.
+\newblock Detecting edges from projections.
+\newblock {\em IEEE Transaction on Medical Imaging}, 11(1):76--80, Mar. 1992.
+
+L.~H. Staib and J.~S. Duncan.
+\newblock Model-based deformable surface finding for medical images.
+\newblock {\em IEEE Trans. Medical Imaging}, 15(5):720--731, 1996.
+
+J.~Thirion.
+\newblock Segmentation of tomographic data without image reconstruction.
+\newblock {\em IEEE Transaction on Medical Imaging}, pages 102--110, March
+  1992.
+
+R.~Whitaker, D.~Breen, K.~Museth, and N.~Soni.
+\newblock Segmentation of biological volume datasets using a level set
+  framework.
+\newblock {\em Volume Graphics 2001}, pages 249--263, 2001.
+
+\end{thebibliography}
