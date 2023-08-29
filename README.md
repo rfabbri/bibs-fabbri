@@ -20,13 +20,16 @@ git push origin master
 
 ## Working
 
-Make a new change, say to REDME.md
+Make a new change, say to `bib/REDME.md`
+First, `cd bib`
 
-### Pushint to upstream
+### Pushing to upstream
 
 gg add README.md
 git commit -am 'minor readme changes'
 git push
+
+Changes are pushed directly to the submodule remote.
 
 ### Pulling from upstream
 
