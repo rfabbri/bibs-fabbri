@@ -2856,3 +2856,263 @@ abstract = {We address the problem of camera motion and 3D structure reconstruct
   year={2014},
   publisher={Elsevier}
 }
+
+@article{Gryaditskaya:Sheffer:etal:TG2020,
+author = {Gryaditskaya, Yulia and H\"{a}hnlein, Felix and Liu, Chenxi and Sheffer, Alla and Bousseau, Adrien},
+title = {Lifting freehand concept sketches into 3D},
+year = {2020},
+issue_date = {December 2020},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {39},
+number = {6},
+issn = {0730-0301},
+url = {https://doi.org/10.1145/3414685.3417851},
+doi = {10.1145/3414685.3417851},
+abstract = {We present the first algorithm capable of automatically lifting real-world, vector-format, industrial design sketches into 3D. Targeting real-world sketches raises numerous challenges due to inaccuracies, use of overdrawn strokes, and construction lines. In particular, while construction lines convey important 3D information, they add significant clutter and introduce multiple accidental 2D intersections. Our algorithm exploits the geometric cues provided by the construction lines and lifts them to 3D by computing their intended 3D intersections and depths. Once lifted to 3D, these lines provide valuable geometric constraints that we leverage to infer the 3D shape of other artist drawn strokes. The core challenge we address is inferring the 3D connectivity of construction and other lines from their 2D projections by separating 2D intersections into 3D intersections and accidental occlusions. We efficiently address this complex combinatorial problem using a dedicated search algorithm that leverages observations about designer drawing pREFERENCES, and uses those to explore only the most likely solutions of the 3D intersection detection problem. We demonstrate that our separator outputs are of comparable quality to human annotations, and that the 3D structures we recover enable a range of design editing and visualization applications, including novel view synthesis and 3D-aware scaling of the depicted shape.},
+journal = {ACM Trans. Graph.},
+month = {nov},
+articleno = {167},
+numpages = {16},
+keywords = {sketching, sketch-based modeling, product design, line drawing, 3D reconstruction}
+}
+
+@article{Rosales:Sheffer:etal:ARbrush:ToG2019,
+author = {Rosales, Enrique and Rodriguez, Jafet and SHEFFER, ALLA},
+title = {SurfaceBrush: from virtual reality drawings to manifold surfaces},
+year = {2019},
+issue_date = {August 2019},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {38},
+number = {4},
+issn = {0730-0301},
+url = {https://doi.org/10.1145/3306346.3322970},
+doi = {10.1145/3306346.3322970},
+abstract = {Popular Virtual Reality (VR) tools allow users to draw varying-width, ribbonlike 3D brush strokes by moving a hand-held controller in 3D space. Artists frequently use dense collections of such strokes to draw virtual 3D shapes. We propose SurfaceBrush, a surfacing method that converts such VR drawings into user-intended manifold free-form 3D surfaces, providing a novel approach for modeling 3D shapes. The inputs to our method consist of dense collections of artist-drawn stroke ribbons described by the positions and normals of their central polylines, and ribbon widths. These inputs are highly distinct from those handled by existing surfacing frameworks and exhibit different sparsity and error patterns, necessitating a novel surfacing approach. We surface the input stroke drawings by identifying and leveraging local coherence between nearby artist strokes. In particular, we observe that strokes intended to be adjacent on the artist imagined surface often have similar tangent directions along their respective polylines. We leverage this local stroke direction consistency by casting the computation of the user-intended manifold surface as a constrained matching problem on stroke polyline vertices and edges. We first detect and smoothly connect adjacent similarly-directed sequences of stroke edges producing one or more manifold partial surfaces. We then complete the surfacing process by identifying and connecting adjacent similarly directed edges along the borders of these partial surfaces. We confirm the usability of the SurfaceBrush interface and the validity of our drawing analysis via an observational study. We validate our stroke surfacing algorithm by demonstrating an array of manifold surfaces computed by our framework starting from a range of inputs of varying complexity, and by comparing our outputs to reconstructions computed using alternative means.},
+journal = {ACM Trans. Graph.},
+month = {jul},
+articleno = {96},
+numpages = {15},
+keywords = {3D drawing, surface modeling, surface reconstruction, virtual reality}
+}
+
+@article{Choi:etal:3Doodle:ACMToG2024,
+author = {Choi, Changwoon and Lee, Jaeah and Park, Jaesik and Kim, Young Min},
+title = {3Doodle: Compact Abstraction of Objects with 3D Strokes},
+year = {2024},
+issue_date = {July 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {43},
+number = {4},
+issn = {0730-0301},
+url = {https://doi.org/10.1145/3658156},
+doi = {10.1145/3658156},
+abstract = {While free-hand sketching has long served as an efficient representation to convey characteristics of an object, they are often subjective, deviating significantly from realistic representations. Moreover, sketches are not consistent for arbitrary viewpoints, making it hard to catch 3D shapes. We propose 3Dooole, generating descriptive and view-consistent sketch images given multi-view images of the target object. Our method is based on the idea that a set of 3D strokes can efficiently represent 3D structural information and render view-consistent 2D sketches. We express 2D sketches as a union of view-independent and view-dependent components. 3D cubic B\'{e}zier curves indicate view-independent 3D feature lines, while contours of superquadrics express a smooth outline of the volume of varying viewpoints. Our pipeline directly optimizes the parameters of 3D stroke primitives to minimize perceptual losses in a fully differentiable manner. The resulting sparse set of 3D strokes can be rendered as abstract sketches containing essential 3D characteristic shapes of various objects. We demonstrate that 3Doodle can faithfully express concepts of the original images compared with recent sketch generation approaches.1},
+journal = {ACM Trans. Graph.},
+month = {jul},
+articleno = {107},
+numpages = {13},
+keywords = {3D sketch lines, 3D strokes, differentiable rendering}
+}
+
+
+@article{Murata:Noshita:3dCurveSketchApplication:Plant2024,
+author = {Hidekazu Murata  and Koji Noshita },
+title = {Three-Dimensional Leaf Edge Reconstruction Combining Two- and Three-Dimensional Approaches},
+journal = {Plant Phenomics},
+volume = {6},
+number = {},
+pages = {0181},
+year = {2024},
+doi = {10.34133/plantphenomics.0181},
+URL = {https://spj.science.org/doi/abs/10.34133/plantphenomics.0181},
+eprint = {https://spj.science.org/doi/pdf/10.34133/plantphenomics.0181},
+abstract = {Leaves, crucial for plant physiology, exhibit various morphological traits that meet diverse functional needs. Traditional leaf morphology quantification, largely 2-dimensional (2D), has not fully captured the 3-dimensional (3D) aspects of leaf function. Despite improvements in 3D data acquisition, accurately depicting leaf morphologies, particularly at the edges, is difficult. This study proposes a method for 3D leaf edge reconstruction, combining 2D image segmentation with curve-based 3D reconstruction. Utilizing deep-learning-based instance segmentation for 2D edge detection, structure from motion for estimation of camera positions and orientations, leaf correspondence identification for matching leaves among images, and curve-based 3D reconstruction for estimating 3D curve fragments, the method assembles 3D curve fragments into a leaf edge model through B-spline curve fitting. The method's performances were evaluated on both virtual and actual leaves, and the results indicated that small leaves and high camera noise pose greater challenges to reconstruction. We developed guidelines for setting a reliability threshold for curve fragments, considering factors occlusion, leaf size, the number of images, and camera error; the number of images had a lesser impact on this threshold compared to others. The method was effective for lobed leaves and leaves with fewer than 4 holes. However, challenges still existed when dealing with morphologies exhibiting highly local variations, such as serrations. This nondestructive approach to 3D leaf edge reconstruction marks an advancement in the quantitative analysis of plant morphology. It is a promising way to capture whole-plant architecture by combining 2D and 3D phenotyping approaches adapted to the target anatomical structures.}}
+
+
+@article{Rasoulzadeh:etal:CGF2024,
+author = {Rasoulzadeh, S. and Wimmer, M. and Stauss, P. and Kovacic, I.},
+title = {Strokes2Surface: Recovering Curve Networks From 4D Architectural Design Sketches},
+journal = {Computer Graphics Forum},
+volume = {43},
+number = {2},
+pages = {e15054},
+keywords = {CCS Concepts, • Computing methodologies → Artificial intelligence, Computer graphics, Machine learning},
+doi = {https://doi.org/10.1111/cgf.15054},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15054},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.15054},
+abstract = {Abstract We present Strokes2Surface, an offline geometry reconstruction pipeline that recovers well-connected curve networks from imprecise 4D sketches to bridge concept design and digital modeling stages in architectural design. The input to our pipeline consists of 3D strokes' polyline vertices and their timestamps as the 4th dimension, along with additional metadata recorded throughout sketching. Inspired by architectural sketching practices, our pipeline combines a classifier and two clustering models to achieve its goal. First, with a set of extracted hand-engineered features from the sketch, the classifier recognizes the type of individual strokes between those depicting boundaries (Shape strokes) and those depicting enclosed areas (Scribble strokes). Next, the two clustering models parse strokes of each type into distinct groups, each representing an individual edge or face of the intended architectural object. Curve networks are then formed through topology recovery of consolidated Shape clusters and surfaced using Scribble clusters guiding the cycle discovery. Our evaluation is threefold: We confirm the usability of the Strokes2Surface pipeline in architectural design use cases via a user study, we validate our choice of features via statistical analysis and ablation studies on our collected dataset, and we compare our outputs against a range of reconstructions computed using alternative methods.},
+year = {2024}
+}
+
+
+@article{Yu:etal:ToG2022,
+author = {Yu, Emilie and Arora, Rahul and B\ae{}rentzen, J. Andreas and Singh, Karan and Bousseau, Adrien},
+title = {Piecewise-smooth surface fitting onto unstructured 3D sketches},
+year = {2022},
+issue_date = {July 2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {41},
+number = {4},
+issn = {0730-0301},
+url = {https://dYu:etal:oi.org/10.1145/3528223.3530100},
+doi = {10.1145/3528223.3530100},
+abstract = {We propose a method to transform unstructured 3D sketches into piecewise smooth surfaces that preserve sketched geometric features. Immersive 3D drawing and sketch-based 3D modeling applications increasingly produce imperfect and unstructured collections of 3D strokes as design output. These 3D sketches are readily perceived as piecewise smooth surfaces by viewers, but are poorly handled by existing 3D surface techniques tailored to well-connected curve networks or sparse point sets. Our algorithm is aligned with human tendency to imagine the strokes as a small set of simple smooth surfaces joined along stroke boundaries. Starting with an initial proxy surface, we iteratively segment the surface into smooth patches joined sharply along some strokes, and optimize these patches to fit surrounding strokes. Our evaluation is fourfold: we demonstrate the impact of various algorithmic parameters, we evaluate our method on synthetic sketches with known ground truth surfaces, we compare to prior art, and we show compelling results on more than 50 designs from a diverse set of 3D sketch sources.},
+journal = {ACM Trans. Graph. (SIGGRAPH)},
+month = {jul},
+articleno = {88},
+numpages = {16},
+keywords = {VR sketching, sketch-based modeling, surfacing}
+}
+
+@article{Wang:theobalt:etal:Vid2Curve:ToG2020,
+author = {Wang, Peng and Liu, Lingjie and Chen, Nenglun and Chu, Hung-Kuo and Theobalt, Christian and Wang, Wenping},
+title = {Vid2Curve: simultaneous camera motion estimation and thin structure reconstruction from an RGB video},
+year = {2020},
+issue_date = {August 2020},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {39},
+number = {4},
+issn = {0730-0301},
+url = {https://doi.org/10.1145/3386569.3392476},
+doi = {10.1145/3386569.3392476},
+abstract = {Thin structures, such as wire-frame sculptures, fences, cables, power lines, and tree branches, are common in the real world. It is extremely challenging to acquire their 3D digital models using traditional image-based or depth-based reconstruction methods, because thin structures often lack distinct point features and have severe self-occlusion. We propose the first approach that simultaneously estimates camera motion and reconstructs the geometry of complex 3D thin structures in high quality from a color video captured by a handheld camera. Specifically, we present a new curve-based approach to estimate accurate camera poses by establishing correspondences between featureless thin objects in the foreground in consecutive video frames, without requiring visual texture in the background scene to lock on. Enabled by this effective curve-based camera pose estimation strategy, we develop an iterative optimization method with tailored measures on geometry, topology as well as self-occlusion handling for reconstructing 3D thin structures. Extensive validations on a variety of thin structures show that our method achieves accurate camera pose estimation and faithful reconstruction of 3D thin structures with complex shape and topology at a level that has not been attained by other existing reconstruction methods.},
+journal = {ACM Trans. Graph. (SIGGRAPH)},
+month = {aug},
+articleno = {132},
+numpages = {12},
+keywords = {curve reconstruction, delicate structure, image-based reconstruction}
+}
+@article{10.1145/3386569.3392476,
+author = {Wang, Peng and Liu, Lingjie and Chen, Nenglun and Chu, Hung-Kuo and Theobalt, Christian and Wang, Wenping},
+title = {Vid2Curve: simultaneous camera motion estimation and thin structure reconstruction from an RGB video},
+year = {2020},
+issue_date = {August 2020},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {39},
+number = {4},
+issn = {0730-0301},
+url = {https://doi.org/10.1145/3386569.3392476},
+doi = {10.1145/3386569.3392476},
+abstract = {Thin structures, such as wire-frame sculptures, fences, cables, power lines, and tree branches, are common in the real world. It is extremely challenging to acquire their 3D digital models using traditional image-based or depth-based reconstruction methods, because thin structures often lack distinct point features and have severe self-occlusion. We propose the first approach that simultaneously estimates camera motion and reconstructs the geometry of complex 3D thin structures in high quality from a color video captured by a handheld camera. Specifically, we present a new curve-based approach to estimate accurate camera poses by establishing correspondences between featureless thin objects in the foreground in consecutive video frames, without requiring visual texture in the background scene to lock on. Enabled by this effective curve-based camera pose estimation strategy, we develop an iterative optimization method with tailored measures on geometry, topology as well as self-occlusion handling for reconstructing 3D thin structures. Extensive validations on a variety of thin structures show that our method achieves accurate camera pose estimation and faithful reconstruction of 3D thin structures with complex shape and topology at a level that has not been attained by other existing reconstruction methods.},
+journal = {ACM Trans. Graph.},
+month = {aug},
+articleno = {132},
+numpages = {12},
+keywords = {curve reconstruction, delicate structure, image-based reconstruction}
+}
+
+@InProceedings{Tsalicoglou:Rosgen:CVPR2022,
+    author    = {Tsalicoglou, Christina and R\"osgen, Thomas},
+    title     = {Using 3D Topological Connectivity for Ghost Particle Reduction in Flow Reconstruction},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {1839-1847}
+}
+
+@ARTICLE{Yu:Kneip:etal:IEEAccess:2020,
+  author={Yu, Peihong and Wang, Cen and Wang, Zhirui and Yu, Jingyi and Kneip, Laurent},
+  journal={IEEE Access}, 
+  title={Accurate Line-Based Relative Pose Estimation With Camera Matrices}, 
+  year={2020},
+  volume={8},
+  number={},
+  pages={88294-88307},
+  keywords={Cameras;Tensors;Three-dimensional displays;Pipelines;Geometry;Visual odometry;Pose estimation;Light-field cameras;multi-camera arrays;plenoptic vision;line features;trifocal tensor;automatic solver generator;Gröbner basis},
+  doi={10.1109/ACCESS.2020.2992505}}
+ 
+
+@misc{Wang:Kneip:Arxiv2018,
+      title={Fully automatic structure from motion with a spline-based environment representation}, 
+      author={Zhirui Wang and Laurent Kneip},
+      year={2018},
+      eprint={1810.12532},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/1810.12532}, 
+}
+
+@article{Hsiao:wire:MVWA:2018,
+ author = {Hsiao, Kai-Wen and Huang, Jia-Bin and Chu, Hung-Kuo},
+ title = {Multi-view Wire Art},
+ journal = {ACM Trans. Graph.},
+ volume = {37},
+ number = {6},
+ year = {2018},
+ pages = {242:1--242:11},
+ articleno = {242},
+ numpages = {11}
+} 
+
+@article{Li:Mitra:etal:Free2CAD:ToG2022,
+author = {Li, Changjian and Pan, Hao and Bousseau, Adrien and Mitra, Niloy J.},
+title = {Free2CAD: parsing freehand drawings into CAD commands},
+year = {2022},
+issue_date = {July 2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {41},
+number = {4},
+issn = {0730-0301},
+url = {https://doi.org/10.1145/3528223.3530133},
+doi = {10.1145/3528223.3530133},
+abstract = {CAD modeling, despite being the industry-standard, remains restricted to usage by skilled practitioners due to two key barriers. First, the user must be able to mentally parse a final shape into a valid sequence of supported CAD commands; and second, the user must be sufficiently conversant with CAD software packages to be able to execute the corresponding CAD commands. As a step towards addressing both these challenges, we present Free2CAD wherein the user can simply sketch the final shape and our system parses the input strokes into a sequence of commands expressed in a simplified CAD language. When executed, these commands reproduce the sketched object. Technically, we cast sketch-based CAD modeling as a sequence-to-sequence translation problem, for which we leverage the powerful Transformers neural network architecture. Given the sequence of pen strokes as input, we introduce the new task of grouping strokes that correspond to individual CAD operations. We combine stroke grouping with geometric fitting of the operation parameters, such that intermediate groups are geometrically corrected before being reused, as context, for subsequent steps in the sequence inference. Although trained on synthetically-generated data, we demonstrate that Free2CAD generalizes to sketches created from real-world CAD models as well as to sketches drawn by novice users.Code and data are at https://github.com/Enigma-li/Free2CAD.},
+journal = {ACM Trans. Graph.},
+month = {jul},
+articleno = {93},
+numpages = {16},
+keywords = {transformer, sketch, procedural modeling, CAD modeling}
+}
+
+@article{Hahnlein:Mitra:etal:ToG2022, author = {H\"{a}hnlein, Felix and Li, Changjian and Mitra, Niloy J. and Bousseau, Adrien}, title = {CAD2Sketch: Generating Concept Sketches from CAD Sequences}, year = {2022}, issue_date = {December 2022}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, volume = {41}, number = {6}, issn = {0730-0301}, url = {https://doi.org/10.1145/3550454.3555488}, doi = {10.1145/3550454.3555488}, abstract = {Concept sketches are ubiquitous in industrial design, as they allow designers to quickly depict imaginary 3D objects. To construct their sketches with accurate perspective, designers rely on longstanding drawing techniques, including the use of auxiliary construction lines to identify midpoints of perspective planes, to align points vertically and horizontally, and to project planar curves from one perspective plane to another. We present a method to synthesize such construction lines from CAD sequences. Importantly, our method balances the presence of construction lines with overall clutter, such that the resulting sketch is both well-constructed and readable, as professional designers are trained to do. In addition to generating sketches that are visually similar to real ones, we apply our method to synthesize a large quantity of paired sketches and normal maps, and show that the resulting dataset can be used to train a neural network to infer normals from concept sketches.1}, journal = {ACM Trans. Graph.}, month = {nov}, articleno = {279}, numpages = {18}, keywords = {computer-aided design, industrial design, line drawing, non-photorealistic rendering, sketch-based modeling, sketching} }
+
+
+% line-based wireframe detection/matching
+@phdthesis{Menke:PhD2022,
+    Author= {Menke, Joseph},
+    Title= {Towards Ubiquitous Augmented Reality in Structured Environments},
+    School= {EECS Department, University of California, Berkeley},
+    Year= {2022},
+    Month= {Dec},
+    Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-237.html},
+    Number= {UCB/EECS-2022-237},
+    Abstract= {Augmented reality has incredible potential to change the way we interact with information. Smart mobile devices have enabled us to be constantly connected to an ever expanding source of information known as the internet. Augmented Reality devices can present a method for organizing this information and ensure that relevant information is present in the location where it is most useful. Similarly, the spatial organization of information alongside physical objects can present new forms of creativity and artistry. These devices use computer vision algorithms to understand the structure of objects in the world as well as the devices' location relative to these objects. This understanding is used to display virtual objects in such a way as to appear present in the physical world. While these algorithms present a viable solution in many situations, they still have many failure cases that can prevent the ubiquitous adoption of these devices. 
+
+This thesis discusses methods for improving the localization and mapping capabilities of these Augmented Reality devices by exploiting the structure that is present in many man-made environments. A discussion of some open problems in augmented reality is presented in the context of the open source package OpenARK. The remainder of thesis discusses methods for improving localization and mapping and 3D reconstruction. A method is presented for incorporating planar structures from a Time of Flight depth sensor into a state of the art Visual Inertial Odometry algorithm. This algorithm is demonstrated to improve localization accuracy in low light and low texture environments and maintain realtime performance on a mobile device with limited Time of Flight depth sensing range and limited compute resources. A method is presented for enabling the realtime matching of image wireframes. Image wireframes represent the junctions, lines and intersection relationships that form the structure of the scene. This algorithm exploits these relationships to improve the matching of image wireframes beyond standard feature matching. This method is further demonstrated to be capable of exploiting the additional constraints introduced by multiple cameras.},
+}
+
+
+% Better: Matthew J. Leotta, Joseph L. Mundy: Vehicle Surveillance with a Generic, Adaptive, 3D Vehicle Model. IEEE Trans. Pattern Anal. Mach. Intell. 33(7): 1457-1469 (2011)
+@INPROCEEDINGS{Leotta:Mundy:CVPR2009,
+  author={Leotta, Matthew J. and Mundy, Joseph L.},
+  booktitle={2009 IEEE Conference on Computer Vision and Pattern Recognition}, 
+  title={Predicting high resolution image edges with a generic, adaptive, 3-D vehicle model}, 
+  year={2009},
+  volume={},
+  number={},
+  pages={1311-1318},
+  keywords={Image resolution;Vehicles;Predictive models},
+  doi={10.1109/CVPR.2009.5206738}}
+
+@article{Leotta:Mundy:PAMI2011,
+  author       = {Matthew J. Leotta and
+                  Joseph L. Mundy},
+  title        = {Vehicle Surveillance with a Generic, Adaptive, 3D Vehicle Model},
+  journal      = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
+  volume       = {33},
+  number       = {7},
+  pages        = {1457--1469},
+  year         = {2011},
+  url          = {https://doi.org/10.1109/TPAMI.2010.217},
+  doi          = {10.1109/TPAMI.2010.217},
+  timestamp    = {Wed, 14 Nov 2018 10:51:23 +0100},
+  biburl       = {https://dblp.org/rec/journals/pami/LeottaM11.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
